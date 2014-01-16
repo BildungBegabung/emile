@@ -1,7 +1,24 @@
-Schule der Demokratie — Deliberative Politik und Inklusive Pädagogik
+#Schule der Demokratie — Deliberative Politik und Inklusive Pädagogik
 
+## Begriffsbingo
+
+                     _empirisch_           _normativ_           _ontologisch_
+*Autonomie*                                     X
+*inh. Gleichheit*                               X
+*emp. Gleichheit*         X                     
+**
+*Zusammenleben*                                                         X
+*Umwelt*
+
+#Kursbeschreibung
 Der Kurs führt ein in einen zentralen Konflikt von Pädagogik und politischer Theorie: 
 den Widerspruch und die wechselseitige Bedingtheit von Gleichheit und Differenz, Autonomie und Teilhabe.
+
+<!---
+so geht ein Kommentar (frickelig)
+-->
+
+
 
 Alle Menschen sind gleich und sie sind verschieden. 
 Diese scheinbar banale Feststellung stellt die Pädagogik vor grundlegende Fragen:
