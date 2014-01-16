@@ -1,0 +1,2 @@
+Verena Kasztantowicz (Jg. 1988) studierte an der Universität Trier und an der Humboldt-Universität zu Berlin und schloss ihr Studium Anfang 2014 in den Fächern Französisch und Grundschulpädagogik mit dem Master of Education ab.Angetrieben von der Frage, "Was ist eine gute Schule?" arbeitete und unterrichtete sie als Tutorin und beschäftigte sich vertieft mit den Themen Inklusion und Reformpädagogik. 
+Daneben zählen Literatur Tanzen zu ihren Leidenschaften.
