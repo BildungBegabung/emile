@@ -1,0 +1,2 @@
+Maximilian Held (Jg. 1983) forscht als Doktorand der Sozialwissenschaften an der Bremen International Graduate School of Social Sciences über progressive Steuerreform und deliberative Demokratie.
+Er bloggt, Science-slamt und redet leidenschaftlich gern über Politisches, spielt gelegentlich Geige, singt (Karaoke), verbringt viel Zeit auf dem Rad und zuviel vor dem Computer. SchülerAkademie in Braunschweig gehört für Maximilian zu einem guten Sommer dazu.

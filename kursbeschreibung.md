@@ -1,26 +1,51 @@
-Schule der Demokratie —- 
-Deliberative Politik und Inklusive Pädagogik
-Kursplanung Demokratie/Schule
+##Schule der Demokratie — Deliberative Politik und Inklusive Pädagogik
 
-#Kursskizze
-Der Kurs "Schule der Demokratie (...)" führt ein in einen zentralen Konflikt von Pädagogik und politischer Theorie; den vielfältigen Widerspruch und die wechselseitige Bedingtheit von autonomer und gleicher Teilhabe.
 
-Für die Pädagogik (und in besonderem Maße die Schulpädagogik) ist dieser Konflikt gewissermaßen konstitutiv: 
-Einerseits muss angesichts der ungleichen physischen, psychischen, sozialen und kulturellen Voraussetzungen und damit  auch ungleichen Teilhabemöglichkeiten von Kindern und Jugendlichen, speziell gefördert werden, andererseits ist die Schule zu Einheitlichkeit und Gleichbehandlung verpflichtet. 
-Dieses strukturelle Paradox (der Umgang mit Gleichheit und Differenz) wird besonders in der Inklusions- und Integrationspädagogik deutlich.
+###Tabellarische Übersicht von zentralen Begriffen
 
-Für die politische Theorie sind inhärente Gleichheit und personale Autonomie ebenfalls zentrale Kategorien; nur in der Schnittmenge dieser Gebote rechtfertigt sich Demokratie (etwa Dahl 1989).  
-Auch hier stehen allerdings in der konkreten Gestaltung demokratischer Institutionen die beiden Werte im Konflikt: 
-Etwa in der Wahl eines Wahlsystems (etwa Lijphart 1999) oder der Formulierung von Freiheitsrechten (etwa Rawls 1970). 
-Zudem dokumentiert die jüngere politische Psychologie (etwa Converse 1970) empirisch die demokratisch relevante Ungleichheit von Bürgern.
+                    | *Empirisch*   | *Normativ* | *Ontologisch*
+-------------       | ------------- | -----      | ---
+Autonomie           | gegeben?      | x          | 
+Gleichheit          | gegeben?      | x          | 
+Zusammenleben       |               |            | x
+Anpassung an Umwelt |               |            | x
 
-Der Kurs zeichnet zunächst anhand von Primärtexten die Ideengeschichte der Pädagogik und politischen Theorie der Moderne nach, beginnend von einem gemeinsamen Ausgangspunkt, dem Sozialphilosophen Jean-Jacques Rousseau, der neben einer Abhandlung über die Ungleichheit (!) mit "Émile" (1762) und dem "Contract Social" (1764) die Grundlagentexte für Pädagogik und politische Theorie liefert und -- auch durch ihr Scheitern und romantische Verklärung -- viele Widersprüche des 19. und 20. Jahrhunderts vorweg nimmt.
-Aus der Politikwissenschaft beinhaltet der Kurs einen Abriss der Staatsgenese (Tilly 1984, Marshall 1980) sowie liberaler normativer Theorie (Rawls, Dahl) und vergleichende Systemlehre (Lijphart). 
-Anschließend werden zentrale Widersprüche (Condorcet, Arrow) und Dysfunktionen (Tsebelis) der repräsentativen Demokratie beleuchtet, und -- teilweise als Antwort darauf -- eine alternative, deliberative Theorie der Demokratie in den Blick genommen (Cohen 1989).
-Aus der Pädagogik beinhaltet der Kurs eine historische Beschreibung der industriell geprägten Schule ("Fordismus") sowie grundlegenden Autoren, insbesondere der "american progressives" (Dewey, Pierce) und der pädagogischen (Entwicklungs)psychologie (Kohlberg). 
-Anschließend werden -- teilweise als Reaktion auf eine fordistische oder nationale Schulpraxis -- ausgewählte alternative (Freinet) und Reformpädagogen in den Blick genommen und aktuelle Verschreibungen integrative, dann inklusive Pädagogik vorgestellt.
 
-Im Folgenden identifiziert der Kurs -- im Rückgriff auf Rousseau -- in Ideengeschichte und aktuellen Vorschlägen die anhaltenden wie gemeinsamen Widersprüche von Autonomie und Gleichheit, und untersuchen inklusive Pädagogik (Peschel) und deliberative Demokratie (Habermas) empirisch und theoretisch auf ihre Eignung, eine neue, fortschrittliche Balance dieser Werte zu finden.
+### 350 Zeichen
 
-Abschließend untersucht der Kurs eine radikale Synthese der beiden Bezugsdisziplinen Pädagogik und politischer Theorie, und damit, der Revision humanistischer Erziehung und liberaler Theorie, nämlich, dass die inklusive Schule eine demokratische Schule sein müsse (Prengel, Zimpel) und deliberative Demokratie gleichermaßen der operativen Metaphor der Schule folgen solle (Rosenberg 2002). 
-Der Kurs identifiziert damit Autonomie unter Ungleichheit als zentrale Kategorie moderner Gesellschaft und konstitutiver Herausforderung ihrer Gegenwart.
+Der Kurs führt ein in einen zentralen Konflikt von Pädagogik und politischer Theorie: 
+den Widerspruch und die wechselseitige Bedingtheit von Gleichheit, Differenz, Autonomie im menschlichen Zusammenleben.
+Im Vergleich beider Disziplinen zeigen sich erstaunliche Parallelen, die vertieft anhand von Inklusionspädagogik und deliberativer Demokratie nachgezeichnet werden.
+
+
+### 3000 Zeichen
+
+Der Kurs erarbeitet einen zentralen Konflikt aus Pädagogik und politischer Theorie: 
+den Widerspruch und die wechselseitige Bedingtheit von Gleichheit und Autonomie im menschlichen Zusammenleben.
+
+<!---so geht übrigens ein ein Kommentar (frickelig)-->
+
+So fragt die *Pädagogik*:
+Wenn alle Schüler gleich (aber verschieden) sein *sollen*, jedoch etwa hinsichtlich ihres Geschlechts oder körperlichen und geistigen Voraussetzungen *ungleich* im Klassenzimmer eintreffen, wie kann die Schule sie dann zum *selbstbestimmten* Zusammenleben *erziehen* (etwa Dewey 1916)?
+
+> “Die Schule der Nation ist die Schule.”
+> Willy Brandt (1969)
+
+Ähnlich fragt die *politische Theorie*: 
+Wenn alle Bürger inhärent gleich und persönlich autonom sein *sollen* (etwa Dahl 1989), allerdings etwa hinsichtlich ihrer kognitiven Fähigkeiten (Rosenberg 2007), ihres Wissens (etwa Converse 1970) oder ihrer Sprache unterschiedlich an der Wahlurne eintreffen, welche demokratischen Institutionen können dann die Selbstbestimmung unter Gleichen garantieren?
+
+>"A popular government, without popular information or the means of acquiring it, is but a prologue to a farce or a tragedy, or perhaps both."
+>James Madison (1822)
+
+Einen gemeinsamen Ausgangspunkt bietet der Sozialphilosoph Jean-Jacques Rousseau bietet mit "Émile" (1762) und dem "Contract Social" (1764) die  -- auch durch ihr Scheitern und ihre romantische Verklärung -- viele Debatten des 19. und 20. Jahrhunderts vorwegnehmen.
+Aus der Pädagogik werden zum einen mithilfe von Lern- und Entwicklungstheorien Bedingungen und Funktionen menschlicher Kooperation (Kohlberg, Wocken, Zimpel) und individueller Lernprozesse (Piaget, Wygotzky, Dewey) betrachtet.
+Die Erkenntnisse daraus werden zum Anderen mit historischen und aktuellen Beispielen schulischer Umsetzung verglichen, etwa in freien demokratischen Schulen und Konzepten aus der Inklusions- bzw. Integrationspädagogik (Neill 1960, Gribble 1998, Peschel 2006, Schöler 2009).
+Aus der Politikwissenschaft beinhaltet der Kurs einen Abriss der Staatsgenese (Tilly 1984, Marshall 1980) sowie liberaler normativer Theorie (Rawls, Dahl). 
+Anschließend werden zentrale Widersprüche (Condorcet, Arrow) und Dysfunktionen (Tsebelis) der aggregativen Demokratie beleuchtet, und - teilweise als Antwort darauf - eine alternative, deliberative Theorie der Demokratie in den Blick genommen (Cohen 1989).
+
+Abschließend versucht der Kurs eine radikale Synthese der beiden Bezugsdisziplinen Pädagogik und politischer Theorie, nämlich, dass die inklusive Schule eine demokratische Schule sein müsse (Feuser 2001) und deliberative Demokratie gleichermaßen der operativen Metaphor der Schule folgen solle (Rosenberg 2002). 
+
+
+#### Anforderungen
+
+Teilnehmende sollten bereit sein, (zum Teil englische) Fach- und Primärtexte zu erarbeiten, professionelle Computerprogramme zu erlernen (LaTeX und Git) und Lust auf kontroverse, aber stets theoriegeleitete Diskussionen mitbringen.
