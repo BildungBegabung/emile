@@ -251,7 +251,6 @@ DocProject/Help/*.HxT
 $RECYCLE.BIN/
 *.synctex.gz(busy)
 # Folder config file
-######################
 sql/
 *.sbr
 # Installshield output folder
