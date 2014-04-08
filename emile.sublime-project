@@ -2,10 +2,6 @@
 	"folders":
 	[
 		{
-			"file_exclude_patterns":
-			[
-				"vbt.synctex.gz"
-			],
 			"follow_symlinks": true,
 			"path": "."
 		}
