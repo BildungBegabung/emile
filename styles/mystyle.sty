@@ -1,0 +1,51 @@
+\ProvidesPackage{./styles/mystyle}
+\usepackage[pdftex]{graphicx}
+	%several packages
+	\graphicspath{{img/}}
+%Math stuff
+	\usepackage{amsthm}
+		%for theorems
+		\theoremstyle{plain}
+		\newtheorem{desideratum}{Desideratum}
+	\usepackage{amsmath}
+		%for AMS math stuff
+	\usepackage{amssymb}
+		%math and other symbols
+\usepackage{soul}
+	%for strikethrough and other typographic niceties
+\usepackage[table,pdftex,hyperref,fixpdftex,dvipsnames]{xcolor}
+\usepackage{pdflscape}
+	%Package pdﬂscape adds PDF support to the environment landscape of package lscape by setting the PDF page attribute /Rotate.
+\usepackage{dialogue}
+\usepackage[ngerman,american]{babel}
+	%language support, first language can also be called
+\usepackage[utf8]{inputenc}
+\usepackage[comma,sort]{natbib}
+	% better references
+	\bibpunct[:~]{(}{)}{;}{a}{}{,} %http://merkel.zoneo.net/Latex/natbib.php
+\usepackage[gen]{eurosym}%official euro symbol
+\usepackage{multirow}
+	%well, multirows
+\usepackage{tabu}
+	%supposedly replaces \usepackage{tabularx},\usepackage{longtable}
+\usepackage{booktabs}
+	%for much better looking tables
+\usepackage{paralist}
+	%very flexible & customisable lists (eg. enumerate/itemize, etc.), including inparaenum
+%Adjust toc
+	\setcounter{secnumdepth}{3}
+	\setcounter{tocdepth}{1}
+\usepackage[pdfusetitle]{hyperref} %should be loaded last so as to overwrite other packages
+	\hypersetup{
+		colorlinks=true, %make this false for b/w
+		linkcolor=ForestGreen,
+		citecolor=blue,
+		filecolor=ForestGreen,
+		urlcolor=ForestGreen,
+	}
+	\usepackage[all]{hypcap} %to make sure that refs hyperlink to the beginning, not end of floats}
+\usepackage[acronym,xindy,toc]{glossaries}
+	%other options: xindy, toc, nonumberlist
+\pdfoptionpdfminorversion 6
+	%some stupid thing because otherwise, latex creates a warning about too new included pdfs created by keynote.
+	\makeglossaries
