@@ -13,6 +13,8 @@
 
 Vergleiche auch Darstellung von Förderschule, Pluralismus und Deliberation/Inklusion als Produktionsmöglichkeitenkurve.
 
+
+
 # Kurspräsentation
 
 1. Warum *inklusive Pädagogik* & *deliberative Demokratie*?
@@ -28,6 +30,7 @@ Vergleiche auch Darstellung von Förderschule, Pluralismus und Deliberation/Inkl
    - Protokolle (jeweils von anderem Thema & Fach)
 7. Pärchen [Verena]
 
+
 ## Feedback zur Kurspräsentation
 
 - zu viele Texte?
@@ -35,19 +38,3 @@ Vergleiche auch Darstellung von Förderschule, Pluralismus und Deliberation/Inkl
 - Das Experiment birgt Risiken
 - Achtung: Die Doku-Arbeit sollte nicht in zu viel Meta-Arbeit entarten
 - 
-
-
-## Todos
-
-[] Prepare LaTeX & Git KüA, ggfs. mit anderer KL
-[] Physiker um Literaturliste bitten
-Todo: Fotoplan/social network machen
-(runterladen erst später)
-
-
-##
-
-Science vs Symtpoms
-fleck: Wissenschaftliche Tatsache
-
-
