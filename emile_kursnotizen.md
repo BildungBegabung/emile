@@ -14,7 +14,6 @@
 Vergleiche auch Darstellung von Förderschule, Pluralismus und Deliberation/Inklusion als Produktionsmöglichkeitenkurve.
 
 
-
 # Kurspräsentation
 
 1. Warum *inklusive Pädagogik* & *deliberative Demokratie*?
