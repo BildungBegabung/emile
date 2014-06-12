@@ -1,2 +1,18 @@
 
 *.sublime-workspace
+
+*.gz
+
+Output/2014-04-willkommen.pdf
+
+*.out
+
+*.log
+
+*.fls
+
+*.fdb_latexmk
+
+*.aux
+
+.DS_Store
