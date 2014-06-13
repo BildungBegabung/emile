@@ -1,3 +1,4 @@
+# Headline
 
 Anamnese = rechtliche Bedingungen (UN-Behindertenrechtskonvention, KMK-Beschluss)
 Problembericht (z.B. Deppe-Wolfinger > bessere finden, 3 S. Korszak 16 S.) am besten mit Geschichte der Integrations- und Inklusionspädagogik (z.B. Wocken 14 S., Reader nachschauen)
@@ -13,12 +14,12 @@ Dewey 15 S.
 
 Diskussion Rousseauaner vs. Deweyisten
 
-statt Antworten sollten hier Probleme, Fragen gefunden werden, z.B. 
+statt Antworten sollten hier Probleme, Fragen gefunden werden, z.B.
 - Wie kann zwischen sozialem und individuellem vermittelt werden(Fragen der Sozialisation und der allg. Pädagogik)?
 - Sind Menschen überhaupt in der Lage, demokratisch zusammen zu lernen (Frage der Psychologie und der Pädagogik)?
 - Wie kann ein Unterricht auf Vielfalt reagieren, d.h.:  Welche Inhalte und welche Sozialformen sind unter Heterogenität überhaupt möglich (Frage der Didaktik und der Schulpraxis)?
 
-Fragen der Sozialisation und Persönlichkeitsentwicklung 
+Fragen der Sozialisation und Persönlichkeitsentwicklung
 Kasztantowicz 6 S.
 G.H. Mead (Symbolischer Interaktionismus)
 Prengel (ca. 4 S. je nachdem welcher Text)
@@ -42,7 +43,7 @@ Kron o.a. 7 S. (Inklusionstext)
 Zeit
 15 Einheiten à 1,5h
 
-Fr 
+Fr
 1,5h (Rechtliche Grundlagen, Problematisierung)
 Technik
 
@@ -75,7 +76,7 @@ Fr
 Rotationsvorbereitung
 
 Sa
-Rotation 
+Rotation
 Rotationsnachbesprechung
 
 So
@@ -94,7 +95,7 @@ Mi
 Projekt
 Projekt
 
-Do 
+Do
 Projekt
 Projekt
 
