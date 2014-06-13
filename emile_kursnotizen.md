@@ -36,4 +36,3 @@ Vergleiche auch Darstellung von Förderschule, Pluralismus und Deliberation/Inkl
 - "Schule der Demokratie" könnte im Sinne einer Staatsbürgerkunde oder sogar demokratischen Umerziehung (De-Nazifizierung) missverstanden werden.
 - Das Experiment birgt Risiken
 - Achtung: Die Doku-Arbeit sollte nicht in zu viel Meta-Arbeit entarten
-- 
