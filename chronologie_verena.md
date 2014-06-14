@@ -1,20 +1,23 @@
 
 Anamnese = rechtliche Bedingungen (UN-Behindertenrechtskonvention, KMK-Beschluss)
 Problembericht (z.B. Deppe-Wolfinger > bessere finden, 3 S. Korszak 16 S.) am besten mit Geschichte der Integrations- und Inklusionspädagogik (z.B. Wocken 14 S., Reader nachschauen)
+Noch ein besserer Einstiegstext, der Demokratie und Inklusion verknüpft und gleichzeitig die derzeitige Situation beschreibt?
+Ohrenkuss? Schülerschule?
 
+Wie ist die aktuelle Situationen zwischen Menschen mit unterschiedlichen Voraussetzungen (Bsp. Behinderung, Generationen, ...)?
 Frage Wie soll eine demokratische Schule aussehen?
-*1 Einheit*
+*1 Einheit* könnten auch ruhig 2 Einheiten sein
 
 Klassiker demokratischer Erziehungsvorschläge
 Rousseau 9 S.
 Dewey 15 S.
-(Korszak?)
+(Korszak - weiter mitdenken)
 *3 Einheiten*
 
 Diskussion Rousseauaner vs. Deweyisten
 
 statt Antworten sollten hier Probleme, Fragen gefunden werden, z.B. 
-- Wie kann zwischen sozialem und individuellem vermittelt werden(Fragen der Sozialisation und der allg. Pädagogik)?
+- Wie kann zwischen sozialem und individuellem vermittelt werden (Fragen der Sozialisation und der allg. Pädagogik)?
 - Sind Menschen überhaupt in der Lage, demokratisch zusammen zu lernen (Frage der Psychologie und der Pädagogik)?
 - Wie kann ein Unterricht auf Vielfalt reagieren, d.h.:  Welche Inhalte und welche Sozialformen sind unter Heterogenität überhaupt möglich (Frage der Didaktik und der Schulpraxis)?
 
@@ -26,6 +29,8 @@ Prengel (ca. 4 S. je nachdem welcher Text)
 
 Fragen der Psychologie
 Kohlberg: Stufen der Moralischen Entwicklung
+(kleiner Text zur Lerntheorie? Piaget, ...)
+Konstruktivismus
 *2 Einheiten*
 
 Fragen der Didaktik
@@ -34,7 +39,7 @@ Zimpel 10 oder 16 S. (beide Kooperation)
 Klafki 10 S. (Inhalte)
 Freinet 19 S.
 Boban - Sicht der SchülerInnen 7 S.
-Filmausschnitte (beide Schulpraxsis)
+Filmausschnitte (beide Schulpraxis)
 Kron o.a. 7 S. (Inklusionstext)
 
 *4 Einheiten*
