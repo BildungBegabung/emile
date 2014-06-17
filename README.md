@@ -1,3 +1,5 @@
+[![Build Status](https://www.gitbook.io/button/status/book/maxheld/emile)](https://www.gitbook.io/book/maxheld/emile/activity)
+
 # Kursbeschreibung
 
 Der Kurs erarbeitet einen zentralen Konflikt aus Pädagogik und politischer Theorie:
