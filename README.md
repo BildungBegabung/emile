@@ -37,6 +37,6 @@ Teilnehmende sollten bereit sein, (zum Teil englische und französische) Fach- u
 
 # Weitere Links
 
-- [Diese Internetseite (Landing Page)]()
+- [Diese Internetseite (Landing Page)](http://bildungbegabung.github.io/emile)
 - [Github Repository "Emile"](https://github.com/BildungBegabung/emile)
-- [Fertiges Gitbook von "Emile"]()
+- [Fertiges Gitbook von "Emile"](https://www.gitbook.io/book/maxheld/emile)
