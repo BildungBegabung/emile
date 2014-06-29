@@ -6,6 +6,9 @@
 Der Kurs erarbeitet einen zentralen Konflikt aus Pädagogik und politischer Theorie:
 den Widerspruch und die wechselseitige Bedingtheit von Gleichheit und Autonomie im menschlichen Zusammenleben.
 
+![Kinder spielen im Schatten](https://raw.githubusercontent.com/BildungBegabung/emile/master/img/circle-shadows.jpg "asd")
+
+
 So fragt die *Pädagogik*:
 Wenn alle Schüler gleich (aber verschieden) sein *sollen*, jedoch etwa hinsichtlich ihres Geschlechts oder ihrer körperlichen und geistigen Voraussetzungen *ungleich* im Klassenzimmer agieren, wie kann die Schule sie dann zum *selbstbestimmten* Zusammenleben *erziehen* (etwa Dewey 1916)?
 
@@ -30,3 +33,10 @@ Abschließend versucht der Kurs eine radikale Synthese der beiden Bezugsdiszipli
 ## Anforderungen
 
 Teilnehmende sollten bereit sein, (zum Teil englische und französische) Fach- und Primärtexte zu erarbeiten, professionelle Computerprogramme zu erlernen (LaTeX und Git) und Lust auf kontroverse, aber stets theoriegeleitete Diskussionen mitbringen.
+
+
+# Weitere Links
+
+- [Diese Internetseite (Landing Page)]()
+- [Github Repository "Emile"](https://github.com/BildungBegabung/emile)
+- [Fertiges Gitbook von "Emile"]()
