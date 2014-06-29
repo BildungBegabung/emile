@@ -1,15 +1,18 @@
 [![Build Status](https://www.gitbook.io/button/status/book/maxheld/emile)](https://www.gitbook.io/book/maxheld/emile/activity)
 
+# Über
+
+[Emile](http://bildungbegabung.github.io/emile/) ist ein Kurs von [Verena Kasztantowicz](https://gsp.hu-berlin.de/mitarbeiterinnen/lb-deutsch/v.-kasztantowicz) und [Maximilian Held](http://www.maxheld.de) bei der [Deutschen SchülerAkademie](https://www.deutsche-schuelerakademie.de) 2014-2 in Braunschweig.
+
 
 # Kursbeschreibung
 
-Der Kurs erarbeitet einen zentralen Konflikt aus Pädagogik und politischer Theorie:
+Der Kurs "Schule der Demokratie – Deliberative Politik und Inklusive Pädagogik" (kurz: `emile`) erarbeitet einen zentralen Konflikt aus Pädagogik und politischer Theorie:
 den Widerspruch und die wechselseitige Bedingtheit von Gleichheit und Autonomie im menschlichen Zusammenleben.
 
 ![Kinder spielen im Schatten](https://raw.githubusercontent.com/BildungBegabung/emile/master/img/circle-shadows.jpg "asd")
 
-
-So fragt die *Pädagogik*:
+Die die *Pädagogik* fragt:
 Wenn alle Schüler gleich (aber verschieden) sein *sollen*, jedoch etwa hinsichtlich ihres Geschlechts oder ihrer körperlichen und geistigen Voraussetzungen *ungleich* im Klassenzimmer agieren, wie kann die Schule sie dann zum *selbstbestimmten* Zusammenleben *erziehen* (etwa Dewey 1916)?
 
 > "Die Schule der Nation ist die Schule."
