@@ -40,6 +40,9 @@ Teilnehmende sollten bereit sein, (zum Teil englische und französische) Fach- u
 
 # Weitere Links
 
-- [Diese Internetseite (Landing Page)](http://bildungbegabung.github.io/emile)
-- [Github Repository "Emile"](https://github.com/BildungBegabung/emile)
-- [Fertiges Gitbook von "Emile"](https://www.gitbook.io/book/maxheld/emile)
+- ["Emile" Repository (auf Github)](https://github.com/BildungBegabung/emile)
+- [Kursseite (Landing Page)](http://bildungbegabung.github.io/emile)
+- [Kalender (Google)](https://www.google.com/calendar/embed?src=0bivv5kcetbcuj9t6q6682quc8%40group.calendar.google.com&ctz=Europe/Berlin)
+- [Seminarplan (auf Github Wiki)](https://github.com/BildungBegabung/emile/wiki)
+- [Das zu erstellende Buch (auf Gitbook)](https://www.gitbook.io/book/maxheld/emile)
+- [PDFs und andere Binärdateien (auf Google Drive)](http://www.google.com)
