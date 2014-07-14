@@ -135,3 +135,127 @@ Ablauf Am Beispiel "Menschenrechte":
 - "Vergleichen Sie ihre Ergebnisse in der Ballongruppe und einigen Sie sich mit den Mitfahrern bzw. Mitfahrerinnen auf drei Menschenrechte, die Sie als Gruppe bewahrt wissen wollen. Schreiben Sie diese jeweils als Stichwort auf ein Plakat."
 - "Sie kehren glücklich zur Erde zurück, sind in der verfassungsgebenden Versammlung und sollen mit den anderen Mitgliedern der Versammlung einen Mindestkatalog von Grundrechten aufstellen. Einigen Sie sich. Begründen und vertreten Sie ihre Auswahl."
 - "Formulieren Sie entsprechend den Grundrechten, die Sie festgelegt haben, konkrete Verordnungen, die den Bürgern die Ausübung dieser Grundrechte garantiert."
+
+
+## Spiel Sitzung Mead
+
+WIE IM RICHTIGEN LEBEN
+
+
+*„...Menschen fühlen sich (so oft) dem Recht entzogen, selbst entscheiden zu können, wie sie wahrgenommen werden und welche ihrer multiplen Identitäten sie präsentieren wollen.“ (Dern et al., 2010)*
+
+BESCHREIBUNG (Details s. PDF)
+
+Arbeitsform: Aufstellung im Raum, Sporthalle oder draußen
+Auswertung: Stuhlkreis
+Gruppengröße: max. 20 Personen
+Zeitumfang: ca. 60 Minuten
+Materialien: Rollen für TN und Fragenkatalog für KL (Max kann evtl. mitspielen?)
+
+ABLAUF
+
+Schritt 1: Ausgabe der Rollen und Einfühlen in die Rollen
+Die teilnehmenden stellen sich nebeneinander am ende eines Raumes auf. KL gibt die Rollenkarten aus und liest sie bei der Vergabe laut vor (oder "anonym"). Anschließend erfolgt mit Hilfe einiger Fragen eine kurze Einstimmung in die Rollen, um den Einfühlungsprozess zu erleichtern.
+
+EINSTIMMUNGSFRAGEN
+- Wie war oder ist deine Kindheit?
+- Wie sieht dein Alltag aus?
+- Welchen Beruf möchtest du gern erlernen oder ausüben? 
+- Was sind / waren Deine Lieblingsfächer? Magst/ Mochtest du die Schule?
+- Was machst du in deiner Freizeit?
+
+
+Schritt 2: Positionierung in den Rollen
+Im Anschluss daran werden Fragen gestellt, die von den TN aus ihrer jeweiligen Rolle heraus zu beantworten sind. Können sie die Frage mit „ja“ beantworten, gehen die TN deutlich einen schritt vorwärts. Wenn sie die Frage (eher) mit „nein“ beantworten, bleiben sie stehen (subjektive Einschätzung!)
+
+Schritt 3: Zwischenauswertung in den Rollen
+nach der letzten Frage bleiben die Mitspieler/-innen an ihrem Platz stehen, ohne aus der rolle herauszukommen. KL stellt Fragen zu der Position der Beteiligten im Raum (ggf. jetzt vorlesen, wer er/sie ist):
+- Wie ist es, so weit vorn zu stehen?
+- Welche Fragen haben sie nach vorn gebracht? 
+- Wann haben sie festgestellt, dass andere nicht so schnell voran kamen wie sie?
+- Wie war es, nicht voran zu kommen?
+- Was hat dir gefehlt, um Schritte nach vorn machen zu können?
+- Wann hast du gemerkt, dass es einige gibt, die weit hinten blieben oder schneller vorwärts kamen? 
+- Bei welchen Fragen hattest du Zweifel und bist stehen geblieben?
+
+Schritt 4: ROLLENAUSTRITT
+
+Schritt 5: Auswertung im Plenum
+
+- Konntest du dich in deine Rolle hineinversetzen?
+- Wie leicht oder schwer fielen dir die Schritte?
+- Welche Fragen sind dir im Gedächtnis geblieben?
+- Gibt es Fragen, die bei dir Emotionen ausgelöst haben?
+- Gibt es Parallelen zwischen der gespielten Rolle und deiner? 
+- Was hat dich in deinem Handeln in deiner Rolle eingeschränkt?
+- Wie sehen wir die Person hinter dieser Rolle?
+- Woher beziehen wir das „Wissen“ über die jeweiligen Lebensentwürfe?
+- Warum wissen wir über bestimmte Personen viel und über andere wenig?
+- Was wäre, wenn du diese Schritte aus deiner eigenen Position heraus gemacht hättest?
+- Was können wir tun? Welche Handlungsmöglichkeiten haben wir?
+- Worauf haben wir keinen Einfluss? Wo liegen unsere Grenzen?
+
+Überleitung Kursthema
+
+MATERIAL
+
+ROLLENBEISPIELE (ausarbeiten - Nur "schulpflichtige" oder weiter gefasst?)
+- STEFAN: ein 45- jähriger Elektromeister und Musiker, deutsch, verheiratet, 2 Kinder, eines der Kinder ist körperlich behindert, die Familie lebt im Dorf.
+- AMRIT: ein 28-jähriger asylbewerber kurdischer herkunft aus dem Irak, ledig, politisch aktiv.
+IGOR
+ein 25- jähriger jüdischer zuwanderer, in erfurt aufgewachsen, mit hauptschulabschluss, sucht nach einem ausbil- dungsplatz in der versicherungsbranche, ledig.
+AYA
+eine 35- jährige in Deutschland geborene Krankenschwester, türkischer herkunft, lebt in Weimar, geschieden mit einem Kind.
+ULI
+eine 25- jährige Punkerin aus Jena, ehemalige hausbesetzerin, Mitbewohnerin eines alternativen hausprojekts, jobbt am empfang in einem Museum, ledig.
+BIRGIT
+eine 42- jährige Mutter von 2 Kindern, deutsch, lesbisch, lebt in einer eheähnlichen lebensgemeinschaft, lehrerin für die Fächer Deutsch/ethik/Geschichte, lebt in Mühlhausen.
+KATHRIN
+eine 20- jährige schwangere im Mutterschutz, deutsch, abitur mit auszeichnung, hIv-positiv, suchte vergeblich nach einem ausbildungsplatz, ledig.
+JOSEPH
+ein 50- jähriger ghanaischer asylbewerber, lebt in einer Gemeinschaftsunterkunft in altenburg, arzt vom Beruf, derzeit keine arbeitserlaubnis, ledig.
+MARKO
+ein 39- jähriger Kfz-Mechaniker, seit Jahren arbeitslos, hat zwei Umschulungen gemacht, geschieden mit 2 Kin- dern.
+WOLFGANG
+ein 51- jähriger schwer behinderter Pförtner im rollstuhl, war bis zu seinem 20. lebensjahr gesund, deutsch, allein stehend, wird von seinem vater gepflegt, sonst keine Freunde oder Familienangehörigen.
+THOMAS
+ein 53- jähriger ehemaliger Geschäftsmann, alkoholiker, derzeit „trocken“, lebt in einer einzimmerwohnung im Wedding (Berliner stadtteil), geschieden, 2 Kinder.
+SIEGFRIED
+ein 58- jähriger verwaltungsbeamter, arbeitet in der ausländerbehörde in Berlin, deutsch, verheiratet, zwei Kin- der und seit kurzem eine enkeltochter.
+TAMIR
+ein 19- jähriger aus sri lanka, der vor einigen Jahren ohne seine Familie nach Deutschland geflüchtet ist und in einer Gemeinschaftsunterkunft in leipzig lebt.
+SARAH
+eine 27- jährige dunkelhäutige deutsche lehramtsstudentin für Mathematik und Physik, deren Mutter aus alten- burg und vater aus Kamerun kommt. sie lebt in Jena und engagiert sich im landessportbund.
+
+FRAGENBEISPIELE (bearbeiten!)
+HABEN SIE ...
+
+Ì die deutsche staatsbürgerschaft?
+Ì eine andere staatsbürgerschaft?
+Ì das recht auf den aufenthalt in Deutschland? Ì gute (ausreichende) sprachkenntnisse?
+Ì die Möglichkeit in Ihr heimatland zu reisen?
+Ì das recht auf Berufsausübung?
+Ì das recht auf aus- bzw. Weiterbildung?
+Ì das recht auf einen eigenen privaten Wohnort? Ì das recht auf einen guten schulplatz?
+Ì eine Krankenversicherung?
+Ì Wahlrecht?
+Ì ein Bankkonto?
+
+KÖNNEN SIE ...
+
+Ì davon ausgehen, dass Ihnen wichtige Informationen in Ihrer Muttersprache vermittelt werden? Ì Ihren Beruf ausüben?
+Ì eine arbeit ausüben, die Ihren Fähigkeiten und Qualifikationen entspricht?
+Ì eine andere (weniger qualifizierte) arbeit bekommen?
+Ì eine Wohnung problemlos mieten?
+Ì sich vorstellen, dass an Ihrem arbeitsplatz Ihre Interessen wahrgenommen und berücksichtigt werden? Ì erwarten, in einem café zuvorkommend und freundlich bedient zu werden?
+Ì religiöse Feiertage entsprechend Ihrer religion/tradition feiern?
+Ì innerhalb Deutschland ohne einschränkung reisen?
+Ì ins ausland reisen?
+Ì Ihren Urlaub im ausland verbringen?
+Ì beim anzeigen eines Diebstahls eine faire Behandlung von der Polizei erwarten?
+Ì sich auch nach einbruch der Dunkelheit auf der straße sicher fühlen?
+Ì sympathie und Unterstützung von Ihrem Umfeld erwarten?
+Ì am gesellschaftlichen und kulturellen leben in Ihrem Wohnort teilhaben?
+Ì davon ausgehen, dass sie bzw. Ihre Kinder aufgrund ihrer herkunft nicht diskriminiert werden?
+
+
