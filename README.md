@@ -13,7 +13,7 @@ den Widerspruch und die wechselseitige Bedingtheit von inhärenter Gleichheit un
 ![Kinder spielen im Schatten](https://raw.githubusercontent.com/BildungBegabung/emile/master/img/circle-shadows.jpg "asd")
 
 Die *Pädagogik* fragt:
-Wenn alle Schüler_Innen als gleich -- im Sinne von bildsam und im Sinne ihrer Rechte -- angesehen werden (vgl. Benner 2012; UN-Behindertenrechtskonvention 2006), jedoch etwa hinsichtlich ihrer körperlichen und geistigen Voraussetzungen *verschieden* im Klassenzimmer agieren, wie kann die Schule sie gleichzeitig zum *selbstbestimmten* und gemeinschaftlichen Leben *erziehen*?
+Wenn alle Schüler_Innen als *gleich* -- im Sinne ihrer Bildsamkeit und ihrer Rechte -- angesehen werden (vgl. Benner 2012; UN-Behindertenrechtskonvention 2006), jedoch etwa hinsichtlich ihrer körperlichen und geistigen Voraussetzungen *verschieden* im Klassenzimmer agieren, wie kann die Schule sie gleichzeitig zum *selbstbestimmten* und *gemeinschaftlichen Leben*  erziehen?
 
 > "Die Schule der Nation ist die Schule."
 > -- Willy Brandt (1969)
