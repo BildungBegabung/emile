@@ -77,24 +77,12 @@ Zu‐Erziehenden zu etwas aufzufordern, das er noch nicht kann, und ihn als jema
  
 *Wichtige Zitate:*
 
-# Sitzung Konstruktivismus (Lehrbuchtexte)
-*Warum dieser Text?*
-- Stellenwert Individuum und individuelles Lernen
-
-*Mögliche Aufgaben und Fragen:*
-- Kopf und Maus
-- Bild Mathematikunterricht (sehen können, sehen lernen, die Schwierigkeit/Einfachheit vom Lernen) > Daran Begriffe klären (s. Github img)
-- Kurzpräsentation TN
-- Bichsel Geschichte vorlesen (am Ende um Probleme des reinen Konstruktivismus aufzuzeigen)? zu pessimistisch
-
-- Ist der Mensch vereinzelt oder sozial? (auf jeden Fall individuell und einzigartig!)
-- An Issues orientieren!
-*Wichtige Zitate:*
 
 #Sitzung Symbolischer Interaktionismus / Sozialisation / soziales Lernen (Mead)
 *Warum dieser Text?*
-Wenn nur nach der Theorie des (radikalen) Konstruktivismus ausgegangen würde, würden wir vereinzelt sein und niemand könnte sich mehr verstehen, wie wäre dann überhaupt noch eine demokratische, soziale Schule möglich? 
-Wir schauen uns also eine weitere Theorie an, die zeigt, wie die Menschen ko-konstruieren und nicht nur konstruieren, wie sie sozial interagieren und ihre Identität *durch die Anderen* aufbauen.
+Problematisierung soziale Rollen in der Gesellschaft
+Problematisierung unbestimmte Bildsamkeit
+Wir schauen uns eine  Theorie an, die zeigt, wie die Menschen basal sozial interagieren und ihre Identität *durch die Anderen* konstruieren.
 
 Aspekte: Handeln in Rollen, Selbst- und Fremdwahrnehmung, Aufbau von Identität, Erwartungen, Prägung durch Gesellschaft
 
@@ -104,8 +92,28 @@ Spiel Rollen
 
 "Der Mensch wird am Du zum Ich." (Martin Buber) bzw. "Der Mensch wird zu dem Ich, dessen Du wir ihm sind." (Georg Feuser) > Dialog
 
+# Sitzung Konstruktivismus (Lehrbuchtexte)
+*Warum dieser Text?*
+- Stellenwert Individuum und individuelles Lernen
+- Problematisierung Aufforderung zur Selbsttätigkeit
+
+*Mögliche Aufgaben und Fragen:*
+- Kopf und Maus
+- Bild Mathematikunterricht (sehen können, sehen lernen, die Schwierigkeit/Einfachheit vom Lernen) > Daran Begriffe klären (s. Github img)
+- Kurzpräsentation TN
+- Bichsel Geschichte vorlesen (am Ende um Probleme des reinen Konstruktivismus aufzuzeigen)? zu pessimistisch
+
+- Ist der Mensch vereinzelt oder sozial? (auf jeden Fall individuell und einzigartig!)
+- Wenn nur nach der Theorie des (radikalen) Konstruktivismus ausgegangen würde, würden wir vereinzelt sein und niemand könnte sich mehr verstehen, wie wäre dann überhaupt noch eine demokratische, soziale Schule möglich? 
+- An Issues orientieren!
+*Wichtige Zitate:*
+
 Sitzung Zimpel 
 *Warum dieser Text?*
+- Thema Bildungsgerechtigkeit und Schulsystem
+- Pädagogik Populärwissenschaftlich
+- an dieser Stelle können gut die Begriffe Heterogentität (Heterogenität nutzen!) und auch Prinzipien des Gemeinsamen Unterrichts (Natürliche Differenzierung, Arbeit an einem gemeinsamen Gegenstand, vielfältige Kooperationsformen) besprochen werden
+
 *Mögliche Aufgaben und Fragen:*
 zusammen mit Max?
 *Wichtige Zitate:*
