@@ -122,6 +122,8 @@ zusammen mit Max?
 Sitzung Epilog: Dewey
 *Warum dieser Text?*
 *Mögliche Aufgaben und Fragen:*
+Deweys Sicht auch Rousseau (Anlagenbestimmt) im Vergleich zu Benner (darauf hinweisen, dass Klassiker verschiedene z.T. widersprüchliche Lesarten haben) Konkrete Textarbeit: Zu welchem Zwecke in der Argumentation nutzt Dewey Rousseau?
+
 *Wichtige Zitate:*
 
 Projektphase (Freinet, Illich)
