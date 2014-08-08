@@ -11,6 +11,17 @@ Aspekte Pädagogik:
 - Ausgleich zwischen Individuum und Gesellschaft
 - Anlage und Umwelt, sind wir das was wir sind oder was die Umwelt aus uns macht?
 - Inhärente Gleichheit und Autonomie
+- Entwicklungstheorien: Ringen um anthropologische Kernannahmen: Was ist das Wesen des Menschen? Was ist das Wesen von Entwicklung?
+- demokratische Schule muss von allen ausgehen, auch vom Schwächsten!
+- verschiedene Fragen: Wie lernen Menschen (psychologisch)? Wie lässt sich gemeinsam lernen (didaktisch)? Wie können wir unter diesen Bedingungen miteinander umgehen? (pädagogisch)
+
+- Angeboren oder erworben? (Nativismus, vermeintlich Rousseau / Empirismus, Kind als unbeschriebene Blätter)
+- Aktiv oder passiv? (exogenetische Theorien wie Behaviorismus / endogenetische Theorien wie Rousseau "Bauplan" / Selbstgestaltungstheorien bzw. Konstruktivismus / interaktionistische, systemische Theorien "Mensch als Produkt und Gestalter")
+- kontinuierlich oder diskontinuierlich? (Entwicklungsstufen)
+- Universell oder partikularistisch? (von allen Menschen geteilt oder eher interindividuell verschieden, sprich persönlichkeits- und kulturabhängig?)
+
+- Feuser 2002a S. 283: Tabelle Regelschule und Inklusive Schule Gegenüberstellung: Ich weiß nicht, ob das am Anfang oder am Ende des Kurses gezeigt werden sollte, aber es wäre wichtig für die Einordnung
+
 
 # Sitzung Prolog: Rousseau
 Können beide KL das Haus hier gemeinsam exemplarisch ausfüllen? (Wie soll das Zusammenleben und *Lernen* organisiert werden?)
@@ -59,13 +70,14 @@ Brainstorming: Schattenumriss eines Menschen auf Magic-Chart und darin gemeinsam
 
 - "Wahl- und Meinungsfreiheit" in der Pädagogik:
 - Heini in 4er-Gruppen "nachspielen" (Stifte, Getränke oder Süßigkeiten)
-- Im Voraus bei GitHub nachschauen, wer sich mit Benner beschäftigt hat und ggf. als Beobachter bestimmen
+- Im Voraus bei GitHub nachschauen, wer sich mit Benner beschäftigt hat und ggf. als Beobachter bestimmen (Marvin, Nadine)
 - Zettel mit A, B, Beobachter auf den Boden vor die 4er-Stuhlkreise kleben, damit sichtbar
     - Aufgabe A: Deine Aufgabe besteht darin, Person B dazu zu bringen, einen Stift zu nehmen. Wichtig: Du darfst *unter keinen Umständen* für sie/ihn entscheiden, auch wenn es dir schwer fällt.
     - Aufgabe B: Person A wird dir gleich Stifte anbieten. Versuche sie/ihn dazu zu bringen, einen für dich auszusuchen. Du darfst *unter keinen Umständen* selbst einen auswählen, auch wenn A es dir nicht leicht machen wird.
-    - Beobachter A: Beobachte das Verhalten von Person A genau und notiere deine Beobachtungen und Interpretationen in der Tabelle.
+    - Beobachter A: Beobachte das Verhalten von Person A genau und notiere deine Beobachtungen und Interpretationen in der Tabelle. 
     - Beobachter B: Beobachte das Verhalten von Person B genau und notiere deine Beobachtungen und Interpretationen in der Tabelle.
 - Auswertungsfragen: Wer war der Erzieher? Beobachtungen vorstellen und vergleichen
+- Beobachtungsmethoden kurz problematisieren
 - Hat Person A Person B's Unfähigkeit zu wählen, auf deren Anlagen zurückgeführt? (Interaktionsproblem! Person B war fremdbestimmt durch KL = "aufgelegtes Trauma") 
 - Prinzip der Bildsamkeit erklären (wer hat das Issue bearbeitet?), Bildsamkeit ist keine Eigenschaft, sondern ist ein Verhältnis, eine Relation, die Möglichkeit des Mitwirkens des Zu-Erziehenden an der päd. Interaktion ("Das Wünschen lernen")
 - Bedingung: Der Lerner kann von seiner Bildsamkeit Gebrauch machen (Beachte trotzdem die Imperfektheit!)
@@ -73,7 +85,13 @@ Brainstorming: Schattenumriss eines Menschen auf Magic-Chart und darin gemeinsam
 - erneut auf die Beobachtungen zurückgreifen und Leiblichkeit, Freiheit, Geschichtlichkeit und Sprache erklären
 - Ende der Pädagogik (Im Unterschied zu Demokratie/Wirtschaft...), Paradoxie klären als Bejahung von Pädagogik nicht als Unmöglichkeit (S. 90: "den
 Zu‐Erziehenden zu etwas aufzufordern, das er noch nicht kann, und ihn als jemanden zu achten, der er noch nicht ist")
+
+- Es gäbe die Möglichkeit, die Geschichte von Karl vorzulesen
 - Bezug zu Autonomie und Inhärenter Gleichheit
+- In dem Zusammenhang auch den Begriff der Mündigkeit nennen („als *Selbstkompetenz*, d.h. als Fähigkeit, für sich selbst verantwortlich handeln zu können, als *Sachkompetenz*, d.h. für Sachbereiche urteils- und handlungsfähig und damit zuständig sein zu können und
+als *Sozialkompetenz*, d.h. für sozial, gesellschaftlich und politisch relevante Sach- oder Sozialbereiche urteils- und handlungsfähig sein
+zu können." (Roth 1971, S. l80)
+
  
 *Wichtige Zitate:*
 
@@ -92,10 +110,14 @@ Spiel Rollen
 
 "Der Mensch wird am Du zum Ich." (Martin Buber) bzw. "Der Mensch wird zu dem Ich, dessen Du wir ihm sind." (Georg Feuser) > Dialog
 
+Siebert bezieht sich auf kurz auf den SI (S. 25: "Da ein solches „Bildungsstreben“ von dem sozialen Umfeld angeregt und unterstützt wird, wird der kognitionstheoretische Individualismus durch einen „symbolischen Interaktionismus“ ergänzt. U n d auch deshalb ist ein seminaristisches soziales Lernen erforderlich. Niemand lernt „im luftleeren Raum“ und nur „im stillen Kämmerlein“.")
+
 # Sitzung Konstruktivismus (Lehrbuchtexte)
 *Warum dieser Text?*
 - Stellenwert Individuum und individuelles Lernen
 - Problematisierung Aufforderung zur Selbsttätigkeit
+- Bezug zu Inklusion/Behindertenbegriff: Es gibt nicht nur *eine* Realität (z.B. die Welt eines gehörlosen/ nicht hörende Menschen) 
+- Welchen Einfluss haben andere Menschen auf das Lernen des Individuums (Siebert spricht es nur am Rande an, S. 24, 25 "Lernberater" und S. 20: "Für sein Denken, Lernen und Nichtlernen ist jeder selbst verantwortlich." Auf Vygotski und Piaget verweisen)
 
 *Mögliche Aufgaben und Fragen:*
 - Kopf und Maus
@@ -256,8 +278,6 @@ Dokuabgabe
 Fr
 Kursabschluss
 Auswertung und Aufräumen
-
-
 
 
 
