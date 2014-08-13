@@ -142,7 +142,7 @@ Ablauf Am Beispiel "Menschenrechte":
 WIE IM RICHTIGEN LEBEN
 
 
-*„...Menschen fühlen sich (so oft) dem Recht entzogen, selbst entscheiden zu können, wie sie wahrgenommen werden und welche ihrer multiplen Identitäten sie präsentieren wollen.“ (Dern et al., 2010)*
+*„...Menschen fühlen sich (so oft) dem Recht entzogen, selbst entscheiden zu können, wie sie wahrgenommen werden und welche ihrer multiplen Identitäten sie präsentieren wollen.“ (Dern et al., 2010)*
 
 BESCHREIBUNG (Details s. PDF)
 
@@ -154,8 +154,8 @@ Materialien: Rollen für TN und Fragenkatalog für KL (Max kann evtl. mitspielen
 
 ABLAUF
 
-Schritt 1: Ausgabe der Rollen und Einfühlen in die Rollen
-Die teilnehmenden stellen sich nebeneinander am ende eines Raumes auf. KL gibt die Rollenkarten aus und liest sie bei der Vergabe laut vor (oder "anonym"). Anschließend erfolgt mit Hilfe einiger Fragen eine kurze Einstimmung in die Rollen, um den Einfühlungsprozess zu erleichtern.
+Schritt 1: Ausgabe der Rollen und Einfühlen in die Rollen;
+Die Teilnehmenden stellen sich nebeneinander am ende eines Raumes auf. KL gibt die Rollenkarten aus und liest sie bei der Vergabe laut vor (oder "anonym"). Anschließend erfolgt mit Hilfe einiger Fragen eine kurze Einstimmung in die Rollen, um den Einfühlungsprozess zu erleichtern.
 
 EINSTIMMUNGSFRAGEN
 - Wie war oder ist deine Kindheit?
@@ -192,70 +192,98 @@ Schritt 5: Auswertung im Plenum
 - Woher beziehen wir das „Wissen“ über die jeweiligen Lebensentwürfe?
 - Warum wissen wir über bestimmte Personen viel und über andere wenig?
 - Was wäre, wenn du diese Schritte aus deiner eigenen Position heraus gemacht hättest?
-- Was können wir tun? Welche Handlungsmöglichkeiten haben wir?
+- Was kann eine Schule tun? Welche Handlungsmöglichkeiten hat sie?
 - Worauf haben wir keinen Einfluss? Wo liegen unsere Grenzen?
 
 Überleitung Kursthema
 
 MATERIAL
 
-ROLLENBEISPIELE (ausarbeiten - Nur "schulpflichtige" oder weiter gefasst?)
-- STEFAN: ein 45- jähriger Elektromeister und Musiker, deutsch, verheiratet, 2 Kinder, eines der Kinder ist körperlich behindert, die Familie lebt im Dorf.
-- AMRIT: ein 28-jähriger asylbewerber kurdischer herkunft aus dem Irak, ledig, politisch aktiv.
+ROLLENBEISPIELE
+
+NATASCHA
+14 Jahre, interessiert sich für Informatik und Architektur, fühlt sich in ihrem Gymnasium unterfordert und gelangweilt und würde lieber die Zeit des Unterrichts nutzen, um selbstständig zu Hause zu lernen.
+
+RICARDO
+7 Jahre alt, wiederholt gerade die 1. Klasse, lebt bei alleinerziehendem Vater. Dieser leidet an einer Alkoholsucht. Ricardo hat selten morgens etwas gefrühstückt, seine Kleidung ist meist verschmutzt. Besitzt kein eigenes Zimmer. Er wirkt in sich gekehrt und spricht kaum.
+
+AMRIT
+ein 13-jähriger Asylbewerber kurdischer Herkunft aus dem Irak, besuchte dort eine höhere Schule. Weder er noch seine Familie kennen das deutsche Schulsystem. Amrit wurde nach 2 Monaten in einer "Willkommensklasse" in die angrenzende Hauptschule versetzt, so wie es die Regel ist. 
+
 IGOR
-ein 25- jähriger jüdischer zuwanderer, in erfurt aufgewachsen, mit hauptschulabschluss, sucht nach einem ausbil- dungsplatz in der versicherungsbranche, ledig.
+ein 14-jähriger Schulverweigerer. Igors Eltern befinden sich im jahrelangen Rechtsstreit mit dem Schulamt und versuchen nach Frankreich auszuwandern, um dort Homeschooling frei praktizieren zu können.
+
 AYA
-eine 35- jährige in Deutschland geborene Krankenschwester, türkischer herkunft, lebt in Weimar, geschieden mit einem Kind.
+eine 28-jährige in Deutschland geborene Krankenpflegerin, türkischer Herkunft, lebt in Weimar, geschieden mit einem Kind, ist aus körperlichen Gründen nicht mehr in der Lage, in ihrem Beruf zu arbeiten. Kann sich eine private Umschulung zur Musiktherapeutin nicht leisten.
+
 ULI
-eine 25- jährige Punkerin aus Jena, ehemalige hausbesetzerin, Mitbewohnerin eines alternativen hausprojekts, jobbt am empfang in einem Museum, ledig.
-BIRGIT
-eine 42- jährige Mutter von 2 Kindern, deutsch, lesbisch, lebt in einer eheähnlichen lebensgemeinschaft, lehrerin für die Fächer Deutsch/ethik/Geschichte, lebt in Mühlhausen.
+eine 22- jährige Punkerin aus Jena, ehemalige Hausbesetzerin, Mitbewohnerin eines alternativen Hausprojekts, jobbt am Empfang in einem Museum, ledig.
+
+NILS
+24-jähriger gelernter Fremdsprachenassistent: berufstätig, jüdisch, schwul, wohnt ohne die Erlaubnis des Vermieters mit seinem Freund zusammen.
+
 KATHRIN
-eine 20- jährige schwangere im Mutterschutz, deutsch, abitur mit auszeichnung, hIv-positiv, suchte vergeblich nach einem ausbildungsplatz, ledig.
-JOSEPH
-ein 50- jähriger ghanaischer asylbewerber, lebt in einer Gemeinschaftsunterkunft in altenburg, arzt vom Beruf, derzeit keine arbeitserlaubnis, ledig.
-MARKO
-ein 39- jähriger Kfz-Mechaniker, seit Jahren arbeitslos, hat zwei Umschulungen gemacht, geschieden mit 2 Kin- dern.
-WOLFGANG
-ein 51- jähriger schwer behinderter Pförtner im rollstuhl, war bis zu seinem 20. lebensjahr gesund, deutsch, allein stehend, wird von seinem vater gepflegt, sonst keine Freunde oder Familienangehörigen.
-THOMAS
-ein 53- jähriger ehemaliger Geschäftsmann, alkoholiker, derzeit „trocken“, lebt in einer einzimmerwohnung im Wedding (Berliner stadtteil), geschieden, 2 Kinder.
-SIEGFRIED
-ein 58- jähriger verwaltungsbeamter, arbeitet in der ausländerbehörde in Berlin, deutsch, verheiratet, zwei Kin- der und seit kurzem eine enkeltochter.
-TAMIR
-ein 19- jähriger aus sri lanka, der vor einigen Jahren ohne seine Familie nach Deutschland geflüchtet ist und in einer Gemeinschaftsunterkunft in leipzig lebt.
+eine 20-jährige Schwangere im Mutterschutz, deutsch, Abitur mit Auszeichnung, HIV-positiv, suchte vergeblich nach einem Ausbildungsplatz, ledig.
+
+PAUL 
+4 Jahre, Wechsel auf eine private Montessori-Kindertagesstätte, Eltern sind stark berufstätig, wechselnde Kindermädchen passen auf Paul auf, der mehrfach wegen aggressivem Verhalten Kindern und Erwachsenen gegenüber aufgefallen ist. Verdacht auf ADHS. (20+ Ja)
+
 SARAH
-eine 27- jährige dunkelhäutige deutsche lehramtsstudentin für Mathematik und Physik, deren Mutter aus alten- burg und vater aus Kamerun kommt. sie lebt in Jena und engagiert sich im landessportbund.
+eine 26-jährige dunkelhäutige deutsche Lehramtsstudentin für Sport und Chemie, deren Mutter aus Altenburg und Vater aus Kamerun kommt. Sie lebt in Marburg und engagiert sich im Landessportbund. (20+ Ja)
+
+ZARAA
+ein 9-jähriger unbegleiteter Flüchtling aus Syrien, kriegstraumatisiert, lebt seit 8 Monaten in einer Gemeinschaftunterkunft für minderjährige Asylbewerber. Ausweisung erfolgt, sobald lebende Verwandte ermittelt werden können. (4 Ja)
+
+LUCA
+16 Jahre mit geistiger Behinderung; lebt seit dem 3. Lebensjahr in einem Heim im Saarland, keine Lautsprache, beherrscht einfache Alltagsgesten. Wird im Heim unterrichtet und hat Aussicht auf einen Platz in einer Behindertenwerkstatt. (8 Ja)
+
+NORI
+13-Jährige rumänischer Herkunft, unregelmäßiger Schulbesuch, verbringt den Tag zusammen mit einer organisierten Bettlergruppe, leben zusammen in einem einsturzgefärdeten Gebäude, das regelmäßig von der Polizei geräumt wird. (4 Ja)
+
+KIM
+17-Jährige mit cerebraler Bewegungsstörung, die die Koordination ihres Körpers stark beeinträchtigt. Sie hat gelernt, sich mit einem Talker zu verständigen und auch Texte mit Assistenz schreiben. Würde gerne Abitur machen, um später Physik zu studieren. Bisher ist keine Oberschule in der Nähe bereit sie aufzunehmen. (10 Ja)
+
+FRIEDERIKE 
+15 Jahre, aufgrund eines Unfalls vor 7 Jahren gehörlos. Seit Ende der Integrativen Grundschule im Dorf fährt sie täglich über 2h mit dem Schulbus zur Sonderschule für Hörgeschädigte in die Stadt und wieder zurück. Für ihre alten Freunde und ihr Hobby Reiten bleibt kaum mehr Zeit. (10 Ja)
+
+MOHAMMED
+12 Jahre, deutsch, islamisches Elternhaus, besucht ein Förderzentrum in Berlin-Neukölln (Schwerpunkt Lernen und emotional-soziale Entwicklung), würde gerne ein Mädchen sein und verkleidet sich am liebsten in seiner Freizeit. Dies stößt in seinem Umfeld zunehmen auf Irritationen. (20 Ja)
+
 
 FRAGENBEISPIELE (bearbeiten!)
-HABEN SIE ...
+HAST DU ...
 
-Ì die deutsche staatsbürgerschaft?
-Ì eine andere staatsbürgerschaft?
-Ì das recht auf den aufenthalt in Deutschland? Ì gute (ausreichende) sprachkenntnisse?
-Ì die Möglichkeit in Ihr heimatland zu reisen?
-Ì das recht auf Berufsausübung?
-Ì das recht auf aus- bzw. Weiterbildung?
-Ì das recht auf einen eigenen privaten Wohnort? Ì das recht auf einen guten schulplatz?
-Ì eine Krankenversicherung?
-Ì Wahlrecht?
-Ì ein Bankkonto?
+- die deutsche Staatsbürgerschaft?
+- das Recht auf den Aufenthalt in Deutschland? 
+- gute Sprachkenntnisse im Deutschen?
+- stabile Bezugspersonen und Erwachsene, denen du dich anvertrauen kannst?
+- die Möglichkeit jetzt oder später einer regulären Arbeit nachzugehen (d.h. eigenes Gehalt, Sozialversicherung, Arbeitnehmerrechte usw.)?
+- die Möglichkeit, dein Recht auf sexuelle Selbstbestimmung auszuleben?
+- das Recht auf einen eigenen privaten Raum? 
+- das Recht auf einen nahe gelegenen Schul-/Ausbildungsplatz?
+- die Möglichkeiten, Freundschaften langfristig aufzubauen?
+- die Möglichkeit, einen regulären Schulabschluss zu machen? 
+- eine Krankenversicherung?
+- die Möglichkeit, mit deinen Anliegen von Erwachsenen gehört zu werden?
+- Geld, über dass du frei verfügen kannst (z.B. Taschengeld, Einkommen)?
+- eine Trennung zwischen Arbeit/bzw. Schule, Wohnen und Freizeit?
 
-KÖNNEN SIE ...
+KANNST DU ...
 
-Ì davon ausgehen, dass Ihnen wichtige Informationen in Ihrer Muttersprache vermittelt werden? Ì Ihren Beruf ausüben?
-Ì eine arbeit ausüben, die Ihren Fähigkeiten und Qualifikationen entspricht?
-Ì eine andere (weniger qualifizierte) arbeit bekommen?
-Ì eine Wohnung problemlos mieten?
-Ì sich vorstellen, dass an Ihrem arbeitsplatz Ihre Interessen wahrgenommen und berücksichtigt werden? Ì erwarten, in einem café zuvorkommend und freundlich bedient zu werden?
-Ì religiöse Feiertage entsprechend Ihrer religion/tradition feiern?
-Ì innerhalb Deutschland ohne einschränkung reisen?
-Ì ins ausland reisen?
-Ì Ihren Urlaub im ausland verbringen?
-Ì beim anzeigen eines Diebstahls eine faire Behandlung von der Polizei erwarten?
-Ì sich auch nach einbruch der Dunkelheit auf der straße sicher fühlen?
-Ì sympathie und Unterstützung von Ihrem Umfeld erwarten?
-Ì am gesellschaftlichen und kulturellen leben in Ihrem Wohnort teilhaben?
-Ì davon ausgehen, dass sie bzw. Ihre Kinder aufgrund ihrer herkunft nicht diskriminiert werden?
+- (später oder jetzt) eine offene Liebesbeziehung zu einem Partner deiner Wahl eingehen?
+- einem normalen Tagesrhythmus folgen?
+- davon ausgehen, dass dir wichtige Informationen in einer dir verständlichen Sprache vermittelt werden?
+- am gesellschaftlichen und kulturellen Leben an deinem Wohnort teilhaben?
+- gerade arbeiten bzw. lernen, wie es deinen individuellen Fähigkeiten entspricht? 
+- eine Wohnung problemlos mieten? 
+- erwarten, in einem Café zuvorkommend und freundlich bedient zu werden?
+- religiöse Feiertage entsprechend deiner Religion/Tradition zu feiern?
+- dir vorstellen, dass an deinem Arbeitsplatz/in deiner Schule/Uni deine Interessen wahrgenommen und berücksichtigt werden?
+- innerhalb Deutschlands ohne Einschränkung reisen?
+- ins Ausland reisen, bzw. dort leben?
+- beim Anzeigen eines Diebstahls eine faire Behandlung von der Polizei erwarten?
+- dich auch nach Einbruch der Dunkelheit auf der Straße sicher fühlen?
+- Sympathie und Unterstützung von deinem Umfeld erwarten?
+- davon ausgehen, dass du bzw. deine Kinder nicht diskriminiert werden?
 
 

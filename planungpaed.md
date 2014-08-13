@@ -8,14 +8,18 @@
 
 Aspekte Pädagogik:
 
+- Pädagogik fragt nach den Bedingungen, Möglochkeiten, Hindernissen und Grenzen der Einführung der nächsten Generation in die Gesellschaft > Unterstellung, dass der junge Mensche dieser Unterstützung bedarf
+- Aber auch Gedanken der Veränderung!
+- Inhärente Gleichheit und Autonomie oder die Frage nach der Kooperation
 - Ausgleich zwischen Individuum und Gesellschaft
+- Haus erklären (Wie soll das Zusammenleben und *Lernen* demokratisch organisiert werden?)
 - Anlage und Umwelt, sind wir das was wir sind oder was die Umwelt aus uns macht?
-- Inhärente Gleichheit und Autonomie
-- Entwicklungstheorien: Ringen um anthropologische Kernannahmen: Was ist das Wesen des Menschen? Was ist das Wesen von Entwicklung?
-- demokratische Schule muss von allen ausgehen, auch vom Schwächsten!
-- verschiedene Fragen: Wie lernen Menschen (psychologisch)? Wie lässt sich gemeinsam lernen (didaktisch)? Wie können wir unter diesen Bedingungen miteinander umgehen? (pädagogisch)
+- Ringen um anthropologische Kernannahmen: Was ist das Wesen des Menschen? Was ist das Wesen von Entwicklung?
+- demokratische Schule muss für alle sein, d.h. vom Schwächsten ausgehen! (Inklusion)
+- verschiedene Fragen mit unterschiedlichen Blickwinkeln (überschneiden sich!): Wie lernen Menschen (psychologisch)? Wie ist die soziale Kostitution des Menschen (philosophisch)? Wie lässt sich unter diesen Bedingungen am besten lernen (didaktisch - hierzu gibt es nur wenig, aber wir werden unsere eigenen Versuchskaninchen sein!)? Wie können wir unter diesen Bedingungen miteinander umgehen und eine demokratische Schule für alle gestalten? (pädagogisch)
 
-- Angeboren oder erworben? (Nativismus, vermeintlich Rousseau / Empirismus, Kind als unbeschriebene Blätter)
+Dimensionen von Lerntheorien:
+- Fähigkeiten des Menschen sind: Angeboren oder erworben? (Nativismus, vermeintlich Rousseau / Empirismus, Kind als unbeschriebene Blätter)
 - Aktiv oder passiv? (exogenetische Theorien wie Behaviorismus / endogenetische Theorien wie Rousseau "Bauplan" / Selbstgestaltungstheorien bzw. Konstruktivismus / interaktionistische, systemische Theorien "Mensch als Produkt und Gestalter")
 - kontinuierlich oder diskontinuierlich? (Entwicklungsstufen)
 - Universell oder partikularistisch? (von allen Menschen geteilt oder eher interindividuell verschieden, sprich persönlichkeits- und kulturabhängig?)
@@ -24,12 +28,12 @@ Aspekte Pädagogik:
 
 
 # Sitzung Prolog: Rousseau
-Können beide KL das Haus hier gemeinsam exemplarisch ausfüllen? (Wie soll das Zusammenleben und *Lernen* organisiert werden?)
+Können beide KL das Haus hier gemeinsam exemplarisch ausfüllen? 
 
 *Warum dieser Text?*
 
 - Historischer Meilenstein in der Pädagogik (Humanismus, Bedeutung des Individuums UND Bedeutung der Gesellschaft, erster Werk zum Zusammenhang zwischen Erziehung und Politik)
-- Bedeutung: Gleichheitsanspruch *unterschiedlicher* Menschen - keine Standesschranken! (Tendenziell die erste Allg. Pädagogik), bezieht keine Stellung zwischen Anlage und Umwelt (wegen "Natürlicher Erziehung" oft als anlagendeterministisch fehlinterpretiert)
+- Bedeutung: Gleichheitsanspruch *unterschiedlicher* Menschen - keine Standesschranken! (Tendenziell die erste Allg. Pädagogik), bezieht keine Stellung zwischen Anlage und Umwelt (wegen "Natürlicher Erziehung" oft als anlagendeterministisch "fehlinterpretiert" - aber wer kann schon sagen, was Rousseau wirklich meinte?)
 
 http://irinawerning.com/files/gimgs/11_back29.jpg (+ Vogel-Musik auf Spotify) 
 Foto: Was soll dazwischen passieren?
@@ -42,12 +46,14 @@ Kernfrage: Warum Erziehung?
 - Was ist "Émile - Oder über die Erziehung"? Der erster Pädagogik-Ratgeber? Rousseau als erste Super Nanny? Ein Roman? Eine philosophische Abhandlung?
 - 3 Meister der Erziehung (Natur, Menschen und Dinge): Schreibe etwas auf, das du, seit du dich erinnern kannst, schon besonders gut kannst.
 Schreibe einen Menschen auf, der dir dabei geholfen hat, diese Fähigkeit weiterzuentwickeln.
-Schreibe einen Gegenstand auf, der dich sehr beeindruckt hat.
+Schreibe einen Gegenstand auf, der dich sehr beeindruckt hat, mit/durch den etwas gelernt hast.
 Im Anschluss: Sind das Dinge, die in der Schule vorkamen oder außerhalb?
-Diese 3 Erzieher in Einklang miteinander zu bringen, das ist es, was Rousseau unter Natürlicher Erziehung versteht (und auch unter Glück)
+Diese 3 Erzieher in Einklang miteinander zu bringen, das ist es, was Rousseau unter Natürlicher Erziehung versteht (und auch unter Lebensglück)
+Schule nach Rousseau müsste das leisten!
 
-- Unterschied zwischen Bürger und Mensch (Verbindung zu Demokratie) ODER zwischen Zögling und Erzieher (Aufgaben) > braucht immer 2 Menschenbilder von Seiten der Pädagogik
-Brainstorming: Schattenumriss eines Menschen auf Magic-Chart und darin gemeinsam mit TN Begriffe einfügen
+- Unterschied zwischen Bürger und Mensch klären (Verbindung zu Demokratie) 
+- Ertragreicher Unterschiede zwischen Zögling und Erzieher (Aufgaben) > braucht immer 2 Menschenbilder von Seiten der Pädagogik
+Brainstorming: Schattenumriss eines Menschen auf Magic-Chart und darin gemeinsam mit TN Begriffe einfügen (Textarbeit)
 
 - Wenn das Gedankenexperiment von Émile zu Ende gedacht wird, sind dann alle Menschen "gleich"?
 
@@ -71,46 +77,40 @@ Brainstorming: Schattenumriss eines Menschen auf Magic-Chart und darin gemeinsam
 - "Wahl- und Meinungsfreiheit" in der Pädagogik:
 - Heini in 4er-Gruppen "nachspielen" (Stifte, Getränke oder Süßigkeiten)
 - Im Voraus bei GitHub nachschauen, wer sich mit Benner beschäftigt hat und ggf. als Beobachter bestimmen (Marvin, Nadine)
-- Zettel mit A, B, Beobachter auf den Boden vor die 4er-Stuhlkreise kleben, damit sichtbar
+- Zettel mit A, B, Beobachter auf den Boden vor die 4er-Stuhlkreise kleben, damit sichtbar, vor Start nicht reden
     - Aufgabe A: Deine Aufgabe besteht darin, Person B dazu zu bringen, einen Stift zu nehmen. Wichtig: Du darfst *unter keinen Umständen* für sie/ihn entscheiden, auch wenn es dir schwer fällt.
     - Aufgabe B: Person A wird dir gleich Stifte anbieten. Versuche sie/ihn dazu zu bringen, einen für dich auszusuchen. Du darfst *unter keinen Umständen* selbst einen auswählen, auch wenn A es dir nicht leicht machen wird.
-    - Beobachter A: Beobachte das Verhalten von Person A genau und notiere deine Beobachtungen und Interpretationen in der Tabelle. 
-    - Beobachter B: Beobachte das Verhalten von Person B genau und notiere deine Beobachtungen und Interpretationen in der Tabelle.
-- Auswertungsfragen: Wer war der Erzieher? Beobachtungen vorstellen und vergleichen
+    - Beobachter A: Beobachte das Verhalten von Person A genau und notiere deine Beobachtungen und Interpretationen in der Tabelle. (Folie)
+    - Beobachter B: Beobachte das Verhalten von Person B genau und notiere deine Beobachtungen und Interpretationen in der Tabelle. (Folie)
+- Auswertungsfragen: Wie habt ihr euch in den Rollen gefühlt? Wer war der Erzieher? Beobachtungen vorstellen und vergleichen
 - Beobachtungsmethoden kurz problematisieren
-- Hat Person A Person B's Unfähigkeit zu wählen, auf deren Anlagen zurückgeführt? (Interaktionsproblem! Person B war fremdbestimmt durch KL = "aufgelegtes Trauma") 
-- Prinzip der Bildsamkeit erklären (wer hat das Issue bearbeitet?), Bildsamkeit ist keine Eigenschaft, sondern ist ein Verhältnis, eine Relation, die Möglichkeit des Mitwirkens des Zu-Erziehenden an der päd. Interaktion ("Das Wünschen lernen")
+- Hat Person A Person B's Unfähigkeit zu wählen, auf deren Anlagen zurückgeführt? (Interaktionsproblem! Person B war fremdbestimmt durch KL = "aufgelegtes Trauma")
+
+
+- Präsentation TN
+
+- Verbindung: Prinzip der Bildsamkeit erklären (wer hat das Issue bearbeitet?), Bildsamkeit ist keine Eigenschaft, sondern ist ein Verhältnis, eine Relation, die Möglichkeit des Mitwirkens des Zu-Erziehenden an der päd. Interaktion ("Das Wünschen lernen")
 - Bedingung: Der Lerner kann von seiner Bildsamkeit Gebrauch machen (Beachte trotzdem die Imperfektheit!)
 - Nur mit der Bildsamkeit würde Erziehung nie aufhören, daher Selbsttätigkeit
-- erneut auf die Beobachtungen zurückgreifen und Leiblichkeit, Freiheit, Geschichtlichkeit und Sprache erklären
+- erneut auf die Beobachtungen zurückgreifen und Leiblichkeit, Freiheit, Geschichtlichkeit und Sprache erklären: 
+    
+    "Unser *Leib* stellt weder eine von außen steuerbare Maschine noch ein in sich geschlossenes autopoietisches System dar, sonder ein Organ durch das und mit dem wir Welt und uns selbst erfahren und durch das und mit dem wir uns anderen gegenüber artikulieren. 
+    Unser *Freiheit*spotential besteht weder in einer bloßen Wahl zwischen vorgegebenen Alternativen noch in der Beliebigkeit reiner Willkür, sondern in der Fähigkeit, sich an der Formung unserer eigenen ungeformten Natur zu beteiligen. 
+    Unserer *Geschichtlichkeit* werden wir weder als schicksalsergebene Opfer noch alles kontrollierende Herren gerecht, sondern indem wir im gegenwärtigen Rückblick auf Vergangenes die Zukunft gestalten. 
+    Unsere *Sprache* ist weder eine reine Abbildung von Gegenständen noch ausschließlich das Ergebnis einer intersubjektiven Vereinbarung, sondern erinnernde und entwerfende Vermittlungsinstanz zwischen Mensch und Welt und Mensch und Mensch. Über ihre allgemeine Aussagen teilen wir uns konkret Gemeintes mit."
+
 - Ende der Pädagogik (Im Unterschied zu Demokratie/Wirtschaft...), Paradoxie klären als Bejahung von Pädagogik nicht als Unmöglichkeit (S. 90: "den
-Zu‐Erziehenden zu etwas aufzufordern, das er noch nicht kann, und ihn als jemanden zu achten, der er noch nicht ist")
+Zu‐Erziehenden zu etwas aufzufordern, das er noch nicht kann, und ihn als jemanden zu achten, der er noch nicht ist") Kann man auch sich selbst gegenüber tun, ohne überheblich zu werden.
+vgl. Filmausschnitt Peschel (Mathe lernen)
 
 - Es gäbe die Möglichkeit, die Geschichte von Karl vorzulesen
-- Bezug zu Autonomie und Inhärenter Gleichheit
+- Bezug zu Autonomie (im Kontext von Selbsttätigkeit) und Inhärenter Gleichheit (z.B. Bildsamkeit von allen anzuerkennen)
 - In dem Zusammenhang auch den Begriff der Mündigkeit nennen („als *Selbstkompetenz*, d.h. als Fähigkeit, für sich selbst verantwortlich handeln zu können, als *Sachkompetenz*, d.h. für Sachbereiche urteils- und handlungsfähig und damit zuständig sein zu können und
-als *Sozialkompetenz*, d.h. für sozial, gesellschaftlich und politisch relevante Sach- oder Sozialbereiche urteils- und handlungsfähig sein
-zu können." (Roth 1971, S. l80)
+als *Sozialkompetenz*, d.h. für sozial, gesellschaftlich und politisch relevante Sach- oder Sozialbereiche urteils- und handlungsfähig sein zu können." (Roth 1971, S. l80)
 
  
 *Wichtige Zitate:*
 
-
-#Sitzung Symbolischer Interaktionismus / Sozialisation / soziales Lernen (Mead)
-*Warum dieser Text?*
-Problematisierung soziale Rollen in der Gesellschaft
-Problematisierung unbestimmte Bildsamkeit
-Wir schauen uns eine  Theorie an, die zeigt, wie die Menschen basal sozial interagieren und ihre Identität *durch die Anderen* konstruieren.
-
-Aspekte: Handeln in Rollen, Selbst- und Fremdwahrnehmung, Aufbau von Identität, Erwartungen, Prägung durch Gesellschaft
-
-*Mögliche Aufgaben und Fragen:*
-Spiel Rollen
-*Wichtige Zitate:*
-
-"Der Mensch wird am Du zum Ich." (Martin Buber) bzw. "Der Mensch wird zu dem Ich, dessen Du wir ihm sind." (Georg Feuser) > Dialog
-
-Siebert bezieht sich auf kurz auf den SI (S. 25: "Da ein solches „Bildungsstreben“ von dem sozialen Umfeld angeregt und unterstützt wird, wird der kognitionstheoretische Individualismus durch einen „symbolischen Interaktionismus“ ergänzt. U n d auch deshalb ist ein seminaristisches soziales Lernen erforderlich. Niemand lernt „im luftleeren Raum“ und nur „im stillen Kämmerlein“.")
 
 # Sitzung Konstruktivismus (Lehrbuchtexte)
 *Warum dieser Text?*
@@ -120,21 +120,60 @@ Siebert bezieht sich auf kurz auf den SI (S. 25: "Da ein solches „Bildungsstre
 - Welchen Einfluss haben andere Menschen auf das Lernen des Individuums (Siebert spricht es nur am Rande an, S. 24, 25 "Lernberater" und S. 20: "Für sein Denken, Lernen und Nichtlernen ist jeder selbst verantwortlich." Auf Vygotski und Piaget verweisen)
 
 *Mögliche Aufgaben und Fragen:*
-- Kopf und Maus
+- Kopf und Maus (in Abwandelung: 1 malt, 1 schreibt Begriff, 1 malt, 1 schreibt Begriff) dann aufklappen (Konstruktion, Rekonstruktion, Dekonstruktion?)
 - Bild Mathematikunterricht (sehen können, sehen lernen, die Schwierigkeit/Einfachheit vom Lernen) > Daran Begriffe klären (s. Github img)
-- Kurzpräsentation TN
-- Bichsel Geschichte vorlesen (am Ende um Probleme des reinen Konstruktivismus aufzuzeigen)? zu pessimistisch
+- Kurzpräsentation TN und Diskussion
 
 - Ist der Mensch vereinzelt oder sozial? (auf jeden Fall individuell und einzigartig!)
 - Wenn nur nach der Theorie des (radikalen) Konstruktivismus ausgegangen würde, würden wir vereinzelt sein und niemand könnte sich mehr verstehen, wie wäre dann überhaupt noch eine demokratische, soziale Schule möglich? 
-- An Issues orientieren!
+- An Issues orientieren! (Basiswissen)
+
 *Wichtige Zitate:*
+
+
+#Sitzung Symbolischer Interaktionismus / Sozialisation / soziales Lernen (Mead) langer Block!
+*Ablauf*
+- Bichsel einstieg um Konstruktivismus zu "revidieren"
+- kurze Überleitung Mead
+- Präsentation TN
+- Interaktionsspiel
+- Auswertung und Bezug zu Mead und Bedeutung dieser Theorie für Inklusion / Demokratie (Text U.K.)
+
+*Warum dieser Text?*
+- Schule will auch die Persönlichkeit unterstützen, wie wird Identität gelernt (I und Me nicht im Gegensatz)? Wie könnte auf der Theorie von Mead eine Schule aussehen?
+Problematisierung soziale Rollen in der Gesellschaft
+Problematisierung unbestimmte Bildsamkeit
+Wir schauen uns eine  Theorie an, die zeigt, wie die Menschen ständig interagieren und ihre Identität *durch die Anderen* konstruieren (auch ein Konstruktionsprozess, aber sozial!).
+- Pragmatismus (Bezug zu Dewey) mit den Grundmotiven: Vertrauen in die emanzipatorischen Chancen wissenschaftlicher Rationalität, das Bestreben den Geist im Organismus zu verwurzeln und der intersubjektivitätstheoretische Versuch, das Ich als sozial entstandenes zu begreifen.
+- Meads Ansatz war es, die sozialen Bedingungen und Funktionen der Selbstreflexivität von Individuen aufzuklären (Biografie Mead, akademische Herkunft)
+- Unterschied zwischen der Behandlung von sozialen und gegenständlichen Objekten (also auch Sozialwissenschaften und Naturwissenschaften): Soziale Objekte sind auch auch *wahrnehmende* Objekte > Konsequenzen (Interaktion!)
+- Beschäftigt sich verstärkt mit Sprache, die als Angelegenheit des Einzelnen (Solipsismus!) nicht zu erklären sind (vgl. Bichsel)
+- Ursprung der Sprache: primitive Ausdrucksregungen, als eine von mehreren Bewegungen (daher die Beschäftigung mit Gebärden) aus Mitbewegungen werden Antwortbewegungen, Entstehung des "gemeinsamen" im Wechselverkehr der Gebärenäußerungen
+- gegen Nachahmung, da sie soziales Bewusstsein voraussetzt (Mead stattdessen Kooperation, vgl. Zitat)
+- Bedeutung ist in den Handlungsbeziehungen zwischen Subjekten verwurzelt (Erweiterung Konstruktivismus)
+- Daher: Unterscheidung der Grundstruktur menschlicher Sozialität von allen allen tierischen Sozialformen
+- Zhg. zu Kooperation: kollektives Handeln ist *nicht* eine bloße Aneinanderreihung von indivuellen Handlungen
+    + menschliche Kommunikation nicht auf Nachahmung, sondern auf Kooperation ausgelegt
+    + Textausschnitte lesen
+    + keine Robinsonade (ungleich Konstruktivismus)
+- Wie kann individuelles, nicht naturhaft festgelegtes Verhalten ausdifferenziert und über wechselseitige Verhaltenserwartungen zu einer einheitlihen Gruppenaktivität integriert werden > Kommunikationsfähigkeit
+
+
+Aspekte: Handeln in Rollen, Selbst- und Fremdwahrnehmung, Aufbau von Identität, Erwartungen, Prägung durch Gesellschaft
+
+
+*Wichtige Zitate:*
+
+"Der Mensch wird am Du zum Ich." (Martin Buber) bzw. "Der Mensch wird zu dem Ich, dessen Du wir ihm sind." (Georg Feuser) > Dialog
+
+Siebert bezieht sich auf kurz auf den SI (S. 25: "Da ein solches „Bildungsstreben“ von dem sozialen Umfeld angeregt und unterstützt wird, wird der kognitionstheoretische Individualismus durch einen „symbolischen Interaktionismus“ ergänzt. U n d auch deshalb ist ein seminaristisches soziales Lernen erforderlich. Niemand lernt „im luftleeren Raum“ und nur „im stillen Kämmerlein“.")
 
 Sitzung Zimpel 
 *Warum dieser Text?*
 - Thema Bildungsgerechtigkeit und Schulsystem
 - Pädagogik Populärwissenschaftlich
 - an dieser Stelle können gut die Begriffe Heterogentität (Heterogenität nutzen!) und auch Prinzipien des Gemeinsamen Unterrichts (Natürliche Differenzierung, Arbeit an einem gemeinsamen Gegenstand, vielfältige Kooperationsformen) besprochen werden
+- oder hier: Heterogenitätsdimensionen als Einstieg (Verweis auf Rollenspiel)
 
 *Mögliche Aufgaben und Fragen:*
 zusammen mit Max?
@@ -143,10 +182,23 @@ zusammen mit Max?
 
 Sitzung Epilog: Dewey
 *Warum dieser Text?*
+- Demokratie als Lebensform
+- Erziehung ist sozial (vgl. Mead)
+- Zweck der Erziehung (Reaktion auf sich wandelnde Gesellschaft): soziale Funktion, erinnern an Chicage
+- Dewey sucht nach dem Gemeinsamen der einzelnen sozialen Gruppen
+- Kriterien für Demokratie: wechselseitiges Interesse und soz. Wechselwirkungen zwischen Gruppen
+- Kapitel 9 noch unklar (hier werden Gegensätze erzieherischer Ziele aufgelöst, vielleicht als Ergänzung?)
+
 *Mögliche Aufgaben und Fragen:*
-Deweys Sicht auch Rousseau (Anlagenbestimmt) im Vergleich zu Benner (darauf hinweisen, dass Klassiker verschiedene z.T. widersprüchliche Lesarten haben) Konkrete Textarbeit: Zu welchem Zwecke in der Argumentation nutzt Dewey Rousseau?
+- Wie sieht Dewey den Zusammenhang zwischen Demokratie und Erziehung?
+- Wie beurteilt er dies bei Plato, bei Rousseau und der National- und Sonderpädagogik (Gruppenarbeit)
+- Deweys Sicht auf Rousseau (Anlagenbestimmt) im Vergleich zu Benner (darauf hinweisen, dass Klassiker verschiedene z.T. widersprüchliche Lesarten haben) Konkrete Textarbeit: Zu welchem Zwecke in der Argumentation nutzt Dewey Rousseau?
 
 *Wichtige Zitate:*
+
+"Die Demokratie ist mehr als eine Regierungform; sie ist in erster Linie eine Form des Zusammenlebens, der gemeinsamen und miteinander geteilten Erfahrung." (S. 121)
+
+"Eine unerwünschte „Gesellschaft" mit anderen Worten ist eine solche, die durch Schranken, die sie innerhalb ihrer selbst und um sich herum aufrichtet, den freien Verkehr und den Austausch der Erfahrung hemmt. Eine Gesellschaft dagegen, die für die gleichmäßige Teilnahme aller ihrer Glieder an ihren Gütern und für immer erneute biegsame Anpassung ihrer Einrichtungen durch Wechselwirkung zwischen den verschiedenen Formen des Gemeinschaftslebens sorgt, ist insoweit demokratisch. Eine solche Gesellschaft braucht eine Form der Erziehung, die in den einzelnen ein persönliches Interesse an sozialen und am Einfluß der Gruppen weckt und diejenigen geistigen Gewöhnungen schafft, die soziale Umgestaltungen sichern, ohne Unordnung herbeizuführen." (S. 136)
 
 Projektphase (Freinet, Illich)
 *Warum dieser Text?*
@@ -278,6 +330,4 @@ Dokuabgabe
 Fr
 Kursabschluss
 Auswertung und Aufräumen
-
-
 
