@@ -155,7 +155,7 @@ Materialien: Rollen für TN und Fragenkatalog für KL (Max kann evtl. mitspielen
 ABLAUF
 
 Schritt 1: Ausgabe der Rollen und Einfühlen in die Rollen;
-Die Teilnehmenden stellen sich nebeneinander am ende eines Raumes auf. KL gibt die Rollenkarten aus und liest sie bei der Vergabe laut vor (oder "anonym"). Anschließend erfolgt mit Hilfe einiger Fragen eine kurze Einstimmung in die Rollen, um den Einfühlungsprozess zu erleichtern.
+Die Teilnehmenden stellen sich nebeneinander am Ende eines Raumes auf. KL gibt die Rollenkarten aus und liest sie bei der Vergabe laut vor (oder "anonym"). Anschließend erfolgt mit Hilfe einiger Fragen eine kurze Einstimmung in die Rollen, um den Einfühlungsprozess zu erleichtern.
 
 EINSTIMMUNGSFRAGEN
 - Wie war oder ist deine Kindheit?
@@ -169,7 +169,7 @@ Schritt 2: Positionierung in den Rollen
 Im Anschluss daran werden Fragen gestellt, die von den TN aus ihrer jeweiligen Rolle heraus zu beantworten sind. Können sie die Frage mit „ja“ beantworten, gehen die TN deutlich einen schritt vorwärts. Wenn sie die Frage (eher) mit „nein“ beantworten, bleiben sie stehen (subjektive Einschätzung!)
 
 Schritt 3: Zwischenauswertung in den Rollen
-nach der letzten Frage bleiben die Mitspieler/-innen an ihrem Platz stehen, ohne aus der rolle herauszukommen. KL stellt Fragen zu der Position der Beteiligten im Raum (ggf. jetzt vorlesen, wer er/sie ist):
+nach der letzten Frage bleiben die Mitspieler/-innen an ihrem Platz stehen, ohne aus der Rolle herauszukommen. KL stellt Fragen zu der Position der Beteiligten im Raum (ggf. jetzt vorlesen, wer er/sie ist):
 - Wie ist es, so weit vorn zu stehen?
 - Welche Fragen haben sie nach vorn gebracht? 
 - Wann haben sie festgestellt, dass andere nicht so schnell voran kamen wie sie?
@@ -205,7 +205,7 @@ NATASCHA
 14 Jahre, interessiert sich für Informatik und Architektur, fühlt sich in ihrem Gymnasium unterfordert und gelangweilt und würde lieber die Zeit des Unterrichts nutzen, um selbstständig zu Hause zu lernen.
 
 RICARDO
-7 Jahre alt, wiederholt gerade die 1. Klasse, lebt bei alleinerziehendem Vater. Dieser leidet an einer Alkoholsucht. Ricardo hat selten morgens etwas gefrühstückt, seine Kleidung ist meist verschmutzt. Besitzt kein eigenes Zimmer. Er wirkt in sich gekehrt und spricht kaum.
+7 Jahre alt, wiederholt gerade die 1. Klasse, lebt bei alleinerziehendem Vater, welcher an einer Alkoholsucht leidet. Ricardo hat selten morgens etwas gefrühstückt, seine Kleidung ist verschmutzt. Zu Hause besitzt er kein eigenes Zimmer. Meist wirkt er in sich gekehrt und spricht kaum.
 
 AMRIT
 ein 13-jähriger Asylbewerber kurdischer Herkunft aus dem Irak, besuchte dort eine höhere Schule. Weder er noch seine Familie kennen das deutsche Schulsystem. Amrit wurde nach 2 Monaten in einer "Willkommensklasse" in die angrenzende Hauptschule versetzt, so wie es die Regel ist. 
@@ -214,10 +214,10 @@ IGOR
 ein 14-jähriger Schulverweigerer. Igors Eltern befinden sich im jahrelangen Rechtsstreit mit dem Schulamt und versuchen nach Frankreich auszuwandern, um dort Homeschooling frei praktizieren zu können.
 
 AYA
-eine 28-jährige in Deutschland geborene Krankenpflegerin, türkischer Herkunft, lebt in Weimar, geschieden mit einem Kind, ist aus körperlichen Gründen nicht mehr in der Lage, in ihrem Beruf zu arbeiten. Kann sich eine private Umschulung zur Musiktherapeutin nicht leisten.
+eine 28-jährige in Deutschland geborene Krankenpflegerin, türkischer Herkunft, lebt in Weimar, geschieden mit einem Kind; Ist aus körperlichen Gründen nicht mehr in der Lage in ihrem Beruf zu arbeiten. Kann sich eine private Umschulung zur Musiktherapeutin nicht leisten.
 
 ULI
-eine 22- jährige Punkerin aus Jena, ehemalige Hausbesetzerin, Mitbewohnerin eines alternativen Hausprojekts, jobbt am Empfang in einem Museum, ledig.
+eine 22-jährige Punkerin aus Jena, ehemalige Hausbesetzerin, Mitbewohnerin eines alternativen Hausprojekts, jobbt am Empfang in einem Museum, ledig.
 
 NILS
 24-jähriger gelernter Fremdsprachenassistent: berufstätig, jüdisch, schwul, wohnt ohne die Erlaubnis des Vermieters mit seinem Freund zusammen.
@@ -231,8 +231,8 @@ PAUL
 SARAH
 eine 26-jährige dunkelhäutige deutsche Lehramtsstudentin für Sport und Chemie, deren Mutter aus Altenburg und Vater aus Kamerun kommt. Sie lebt in Marburg und engagiert sich im Landessportbund. (20+ Ja)
 
-ZARAA
-ein 9-jähriger unbegleiteter Flüchtling aus Syrien, kriegstraumatisiert, lebt seit 8 Monaten in einer Gemeinschaftunterkunft für minderjährige Asylbewerber. Ausweisung erfolgt, sobald lebende Verwandte ermittelt werden können. (4 Ja)
+ZARA
+9-jähriges Mädchen, kam als unbegleiteter Flüchtling aus Syrien, kriegstraumatisiert, lebt seit 8 Monaten in einer Gemeinschaftunterkunft für minderjährige Asylbewerber. Ausweisung erfolgt, sobald lebende Verwandte ermittelt werden können. (4 Ja)
 
 LUCA
 16 Jahre mit geistiger Behinderung; lebt seit dem 3. Lebensjahr in einem Heim im Saarland, keine Lautsprache, beherrscht einfache Alltagsgesten. Wird im Heim unterrichtet und hat Aussicht auf einen Platz in einer Behindertenwerkstatt. (8 Ja)
@@ -241,16 +241,17 @@ NORI
 13-Jährige rumänischer Herkunft, unregelmäßiger Schulbesuch, verbringt den Tag zusammen mit einer organisierten Bettlergruppe, leben zusammen in einem einsturzgefärdeten Gebäude, das regelmäßig von der Polizei geräumt wird. (4 Ja)
 
 KIM
-17-Jährige mit cerebraler Bewegungsstörung, die die Koordination ihres Körpers stark beeinträchtigt. Sie hat gelernt, sich mit einem Talker zu verständigen und auch Texte mit Assistenz schreiben. Würde gerne Abitur machen, um später Physik zu studieren. Bisher ist keine Oberschule in der Nähe bereit sie aufzunehmen. (10 Ja)
+17-Jährige mit cerebraler Bewegungsstörung, die zu einer starken Beeinträchtigung ihrer körperlichen Koordination führt. Sie hat gelernt, sich mit einem Talker (=Sprachcomputer) auszudrücken und kann damit auch Texte mit Assistenz schreiben. Würde gerne Abitur machen, um später Physik zu studieren. Bisher ist keine Oberschule in der Nähe bereit sie aufzunehmen. (10 Ja)
 
 FRIEDERIKE 
-15 Jahre, aufgrund eines Unfalls vor 7 Jahren gehörlos. Seit Ende der Integrativen Grundschule im Dorf fährt sie täglich über 2h mit dem Schulbus zur Sonderschule für Hörgeschädigte in die Stadt und wieder zurück. Für ihre alten Freunde und ihr Hobby Reiten bleibt kaum mehr Zeit. (10 Ja)
+15 Jahre, aufgrund eines Unfalls vor 8 Jahren gehörlos. Seit Ende der Integrativen Grundschule im Dorf fährt sie täglich über 2h mit dem Schulbus zur Sonderschule für Hörgeschädigte in die Stadt und wieder zurück. Für ihre alten Freunde und ihr Hobby Pferde bleibt kaum noch Zeit. (10 Ja)
 
 MOHAMMED
-12 Jahre, deutsch, islamisches Elternhaus, besucht ein Förderzentrum in Berlin-Neukölln (Schwerpunkt Lernen und emotional-soziale Entwicklung), würde gerne ein Mädchen sein und verkleidet sich am liebsten in seiner Freizeit. Dies stößt in seinem Umfeld zunehmen auf Irritationen. (20 Ja)
+12 Jahre, deutsch, islamisches Elternhaus, besucht ein Förderzentrum in Berlin (Schwerpunkt Lernen und emotional-soziale Entwicklung), würde gerne ein Mädchen sein und verkleidet sich am liebsten in seiner Freizeit. Dies stößt in seinem Umfeld zunehmen auf Irritationen. (20 Ja)
 
 
-FRAGENBEISPIELE (bearbeiten!)
+FRAGENBEISPIELE
+
 HAST DU ...
 
 - die deutsche Staatsbürgerschaft?

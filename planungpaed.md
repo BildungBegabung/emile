@@ -9,7 +9,8 @@
 Aspekte Pädagogik:
 
 - Pädagogik fragt nach den Bedingungen, Möglochkeiten, Hindernissen und Grenzen der Einführung der nächsten Generation in die Gesellschaft > Unterstellung, dass der junge Mensche dieser Unterstützung bedarf
-- Aber auch Gedanken der Veränderung!
+- Aber auch Gedanke der Veränderung und Innovation! (z.B. 2 Seiten der Kultur)
+- Unterschied Didaktik, Methodik (und in welchen Bereichen wir uns bewegen werden) + Bezugswissenschaften
 - Inhärente Gleichheit und Autonomie oder die Frage nach der Kooperation
 - Ausgleich zwischen Individuum und Gesellschaft
 - Haus erklären (Wie soll das Zusammenleben und *Lernen* demokratisch organisiert werden?)
@@ -28,7 +29,7 @@ Dimensionen von Lerntheorien:
 
 
 # Sitzung Prolog: Rousseau
-Können beide KL das Haus hier gemeinsam exemplarisch ausfüllen? 
+Können beide KL das Haus hier gemeinsam exemplarisch ausfüllen? (Menschenbild ja)
 
 *Warum dieser Text?*
 
@@ -44,12 +45,13 @@ Kernfrage: Warum Erziehung?
 *Mögliche Aufgaben und Fragen:*
 
 - Was ist "Émile - Oder über die Erziehung"? Der erster Pädagogik-Ratgeber? Rousseau als erste Super Nanny? Ein Roman? Eine philosophische Abhandlung?
-- 3 Meister der Erziehung (Natur, Menschen und Dinge): Schreibe etwas auf, das du, seit du dich erinnern kannst, schon besonders gut kannst.
-Schreibe einen Menschen auf, der dir dabei geholfen hat, diese Fähigkeit weiterzuentwickeln.
-Schreibe einen Gegenstand auf, der dich sehr beeindruckt hat, mit/durch den etwas gelernt hast.
+- 3 Meister der Erziehung (Natur, Menschen und Dinge): 
+    - Schreibe etwas auf, das du, seit du dich erinnern kannst, schon besonders gut kannst.
+    - Schreibe einen Menschen auf, der dich sehr beeindruckt hat, mit/durch den du etwas gelernt hast.
+    - Schreibe einen Gegenstand auf, der dich sehr beeindruckt hat, mit/durch den du etwas gelernt hast.
+Einklang dieser 3 Erzieher (S. 49) Text lesen 
 Im Anschluss: Sind das Dinge, die in der Schule vorkamen oder außerhalb?
-Diese 3 Erzieher in Einklang miteinander zu bringen, das ist es, was Rousseau unter Natürlicher Erziehung versteht (und auch unter Lebensglück)
-Schule nach Rousseau müsste das leisten!
+> Schule nach Rousseau müsste das anstreben!
 
 - Unterschied zwischen Bürger und Mensch klären (Verbindung zu Demokratie) 
 - Ertragreicher Unterschiede zwischen Zögling und Erzieher (Aufgaben) > braucht immer 2 Menschenbilder von Seiten der Pädagogik
@@ -70,15 +72,15 @@ Brainstorming: Schattenumriss eines Menschen auf Magic-Chart und darin gemeinsam
 *Warum dieser Text?*
 -Anknüpfung an Rousseau > Verallgemeinerung der in Émile angesprochenen Prinzipien (Päd. Umgang mit Gleichheit/Ungleichheit) Statt Anlagendetermination>Bildsamkeit und statt Umweltdetermination>Selbsttätigkeit
 - beides ist interaktiv! (vgl. Rousseaus Beispiel "Die Tränen des Kindes")
-- Gleichzeitig: Erweiterung von Émile, da nicht mehr die natürlichen (angeborenen) Faktoren im Mittelpunkt stehen
+
 
 *Mögliche Aufgaben und Fragen:*
 
 - "Wahl- und Meinungsfreiheit" in der Pädagogik:
 - Heini in 4er-Gruppen "nachspielen" (Stifte, Getränke oder Süßigkeiten)
-- Im Voraus bei GitHub nachschauen, wer sich mit Benner beschäftigt hat und ggf. als Beobachter bestimmen (Marvin, Nadine)
+- Im Voraus bei GitHub nachschauen, wer sich mit Benner beschäftigt hat und ggf. als Beobachter bestimmen (Marvin, Nadine, Susanna)
 - Zettel mit A, B, Beobachter auf den Boden vor die 4er-Stuhlkreise kleben, damit sichtbar, vor Start nicht reden
-    - Aufgabe A: Deine Aufgabe besteht darin, Person B dazu zu bringen, einen Stift zu nehmen. Wichtig: Du darfst *unter keinen Umständen* für sie/ihn entscheiden, auch wenn es dir schwer fällt.
+    - Aufgabe A: Deine Aufgabe besteht darin, Person B dazu zu bringen, einen Stift (oder xy) zu nehmen. Wichtig: Du darfst *unter keinen Umständen* für sie/ihn entscheiden, auch wenn es dir schwer fällt.
     - Aufgabe B: Person A wird dir gleich Stifte anbieten. Versuche sie/ihn dazu zu bringen, einen für dich auszusuchen. Du darfst *unter keinen Umständen* selbst einen auswählen, auch wenn A es dir nicht leicht machen wird.
     - Beobachter A: Beobachte das Verhalten von Person A genau und notiere deine Beobachtungen und Interpretationen in der Tabelle. (Folie)
     - Beobachter B: Beobachte das Verhalten von Person B genau und notiere deine Beobachtungen und Interpretationen in der Tabelle. (Folie)
@@ -120,7 +122,7 @@ als *Sozialkompetenz*, d.h. für sozial, gesellschaftlich und politisch relevant
 - Welchen Einfluss haben andere Menschen auf das Lernen des Individuums (Siebert spricht es nur am Rande an, S. 24, 25 "Lernberater" und S. 20: "Für sein Denken, Lernen und Nichtlernen ist jeder selbst verantwortlich." Auf Vygotski und Piaget verweisen)
 
 *Mögliche Aufgaben und Fragen:*
-- Kopf und Maus (in Abwandelung: 1 malt, 1 schreibt Begriff, 1 malt, 1 schreibt Begriff) dann aufklappen (Konstruktion, Rekonstruktion, Dekonstruktion?)
+- Kopf und Maus (in Abwandelung: 1 malt, 1 schreibt Begriff, 1 malt, 1 schreibt Begriff) dann aufklappen (Konstruktion, Rekonstruktion, Dekonstruktion)
 - Bild Mathematikunterricht (sehen können, sehen lernen, die Schwierigkeit/Einfachheit vom Lernen) > Daran Begriffe klären (s. Github img)
 - Kurzpräsentation TN und Diskussion
 
@@ -133,7 +135,6 @@ als *Sozialkompetenz*, d.h. für sozial, gesellschaftlich und politisch relevant
 
 #Sitzung Symbolischer Interaktionismus / Sozialisation / soziales Lernen (Mead) langer Block!
 *Ablauf*
-- Bichsel einstieg um Konstruktivismus zu "revidieren"
 - kurze Überleitung Mead
 - Präsentation TN
 - Interaktionsspiel
@@ -146,9 +147,9 @@ Problematisierung unbestimmte Bildsamkeit
 Wir schauen uns eine  Theorie an, die zeigt, wie die Menschen ständig interagieren und ihre Identität *durch die Anderen* konstruieren (auch ein Konstruktionsprozess, aber sozial!).
 - Pragmatismus (Bezug zu Dewey) mit den Grundmotiven: Vertrauen in die emanzipatorischen Chancen wissenschaftlicher Rationalität, das Bestreben den Geist im Organismus zu verwurzeln und der intersubjektivitätstheoretische Versuch, das Ich als sozial entstandenes zu begreifen.
 - Meads Ansatz war es, die sozialen Bedingungen und Funktionen der Selbstreflexivität von Individuen aufzuklären (Biografie Mead, akademische Herkunft)
-- Unterschied zwischen der Behandlung von sozialen und gegenständlichen Objekten (also auch Sozialwissenschaften und Naturwissenschaften): Soziale Objekte sind auch auch *wahrnehmende* Objekte > Konsequenzen (Interaktion!)
+- Unterschied zwischen der Behandlung von sozialen und gegenständlichen Objekten (also auch Sozialwissenschaften und Naturwissenschaften): Soziale Objekte sind auch *wahrnehmende* Objekte > Konsequenzen (Interaktion!)
 - Beschäftigt sich verstärkt mit Sprache, die als Angelegenheit des Einzelnen (Solipsismus!) nicht zu erklären sind (vgl. Bichsel)
-- Ursprung der Sprache: primitive Ausdrucksregungen, als eine von mehreren Bewegungen (daher die Beschäftigung mit Gebärden) aus Mitbewegungen werden Antwortbewegungen, Entstehung des "gemeinsamen" im Wechselverkehr der Gebärenäußerungen
+- Ursprung der Sprache: primitive Ausdrucksregungen, als eine von mehreren Bewegungen (daher die Beschäftigung mit Gebärden) aus Mitbewegungen werden Antwortbewegungen, Entstehung des "gemeinsamen" im Wechselverkehr der Gebärdenäußerungen
 - gegen Nachahmung, da sie soziales Bewusstsein voraussetzt (Mead stattdessen Kooperation, vgl. Zitat)
 - Bedeutung ist in den Handlungsbeziehungen zwischen Subjekten verwurzelt (Erweiterung Konstruktivismus)
 - Daher: Unterscheidung der Grundstruktur menschlicher Sozialität von allen allen tierischen Sozialformen
@@ -156,7 +157,7 @@ Wir schauen uns eine  Theorie an, die zeigt, wie die Menschen ständig interagie
     + menschliche Kommunikation nicht auf Nachahmung, sondern auf Kooperation ausgelegt
     + Textausschnitte lesen
     + keine Robinsonade (ungleich Konstruktivismus)
-- Wie kann individuelles, nicht naturhaft festgelegtes Verhalten ausdifferenziert und über wechselseitige Verhaltenserwartungen zu einer einheitlihen Gruppenaktivität integriert werden > Kommunikationsfähigkeit
+- Wie kann individuelles, nicht naturhaft festgelegtes Verhalten ausdifferenziert und über wechselseitige Verhaltenserwartungen zu einer einheitlichen Gruppenaktivität integriert werden > Kommunikationsfähigkeit
 
 
 Aspekte: Handeln in Rollen, Selbst- und Fremdwahrnehmung, Aufbau von Identität, Erwartungen, Prägung durch Gesellschaft
@@ -165,6 +166,9 @@ Aspekte: Handeln in Rollen, Selbst- und Fremdwahrnehmung, Aufbau von Identität,
 *Wichtige Zitate:*
 
 "Der Mensch wird am Du zum Ich." (Martin Buber) bzw. "Der Mensch wird zu dem Ich, dessen Du wir ihm sind." (Georg Feuser) > Dialog
+
+
+Der Einwand, daß Behinderung nicht alleine vom Sozialisationsaspekt her definiert werden kann, wird damit begründet, daß eine individuelle Beeinträchtigung wie zum Beispiel eine körperliche Behinderung schon am Anfang des Sozialisationsprozesses stehen kann,und nicht erst das Er- gebnis eines solchen Prozesses ist. Dieser Einwand wirft die zentrale Frage auf, ob eine individ.uelle Beeinträchtigung selbst schon als soziale Behin- derung verstanden werden kann, _ob hier also ein Kausalzusammenhang gesehen wird oder nicht. Zunächst aber kann man feststellen, daß es ge- nerell diesen Kausalzusammenhang nicht gibt, daß nicht jede individuelle Beeinträchtigung zugleich eine soziale Behinderung zur Folge ha
 
 Siebert bezieht sich auf kurz auf den SI (S. 25: "Da ein solches „Bildungsstreben“ von dem sozialen Umfeld angeregt und unterstützt wird, wird der kognitionstheoretische Individualismus durch einen „symbolischen Interaktionismus“ ergänzt. U n d auch deshalb ist ein seminaristisches soziales Lernen erforderlich. Niemand lernt „im luftleeren Raum“ und nur „im stillen Kämmerlein“.")
 
@@ -184,7 +188,7 @@ Sitzung Epilog: Dewey
 *Warum dieser Text?*
 - Demokratie als Lebensform
 - Erziehung ist sozial (vgl. Mead)
-- Zweck der Erziehung (Reaktion auf sich wandelnde Gesellschaft): soziale Funktion, erinnern an Chicage
+- Zweck der Erziehung (Reaktion auf sich wandelnde Gesellschaft): soziale Funktion, erinnern an Chicago
 - Dewey sucht nach dem Gemeinsamen der einzelnen sozialen Gruppen
 - Kriterien für Demokratie: wechselseitiges Interesse und soz. Wechselwirkungen zwischen Gruppen
 - Kapitel 9 noch unklar (hier werden Gegensätze erzieherischer Ziele aufgelöst, vielleicht als Ergänzung?)
