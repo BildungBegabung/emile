@@ -1,6 +1,7 @@
 # Kennenlern- und Namenslernspiele für Donnerstagabend (Begrüßung im Kurs)
 
 
+
 ## 1) Klaus küsst kolossal.
 
 - Ziel: Namen zum ersten Mal hören, Spaß
@@ -32,6 +33,26 @@
 - Die Tandems haben auch Zeit, sich zu unterhalten.
 - Nach 5 Minuten stellt jeder seinen Partner dem Kurs vor und zeigt den anderen das Portrait (kann auch als Galerie inszeniert werden).
 - Abschließend wird das Portrait signiert und dem Partner geschenkt.
+
+
+## 4) Aufstellen
+
+- Wie wohl habe ich mich auf GitHub gefühlt?
+- Augenfarbe
+- Schuhgröße
+- Einstellung zu Technik
+- Lieblingsautor im Reader
+- Herkunftsort
+- Anzahl Geschwister
+- 3. Buchstabe im Vornamen
+- Alter
+
+
+## 5) Namens-Chaos
+Musikanlage
+
+Beschreibung des Spiels: Der Spielleiter macht die Musik an. Alle sollen sich durch den Raum bewegen (auf Ansage auch hüpfen, schleichen, schreiten, etc.). Irgendwann macht der Spielleiter die Musik aus und ruft einen Namen aus der Gruppe, z.B. Peter. Nun müssen alle zu der Person laufen, von der sie glauben, dass dies „Peter“ ist und ihn freundlich begrüßen!
+Die letzte Person die ankommt, scheidet aus und muss den nächsten Namen ansagen.
 
 
 
