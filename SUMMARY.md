@@ -8,8 +8,9 @@
   * [Tilly](Exposition/Tilly.md)
   * [Dahl](Exposition/Dahl.md)
   * [Siebert](Exposition/siebert.md)
-  * [Kleinberg](Exposition/Kleinberg.md)
+  * [Kleinberg Netzwerktheorie](Exposition/KleinbergNetzwerktheorie.md)
   * [Zimpel](Exposition/Zimpel.md)
-  *
+  * [Kleinberg Spieltheorie](Exposition/KleinbergSpieltheorie.md)
+  * [Kleinberg Sozialwahltheorie](Exposition/KleinbergSozialwahltheorie.md)
 * [Epilog](Epilog.md)
 * [Projekt](Projekt/Projekt.md)
