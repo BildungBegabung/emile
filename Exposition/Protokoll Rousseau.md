@@ -1,12 +1,24 @@
 Protokoll Rousseau
 
 Bei der Beschäftigung mit Rousseau betrachteten wir seine beiden Werke des Émile und des Contrat Sociale.
-Hierbei begannen wir
-"menschliches Laster" Mensch per se gut, Ursache: Gesellschaft, Prävention: neg. Erziehung --> jedes Laster nachvollziehbar 53ff
-"bürgerliche Erziehung vs. natürlich" Mensch in zwei Niveaus (Bürger - Mensch), nicht miteinander zuvereinbaren --> unterschiedliche Erziehung S.59: nat: Mensch, bürg: Pflichten--> schizophren --> entartet --> weder Mensch noch Bürger (Pflichten nicht zu vereinbaren) S.50
+Hierbei begannen wir mit seinen pädagogischen Ideen.
+Als Beispiel für seine Ideen legt Rousseau die Erziehung seines fiktiven Zöglings Émile dar.
+Diesen, wie jeden Menschen, sieht Rousseau als per se gut an, da er gut geschaffen wurde.
+Schlecht wird der Mensch erst durch falsche Erziehung.
+Bei einer solchen wird der Mensch statt für sich selbst (also zum Menschen) für andere (etwa zum Bürger) erzogen.
+In der Folge existiert der Mensch zugleich auf verschiedenen Ebenen, er ist zerteilt.
+Die entstandenen Teile des Menschen, beziehungsweise ihre jeweiligen Pflichten, sind nicht miteinander zu vereinbaren.
+Der auf diese Weise schizophrene Mensch ist entartet und will nichts mehr so haben, wie es von der Natur vorgesehen ist.
+Er bildet also Laster aus.
+Die Verantwortung hierfür liegt bei der Gesellschaft, die eine derartige bürgerliche Erziehung fordert.
+Somit ist jedes Laster direkt nachvollziehbar und begründbar.
+Um den Menschen vor Lastern zu bewahren, muss er also natürlich erzogen werden.
+In der Kindheit bedeutet diese natürliche Erziehung, negative (nicht moralische) Erziehung, abgeschottet von der Gesellschaft.
+Allerdings benötigt der Mensch die Gesellschaft und kann nicht für immer allein bleiben
+"menschliches Laster" Prävention 53ff
+"bürgerliche Erziehung vs. natürlich" S.59  S.50
 "Umsetzbarkeit" auf vielen Zweigen zu prüfen (Zeit, Institution, Moral, ...)
 "Beziehung Mensch - Gesellschaft" Der Mensch braucht die Gesellschaft. Eintreten in die Gesellschaft erst NACH Abschluss aller Erziehungsphasen, dann Fähigkeit sich die Autonomie zu bewahren S.60
-"Grund Mensch gut" gut geschaffen, schlecht durch Erziehung für andere statt sich selbst, will nichts so haben wie die Natur
 Urzustand:
 - absolute Autonomie --> keine Kooperation
 - institutionelle Kooperation/Interdependence als Abirrung von der menschlichen Natur CS S.4 "any natural"; CS S.6 "For forces"
