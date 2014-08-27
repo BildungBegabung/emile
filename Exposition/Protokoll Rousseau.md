@@ -14,11 +14,13 @@ Die Verantwortung hierfür liegt bei der Gesellschaft, die eine derartige bürge
 Somit ist jedes Laster direkt nachvollziehbar und begründbar.
 Um den Menschen vor Lastern zu bewahren, muss er also natürlich erzogen werden.
 In der Kindheit bedeutet diese natürliche Erziehung, negative (nicht moralische) Erziehung, abgeschottet von der Gesellschaft.
-Allerdings benötigt der Mensch die Gesellschaft und kann nicht für immer allein bleiben
+Allerdings benötigt der Mensch die Gesellschaft und kann nicht für immer allein bleiben.
+Wenn alle Erziehungsphasen beendet sind, aber auch wirklich erst dann, kann der jetzt Erwachsene in sie eintreten.
+Denn jetzt hat er die Fähigkeit, auch in ihr autonom zu bleiben.
 "menschliches Laster" Prävention 53ff
 "bürgerliche Erziehung vs. natürlich" S.59  S.50
 "Umsetzbarkeit" auf vielen Zweigen zu prüfen (Zeit, Institution, Moral, ...)
-"Beziehung Mensch - Gesellschaft" Der Mensch braucht die Gesellschaft. Eintreten in die Gesellschaft erst NACH Abschluss aller Erziehungsphasen, dann Fähigkeit sich die Autonomie zu bewahren S.60
+"Beziehung Mensch - Gesellschaft"   S.60
 Urzustand:
 - absolute Autonomie --> keine Kooperation
 - institutionelle Kooperation/Interdependence als Abirrung von der menschlichen Natur CS S.4 "any natural"; CS S.6 "For forces"
