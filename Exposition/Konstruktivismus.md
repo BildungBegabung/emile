@@ -1,54 +1,48 @@
 #Konstruktivismus [Siebert 2003]
+*„Der Mensch hat keinen Zugriff auf
+die objektive Realität“* (Unbekannt)
 
-kein Realitätszugriff
-- "keine Abbildung der Außenwelt, sondern eine funktionale viable Konstruktion"(S.6)
-these beschreiben - im vgl zu anderen päda
-these in sowi
-grenzen aufzeigen -> Problem: Fortschritt und Kommunikation
-Parallelen zu anderen Autoren aufzeigen
+- Wie nimmt der Mensch die Welt wahr und inwiefern prägen ihn dabei indivduelle Erfahrungen?
+
+Bezieht man sich auf das einführende Zitat der Unmögichkeit einer objektiven Wahrnehmung, so wird der Denkanstz des Konstruktivisten deutlich.
+
+Laut Sieberts Theorie des Konstruktivismus ist die Wahrnehmung "keine Abbildung der Außenwelt, sondern eine funktionale viable Konstruktion"(S.6).
+So stellt Siebert die Kernthese auf, dass "Menschen [...] autopoietische
+selbstreferenzielle, operational geschlossene Systeme [sind]." (S.5)
+Somit konstruiert der Mensch seine eigene Welt je nach eigenen Erfahrungen, Biografie, Fähigkeiten... etc.
+Je nach Determination eines Menschen durch Strukturen, nimmt dieser die Welt anders wahr
+- Er kontruiert sie sich eigenständig als abgeschlossenes *"System"* [*"strukturdeterminiert"* (S.5)].
+
+Aufbauend auf diesem individuell geprägten Menschen[bild] geht Siebert davon aus,eine wechselseitige Beziehung zwischen Mensch (Wahrnehmung) und Umwelt extistiert, diese aber auf Subjektivität des einzelnen Individuums (*"Systems"*) beruht.  
+Diese Subjektivität wird von Viabilität und Rekursivität bestimmt, womit ein Ansatz zur Lernpädagogik gefunden werden kann, der benötigt wird.
+Geht man von der vollkommenen Subjektivität eines Individuums aus, so ist das, auf allgemeine Lernmethoden beruhtes Schulsystem nicht in der Lage zu **lehren**.
+Demzufolge schlussfolgert Siebert, dass ein *"Bildungskanon"* (S.28) nicht der menschlichen Natur des Lernens entspricht.
+In einer pluralisierten Gesellschaft ist somit ein pluralistisches Lehrnraster erforderlich.
+- Die Frage nach einem (erwünschtem) Lernerfolg hinsichtlich des Lernenden und des Lernstoffes bleibt somit eine essentielle Frage der Schul- sowie Lernpädagogik.
+
+Siebert selbst geht auf diese Frage wie folgt ein:
+"Menschen als selbstgesteuerte *„Systeme“* können von der Umwelt nicht determiniert, sondern allenfalls **perturbiert**, das heißt, **„gestört“** und **angeregt** werden." (S.5)
+Der Mensch kann demzufolge durch Perturbationen (*(An)Reize*) zum (Um)Denken angeregt werden.
+Somit besteht die Möglichkeit für die Lehrenden neues Wissen als Perturbation zu nutzen, um den Schülern eine neue Sichtweise zu eröffnen.
+
+Hierbei ist eine Parallele zu **Benner** ersichtlich, da  durch seiner Aufforderung zur Selbsttätigkeit eine **mögliche Perturbation in Sieberts Sinne besteht.**
+
+Die Perturbation kann sowohl auf lernpädagogische Ansätze angewandt werden, als auch auf soziologische Problematiken übertragen werden.
+Beispielsweise geht der Kontruktivismus ontologisch von autonomen Individuen aus.
+Problematisch ist hierbei die vollkommene Isolierung des Einzelnen in der eigenen subjektiven Welt.  
+Dies impliziert ein Kooperationsproblem zwischen koexistierenden *"Lebensrealitäten"*, welches durch Perturbation einen Lösungsansatz finden kann.
+Durch Anwendung dieser *"Störung"* [Sprachmacht, Gesellschaftsmacht, Glaubensmacht] kann eine allgemein gültige Leitkultur (**Makrosoziologie**) unter verschieden Individuen enstehen und eine gemeinsame Kooperationsgrundlage geschaffen werden.
+
+
+###**"Die Grenze ist nicht eine räumlich Tatsache hat sozologischen Wirkungen, sondern eine soziologische Tatsache, die sich räumlich formt"**
+*(Georg Simmel)*
 
 
 
-Benner Selbsttägigkeit bzw Rousseau
-*Kritik* vom Konstrutvismus:
-Man kann aus den (besprochenen) Ansichten kein Schulsystem gestalten: Jeder Mensch ist individuell und geprägt (speziell).
-[Individualität]
-
-###Vergleich von verschiedenen Schulpädagogik (Lernthoerien)
-
-Behaviorimus: Es wirkt ein Reiz auf der Blackbox (das Gehirn) Input (Objektivität)
-Wie das Individuum reagiert Output - Keine Gedanken über inneren Vorgänge bei dieser Theorie
-Input: Versuch durch Lob, Strafen (Stimulation) den Lernprozess zu beeinflussen (Intervention) - Beobachtung: Output
-
-Kognitivismus: Befassung mit den Denkprozessen und Strömungen - Output und Input
-Inputmodellierung in der Pädagogik
-
-Konstruktivismus: Wechselseitige Beziehung zwischen Umwelt und Mensch (Wahrnehmung) Subjektivität
-Der Mensch ist ein System (in sich geschlossen)
-
-###Fachbegriff
-Viabilität (brauchbar, gängig) von Lernstoff?
-
-Rekursivität "Lernen ist quasi strukturkonservativ" (Glossar) Der Mensch ist rückbezüglich auf eigene Erfahrungen, Emotionalität
-
-Bezug auf Lernpädagogik: Perturbation - Auslösung zum Wandel des "Systems" (neues Wissen kann als Perturbation angesehen werden)
-Der Lernstoff [Perturbation] ist ein Impuls zum Lernen (Leonie)
 
 
-Problem des Konstruktvismus - Betrachtung des Menschen als völliges Indididuum (Als komplett geschlossenes System - Indiviualität)
+- ##**FRAGE: Inwiefern soll ich diese Ansicht einbringen? An Max und Verena**
 
-Betrachtung im RADIKALEN Konstruktivismus: Isolation von anderen Systemen (Menschen)
-Onotologie: Alle sind autonom
-Lebenswelt: Durch Sprachmacht, Gesellschaftsmacht, Glaubensmacht entseht eine Makrosozologie [durch Perturbation] - Leitkultur
-bzw. kann durch Perturbation Mikrosoziologie
+*(Es gibt zwei Wahrheiten: 1. Ebene die für alle ersichtlich sind (umunstößlich - dort treffen zwei Körper aufeinander - Realitätstheroie -> aus allen Perspektiven gibt es eine andere 2. Wahrheit, diese 2. Ebene ist für jeden subjektiv - je nach Standort und Standpunkt.)*
 
-Bildungssystem: S.28/29
-
-Es gibt zwei Wahrheiten: 1. Ebene die für alle ersichtlich sind (umunstößlich - dort treffen zwei Körper aufeinander - Realitätstheroie -> aus allen Perspektiven gibt es eine andere 2. Wwahrheit, diese 2. Ebene ist für jeden subjektiv - je nach Standort und Standpunkt
-
-Einordnung in die Pädagogik und Sozialwissenschaft: Objektive Realität nicht zugänglich
-Pädagogik:  Vom Lernenden dneken - Wertschätzung und Annerkennung von PLURALITÄT
-Sozzialwissenschaft: Aufmerksamkeit für Kriterium an indentitären/kategorischen UNTERNEHMER
-
-"Die Grenze ist nicht eine räumlich Tatsache hat sozologischen Wirkungen, sondern eine soziologische Tatsache, die sich räumlich formt"
-Georg Simmel --> Beispiel für sozialwissenschaftliche Betrachtung - grenzen sind auch konstruiert - gleiche Pertubation
+--> Beispiel für sozialwissenschaftliche Betrachtung - grenzen sind auch konstruiert - gleiche Pertubation
