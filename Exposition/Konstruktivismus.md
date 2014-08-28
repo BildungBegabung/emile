@@ -44,5 +44,3 @@ Durch Anwendung dieser *"Störung"* [Sprachmacht, Gesellschaftsmacht, Glaubensma
 - ##**FRAGE: Inwiefern soll ich diese Ansicht einbringen? An Max und Verena**
 
 *(Es gibt zwei Wahrheiten: 1. Ebene die für alle ersichtlich sind (umunstößlich - dort treffen zwei Körper aufeinander - Realitätstheroie -> aus allen Perspektiven gibt es eine andere 2. Wahrheit, diese 2. Ebene ist für jeden subjektiv - je nach Standort und Standpunkt.)*
-
---> Beispiel für sozialwissenschaftliche Betrachtung - grenzen sind auch konstruiert - gleiche Pertubation
