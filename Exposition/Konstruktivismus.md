@@ -1,19 +1,22 @@
 #Konstruktivismus [Siebert 2003]
 *„Der Mensch hat keinen Zugriff auf
-die objektive Realität“* (Unbekannt)
+die objektive Realität“* (Heinz Foester)
 
 - Wie nimmt der Mensch die Welt wahr und inwiefern prägen ihn dabei indivduelle Erfahrungen?
 
 Bezieht man sich auf das einführende Zitat der Unmögichkeit einer objektiven Wahrnehmung, so wird der Denkanstz des Konstruktivisten deutlich.
 
-Laut Sieberts Theorie des Konstruktivismus ist die Wahrnehmung "keine Abbildung der Außenwelt, sondern eine funktionale viable Konstruktion"(S.6).
-So stellt Siebert die Kernthese auf, dass "Menschen [...] autopoietische
+Laut Sieberts Theorie des Konstruktivismus ist die Wahrnehmung "keine Abbildung der Außenwelt, sondern eine funktionale viable Konstruktion" (Siebert 2003, S. 6).
+Ausgehend von dieser Annahme stellt Siebert die Kernthese auf, dass "Menschen [...] autopoietische
 selbstreferenzielle, operational geschlossene Systeme [sind]." (S.5)
-Somit konstruiert der Mensch seine eigene Welt je nach eigenen Erfahrungen, Biografie, Fähigkeiten... etc.
-Je nach Determination eines Menschen durch Strukturen, nimmt dieser die Welt anders wahr
-- Er kontruiert sie sich eigenständig als abgeschlossenes *"System"* [*"strukturdeterminiert"* (S.5)].
+Somit konstruiert sich der Mensch seine eigene Welt je nach eigenen Erfahrungen, Biografie, Fähigkeiten... etc.
+Abhängig von den individuellen Determinationen mit denen ein Menesch im Leben beeinflusst wird, verändert sich seine Wahrnehmung der Umwelt.
+- Der Mensch ist demnach strukturdeterminiert (vgl. S.5).
 
-Aufbauend auf diesem individuell geprägten Menschen[bild] geht Siebert davon aus,eine wechselseitige Beziehung zwischen Mensch (Wahrnehmung) und Umwelt extistiert, diese aber auf Subjektivität des einzelnen Individuums (*"Systems"*) beruht.  
+
+Aufbauend auf diesem individuell geprägten Menschen[bild] geht Siebert davon aus, dass ein Wechselverhältnis zwischen der Impression des Menschens und der Umwelt existiert.
+Diese beruht jedoch auf der subjektiven Auslegung (z.B. nach Wichtigkeit der Information) jedes einzelnen Menschen (*Systems*) und demnach nicht als status quo anzusehen.
+
 Diese Subjektivität wird von Viabilität und Rekursivität bestimmt, womit ein Ansatz zur Lernpädagogik gefunden werden kann, der benötigt wird.
 Geht man von der vollkommenen Subjektivität eines Individuums aus, so ist das, auf allgemeine Lernmethoden beruhtes Schulsystem nicht in der Lage zu **lehren**.
 Demzufolge schlussfolgert Siebert, dass ein *"Bildungskanon"* (S.28) nicht der menschlichen Natur des Lernens entspricht.
