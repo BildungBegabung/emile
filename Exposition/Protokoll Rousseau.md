@@ -51,5 +51,5 @@ Um sie jedoch wissenschaftlich korrekt auf allen Ebenen zu prüfen, wäre ein f�
 Bei aller Kritik muss aber Rousseaus Intention bedacht werden:
 Seine Theorien sind nicht empirisch, sondern normativ gedacht.
 Der Contrat Social hat hierbei den Status eines Gedankenexperimentes zum Urzustand und einer Vertragstheorie, nicht eines tatsächlichen Vertrages.
-Dadurch bildet er bis heute einen Standard für Verfassungen.
+Dadurch bildet er bis heute den Standard für Verfassungen.
 Zudem ist zu würdigen, dass Rousseau als "1.Aufklärer" großen Anteil an den freiheitlich demokratischen Entwicklungen der Folgezeit hat.
