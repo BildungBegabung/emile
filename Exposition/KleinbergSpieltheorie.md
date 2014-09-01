@@ -1,20 +1,38 @@
-#Kleinberg [Spieltheorie]#
+Kleinberg [Spieltheorie]
 
-Am 28.08.14 befassten wir uns am Vormittag mit dem Autor Kleinberg und seiner Spieltheorie.
-Großer Teil dieser Spieltheorie ist das Gefangenen-Dilemma.
-Nach Annahme der Axiome des Gefangenen-Dilemmas entscheidet sich der Mensch in seinem Handeln stets streng ökonomisch, dass heißt er trifft die wahl mit der größtmöglichen Summenanzahl.
-In dem Gefangenen Dilemma gibt es zwei Spielausgänge.
-Zum einem kann es "Nullsummenspiele" geben.
-Somit haben alle Spielausgänge die gleiche Summenanzahl.
-Zum anderen kann es "Nicht-Nullsummenspiele" geben.
-Ein "Nicht-Nullsummenspiel" enthällt unterschiedliche Summenanzahlen in unterschiedlichen Spielausgängen.
-Da nach Annahme der Axiome des "gefangen Dilemmas" der Mensch stets danach strebt den höchst möglichen Gewinn zu erzielen, und eine höhere Gewinnmaximmierung nur bei "Nicht-Nullsummespielen" gegeben ist, stellt das "nicht-Nullsummenspiel" die Grundage menschlicher Kooperation.
-Demnach geben "Nullsummenspiele" keine Aussage über menschliche Kooperation, da die Summenanzahl bei jedem Spielausgang gleich bleibt.
-Es ergeben sich auf diese Weise zwei möglich Spielausgänge von "Nicht-Nullsummenspielen":
-1. Soziales Wohlfahrtsoptimum und "nash Equilibrium" fallen zusammen.
+Gefangenen Dilemma:
+Ordinale Daten werden erfasst:
 
-Auf diese Weise haben alle mehr vom "Kuchen", egal zu welchem Spielausgang es kommt.
-2. Soziales Wohlfahrtsoptimum und "Nash-Equilibrium" fallen nicht zusammen.
+- kleiner als bzw. größer als
+- Alle eingetragenen Zahlen sind irrelevant
+- Es geht grundsätzlich um Zahlenverhältnisse untereinander [siehe zeile 6]
+- es kann nach einer streng dominanten als auch streng schwachen Strategie gespielt werden
 
+hierzu wurde ein Experiment im Kurs zur Veranschaulichung gemacht.
 
-Außer durch den Einfluss eines Gewaltmonopols oder einer Änderung der Axiome (z.B. nach der Einführung des "Gemeinwohls"), kann das Gefangenen Dilemma nicht gelöst werden.
+wechselseitig beste Antworten werden als "Nash-equilibrium" genannt [nach John Nash benannt].
+ein "Nullsummenspiel" ergibt eine gleiche Summenanzahl in allen Zahlen.
+Beispiel: Ohne Wachstum ergibt sich immer ein "Nullsummenspiel" [Referenz: Gummibärchen]
+Menschliche Kooperation basiert auf nicht "Nullsummenspielen"!
+
+Spieltheorie:
+- "Nullsummenspiele" führen zu keinen Aussagen über Kooperationen
+
+Nicht "Nullsummenspiele"
+- Aus Kooperation ergeben sich zwei Optionen:
+
+1. Spiele Totaler "Harmonie"
+- w.z.B. soziales Wohlfahrtsoptimum; oder "Nash-equilibrium" - beide fallen zusammen
+- Beispiel: Handel - alle haben mehr vom Kuchen
+2. Spiele mit Kooperationsproblemen
+- "soziales Wohlfahrtsoptimum" und "Nash-equilibrium" fallen nicht zusammen
+
+es gibt keine Lösung des Gefangenen Dilemmas!
+außer durch einen Gewaltmonopolist
+oder Axiome werden geändert:
+Gemeinwille und Verständigung
+
+Was für Perturbationen müssen z.B. in der Pädagogik gegeben sein!?
+Max baute "Brücken" zu anderen Autoren/idiologien:
+- wie wird Bildsamkeit definiert
+- 
