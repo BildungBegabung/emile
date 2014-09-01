@@ -1,15 +1,18 @@
 # Fremdwörter und Definitionen
 ## die Kooperation:
  die Zusammenarbeit von zwei oder mehreren Parteien.
+ <!-- TODO: Positivsummenspiel erklären -->
 ## persönliche Autonomie:
  Die Fähigkeit des Menschen, sich selbst zu führen, ohne Hilfe oder Aufsicht von anderen.
 ## inhärente Gleichheit:
-Die Übereinstimmung einer Mehrzahl von Personen in einem bestimmten Merkmal, die von Geburt aus gleich sind.
+Die innewohnende Übereinstimmung einer Mehrzahl von Personen in einem bestimmten Merkmal, die von Geburt aus gleich sind.
+<!-- Gleichwertigkeit statt "Übereinstimmung" -->
 ## die Institution:
 Eine soziale Struktur, die eine gewisse Stabilität hat.
+<!-- auch Institutionen im weiteren Sinne erwähnen wie Klatschen -->
 ## die Axiologie
 ## die Ideologie:
-Alle Ansichten und Werte einer soziallen Gruppe, einer bestimmten Gesellschaft.
+Alle Ansichten und Werte einer sozialen Gruppe, einer bestimmten Gesellschaft.
 ## die Bildsamkeit:
 Fähigkeit der Menschen zu lernen und Bildung zu erwerben.
 ## die Deontologie:
@@ -27,32 +30,35 @@ enlightened undestanding
 control of the agenda
 ## Der Konstruktivismus:
 Theorie, die feststellt, dass jede Person die Welt verschiedenerweise versteht und dass keiner Zugang zu der objektiven Realität hat.
+<!-- bitte bei Siebert nachschauen und Definition zitieren -->
 ## die Pädagogik: die Wissenschaft, die sich mit dem Unterrichten und Erziehen beschäftigt.
 behaviourismus
 kognitivismus
 ## der Fortschritt:
-die ständige Verbesserung und Weiterentwicklung des Wissenschafts, der technik und der Lebensqualität.
-symbolischer interaktionismus
+die ständige Verbesserung und Weiterentwicklung der Wissenschaft, der Technik und der Lebensqualität.
+symbolischer Interaktionismus
 ecological pragmatism
-vermachtung
-ethik/pragmatische ethik
-moral
-deontologie
-konsequentialismus
-negative freiheit
-individualität
-erziehungsideal
-leiblichkeit
-selbsttätigkeit
-identität
-freiheit
-geschichtlichkeit
+Vermachtung
+Ethik
+Pragmatische Ethik
+Moral
+Deontologie
+Konsequentialismus
+Negative Freiheit
+Individualität
+Erziehungsideal
+Leiblichkeit
+Selbsttätigkeit
+Identität
+Freiheit
+Geschichtlichkeit
 mutually exclusive
 comprehensively exhaustive
-viabilität
-rekursivität
-reflexivität
-system
-autopoiesis
-nullsummenspiele
+Viabilität
+Rekursivität
+Reflexivität
+System
+<!-- TODO: Die letzten 4 Begriffe können bei Siebert im Glossar nachgeschaut werden -->
+Autopoiesis
+Aullsummenspiele
 nash equilibrium
