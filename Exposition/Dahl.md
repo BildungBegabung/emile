@@ -13,3 +13,9 @@ Die Aussage, dass alle Stimmen gleich gewichtet werden, wird mit dem zweiten Kri
 "But to know what it wants, the people must be enlightened, at least at some degree." (S.111)
 Allerdings darf ein Mitglied der Gemeinschaft nicht zur Bildung gezwungen werden, obwohl ein gewisses Interesse über politische Prozessen aufgeklärt zu bleiben vorausgesetzt wird.
 Das vierte Kriterium heißt "control of the agenda" und sagt aus, dass es wichtig ist die Individuen entscheiden zu lassen, welche Probleme behandelt werden bzw. über welche Probleme entschieden wird.
+
+Dahl ist in den Liberalismus einzuordnen, da er Vorschläge aufzeigt, wie Demokratie seiner Meinung nach am besten funktionieren würde.
+Allerdings zwingt er niemanden diese Vorschläge durchzuführen, sondern lässt die Freiheit sich dafür zu entscheiden oder nicht.
+In Bezug zur Freiheit zeigt Dahl keine positiven Freiheiten auf (einer Freiheit *zu* etwas), sondern negative Freiheiten (einer Freiheit *von* etwas).
+Er gibt also nicht die Freiheit sich über die Demokratie bzw. Politik zu zu informieren.
+Stattdessen ist für Dahl Freiheit, sich von der Information über Demokrate bzw. Politik zu entziehen. 
