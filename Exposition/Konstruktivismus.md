@@ -1,5 +1,5 @@
-#Konstruktivismus [Siebert 2003]
-*„Der Mensch hat keinen Zugriff auf
+# Konstruktivismus [Siebert 2003]
+* „Der Mensch hat keinen Zugriff auf
 die objektive Realität“* (Heinz Foester)
 
 - Wie nimmt der Mensch die Welt wahr und inwiefern prägen ihn dabei indivduelle Erfahrungen?
@@ -26,7 +26,7 @@ In einer pluralisierten Gesellschaft ist somit ein pluralistisches Lehrnraster e
 Siebert selbst geht auf diese Frage wie folgt ein:
 "Menschen als selbstgesteuerte *„Systeme“* können von der Umwelt nicht determiniert, sondern allenfalls **perturbiert**, das heißt, **„gestört“** und **angeregt** werden." (S.5)
 Der Mensch kann demzufolge durch Perturbationen (*(An)Reize*) zum (Um)Denken angeregt werden.
-Somit besteht die Möglichkeit für die Lehrenden neues Wissen als Perturbation zu nutzen, um den Schülern eine neue Sichtweise zu eröffnen.
+Diese Möglichkeit der Perturbation kann der Lehrende zur Vermittlung von Wissen nutzen und damit gegebenfalls neue Sichtweisen für den Lernenden eröffnen.
 
 Hierbei ist eine Parallele zu **Benner** ersichtlich, da  durch seiner Aufforderung zur Selbsttätigkeit eine **mögliche Perturbation in Sieberts Sinne besteht.**
 
