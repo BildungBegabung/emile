@@ -1,5 +1,12 @@
 Dahl
 
+Dahls Verständnis von Demokratie ist die Kombination aus persönlicher Autonomie und intrinsischer Gleichwertigkeit.
+Das Konzept der persönlichen Autonomie entwickelt sich aus dem Gedanken, dass alle Mitglieder einer Gesellschaft fähig sind bei einer Entscheidungstreffen teilzunehmen, in der ihre Interessent betroffen sind
+Dies kann man mit folgendem Zitat unterstützen: "every adult is the best judge of hit or her own interest" (S.100).
+Der Begriff der inherente Gleichwertigkeit ist nach Dahls Definition der Zustand in dem alle Menschen geboren werden, d.h. "inherente Gleciwertigkeit" ist von Geburt ausgegeben. Alle Menschen sind gleich wichtig in der Gesellschaft.
+Aus der Kombination diesen beiden Gedanken soll die perfekte Demokratie entstehen, die bei der Maximierung der persönlichen Autonomie zu Anarchie geführt werden könnte oder aber zu der Schaffung einer wohlwollenden Diktatur im Fall der Maximierung der inherenten Gleichheits.
+
+
 Dahls Verständnis von Demokratie stützt sich auf die Kombination aus intrinsischer Gleichwertigkeit und persönlicher Autonomie.
 Intrinsische Gleichheit bedeutet, dass die gleiche Berücksichtigung aller Interessen der Mitglieder der Gemeinschaft zu beachten ist.
 Persönliche Autonomie beschreibt die Entscheidungsfreiheit, damit  jeder kann die Entscheidung treffen kann, die für ihn am besten ist, denn "every adult is the best judge of his or her own interest" (S.100).
@@ -18,4 +25,4 @@ Dahl ist in den Liberalismus einzuordnen, da er Vorschläge aufzeigt, wie Demokr
 Allerdings zwingt er niemanden diese Vorschläge durchzuführen, sondern lässt die Freiheit sich dafür zu entscheiden oder nicht.
 In Bezug zur Freiheit zeigt Dahl keine positiven Freiheiten auf (einer Freiheit *zu* etwas), sondern negative Freiheiten (einer Freiheit *von* etwas).
 Er gibt also nicht die Freiheit sich über die Demokratie bzw. Politik zu zu informieren.
-Stattdessen ist für Dahl Freiheit, sich von der Information über Demokrate bzw. Politik zu entziehen. 
+Stattdessen ist für Dahl Freiheit, sich von der Information über Demokrate bzw. Politik zu entziehen.
