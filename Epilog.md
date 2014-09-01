@@ -1,3 +1,3 @@
 # Epilog
 
-Ich bin noch eine leere Doku Seite.
+Kritik an Dewey ist sehr facettenreich
