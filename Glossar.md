@@ -1,0 +1,46 @@
+# Fremdwörter und Definitionen
+die Kooperation
+persönliche Autonomie
+inhärente Gleichheit
+die Institution
+die Axiologie
+die Ideologie
+die Bildsamkeit
+deontologisch
+die Interaktion
+Staat
+Staatsgenese
+Monopolist
+effective participation
+equal voting
+enlightened undestanding
+control of the agenda
+konstruktivismus
+pädagogik
+behaviourismus
+kognitivismus
+fortschritt
+symbolischer interaktionismus
+ecological pragmatism
+vermachtung
+ethik/pragmatische ethik
+moral
+deontologie
+konsequentialismus
+negative freiheit
+individualität
+erziehungsideal
+leiblichkeit
+selbsttätigkeit
+identität
+freiheit
+geschichtlichkeit
+mutually exclusive
+comprehensively exhaustive
+viabilität
+rekursivität
+reflexivität
+system
+autopoiesis
+nullsummenspiele
+nash equilibrium
