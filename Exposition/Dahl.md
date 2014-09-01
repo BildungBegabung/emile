@@ -18,4 +18,6 @@ Dahl ist in den Liberalismus einzuordnen, da er Vorschläge aufzeigt, wie Demokr
 Allerdings zwingt er niemanden diese Vorschläge durchzuführen, sondern lässt die Freiheit sich dafür zu entscheiden oder nicht.
 In Bezug zur Freiheit zeigt Dahl keine positiven Freiheiten auf (einer Freiheit *zu* etwas), sondern negative Freiheiten (einer Freiheit *von* etwas).
 Er gibt also nicht die Freiheit sich über die Demokratie bzw. Politik zu zu informieren.
-Stattdessen ist für Dahl Freiheit, sich von der Information über Demokrate bzw. Politik zu entziehen. 
+Stattdessen ist für Dahl Freiheit, sich von der Information über Demokrate bzw. Politik zu entziehen.
+Aufgrund dieser Annahme der negativen Handlungsfreiheit kann Dahl auch dem Libertarismus zugeordnet werden.
+Der Libertarismus hat sich die negative Freiheit nämlich als Leitnorm festgelegt.
