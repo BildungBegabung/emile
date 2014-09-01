@@ -19,7 +19,7 @@ Die Aussage, dass alle Stimmen gleich gewichtet werden, wird mit dem zweiten Kri
 "Enlightened understanding", das dritte Kriterium, bezieht sich auf die Notwendigkeit der Bildung für die Demokratie:
 "But to know what it wants, the people must be enlightened, at least at some degree." (S.111)
 Allerdings darf ein Mitglied der Gemeinschaft nicht zur Bildung gezwungen werden, obwohl ein gewisses Interesse über politische Prozessen aufgeklärt zu bleiben vorausgesetzt wird.
-Das vierte Kriterium heißt "control of the agenda" und sagt aus, dass es wichtig ist die Individuen entscheiden zu lassen, welche Probleme behandelt werden bzw. über welche Probleme entschieden wird.
+Das vierte Kriterium heißt "control of the agenda" und sagt aus, dass es wichtig ist die Individuen entscheiden zu lassen, welche Probleme behandelt werden bzw. über welche Probleme es entschieden wird.
 
 Dahl ist in den Liberalismus einzuordnen, da er Vorschläge aufzeigt, wie Demokratie seiner Meinung nach am besten funktionieren würde.
 Allerdings zwingt er niemanden diese Vorschläge durchzuführen, sondern lässt die Freiheit sich dafür zu entscheiden oder nicht.
