@@ -9,11 +9,11 @@ Bezieht man sich auf das einführende Zitat der Unmögichkeit einer objektiven W
 
 Laut Sieberts Theorie des Konstruktivismus ist die Wahrnehmung "keine Abbildung der Außenwelt, sondern eine funktionale viable Konstruktion" (Siebert 2003, S. 6).
 Ausgehend von dieser Annahme stellt Siebert die Kernthese auf, dass "Menschen [...] autopoietische
-selbstreferenzielle, operational geschlossene Systeme [sind]." (ebd. S.5)
+selbstreferenzielle, operational geschlossene Systeme [sind]." (ebd. S. 5)
 Somit konstruiert sich der Mensch seine eigene Welt je nach eigenen Erfahrungen, Biografie, Fähigkeiten etc.
 Abhängig von den individuellen Determinationen, mit denen ein Mensch im Leben beeinflusst wird, verändert sich seine Wahrnehmung der Umwelt.
 <!-- TODO: Determination beeinflussen? Ausdruck  -->
-- Der Mensch ist demnach strukturdeterminiert (vgl. ebd. S.5).
+- Der Mensch ist demnach strukturdeterminiert (vgl. ebd. S. 5).
 
 
 Aufbauend auf diesem individuell geprägten Menschenbild geht Siebert davon aus, dass ein Wechselverhältnis zwischen der Impression des Menschens und der Umwelt existiert.
@@ -30,9 +30,9 @@ In einer pluralisierten Gesellschaft ist somit ein pluralistisches Lehrnraster e
 <!-- TODO: Verstehe, was du meinst, aber findest du noch eine klarere Formulierung? -->
 
 Siebert selbst geht auf diese Frage wie folgt ein:
-"Menschen als selbstgesteuerte *„Systeme“* können von der Umwelt nicht determiniert, sondern allenfalls **perturbiert**, das heißt, **„gestört“** und **angeregt** werden." (ebd. S. 5)
+>"Menschen als selbstgesteuerte *„Systeme“* können von der Umwelt nicht determiniert, sondern allenfalls **perturbiert**, das heißt, **„gestört“** und **angeregt** werden." (S.5)
 Der Mensch kann demzufolge durch Perturbationen (*(An)Reize*) zum (Um)Denken angeregt werden.
-Somit besteht die Möglichkeit für die Lehrenden neues Wissen als Perturbation zu nutzen, um den Schülern eine neue Sichtweise zu eröffnen.
+Diese Möglichkeit der Perturbation kann der Lehrende zur Vermittlung von Wissen nutzen und damit gegebenenfalls neue Sichtweisen für den Lernenden eröffnen.
 
 Hierbei ist eine Parallele zu **Benner** ersichtlich, da durch seiner Aufforderung zur Selbsttätigkeit eine **mögliche Perturbation in Sieberts Sinne besteht.**
 <!-- TODO: etwas vorsichtiger formulieren (Vermutung) -->
@@ -40,7 +40,23 @@ Hierbei ist eine Parallele zu **Benner** ersichtlich, da durch seiner Aufforderu
 Die Perturbation kann sowohl auf lernpädagogische Ansätze angewandt werden, als auch auf soziologische Problematiken übertragen werden.
 <!-- lerntheoretische -->
 Beispielsweise geht der Konstruktivismus ontologisch von autonomen Individuen aus.
-Problematisch ist hierbei die vollkommene Isolierung des Einzelnen in der eigenen subjektiven Welt.  
+Problematisch ist hierbei die vollkommene Isolierung des Einzelnen in der eigenen subjektiven Welt.
+Diese angesprochene Isolation, besonders im radikalen Konstruktivismus, ist besonders gut an der Geschichte von *Peter Bichsel* *"Ein Tisch ist ein Tisch"* veranschaulicht.
+Hierbei wird die Situation eines Mannes beschrieben, der in Unzufriedenheit lebt.
+Um sich aus dieser aussichtlosen Lebensweise zu berfreien beginnt er bekannte Gegenstände mit anderen Namen zu versehen. Demzufolge wurde der Stuhl zum Tisch oder das Bett zum Bild.
+> "Jetzt ändert es sich", rief er, und er sagte von nun an dem Bett "Bild".
+>
+(Peter Bichsel, http://www.univie.ac.at/ims/koeppl_lv/Mth_04/Bichsel_Tisch.htm)
+
+Die radikale Änderung seiner eigenen Wahrnehmung und Kommunikation verursachte eine vollkommene Abgrenzung von jeglichen gesellschaftlichen Verbindungen, die Bichsel wie folgt beschreibt:
+
+>"Viel schlimmer war, sie konnten ihn nicht mehr verstehen. Und deshalb sagte er nichts mehr. Er schwieg, sprach nur noch mit sich selbst, grüßte nicht einmal mehr." (Bichsel, Ein Tisch ist ein Tisch)
+
+Der Verlust der Kooperation mit der Umwelt durch die Isolierung in der Subjektivität und damit auch die fehlende Beziehung mit Menschen, zeigt die Grenzen des radikalen Ansatzes der konstruktivistischen Theorie auf, denn sie iosliert den Menschen als geschlossenes *"System"*.
+Diese Tatasache impliziert ein Kooperationsproblem zwischen koexistierenden *"Lebensrealitäten"*, da jene *"Realitäten"* sich ausgehend vom Individuum unterscheiden.
+
+ welches durch Perturbation einen Lösungsansatz finden kann.
+Durch Anwendung dieser *"Störung"* [Sprachmacht, Gesellschaftsmacht, Glaubensmacht] kann eine allgemein gültige Leitkultur (**Makrosoziologie**) unter verschieden Individuen enstehen und eine gemeinsame Kooperationsgrundlage geschaffen werden.
 Dies impliziert ein Kooperationsproblem zwischen koexistierenden *"Lebensrealitäten"*, welches durch Perturbation einen Lösungsansatz finden kann.
 Durch Anwendung dieser *"Störung"* [Sprachmacht, Gesellschaftsmacht, Glaubensmacht] kann eine allgemein gültige Leitkultur (**Makrosoziologie**) unter verschieden Individuen entstehen und eine gemeinsame Kooperationsgrundlage geschaffen werden.
 
