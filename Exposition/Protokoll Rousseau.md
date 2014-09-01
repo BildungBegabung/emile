@@ -2,7 +2,8 @@
 
 Als Beispiel für seine Methodik legt Rousseau die Erziehung seines fiktiven Zöglings Émile dar.
 Diesen, wie jeden Menschen, sieht Rousseau als per se gut an.
-Er schreibt: "Alles ist gut, wie es aus den Händen des Schöpfers der Dinge hervorgeht; alles entartet unter den Händen des Menschen." (Rousseau-1762, Émile, S.48)
+Er schreibt:
+>"Alles ist gut, wie es aus den Händen des Schöpfers der Dinge hervorgeht; alles entartet unter den Händen des Menschen." (Rousseau-1762, Émile, S.48)
 Diese falsche Erziehumg macht den Menschen "schlecht".
 >"In der natürlichen Ordnung sind die Menschen alle einander gleich. Ihr gemeinsamer Beruf ist: Mensch zu sein." (Rousseau-1762, Émile, S.50)
 >"Wenn man z.B. einen Menschen für andere erziehen will, anstatt für ihn selbst - gemäß seiner Natur - zu erziehen? Dann ist Einklang ausgeschlossen." (Rousseau-1762, Émile, S.49)
