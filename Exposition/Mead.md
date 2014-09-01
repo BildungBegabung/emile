@@ -12,9 +12,9 @@ Der dritte Komponent ist die Entscheidungskraft beziehungsweise das Ergebnis aus
 Wichtig sind diese Komponenten für die Selbstreflektion eines Individuums, auch looking-glass-effect gennant.
 Dieser Spiegelbildeffekt verhilft dem Menschen sich aufgrund von Reaktionen des Gegenübers sich selber wahrzunehmen und mitzubekommen, wie andere auf einen selber reagieren.
 Dies funktioniert, indem das "Me" die Umwelt wahrnimmt und das "I" diese Eindrücke subjektiv entgegen nimmt und spontan reagiert, sich also dadurch auch verändern, vielleicht sogar verbessern kann.
-Diese drei Komponenten fasst man zusammen als ein dynamisches Konstrukt, was bedeutet, dass ein leben lang das Wechselspiel dieser Drei nicht zu ende gehen kann.
+Diese drei Komponenten fasst man zusammen als ein dynamisches Konstrukt, was bedeutet, dass ein Leben lang das Wechselspiel dieser Drei nicht zu Ende gehen kann.
 Dynamisch deshalb, weil "Me" und "I" in ständiger Bewegung sind, was bedeutet, dass bei jeder Entscheidung im Alltag entweder das "Me" oder das "I" überwiegen kann.
-Die Rückschlüsse, die sich nun daraus ziehen lassen sind folgende:
+Die Rückschlüsse, die sich nun daraus ziehen lassen sind Folgende:
 Zwei Individuen einigen sich auf ein Symbol, welches wiederum Einfluss auf diese hat, aber auch eine vorläufige, kontingente Lösung für ein soziales Problem findet.
 Es entsteht also ein Kreislauf.
 
