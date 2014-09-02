@@ -14,18 +14,18 @@ Alle Ansichten und Werte einer soziallen Gruppe, einer bestimmten Gesellschaft.
 ## Die Bildsamkeit:
 =======
  <!-- TODO: Positivsummenspiel erklären -->
-## persönliche Autonomie:
+## Persönliche Autonomie:
  Die Fähigkeit des Menschen, sich selbst zu führen, ohne Hilfe oder Aufsicht von anderen.
-## inhärente Gleichheit:
+## Inhärente Gleichheit:
 Die innewohnende Übereinstimmung einer Mehrzahl von Personen in einem bestimmten Merkmal, die von Geburt aus gleich sind.
 <!-- Gleichwertigkeit statt "Übereinstimmung" -->
-## die Institution:
+## Die Institution:
 Eine soziale Struktur, die eine gewisse Stabilität hat.
 <!-- auch Institutionen im weiteren Sinne erwähnen wie Klatschen -->
-## die Axiologie
-## die Ideologie:
+## Die Axiologie
+## Die Ideologie:
 Alle Ansichten und Werte einer sozialen Gruppe, einer bestimmten Gesellschaft.
-## die Bildsamkeit:
+## Die Bildsamkeit:
 Fähigkeit der Menschen zu lernen und Bildung zu erwerben.
 ## Die Deontologie:
 das Gesollte, die Pflicht
@@ -76,10 +76,10 @@ Beschreibt den Zustand zwischen vielen verschiedenen Möglichkeiten beliebig wä
 ## Integral
 Beschreibt den Abschnitt unter dem Graph in der Produktionsmöglichkeitenkurve.
 <!-- bitte bei Siebert nachschauen und Definition zitieren -->
-## die Pädagogik: die Wissenschaft, die sich mit dem Unterrichten und Erziehen beschäftigt.
+## Die Pädagogik: die Wissenschaft, die sich mit dem Unterrichten und Erziehen beschäftigt.
 Behaviourismus
 Kognitivismus
-## der Fortschritt:
+## Der Fortschritt:
 Die ständige Verbesserung und Weiterentwicklung der Wissenschaft, der Technik und der Lebensqualität.
 ## Symbolischer Interaktionismus
 ## Ecological pragmatism
@@ -106,6 +106,6 @@ Gesellschaftliche Konventionen des Verhaltens
 ## Reflexivität
 ## System
 <!-- TODO: Die letzten 4 Begriffe können bei Siebert im Glossar nachgeschaut werden -->
-Autopoiesis
-Nullsummenspiele
-nash equilibrium
+## Autopoiesis
+## Nullsummenspiele
+## Nash Equilibrium
