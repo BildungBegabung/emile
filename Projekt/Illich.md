@@ -13,7 +13,7 @@ Illich begreift die Schule als eine Art Paradigma für die Natur von lebensbesti
 
 - Beschreibung von Illichs Vorschlägen
 (#118, #117)
-https://drive.google.com/folderview?id=0B9yv4BQ03sJed1BQN24wbTBwZ3M&usp=gmail
+
 - evtl. Kritik an Illich-Text? (aus Präsentation, Problem: keine Quelle zum Zitieren)
 
 **2.Projekt**
