@@ -28,7 +28,7 @@ Besitzer des absoluten Rechts oder der absoluten Kontrolle über die Produktion
 ## Equal Voting:
 durch Annahme der inhärenten Gleichheit (s.Z.17) werden alle Stimmen im demokratischen Prozess gleich gewichtet.
 ## Enlightened understanding:
-ist ein Begriff aus der Theorie Dahls, der übersetzt "aufgeklärtes Verstädnis" bedeutet.
+Das "enlightened understanding"
 ## Control of the agenda:
 ## Der Konstruktivismus:
 Theorie, die feststellt, dass jede Person die Welt verschiedenerweise versteht und dass keiner Zugang zu der objektiven Realität hat.
@@ -37,7 +37,7 @@ Die Wissenschaft, die sich mit dem Unterrichten und Erziehen beschäftigt:
 Behaviorismus
 Kognitivismus
 ## Der Fortschritt:
-Die ständige Verbesserung und Weiterentwicklung der WIssenschaft, der Technik und der Lebensqualität.
+Die ständige Verbesserung und Weiterentwicklung der Wissenschaft, der Technik und der Lebensqualität.
 ## Symbolischer Interaktionismus:
 Symbolisch heißt soviel wie bildhaft oder sprachlich und Interaktionismus ist die Kommunikation zwischen Individuengruppen.
 Zusammengefasst heißt das also, dass Mead sich mit der sprachlichen, bildlichen Beziehung zwischen Menschen beschäftigt.
