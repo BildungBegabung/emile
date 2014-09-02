@@ -45,6 +45,7 @@ Zusammengefasst heißt das also, dass Mead sich mit der sprachlichen, bildlichen
 ## Viabilität:
 Begriffe sind dann viabel, wenn sie zu Beschreibungen passen, für die wir sie auch benutzen. Desweiteren sind Dinge viabel, wenn sich ein Individuum dafür interessiert bzw. lebensdienlich ist.
 ## Reflexivität:
+Möglichkeit des sich zurückbeziehens
 ## Nullsummenspiele:
 ## Nash Equilibrium:
 <!-- bitte bei Siebert nachschauen und Definition zitieren -->
@@ -62,7 +63,7 @@ Gesellschaftliche Konventionen des Verhaltens
 ## Erziehungsideal:
 ## Aufforderung zur Selbsttätigkeit:
 ## Deontologisch:
-Vom altgriechischen δέοντα; die Pflicht, die Bindung, Setzung, die keiner Begründung bedarf.
+Vom altgriechischen (δέοντα); die Pflicht, die Bindung, Setzung, die keiner Begründung bedarf.
 ## Freiheit:
 Die Möglichkeit aus vielen verschiedenen Optionen individuell wählen zu können ohne jeglichen Vormund.
 ## Comprehensively exhaustive:
