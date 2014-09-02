@@ -42,24 +42,20 @@ Diese angesprochene Isolation, besonders im radikalen Konstruktivismus, ist beso
 Hierbei wird die Situation eines Mannes beschrieben, der in Unzufriedenheit lebt.
 Um sich aus dieser aussichtlosen Lebensweise zu berfreien beginnt er bekannte Gegenstände mit anderen Namen zu versehen. Demzufolge wurde der Stuhl zum Tisch oder das Bett zum Bild.
 
-> "Jetzt ändert es sich", rief er, und er sagte von nun an dem Bett "Bild".
+> "Jetzt ändert es sich", rief er, und er sagte von nun an zu dem Bett "Bild".
 > [Peter Bichsel](http://www.univie.ac.at/ims/koeppl_lv/Mth_04/Bichsel_Tisch.htm)
 
 Die radikale Änderung seiner eigenen Wahrnehmung und Kommunikation verursachte eine vollkommene Abgrenzung von jeglichen gesellschaftlichen Verbindungen, die Bichsel wie folgt beschreibt:
 
 > "Viel schlimmer war, sie konnten ihn nicht mehr verstehen. Und deshalb sagte er nichts mehr. Er schwieg, sprach nur noch mit sich selbst, grüßte nicht einmal mehr."
-> [Bichsel] (Ein Tisch ist ein Tisch)
+> [Peter Bichsel](Ein Tisch ist ein Tisch)
 
 Der Verlust der Kooperation mit der Umwelt durch die Isolierung in der Subjektivität und damit auch die fehlende Beziehung mit Menschen, zeigt die Grenzen des radikalen Ansatzes der konstruktivistischen Theorie auf, denn sie iosliert den Menschen als geschlossenes *"System"*.
 Diese Tatsache impliziert ein Kooperationsproblem zwischen koexistierenden *"Lebensrealitäten"*, da jene *"Realitäten"* sich ausgehend vom Individuum unterscheiden.
 
 
-Durch Anwendung dieser *"Störung"* [Sprachmacht, Gesellschaftsmacht, Glaubensmacht] kann eine allgemein gültige Leitkultur (**Makrosoziologie**) unter verschieden Individuen enstehen und eine gemeinsame Kooperationsgrundlage geschaffen werden.
 Dies impliziert ein Kooperationsproblem zwischen koexistierenden *"Lebensrealitäten"*, welches durch Perturbation einen Lösungsansatz finden kann.
 Durch Anwendung dieser *"Störung"* [Sprachmacht, Gesellschaftsmacht, Glaubensmacht [Siebert] (vgl. S.11)] kann eine allgemein gültige Leitkultur (**Makrosoziologie**) unter verschieden Individuen entstehen und eine gemeinsame Kooperationsgrundlage geschaffen werden
-Der Mensch wird nach Siebert demzufolge auch "[...] durch politischokonomischen Verhältnissen, die durch Macht, Hierarchien, Partizipatrordischancem Eigentum, Massenmedien und Ähnliches gekennzeichnet sind", (ebd.) beeinflusst.
+Der Mensch wird nach Siebert demzufolge auch *"[...] durch politischökonomischen Verhältnissen, die durch Macht, Hierarchien, Partizipatrordischancem Eigentum, Massenmedien und Ähnliches gekennzeichnet sind"*, (ebd.) beeinflusst.
 
 > "Die Grenze ist nicht eine räumlich Tatsache mit sozologischen Wirkungen, sondern eine soziologische Tatsache, die sich räumlich formt." [Georg Simmel]
-
-*(Es gibt zwei Wahrheiten: 1. Ebene die für alle ersichtlich sind (umunstößlich - dort treffen zwei Körper aufeinander - Realitätstheroie -> aus allen Perspektiven gibt es eine andere 2. Wahrheit, diese 2. Ebene ist für jeden subjektiv - je nach Standort und Standpunkt.)*
-<!-- TODO: S. 29; S. 187 nachschauen, Beobachtung 2. Ordnung im Siebert-Text nachschauen, ob dazu e -->
