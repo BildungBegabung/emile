@@ -118,10 +118,8 @@ Bedeutet sich auf Erfahrungen zurückzubeziehen.
 <!-- TODO: Die letzten 4 Begriffe können bei Siebert im Glossar nachgeschaut werden -->
 ## Autopoiesis:
 Selbstorganisation lebender Wesen, die Fortpflanzung und Leben dienen.
-<<<<<<< HEAD
 ## Nullsummenspiele:
 ## Nash Equilibrium:
-=======
 ## Nullsummenspiele
 ## Nash Equilibrium
 ## Das Paretoprinzip:
