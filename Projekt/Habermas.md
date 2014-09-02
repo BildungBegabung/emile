@@ -39,7 +39,7 @@ Es ist eine *manifestly strategic action*: Es geht nicht mehr um einen Gültigke
 Betrachtet man beide Fälle, stellt sich die Frage, ob ein Gewaltmonopol auch durch kommunikatives Handeln entstehen kann.
 
 Möglicherweise könnte man hier Dewey hinzuziehen, der davon ausgeht, dass ein demokratischer Staat durch eine Vielfalt von Idealen und den Austausch von Ideen bereichert und durch den so entstehenden ständigen Fortschritt immerhin weiterentwickelt wird.
- <!-- TODO: github mit deweys idee vn prozess der demokratie -->
+ <!-- TODO: github mit deweys idee vn prozess der demokratie --><!-- soll ich das machen? -->
 Da ein Sprechakt nur dann gegenseitige Verständigung zur Folge hat, wenn es sich um kommunikatives Handeln handelt, kann man davon ausgehen dass dieser Fortschritt nur durch kommunikatives Handlen erreicht werden kann.
 
 Notwendig wäre kommunikativevs Handeln auch bei der Umsetzung einer Vertragstheorie wie Rousseus Gedankenexpreiment vom contract sociale (französisch^^).
