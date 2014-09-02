@@ -17,15 +17,15 @@ Wir beziehen dies schließlich nicht nur auf bereit Institutionalisierte Werte, 
 „In a schooled world the road to happiness is paved with a consumer's index“(P.??????).
 Diese Werte beginnen einen allgemein verbindlichen Charakter zu entwickeln, welche uns dazu verleiten, unser "Wissen" an die nächste Generation weitergeben zu wollen, und somit versuchen deren Lerneprozess ebenfalls zu kontrollieren. Wir gehen davon aus, das Urteil einer Person sollte entscheiden was, ein anderer Mensch wann lernt.
 Die einzige, mögliche Konsequenz auf diese Fehleinschätzungen ist Eskalation.
-Sobald die Schule uns beigebracht hat, dass Wissensvermittlung zwangsläufig neue Kenntnisse hervorruft, nur durch aktive Wissensvermittlung der notwendige Wissenshorizont erreicht werden kann, ist die uns logische erscheinende Antwort auf alle Bildungprobleme Eskalation im Bildungsprozess.
-
-Die Schule lehrt: Je mehr Schule, desto mehr Lernerfolg; und schafft somit ihre eigene Grundlage.
+Sobald die Schule uns beigebracht hat, dass Wissensvermittlung zwangsläufig neue Kenntnisse hervorruft, nur durch aktive Wissensvermittlung der notwendige Wissenshorizont erreicht werden kann, ist die uns logische erscheinende Antwort auf alle Bildungprobleme Eskalation im Bildungsprozess:
+Die Schule lehrt: Je mehr Schule, desto mehr Lernerfolg, weshalb wir zur Schule.
+Dennoch sagt Illich: 
 
 
 ##### Illichs Zielen für die "educational revolution" sind:
 
 - Beschreibung von Illichs Vorschlägen
-Illich unterscheidet zwischen 4 Aspekte, die für die Bildung eines Kindes notwendig sind. Es braucht eine Umgebung in denen es gleichaltrigen Kinder gibt, aber wo es auch professionelle Hilfe von Pädagogen bekommen kann und wo es Lernobjekte gibt, die für seine Entwicklung wichtig sind, und es auch anwenden kann.  
+Illich unterscheidet zwischen 4 Aspekten, die für die Bildung eines Kindes notwendig sind. Es braucht eine Umgebung in denen es gleichaltrigen Kinder gibt, aber wo es auch professionelle Hilfe von Pädagogen bekommen kann und wo es Lernobjekte gibt, die für seine Entwicklung wichtig sind, und es auch anwenden kann.  
 Illichs Zielen für die "educational revolution" sind:
 
 1.-Abschaffung der Tatsache, dass Personen oder Institute auf Grund ihres Bildungsgrades Kontrolle über den Zugang zu Dingen ausüben.
