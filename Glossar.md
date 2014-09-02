@@ -10,17 +10,16 @@ Die Übereinstimmung einer Mehrzahl von Personen in einem bestimmten Merkmal, di
 Eine soziale Struktur, die eine gewisse Stabilität hat.
 ## Die Axiologie
 ## Die Ideologie:
-Alle Ansichten und Werte einer soziallen Gruppe, einer bestimmten Gesellschaft.
+Alle Ansichten und Werte einer sozialen Gruppe, einer bestimmten Gesellschaft.
 ## Die Bildsamkeit:
 =======
  <!-- TODO: Positivsummenspiel erklären -->
 ## Persönliche Autonomie:
  Die Fähigkeit des Menschen, sich selbst zu führen, ohne Hilfe oder Aufsicht von anderen.
 ## Inhärente Gleichheit:
-Die innewohnende Übereinstimmung einer Mehrzahl von Personen in einem bestimmten Merkmal, die von Geburt aus gleich sind.
-<!-- Gleichwertigkeit statt "Übereinstimmung" -->
+Die innewohnende Gleichwertigkeit einer Mehrzahl von Personen in einem bestimmten Merkmal, die von Geburt aus gleich sind.
 ## Die Institution:
-Eine soziale Struktur, die eine gewisse Stabilität hat.
+Eine soziale Struktur, die eine gewisse Stabilität hat. Im weiteren Sinne beschreiben Institutionen zum Beispiel auch Dinge wie "Klatschen" oder Hände schütteln zur Begrüßung. 
 <!-- auch Institutionen im weiteren Sinne erwähnen wie Klatschen -->
 ## Die Axiologie
 ## Die Ideologie:
