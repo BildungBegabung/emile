@@ -2,9 +2,8 @@
 
 * [Einführung](Einführung.md)
 * [Prolog](Prolog.md)
-  * [Rousseau](Exposition/Rousseau.md)
+  * [Rousseau](Rousseau.md)
 * [Exposition](Exposition/Exposition.md)
-  * [Mead](Exposition/Mead.md)
-  * [Tilly](Exposition/Tilly.md)
+* [Mead](Exposition/Mead.md)
 * [Epilog](Epilog.md)
 * [Projekt](Projekt/Projekt.md)
