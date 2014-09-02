@@ -26,7 +26,7 @@ wechselseitige Beziehung, aufeinander bezogenes Handeln, gegenseitige Beeinfluss
 ## Der Monopolist:
 Besitzer des absoluten Rechts oder der absoluten Kontrolle über die Produktion
 ## Effective participation:
-
+Bei einer politischen Wahl muss die Stimme eines Individuums genauso viel Wert besitzen, wie die jedes anderen Individuums.
 ## Equal Voting:
 durch Annahme der inhärenten Gleichheit (s.Z.17) werden alle Stimmen im demokratischen Prozess gleich gewichtet.
 ## Enlightened understanding:
@@ -41,7 +41,7 @@ Die ständige Verbesserung und Weiterentwicklung der Wissenschaft, der Technik u
 Symbolisch heißt soviel wie bildhaft oder sprachlich und Interaktionismus ist die Kommunikation zwischen Individuengruppen.
 Zusammengefasst heißt das also, dass Mead sich mit der sprachlichen, bildlichen Beziehung zwischen Menschen beschäftigt.
 ## Mutually exclusive:
-
+im MECE Prinzip. Besagt, das ein Kriterium nur dann ein dann hinreichend ist, wenn es nur auf eine von zwei Möglichkeiten zutreffend ist.
 ## Viabilität:
 Begriffe sind dann viabel, wenn sie zu Beschreibungen passen, für die wir sie auch benutzen. Desweiteren sind Dinge viabel, wenn sich ein Individuum dafür interessiert bzw. lebensdienlich ist.
 ## Reflexivität:
@@ -60,10 +60,6 @@ Die Wissenschaft, die sich mit dem Unterrichten und Erziehen beschäftigt:
 Pflichten, die ein Mensch von sich aus hat
 ## Die Moral:
 Gesellschaftliche Konventionen des Verhaltens
-## Konsequentialismus:
-
-## Negative Freiheit:
-
 ## Aufforderung zur Selbsttätigkeit:
 
 ## Deontologisch:
