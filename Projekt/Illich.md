@@ -4,6 +4,7 @@
 
 - Illichs Kritik an Schule
 (#114, #116 und aus Präsentation “Institutionalisierung-Problem”)
+
 In Illichs erster, gesellschaftkritischer Schrift hinterfragt Illich die Stellung und Aufgabenfelder der heutigen Schule.
 Er stellt sich nicht gegen deren inhaltliche und pädagogische Konzeption;
 vielmehr kritisiert Illich eine Istitution, welche uns glauben lassen soll, wir könnten Wertevorstellungen wie Bildung, eine der ureigensten Eigenschaften des Menschen, bestimmen, analysieren und schließlch messen.
@@ -52,7 +53,10 @@ oder jeder besitzt eine gewisse Menge "credits", die er selbst durch das Erteile
 **"Reference Services to Educators"**, der Zugang zu Profis:
 Illich unterscheidet die "network creaters", die sich um das reibungslose Funktionieren des Systems kümmern; die Pädagogen, die Eltern und "Vorführer" beraten; sowie die "masters" oder "leaders", die ein echtes Meister-Schüler-Verhältnis aufbauen und den intellektuellen wie menschlichen Grundstein des Systems bilden.
 
-
+In Illichs erster, gesellschaftkritischer Schrift hinterfragt Illich die Stellung und Aufgabenfelder der heutigen Schule.
+Er stellt sich nicht gegen deren inhaltliche und pädagogische Konzeption;
+vielmehr kritisiert Illich eine Istitution, welche uns glauben lassen soll, wir könnten Wertevorstellungen wie Bildung, eine der ureigensten Eigenschaften des Menschen, bestimmen, analysieren und schließlch messen.
+Illich begreift die Schule als eine Art Paradigma für die Natur von lebensbestimmenden Institutionen, fordert deren Abschaffung und plädiert für eine Gesellschaft, die sich für freie, und nicht durch Pflichten wie Berufe und Schulanwesenheit provozierte, zwischenmenschliche Interaktion ausspricht.
 
 - evtl. Kritik an Illich-Text? (aus Präsentation, Problem: keine Quelle zum Zitieren)
 
@@ -68,9 +72,10 @@ vorläufige Ideen: (zu diskutieren)
 
 - darauf aufbauend: Illich als Lösungsvorschlag?
 
-- Verbindung zu Arbeiten mit Github
-(Github als Lernnetzwerk?)
-vorläufige Ideen:
+
+- Verbindung zu Arbeiten mit Github:
+Wenn Illichs Theorie genau beachtet wird, kann man feststellen, dass die Platform "Github" eine ziemlich prezisse Umsteztzung dafür ist.
+In der DSA hat man die Aufgaben so organisiert, dass jeder entscheiden kann, woran er/sie arbeiten will und in welchem Moment er/sie dies machen will.
  - Peer-Aspekt (Kommentare auf Issues ->Diskussion),
  - Inhaltlich für *Projektarbeit*,
  - keine Bestimmung des Inhalts durch andere (Bsp: unser Kurs statt Programm schreiben);
