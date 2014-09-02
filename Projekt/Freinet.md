@@ -40,3 +40,8 @@ Diese Kriterien sind bei unserer Arbeit auf GitHub erfüllt:
 - Zugleich arbeiten wir kooperativ zusammen:  
 Durch die gegenseitige Kontrolle wird das Ergebnis besser, als es in Einzelarbeit wäre (Ernten von Positiv-Summen-Spiel-Erträge).
 - Und stellen uns in den Dienst der Gemeinschaft.
+Als Fazit lässt sich also sagen, dass Freinet unserem Sytem wahrscheinlich nicht abgeneigt wäre.
+
+Projektfrage 1
+Freinets Ansprüche sind in Projektfrage 2 dargestellt.
+Aber handelt es sich hierbei nicht doch eher um eine Präzesion der Frage als um eine Antwort?
