@@ -12,8 +12,13 @@ Illich begreift die Schule als eine Art Paradigma für die Natur von lebensbesti
 They school them to confuse process and substance."(Illich- P.3)
 Wir verwechseln Prozess und Wert, und werden so zu der Annahme verleitet, Lehren würde unausweichlich Lernerfolg bewirken.
 Diese Annahme lässt sich ebenso auf das Gesundheitssystem anwenden, welchem die Annahme vorrausgeht, medizinische Versorgung lasse sich mit Bekämpfung von Krankheiten gleichsetzen, oder auf Polizeipräsenz, welcher Sicherheit automatisch folgen sollte.
-Diese Anschauungen geben uns die Möglichkeit und fordern uns auch unterbewusst dazu auf, die Werte zu messen, einfach anhand des Umfangs des Prozesses, welcher ja, so die These, zwangsweise den Wert provoziert.
-Die einzig mögliche Reaktion auf diese Fehleinschätzungen ist Eskalation. Die Schule bringt uns bei, dass Wissensvermittlung zwangsläufig neue Kenntnisse hervorruft, nur durch aktive Wissensvermittlung der notwendige Wissenshorizont erreicht werden kann.
+Diese Anschauungen geben uns die Möglichkeit und fordern uns auch unterbewusst dazu auf, die Werte zu messen, einfach anhand des Umfangs des Prozesses, welcher schließlich, so die These, zwangsweise den Wert provoziert.
+Wir beziehen dies schließlich nicht nur auf bereit Institutionalisierte Werte, sondern versuchen auch unsere persönlichen Werte von Standarts abzuleiten und den Wert unserer Persönlichkeit messen zu wollen.
+„In a schooled world the road to happiness is paved with a consumer's index“(P.??????).
+Diese Werte beginnen einen allgemein verbindlichen Charakter zu entwickeln, welche uns dazu verleiten, unser "Wissen" an die nächste Generation weitergeben zu wollen, und somit versuchen deren Lerneprozess ebenfalls zu kontrollieren. Wir gehen davon aus, das Urteil einer Person sollte entscheiden was, ein anderer Mensch wann lernt.
+Die einzige, mögliche Konsequenz auf diese Fehleinschätzungen ist Eskalation.
+Sobald die Schule uns beigebracht hat, dass Wissensvermittlung zwangsläufig neue Kenntnisse hervorruft, nur durch aktive Wissensvermittlung der notwendige Wissenshorizont erreicht werden kann, ist die uns logische erscheinende Antwort auf alle Bildungprobleme Eskalation im Bildungsprozess.
+
 Die Schule lehrt: Je mehr Schule, desto mehr Lernerfolg; und schafft somit ihre eigene Grundlage.
 
 
