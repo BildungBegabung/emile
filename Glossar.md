@@ -39,9 +39,13 @@ die ständige Verbesserung und Weiterentwicklung der Wissenschaft, der Technik u
 symbolischer Interaktionismus
 ecological pragmatism
 Vermachtung
-Ethik
+## die Ethik:
+Pflichten, die ein Mensch von sich aus hat, also a priori
+
 Pragmatische Ethik
-Moral
+## die Moral
+gesellschaftliche Konventionen des Verhaltens
+
 Deontologie
 Konsequentialismus
 Negative Freiheit
