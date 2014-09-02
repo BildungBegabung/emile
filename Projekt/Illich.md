@@ -3,6 +3,7 @@
 - Illichs Kritik an Schule
 (#114, #116 und aus Präsentation “Institutionalisierung-Problem”)
 
+
 In Illichs erster, gesellschaftkritischer Schrift hinterfragt Illich die Stellung und Aufgabenfelder der heutigen Schule.
 Er stellt sich nicht gegen deren inhaltliche und pädagogische Konzeption;
 vielmehr kritisiert Illich eine Istitution, welche uns glauben lassen soll, wir könnten Wertevorstellungen wie Bildung, eine der ureigensten Eigenschaften des Menschen, bestimmen, analysieren und schließlch messen.
@@ -19,14 +20,14 @@ Diese Werte beginnen einen allgemein verbindlichen Charakter zu entwickeln, welc
 Die einzige, mögliche Konsequenz auf diese Fehleinschätzungen ist Eskalation.
 Sobald die Schule uns beigebracht hat, dass Wissensvermittlung zwangsläufig neue Kenntnisse hervorruft, nur durch aktive Wissensvermittlung der notwendige Wissenshorizont erreicht werden kann, ist die uns logische erscheinende Antwort auf alle Bildungprobleme Eskalation im Bildungsprozess:
 Die Schule lehrt: Je mehr Schule, desto mehr Lernerfolg, weshalb wir zur Schule.
-Illich sagt hingegen:
-"Most learning is not the result of instruction: It is rather the result of unhampered participation in a meaningful setting."(TÜR)
+Dennoch sagt Illich:
+"Most learning is not the result of instruction: It is rather the result of unhampered participation in a meaningful setting."
 
 
 ##### Illichs Zielen für die "educational revolution" sind:
 
 - Beschreibung von Illichs Vorschlägen
-Illich unterscheidet zwischen 4 Aspekten, die er für die Bildung eines Kindes als notwendig erachtet. Es braucht eine Umgebung, in denen es gleichaltrigen Kinder gibt, aber wo es auch professionelle Hilfe von Pädagogen bekommen kann und wo es Lernobjekte gibt, die für seine Entwicklung wichtig sind, und es auch anwenden kann.  
+Illich unterscheidet zwischen 4 Aspekte, die für die Bildung eines Kindes notwendig sind. Es braucht eine Umgebung in denen es gleichaltrigen Kinder gibt, aber wo es auch professionelle Hilfe von Pädagogen bekommen kann und wo es Lernobjekte gibt, die für seine Entwicklung wichtig sind, und es auch anwenden kann.  
 Illichs Zielen für die "educational revolution" sind:
 1.-Abschaffung der Tatsache, dass Personen oder Institute auf Grund ihres Bildungsgrades Kontrolle über den Zugang zu Dingen ausüben.
 2.-Das Teilen/Gemeinsame Nutzung von Fertigkeiten ermöglichen, indem man die Freiheit unterrichtet und man ihr ausübt damit es  bei Bedarf sicher gestellt wird.
@@ -47,17 +48,26 @@ vorläufige Ideen: (zu diskutieren)
  - Rousseau (Beruf Menschsein statt Spezailisierung);
  - (Benner (Interaktion zwischen Pädagogen und Lernendem - allgemein menschliche Interaktion);)
  - mead (Interaktion notwendig)
+ 
 
-Viele Elemente aus Illichs Vorstellung einer neuen Art von Lernen können als Lösungsansatz für Probleme und Fragen, die die in der Exposition des Kurses behandelten Texte aufgeworfen haben, interpretiert werden.
-So müssen nach der Theorie des Konstruktivismus Lerninhalte "viabel", das heißt für das lernende Individuum funktional, sein.
-
-Daraus, das "das psychische System entscheidet, was es verarbeiten kann und will" (Siebert, S.18), ergibt sich die Forderung nach einem selbstbestimmten Lernen.
-Das Ziel aller Vorschläge Illichs ist es, den Lernenden "Zugang zu vorhandenen Möglichkeiten [zu] gewähren" (Illich, S.84) statt sie ihnen durch einen Lehrplan vorzuschreiben, welchen Wissensstand sie in welcher Zeit zu erreichen haben.
+Viele Elemente aus Illichs Lernkonzeptes erfüllen die Anforderungen, welche die in der Exposition behandelten Texte an den Prozess des Lernens stellen.
+So müssen nach der Theorie des Konstruktivismus Lerninhalte "viabel", das heißt für das lernende Individuum funktional und bedeutend, sein.
+Da "das psychische System entscheidet, was es verarbeiten kann und will" (Siebert, S.18), ergibt sich die Forderung nach einem selbstbestimmten Lernen.
+Das Ziel aller Vorschläge Illichs ist es, den Lernenden "Zugang zu vorhandenen Möglichkeiten [zu] gewähren" (Illich, S.84) statt sie ihnen durch einen Lehrplan vorzuschreiben, welchen Wissensstand sie in welcher Zeit zu erreichen haben. 
 Jeder hat die Freiheit, eine Gelegenheit zum Lernen wahrzunehmen, oder sich dagegen zu entscheiden.
-Durch die so entstandene Auswahlmöglichkeit zwischen verschiedensten Lerninhalten wird gewährleistet, dass sich jedes Individuum mit dem für es anschlussfähigsten beschäftigen kann.
+Durch die so entstandene Auswahlmöglichkeit zwischen verschiedensten Lerninhalten wird gewährleistet, dass sich jedes Individuum dem beschäftigen kann, der für es am anschlussfähigsten ist.
+
+Desweiteren geschieht Lernen in Illichs Modell oft in sozialen Kontexten.
+Beispielsweise findet es in "Fertigkeitsbörsen" statt.
+Dieser Vorgang lässt sich sehr gut mit dem Konzept des Hyperzyklus beschreiben, dessen Bedingung "wer etwas weiß oder kann, teilt es mit den anderen" (zimpel, S.123) durch diese Einrichtungen erfüllt wird.
+Dadurch, dass nicht mehr wie vorher "das Grundrecht auf Mitteilung des eigenen Wissens in das Privileg akademischer Freiheit [verkehrt wird], das nur den in einer Schule Beschäftigten verliehen wird" (Illich, S.97), ist jeder dazu befähigt, andere an seinem Wissen teilhaben zu lassen, während er wiederum von den Fähigkeiten anderer profitieren kann.
+
 
 
 - darauf aufbauend: Illich als Lösungsvorschlag?
+Idee: Frage: Wie können unterschiedliche und unterschiedlich befähigte Menschen inhärent gleich berechtigt und persönlich autonom zusammenleben?
+
+Lösung: Abschaffen der Bewertung von Fähigkeiten durch Zertifikate, die durch Institutionen vergeben werde. -->Gleichheit durch Gleichwertigkeit unterschiedlicher Fähigkeiten
 
 
 - Verbindung zu Arbeiten mit Github
