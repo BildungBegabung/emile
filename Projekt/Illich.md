@@ -3,7 +3,7 @@
 - Illichs Kritik an Schule
 (#114, #116 und aus Präsentation “Institutionalisierung-Problem”)
 
-<<<<<<< HEAD
+
 In Illichs erster, gesellschaftkritischer Schrift hinterfragt Illich die Stellung und Aufgabenfelder der heutigen Schule.
 Er stellt sich nicht gegen deren inhaltliche und pädagogische Konzeption;
 vielmehr kritisiert Illich eine Istitution, welche uns glauben lassen soll, wir könnten Wertevorstellungen wie Bildung, eine der ureigensten Eigenschaften des Menschen, bestimmen, analysieren und schließlch messen.
@@ -26,8 +26,6 @@ Dennoch sagt Illich:
 
 ##### Illichs Zielen für die "educational revolution" sind:
 
-=======
->>>>>>> origin/illich
 - Beschreibung von Illichs Vorschlägen
 Illich unterscheidet zwischen 4 Aspekte, die für die Bildung eines Kindes notwendig sind. Es braucht eine Umgebung in denen es gleichaltrigen Kinder gibt, aber wo es auch professionelle Hilfe von Pädagogen bekommen kann und wo es Lernobjekte gibt, die für seine Entwicklung wichtig sind, und es auch anwenden kann.  
 Illichs Zielen für die "educational revolution" sind:
@@ -64,7 +62,7 @@ Das Ziel aller Vorschläge Illichs ist es, den Lernenden "Zugang zu vorhandenen 
 Jeder hat die Freiheit, eine Gelegenheit zum Lernen wahrzunehmen, oder sich dagegen zu entscheiden.
 Durch die so entstandene Auswahlmöglichkeit zwischen verschiedensten Lerninhalten wird gewährleistet, dass sich jedes Individuum mit dem für es anschlussfähigsten beschäftigen kann.
 
-<<<<<<< HEAD
+
 Viele Elemente aus Illichs Vorstellung einer neuen Art von Lernen können als Lösungsansatz für Probleme und Fragen, welche die in der Exposition behandelten Texte aufgeworfen haben, herbeigezogen werden.
 So müssen nach der Theorie des Konstruktivismus Lerninhalte "viabel", das heißt für das lernende Individuum funktional und bedeutend, sein.
 Da "das psychische System entscheidet, was es verarbeiten kann und will" (Siebert, S.18), ergibt sich die Forderung nach einem selbstbestimmten Lernen.
@@ -72,12 +70,12 @@ Dieses Ziel des individuellen Lernens lässt sich in einer zufällig bestimmten 
 Hier trifft sich die konstruktivistische Theorie mit Illich, die besagt, dass eine allgemeine Einstufung in Altersklassen in keinster Weise gleiche Interessen, bzw. einen gleichen Stand in dem geistigen Reifeprozess, vorraussetzen.
 Jeder hat die Freiheit, so Illich, eine Gelegenheit zum Lernen wahrzunehmen, oder aber sich dagegen zu entscheiden.
 Das Ziel aller Vorschläge Illichs ist es, den Lernenden "Zugang zu vorhandenen Möglichkeiten [zu] gewähren" (Illich, S.84) statt sie ihnen durch einen Lehrplan vorzuschreiben, welchen Wissensstand sie in welcher Zeit zu erreichen haben.
-=======
+
 Desweiteren geschieht Lernen in Illichs Modell oft in sozialen Kontexten.
 Beispielsweise findet es in "Fertigkeitsbörsen" statt.
 Dieser Vorgang lässt sich sehr gut mit dem Konzept des Hyperzyklus beschreiben, dessen Bedingung "wer etwas weiß oder kann, teilt es mit den anderen" (zimpel, S.123) durch das diese Einrichtungen erfüllt wird.
 Dadurch, dass nicht mehr wie vorher "das Grundrecht auf Mitteilung des eigenen Wissens in das Privileg akademischer Freiheit [verkehrt wird], das nur den in einer Schule Beschäftigten verliehen wird" (Illich, S.97), ist jeder dazu befähigt, andere an seinem Wissen teilhaben zu lassen.
->>>>>>> origin/illich
+
 
 
 - darauf aufbauend: Illich als Lösungsvorschlag?
