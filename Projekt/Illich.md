@@ -82,6 +82,15 @@ Lösung: Abschaffen der Bewertung von Fähigkeiten durch Zertifikate, die durch 
 (Github als Lernnetzwerk?)
 vorläufige Ideen:
 Ich würde das hier jetzt bearbeiten!!!!
+Illichs Beschreibung der learning webs decken sich grundsätzlich mit unserer Arbeit auf Github, angenommen, mehr Leute würden es nutzen und wir alle haben uns ganz frei dazu entschieden, genau an diesem Thema teilzunehmen, und sind jederzeit in der Lage unsere Arbeit zu verweigern- wenn wir wollten.
+Angenommen PCs mit mindestens windows7 würden als Lernobjekt nach Illichs Definition gelten, hätte jeder Zugang zu diesem Programm.
+Zudem würde er die Einarbeitung in die Technik als sehr positiv betracchten, da es uns "zwingt" neue Sachverhalte zu verstehen, und uns dazu bringt mit neuen Themengebieten auseinanderzusetzen.
+Wichtig ist dabei, dass wir dieses Wissen als bedeutend für uns wahrnehmen, da es einen direkten Wirklichkeitsbezug hat.
+Illich würde auf jeden Fall der Issue- Organisation zustimmen, in welcher jeder seine eigenen Interessen kundtun kann, und auch an der Ausarbeitung bereits formulierten Interessen teilnehmen kann.
+Wir arbeiten mit Gleichaltrigen, bzw. von ähnlichen Interessen Getriebenen, zusammen und können darauf Vertrauen, dass wir Einfluss auf das Endergebnis haben, und das wir in der Lage sind, unsere eigene Meinung so zu äußer, dass sie auch wahrgenommen wird.
+Dabei haben wir aber auch zu jedem Zeitpunkt die Möglichkeit, professionelle Hilfe zu bekommen, wobei diese uns nicht das eigentliche Wissen vermitteln, sondern ihnen lediglich eine beratende Stellung zukommt (Lob an Max und Verena an dieser Stelle!!), und uns vor allem in organisatorischen, bzw. technischen Fragen weiterhelfen.
+Als erster Kritikpnkt fällt natürlich die Vorauswahl der TNs ins Auge, jedoch stellen auch unter Negierung dieser Tatsache weitere Probleme in den Weg.
+Schränkte man unser Projekt allein auf die Ausarbeitung auf github ein, würde sich unser Kontakt ebenfalls wieder auf eine rein effizienzorientierte Ebene reduzieren und das eigentliche Indentifizieren mit der anderen Perönlichkeit gerät in den Hintergrund. 
  - Peer-Aspekt (Kommentare auf Issues ->Diskussion),
  - Inhaltlich für *Projektarbeit*,
  - keine Bestimmung des Inhalts durch andere (Bsp: unser Kurs statt Programm schreiben);
