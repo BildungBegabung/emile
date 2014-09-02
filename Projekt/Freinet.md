@@ -25,14 +25,26 @@ Darüber hinaus sieht Freinet auch keine Notwendigkeit eines verallgemenernden L
 Freinet ist sich sicher, "Was das Kind nicht heute lernt, nicht in dieser Woche, ja selbst nicht in diesem Jahre lernt, dass wird es sich später aneignen" (S. 105).
 Es ist also wichtiger, "dass das Kind seine Individualität entwickelt" (S. 105), als dass es spezielle Lerninhalte erfasst.
 
+## Interessenkomplexe & Interessenzentren
+Die Interessenkomplexe (Complexe d'intéreêts) gehen vom Schüler bzw. von der Schülerin aus, d.h. er/sie hat gewissen Interessen, welche er/sie erarbeiten möchte. Der Lehrer hingegen verkörpert die Interessenzentren (Centres d'intérêts). Er hat ein weiteres Feld an Wissen und hat deshalb quasi Zentren in denen dieses Wissen gespeichert ist. Somit muss der Lehrer mit seinem Zentrum an Wissen den Schülern und Schülerinnen dabei helfen, ihre Komplexe an Wissen ordnen und kann auf weitere Möglichkeiten des Wissenserwerbs hinweisen. Trotzdem ist für Freinet die "Überlegenheit des Interessenkomplexes [...] gegenüber den Interessenzentren [nicht anzu]zweifeln" (S.89).
+
+## Was für ein Verständnis von Lernen liegt der Arbeit mit Interessenkomplexen zugrunde?
+Freinet geht davon aus, dass die Kinder lernen wollen. Aufgrund dieser Annahme richtet er seinen Unterricht nach den Interessenkomplexen der Kinder aus, d.h. im Unterricht werden die Themen bearbeitet, welche die Kinder interessieren. Freinet arbeitet also nach einer "neuen Art des Unterrichts nach Interessenkomplexen" (S.89). Außerdem haben die Kinder die Möglichkeit sehr selbstständig zu arbeiten: Sie können sich aussuchen, welche Aufgabe sie bearbeiten, wo sie dies tun, mit wem, wann und wie lange. Wenn die Aufgabe den Kindern im Verlauf dann doch nicht mehr wichtig bzw. interessant erscheint, können sie diese beenden und eine neue Anfangen.
+
+## Was müssen Lehrer_Innen bei der Arbeit mit Interessenkomplexen können?
+Lehrer und Lehrerinnen müssen in der Lage sein, die Interessenkomplexe der Schüler und Schülerinnen zu ordnen. Die Schüler haben nämlich die Interessen inne, über welche sie sich informieren möchten, allerdings sind diese noch nicht vollständig geordnet. Somit muss der Lehrer bzw. die Lehrerin, die es sich zur Aufgabe machen, diese Interessen zu ordnen und den Schülern und Schülerinnen "bei der manuellen, künstlerischen und geistigen Verwirklichung ihrer vorherrschenden Möglichkeiten" (S.90) zu helfen. Dies müssen sie nicht nur in Bezug auf die "nur [...] durch den täglichen Text geoffenbarten Interessen" (S.89), sondern auch in Bezug auf "alle übrigen Interessen, die fern oder nah mit dem Ausgangsinteresse in Verbindung stehen" (S.90),
+
+## Was wird von den Schüler_Innen verlangt?
+Von den Schülern und Schülerinnen wird verlangt ihre Interessen zu kennen, damit die Lehrer dabei helfen können, den Schülern und Schülerinnen bei dem Erlangen von Informationen über dieses Interesse helfen zu können.
 
 ## Zu den Projektfragen:
-Projektfrage 1
+
+### Projektfrage 1
 Es muss zunächst klar gestellt werden, dass es für Freinet unerheblich ist, inwiefern ein Problem von persönlicher Autonomie und inherenter Gleichwertigkeit gelöst wird. Er beschäftigt sich mit der didaktischen Konzeption von Schule und wie diese
 
 Vgl. Freinet-1964, S. 509-510
 
-Projektfrage 2
+### Projektfrage 2
 > "Das Kind liebt nicht die Massenarbeit, bei welcher der Einzelne sich unterwerfen muß. Es liebt die Einzel- und Gruppenarbeit in einer kooperativen Gemeinschaft." (S. 509)
 Wenn alle das Gleiche bearbeiten, entsteht für viele der Schüler/DSA-Teilnehmer/... große Frustration.
 Für die einen geht es viel zu langsam, für die anderen viel zu schnell voran.
