@@ -28,7 +28,10 @@ Es ist also wichtiger, "dass das Kind seine Individualität entwickelt" (S. 105)
 
 
 ## Zu den Projektfragen:
+Projektfrage 1
+Es muss zunächst klar gestellt werden, dass es für Freinet unerheblich ist, inwiefern ein Problem von persönlicher Autonomie und inherenter Gleichwertigkeit gelöst wird. Er beschäftigt sich mit der didaktischen Konzeption von Schule und wie diese
 Vgl. Freinet-1964, S. 509-510
+
 Projektfrage 2
 > "Das Kind liebt nicht die Massenarbeit, bei welcher der Einzelne sich unterwerfen muß. Es liebt die Einzel- und Gruppenarbeit in einer kooperativen Gemeinschaft." (S. 509)
 Wenn alle das Gleiche bearbeiten, entsteht für viele der Schüler/DSA-Teilnehmer/... große Frustration.
