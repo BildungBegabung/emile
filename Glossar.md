@@ -12,16 +12,15 @@ Eine soziale Struktur, die eine gewisse Stabilität hat.
 ## Die Ideologie:
 Alle Ansichten und Werte einer sozialen Gruppe, einer bestimmten Gesellschaft.
 ## Die Bildsamkeit:
-=======
- <!-- TODO: Positivsummenspiel erklären -->
+Die Fähigkeit des Individuums sich fortzubilden (Theorie Benner).
+## Positiv Summenspiel:
 ## Persönliche Autonomie:
- Die Fähigkeit des Menschen, sich selbst zu führen, ohne Hilfe oder Aufsicht von anderen.
+Die Fähigkeit des Menschen, sich selbst zu führen, ohne Hilfe oder Aufsicht von anderen.
 ## Inhärente Gleichheit:
 Die innewohnende Gleichwertigkeit einer Mehrzahl von Personen in einem bestimmten Merkmal, die von Geburt aus gleich sind.
 ## Die Institution:
-Eine soziale Struktur, die eine gewisse Stabilität hat. Im weiteren Sinne beschreiben Institutionen zum Beispiel auch Dinge wie "Klatschen" oder Hände schütteln zur Begrüßung. 
-<!-- auch Institutionen im weiteren Sinne erwähnen wie Klatschen -->
-## Die Axiologie
+Eine soziale Struktur, die eine gewisse Stabilität hat. Im weiteren Sinne beschreiben Institutionen zum Beispiel auch Dinge wie "Klatschen" oder Hände schütteln zur Begrüßung.
+## Die Axiologie:
 ## Die Ideologie:
 Alle Ansichten und Werte einer sozialen Gruppe, einer bestimmten Gesellschaft.
 ## Die Bildsamkeit:
@@ -34,79 +33,79 @@ wechselseitige Beziehung, aufeinander bezogenes Handeln, gegenseitige Beeinfluss
 Staatsgenese
 ## Der Monopolist:
 Besitzer des absoluten Rechts oder der absoluten Kontrolle über die Produktion
-## Effective participation
-## Equal Voting
-## Enlightened understanding
-## Control of the agenda
+## Effective participation:
+## Equal Voting:
+## Enlightened understanding:
+## Control of the agenda:
 ## Der Konstruktivismus:
 Theorie, die feststellt, dass jede Person die Welt verschiedenerweise versteht und dass keiner Zugang zu der objektiven Realität hat.
-## Die Pädagogik: die Wissenschaft, die sich mit dem Unterrichten und Erziehen beschäftigt.
+## Die Pädagogik: die Wissenschaft, die sich mit dem Unterrichten und Erziehen beschäftigt:
 Behaviorismus
 Kognitivismus
 ## Der Fortschritt:
 Die ständige Verbesserung und Weiterentwicklung der WIssenschaft, der Technik und der Lebensqualität.
-## Symbolischer interaktionismus
+## Symbolischer interaktionismus:
 Symbolisch heißt soviel wie bildhaft oder sprachlich und Interaktionismus ist die Kommunikation zwischen Individuengruppen.
 Zusammengefasst heißt das also, dass Mead sich mit der sprachlichen, bildlichen Beziehung zwischen Menschen beschäftigt.
-## Ecological pragmatism
-## Vermachtung
-## Ethik/Pragmatische Ethik
-## Moral
-## Konsequentialismus
-## Negative Freiheit
-## Individualität
-## Erziehungsideal
-## Leiblichkeit
-## Selbsttätigkeit
-## Identität
-## Freiheit
+## Ecological pragmatism:
+## Vermachtung:
+## Ethik/Pragmatische Ethik:
+## Moral:
+## Konsequentialismus:
+## Negative Freiheit:
+## Individualität:
+## Erziehungsideal:
+## Leiblichkeit:
+## Selbsttätigkeit:
+## Identität:
+## Freiheit:
 Beschreibt den Zustand, zwischen vielen verschiedenen Möglichkeiten beliebig wählen zu dürfen ohne dabei eingeschränkt zu werden.
-## Geschichtlichkeit
-## Mutually exclusive
-## Comprehensively exhaustive
-## Viabilität
-## Rekursivität
-## Reflexivität
-## System
-## Autopoiesis
-## Nullsummenspiele
-## Nash equilibrium
-## Integral
+## Geschichtlichkeit:
+## Mutually exclusive:
+## Comprehensively exhaustive:
+## Viabilität:
+## Rekursivität:
+## Reflexivität:
+## System:
+## Autopoiesis:
+## Nullsummenspiele:
+## Nash Equilibrium:
+## Integral:
 Beschreibt den Abschnitt unter dem Graph in der Produktionsmöglichkeitenkurve.
 <!-- bitte bei Siebert nachschauen und Definition zitieren -->
-## Die Pädagogik: die Wissenschaft, die sich mit dem Unterrichten und Erziehen beschäftigt.
+## Die Pädagogik: die Wissenschaft, die sich mit dem Unterrichten und Erziehen beschäftigt:
 Behaviourismus
 Kognitivismus
 ## Der Fortschritt:
 Die ständige Verbesserung und Weiterentwicklung der Wissenschaft, der Technik und der Lebensqualität.
-## Symbolischer Interaktionismus
-## Ecological pragmatism
-## Vermachtung
+## Symbolischer Interaktionismus:
+## Ecological Pragmatism:
+## Vermachtung:
 ## Die Ethik:
 Pflichten, die ein Mensch von sich aus hat, also a priori
 Pragmatische Ethik
-## Die Moral
+## Die Moral:
 Gesellschaftliche Konventionen des Verhaltens
-## Deontologie
-## Konsequentialismus
-## Negative Freiheit
-## Individualität
-## Erziehungsideal
-## Leiblichkeit
-## Selbsttätigkeit
-## Identität
-## Freiheit
+## Deontologie:
+## Konsequentialismus:
+## Negative Freiheit:
+## Individualität:
+## Erziehungsideal:
+## Leiblichkeit:
+## Selbsttätigkeit:
+## Identität:
+## Freiheit:
 Die Möglichkeit aus vielen verschiedenen Optionen individuell wählen zu können ohne jeglichen Vormund.
-## Geschichtlichkeit
-## Mutually exclusive
-## Comprehensively exhaustive
-## Viabilität
-## Rekursivität
+## Geschichtlichkeit:
+## Mutually Exclusive:
+## Comprehensively exhaustive:
+## Viabilität:
+## Rekursivität:
 Bedeutet sich auf Erfahrungen zurückzubeziehen.
-## Reflexivität
-## System
+## Reflexivität:
+## System:
 <!-- TODO: Die letzten 4 Begriffe können bei Siebert im Glossar nachgeschaut werden -->
-## Autopoiesis
+## Autopoiesis:
 Selbstorganisation lebender Wesen, die Fortpflanzung und Leben dienen.
-## Nullsummenspiele
-## Nash Equilibrium
+## Nullsummenspiele:
+## Nash Equilibrium:
