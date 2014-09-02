@@ -13,9 +13,10 @@ Illich begreift die Schule als eine Art Paradigma für die Natur von lebensbesti
 They school them to confuse process and substance."(Illich- P.3)
 Wir verwechseln Prozess und Wert, und werden so zu der Annahme verleitet, Lehren würde unausweichlich Lernerfolg bewirken.
 Diese Annahme lässt sich ebenso auf das Gesundheitssystem anwenden, welchem die Annahme vorrausgeht, medizinische Versorgung lasse sich mit Bekämpfung von Krankheiten gleichsetzen, oder auf Polizeipräsenz, welcher Sicherheit automatisch folgen sollte.
-Die einzig mögliche Antwort auf diese Fehleinschätzungen ist Eskalation. Die Schule bringt uns bei, dass Wissensvermittlung zwangsläufig neue Kenntnisse hervorruft, nur durch aktive Wissensvermittlung der notwendige Wissenshorizont erreicht werden kann.
-Somit schafft die Schule ihre eigene Grundlage.
-Die Schule zeigt den Schülern, wie sehr sie auf Institutionen angewiesen sind.
+Diese Anschauungen geben uns die Möglichkeit und fordern uns auch unterbewusst dazu auf, die Werte zu messen, einfach anhand des Umfangs des Prozesses, welcher ja, so die These, zwangsweise den Wert provoziert.
+Die einzig mögliche Reaktion auf diese Fehleinschätzungen ist Eskalation. Die Schule bringt uns bei, dass Wissensvermittlung zwangsläufig neue Kenntnisse hervorruft, nur durch aktive Wissensvermittlung der notwendige Wissenshorizont erreicht werden kann.
+Die Schule lehrt: Je mehr Schule, desto mehr Lernerfolg; und schafft somit ihre eigene Grundlage.
+
 
 - Beschreibung von Illichs Vorschlägen  
 
