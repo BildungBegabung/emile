@@ -37,16 +37,15 @@ Staatsgenese
 Besitzer des absoluten Rechts oder der absoluten Kontrolle über die Produktion
 effective participation
 equal voting
-enlightened undestanding
+enlightened understanding
 control of the agenda
 ## Der Konstruktivismus:
 Theorie, die feststellt, dass jede Person die Welt verschiedenerweise versteht und dass keiner Zugang zu der objektiven Realität hat.
-<<<<<<< HEAD
 ## Die Pädagogik: die Wissenschaft, die sich mit dem Unterrichten und Erziehen beschäftigt.
-Behaviourismus
+Behaviorismus
 Kognitivismus
 ## Der Fortschritt:
-Die ständige Verbesserung und Weiterentwicklung des Wissenschafts, der Technik und der Lebensqualität.
+Die ständige Verbesserung und Weiterentwicklung der WIssenschaft, der Technik und der Lebensqualität.
 ## Symbolischer interaktionismus
 Symbolisch heißt soviel wie bildhaft oder sprachlich und Interaktionismus ist die Kommunikation zwischen Individuengruppen.
 Zusammengefasst heißt das also, dass Mead sich mit der sprachlichen, bildlichen Beziehung zwischen Menschen beschäftigt.
@@ -62,7 +61,7 @@ Zusammengefasst heißt das also, dass Mead sich mit der sprachlichen, bildlichen
 ## Selbsttätigkeit
 ## Identität
 ## Freiheit
-Beschreibt den Zustand zwischen vielen verschiedenen Möglichkeiten beliebig wählen zu dürfen ohne das jemand einen dabei einschränkt.
+Beschreibt den Zustand, zwischen vielen verschiedenen Möglichkeiten beliebig wählen zu dürfen ohne dabei eingeschränkt zu werden.
 ## Geschichtlichkeit
 ## Mutually exclusive
 ## Comprehensively exhaustive
