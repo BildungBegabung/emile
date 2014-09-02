@@ -64,5 +64,5 @@ Reflexivität
 System
 <!-- TODO: Die letzten 4 Begriffe können bei Siebert im Glossar nachgeschaut werden -->
 Autopoiesis
-Aullsummenspiele
+Nullsummenspiele
 nash equilibrium
