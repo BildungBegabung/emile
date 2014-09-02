@@ -6,7 +6,7 @@ Zusammengefasst heißt das also, dass Mead sich mit der sprachlichen, bildlichen
 Daraus lassen sich sowohl soziologische als auch pädagogische Rückschlüsse ziehen.
 Das Rückrad Meads, auf das sich seine ganze Theorie aufbaut, besteht aus den Komponenten "I", "Me" und "Self".
 <!-- TODO: umgangssprachl. -->
-Dabei werden Wünsche, Ziele und Triebe durch das "I" ausgedrückt, also der Egoismus in einem selber.
+Dabei werden Wünsche und Ziele durch das "I" ausgedrückt, kurz der Egoismus eines Individuums.
 <!-- TODO: Würde den Begriff Triebe vermeiden, da er zu sehr an Freud erinnert. -->
 Das "Me" steht dem gegenüber und ist die Vorstellung eines Menschen, wie er von der Außenwelt betrachtet wird.
 Aufgrund dessen, dass das "Me" die Moralität beinhaltet und den Pluralismus der Gesellschaft umfasst, ist es der ständige Gegenspieler des "I".
