@@ -12,7 +12,7 @@ Normatives, wie Dinge sein sollten.
 ## Die Ideologie:
 Alle Ansichten und Werte einer sozialen Gruppe, einer bestimmten Gesellschaft.
 ## Die Bildsamkeit:
-Die Fähigkeit des Individuums sich fortzubilden (Theorie Benner).
+Die Fähigkeit des Individuums zu lernen und Bildung zu erwerben (Theorie Benner).
 ## Positiv Summenspiel:
 ## Persönliche Autonomie:
 Die Fähigkeit des Menschen, sich selbst zu führen, ohne Hilfe oder Aufsicht von anderen.
@@ -20,8 +20,6 @@ Die Fähigkeit des Menschen, sich selbst zu führen, ohne Hilfe oder Aufsicht vo
 Die innewohnende Gleichwertigkeit einer Mehrzahl von Personen in einem bestimmten Merkmal, die von Geburt aus gleich sind.
 ## Die Institution:
 Eine soziale Struktur, die eine gewisse Stabilität hat. Im weiteren Sinne beschreiben Institutionen zum Beispiel auch Dinge wie "Klatschen" oder Hände schütteln zur Begrüßung.
-## Die Bildsamkeit:
-Fähigkeit der Menschen zu lernen und Bildung zu erwerben.
 ## Die Deontologie:
 das Gesollte, die Pflicht
 ## Die Interaktion:
@@ -58,8 +56,6 @@ Beschreibt den Abschnitt unter dem Graph in der Produktionsmöglichkeitenkurve.
 ## Die Pädagogik: die Wissenschaft, die sich mit dem Unterrichten und Erziehen beschäftigt:
 Behaviourismus
 Kognitivismus
-## Der Fortschritt:
-Die ständige Verbesserung und Weiterentwicklung der Wissenschaft, der Technik und der Lebensqualität.
 ## Symbolischer Interaktionismus:
 ## Ecological Pragmatism:
 ## Vermachtung:
