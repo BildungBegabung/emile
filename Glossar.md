@@ -87,7 +87,8 @@ Pflichten, die ein Mensch von sich aus hat, also a priori
 Pragmatische Ethik
 ## Die Moral
 Gesellschaftliche Konventionen des Verhaltens
-## Deontologie
+## Deontologisch:
+(vom algriechischen δέοντα; die Pflicht, die Bindung) Setzung, die keiner Begründung bedarf.
 ## Konsequentialismus
 ## Negative Freiheit
 ## Individualität
@@ -110,3 +111,6 @@ Bedeutet sich auf Erfahrungen zurückzubeziehen.
 Selbstorganisation lebender Wesen, die Fortpflanzung und Leben dienen.
 ## Nullsummenspiele
 ## Nash Equilibrium
+## Das Paretoprinzip:
+bzw. Unanimity ist nach dem Sozialwahlprinzip ein Kriterium, das laut Arrow bei einer Wahl erfüllt werden muss: Wenn alle Teilnehmer an einer Wahl in ihrer individuellen Rangliste eine Alternative (A) über eine andere (B) stellen, sollte die Rangfolge im Endergebnis diese Präferenz widerspiegeln, d.h. A sollte B vorgezogen werden. (vgl. S.749, Kleinberg)
+Allgemein kann man einen Prozess als eine Pareto-Verbesserung bezeichnen, wenn nach einer Veränderung alle Beteiligten besser oder zumindest gleich gut gestellt sind.
