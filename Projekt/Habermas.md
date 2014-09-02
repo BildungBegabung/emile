@@ -29,11 +29,16 @@ Gewaltmonopole können durch Gruppen von racketters unterschiedlich erreicht wer
 
 Einerseits kann durch Schutzgelderpressung *"protection"* angeboten werden: "Ich schütze dich vor Gewalteinflüssen, wenn du mich bezahlst".
 Errstmal ist der Schutz *"comforting"*, aber da bei dieser Proposition gleichzeitig eine Androhung von Gewalt (durch den Schützenden selbst) impliziert wird, ist "portection" ebenfalls "ominous".
-Aufgrund dieses Aufbaus kann man bei einer Schutzgelderpressung von einer *latently strategic speech act* sprechen.
+Aufgrund dieses Aufbaus kann man bei einer Schutzgelderpressung von einem *latently strategic speech act* sprechen.
 Das Ziel des Sprechens ist in dem Moment nicht der illokutive Akt, sondern ein perlokutionäres Ziel, das Ziel der Machterweiterung und Geldgewinn.
-So wird auch der Mensch als Mittel zum Zweck genutzt.
+Letzlich wird so der Mensch als Mittel zum Zweck genutzt.
 
-Eine zweite Möglichkeit ist das 
+Eine zweite Möglichkeit durch Zwang Gewaltmonopole zu bilden ist die direkte Androhung von Gewalt, wie z.B. "Gib mir das Geld, oder ich knall dich ab".
+Es ist eine *manifestly strategic action*: Es geht nicht mehr um einen Gültigkeitsanspruch, sondern den Machtanspruch über das Geld des Bedrohten.
+
+Betrachtet man beide Fälle, stellt sich die Frage, ob ein Gewaltmonopol auch durch kommunikatives Handeln entstehen kann.
+
+Möglicherweise könnte man hier Dahl hinzuziehen, der 
 
 
 
