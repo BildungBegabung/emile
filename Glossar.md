@@ -26,8 +26,6 @@ Fähigkeit der Menschen zu lernen und Bildung zu erwerben.
 das Gesollte, die Pflicht
 ## Die Interaktion:
 wechselseitige Beziehung, aufeinander bezogenes Handeln, gegenseitige Beeinflussung
-## Der Staat:
-Staatsgenese
 ## Der Monopolist:
 Besitzer des absoluten Rechts oder der absoluten Kontrolle über die Produktion
 ## Effective participation:
