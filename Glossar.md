@@ -47,13 +47,6 @@ Zusammengefasst heißt das also, dass Mead sich mit der sprachlichen, bildlichen
 ## Vermachtung:
 ## Ethik/Pragmatische Ethik:
 ## Moral:
-## Konsequentialismus:
-## Negative Freiheit:
-## Individualität:
-## Erziehungsideal:
-## Leiblichkeit:
-## Selbsttätigkeit:
-## Identität:
 ## Freiheit:
 Beschreibt den Zustand, zwischen vielen verschiedenen Möglichkeiten beliebig wählen zu dürfen ohne dabei eingeschränkt zu werden.
 ## Geschichtlichkeit:
@@ -61,10 +54,8 @@ Beschreibt den Zustand, zwischen vielen verschiedenen Möglichkeiten beliebig w�
 ## Comprehensively exhaustive:
 ## Viabilität:
 Begriffe sind dann viabel, wenn sie zu Beschreibungen passen, für die wir sie auch benutzen. Desweiteren sind Dinge viabel, wenn sich ein Individuum dafür interessiert bzw. lebensdienlich ist.
-## Rekursivität:
 ## Reflexivität:
 ## System:
-## Autopoiesis:
 ## Nullsummenspiele:
 ## Nash Equilibrium:
 <!-- bitte bei Siebert nachschauen und Definition zitieren -->
@@ -83,7 +74,6 @@ Pflichten, die ein Mensch von sich aus hat, also a priori
 Pragmatische Ethik
 ## Die Moral:
 Gesellschaftliche Konventionen des Verhaltens
-## Deontologie:
 ## Konsequentialismus:
 ## Negative Freiheit:
 ## Individualität:
@@ -91,16 +81,8 @@ Gesellschaftliche Konventionen des Verhaltens
 ## Leiblichkeit:
 ## Selbsttätigkeit:
 ## Identität:
-## Freiheit:
 ## Deontologisch:
 Vom altgriechischen δέοντα; die Pflicht, die Bindung, Setzung, die keiner Begründung bedarf.
-## Konsequentialismus:
-## Negative Freiheit:
-## Individualität:
-## Erziehungsideal:
-## Leiblichkeit:
-## Selbsttätigkeit:
-## Identität:
 ## Freiheit:
 Die Möglichkeit aus vielen verschiedenen Optionen individuell wählen zu können ohne jeglichen Vormund.
 ## Geschichtlichkeit:
@@ -110,7 +92,7 @@ Die Möglichkeit aus vielen verschiedenen Optionen individuell wählen zu könne
 ## Rekursivität:
 Bedeutet sich auf Erfahrungen zurückzubeziehen.
 ## Reflexivität:
-## System: 
+## System:
 <!-- TODO: Die letzten 4 Begriffe können bei Siebert im Glossar nachgeschaut werden -->
 ## Autopoiesis:
 Selbstorganisation lebender Wesen, die Fortpflanzung und Leben dienen.
