@@ -53,5 +53,3 @@ Kann eine Demokratie mit Wahlen dann überhaupt praktisch umgesetzt werden?
 Oder ist vielmehr Dewey im Recht, wenn er die Demokratie im Kontext ihrer Zeit sieht und behauptet, sie sei niemals vollendet? (---ZITAT!!!)
 
 Eine andere Möglichkeit wäre, Erziehung besser zu gestalten und den Bürgern wie Heini zu helfen eine gefestigtere Meinung zu entwickeln und "verwirrte Entscheidungen zu vermeiden. -> Benner
-
-TESTING MERGEWITHATOM
