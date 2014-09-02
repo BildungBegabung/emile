@@ -34,7 +34,8 @@ Besitzer des absoluten Rechts oder der absoluten Kontrolle über die Produktion
 ## Control of the agenda:
 ## Der Konstruktivismus:
 Theorie, die feststellt, dass jede Person die Welt verschiedenerweise versteht und dass keiner Zugang zu der objektiven Realität hat.
-## Die Pädagogik: die Wissenschaft, die sich mit dem Unterrichten und Erziehen beschäftigt:
+## Die Pädagogik:
+Die Wissenschaft, die sich mit dem Unterrichten und Erziehen beschäftigt:
 Behaviorismus
 Kognitivismus
 ## Der Fortschritt:
