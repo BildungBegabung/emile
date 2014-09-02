@@ -8,7 +8,8 @@ Die Fähigkeit des Menschen, sich selbst zu führen, ohne Hilfe oder Aufsicht vo
 Die Übereinstimmung einer Mehrzahl von Personen in einem bestimmten Merkmal, die von Geburt aus gleich sind.
 ## Die Institution:
 Eine soziale Struktur, die eine gewisse Stabilität hat.
-## Die Axiologie
+## Die Axiologie:
+Normatives, wie Dinge sein sollten.
 ## Die Ideologie:
 Alle Ansichten und Werte einer sozialen Gruppe, einer bestimmten Gesellschaft.
 ## Die Bildsamkeit:
@@ -47,7 +48,7 @@ Die ständige Verbesserung und Weiterentwicklung der WIssenschaft, der Technik u
 ## Symbolischer interaktionismus:
 Symbolisch heißt soviel wie bildhaft oder sprachlich und Interaktionismus ist die Kommunikation zwischen Individuengruppen.
 Zusammengefasst heißt das also, dass Mead sich mit der sprachlichen, bildlichen Beziehung zwischen Menschen beschäftigt.
-## Ecological pragmatism:
+## Ecological Pragmatism:
 ## Vermachtung:
 ## Ethik/Pragmatische Ethik:
 ## Moral:
