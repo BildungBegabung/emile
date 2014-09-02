@@ -38,20 +38,21 @@ Es ist eine *manifestly strategic action*: Es geht nicht mehr um einen Gültigke
 
 Betrachtet man beide Fälle, stellt sich die Frage, ob ein Gewaltmonopol auch durch kommunikatives Handeln entstehen kann.
 
-Möglicherweise könnte man hier Rousseau hinzuziehen, der 
+Möglicherweise könnte man hier Dewey hinzuziehen, der davon ausgeht, dass ein demokratischer Staat durch eine Vielfalt von Idealen und den Austausch von Ideen bereichert und durch den so entstehenden ständigen Fortschritt immerhin weiterentwickelt wird.
+ <!-- TODO: github mit deweys idee vn prozess der demokratie -->
+Da ein Sprechakt nur dann gegenseitige Verständigung zur Folge hat, wenn es sich um kommunikatives Handeln handelt, kann man davon ausgehen dass dieser Fortschritt nur durch kommunikatives Handlen erreicht werden kann.
 
+Notwendig wäre kommunikativevs Handeln auch bei der Umsetzung einer Vertragstheorie wie Rousseus Gedankenexpreiment vom contract sociale (französisch^^).
+Schließlich soll eine Einigung, eine Verständigung aller Bürger, im Vertrag festgehalten werden.
 
+Fraglich ist allerdings wie man das Modell des kommunikativen Handelns in Gruppen *systematisch* umsetzt werden kann, die über die Ausmaße einer Familie oder eines Freundeskreises hinausgeht.
+Schließlich ist eine Demokratie ein "system" und keine "lifeworld", kommunikatives Handeln ist also sogut wie ausgeschlossen.
 
-
-
-
-
-
-
-
-
-
-
+Letztendlich entsteht also echtes Verständnis nur im persönlichen Umfeld und nicht in Wahlkampangen, welche ganz klar durch das perlukotive Ziel des Stimmgewinns strategisches Handeln sind.
+Utopisch wäre also ein Netz von Menschen, die sich kommunikativ aufklären, bestenfalls so gerade auch noch das Problem der single-peakedness lösen. Leider sind nicht alle in dem geichen großen custer, es gibt Randgruppen
+<!-- FIXME: atMAX - was sagst du hierzu? ich habe mich gerade in einem diesem sehr wirren Gedankenknoten nicht mehr raus -->
+Diese Randgruppen können alleine schon reichen um eine Diktatur im Wahlsystem zu ermöglichen (-> Arrow).
+Dann wären wir wieder beim Gewaltmonopol, welches vom Herrscher und nicht vom Volk ausgeht und strategisches Handeln ist an der tagesordung und das andere gar nicht mehr erwünscht?!! "Hilfe?!"
 
 
 Kontrast Dahl...
