@@ -70,9 +70,9 @@ Beschreibt den Zustand, zwischen vielen verschiedenen Möglichkeiten beliebig w�
 ## Autopoiesis:
 ## Nullsummenspiele:
 ## Nash Equilibrium:
+<!-- bitte bei Siebert nachschauen und Definition zitieren -->
 ## Integral:
 Beschreibt den Abschnitt unter dem Graph in der Produktionsmöglichkeitenkurve.
-<!-- bitte bei Siebert nachschauen und Definition zitieren -->
 ## Die Pädagogik: die Wissenschaft, die sich mit dem Unterrichten und Erziehen beschäftigt:
 Behaviourismus
 Kognitivismus
