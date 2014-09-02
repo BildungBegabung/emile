@@ -20,6 +20,7 @@ Die einzige, mögliche Konsequenz auf diese Fehleinschätzungen ist Eskalation.
 Sobald die Schule uns beigebracht hat, dass Wissensvermittlung zwangsläufig neue Kenntnisse hervorruft, nur durch aktive Wissensvermittlung der notwendige Wissenshorizont erreicht werden kann, ist die uns logische erscheinende Antwort auf alle Bildungprobleme Eskalation im Bildungsprozess:
 Die Schule lehrt: Je mehr Schule, desto mehr Lernerfolg, weshalb wir zur Schule.
 Dennoch sagt Illich:
+"Most learning is not the result of instruction: It is rather the result of unhampered participation in a meaningful setting."
 
 
 ##### Illichs Zielen für die "educational revolution" sind:
@@ -53,7 +54,7 @@ vorläufige Ideen: (zu diskutieren)
  - zimpel (Hyperzyklus ---> Skill exchange)
 
 
-Viele Elemente aus Illichs Konzeption des Lernprozesses können als Lösungsansatz für Probleme und Fragen, welche die in der Exposition behandelten Texte aufgeworfen haben, herbeigezogen werden.
+Viele Elemente aus Illichs Vorstellung einer neuen Art von Lernen können als Lösungsansatz für Probleme und Fragen, welche die in der Exposition behandelten Texte aufgeworfen haben, herbeigezogen werden.
 So müssen nach der Theorie des Konstruktivismus Lerninhalte "viabel", das heißt für das lernende Individuum funktional und bedeutend, sein.
 Da "das psychische System entscheidet, was es verarbeiten kann und will" (Siebert, S.18), ergibt sich die Forderung nach einem selbstbestimmten Lernen.
 Dieses Ziel des individuellen Lernens lässt sich in einer zufällig bestimmten Gruppe nur schwer realisieren. Dem versucht man im heutigen System durch eine Einstufung in Altersklassen entgegenzuwirken.
