@@ -97,14 +97,17 @@ Gesellschaftliche Konventionen des Verhaltens
 ## Selbsttätigkeit
 ## Identität
 ## Freiheit
+Die Möglichkeit aus vielen verschiedenen Optionen individuell wählen zu können ohne jeglichen Vormund.
 ## Geschichtlichkeit
 ## Mutually exclusive
 ## Comprehensively exhaustive
 ## Viabilität
 ## Rekursivität
+Bedeutet sich auf Erfahrungen zurückzubeziehen.
 ## Reflexivität
 ## System
 <!-- TODO: Die letzten 4 Begriffe können bei Siebert im Glossar nachgeschaut werden -->
 ## Autopoiesis
+Selbstorganisation lebender Wesen, die Fortpflanzung und Leben dienen.
 ## Nullsummenspiele
 ## Nash Equilibrium
