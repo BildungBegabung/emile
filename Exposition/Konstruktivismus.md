@@ -10,8 +10,8 @@ Bezieht man sich auf das einführende Zitat der Unmögichkeit einer objektiven W
 Laut Sieberts Theorie des Konstruktivismus ist die Wahrnehmung "keine Abbildung der Außenwelt, sondern eine funktionale viable Konstruktion" (Siebert 2003, S. 6).
 Ausgehend von dieser Annahme stellt Siebert die Kernthese auf, dass "Menschen [...] autopoietische
 selbstreferenzielle, operational geschlossene Systeme [sind]." (ebd. S. 5)
-Somit konstruiert sich der Mensch seine eigene Welt je nach eigenen Erfahrungen, Biografie, Fähigkeiten etc.
-Abhängig von den individuellen Determinationen, mit denen ein Mensch im Leben konfrontiert wird, verändert sich seine Wahrnehmung der Umwelt.
+Die Lebensauffassung ändert sich demnach permanent aufgrund von Erfahrungen und Ereignissen, die den Menschen betreffen.
+Abhängig von den individuellen Determinationen, mit denen ein Mensch im Leben konfrontiert wird, verändert sich so seine Wahrnehmung der Umwelt.
 - Der Mensch ist demnach strukturdeterminiert (vgl. ebd. S. 5).
 
 Aufbauend auf diesem individuell geprägten Menschenbild geht Siebert davon aus, dass ein Wechselverhältnis zwischen der Wahrnehmung des Menschens und der Umwelt existiert.
