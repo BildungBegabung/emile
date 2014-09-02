@@ -8,7 +8,7 @@ Zum einem kann es "Nullsummenspiele" geben.
 Somit haben alle Spielausgänge die gleiche Summenanzahl.
 Zum anderen kann es "Nicht-Nullsummenspiele" geben.
 Ein "Nicht-Nullsummenspiel" enthällt unterschiedliche Summenanzahlen in unterschiedlichen Spielausgängen.
-Da nach Annahme der Axiome des Gefangendilemmas der Mensch stets danach strebt den höchst möglichen Gewinn zu erzielen, und eine höhere Gewinnmaximmierung nur bei "Nicht-Nullsummespielen" gegeben ist, stellt das "Nicht-Nullsummenspiel" die Grundage menschlicher Kooperation.
+Da, nach Annahme der Axiome des Gefangendilemmas der Mensch, stets danach strebt den höchst möglichen Gewinn zu erzielen, und eine höhere Gewinnmaximierung nur bei "Nicht-Nullsummespielen" gegeben ist, stellt das "Nicht-Nullsummenspiel" die Grundage menschlicher Kooperation.
 Demnach geben "Nullsummenspiele" keine Aussage über menschliche Kooperation, da die Summenanzahl bei jedem Spielausgang gleich bleibt und kein "Reiz" für ein "Spiel" besteht.
 Es ergeben sich auf diese Weise zwei möglich Spielausgänge von "Nicht-Nullsummenspielen":
 
