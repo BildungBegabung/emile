@@ -57,7 +57,6 @@ Pflichten, die ein Mensch von sich aus hat
 Gesellschaftliche Konventionen des Verhaltens
 ## Konsequentialismus:
 ## Negative Freiheit:
-## Erziehungsideal:
 ## Aufforderung zur Selbsttätigkeit:
 ## Deontologisch:
 Vom altgriechischen (δέοντα); die Pflicht, die Bindung, Setzung, die keiner Begründung bedarf.
