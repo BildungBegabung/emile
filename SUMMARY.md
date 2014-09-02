@@ -5,6 +5,7 @@
   * [Rousseau](Exposition/Rousseau.md)
 * [Exposition](Exposition/Exposition.md)
   * [Mead](Exposition/Mead.md)
+  * [Benner](Exposition/benner.md)
   * [Tilly](Exposition/Tilly.md)
   * [Dahl](Exposition/Dahl.md)
   * [Siebert](Exposition/siebert.md)
