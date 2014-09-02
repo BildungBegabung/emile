@@ -96,7 +96,6 @@ Gesellschaftliche Konventionen des Verhaltens
 ## Selbsttätigkeit:
 ## Identität:
 ## Freiheit:
-=======
 ## Deontologisch:
 (vom algriechischen δέοντα; die Pflicht, die Bindung) Setzung, die keiner Begründung bedarf.
 ## Konsequentialismus:
