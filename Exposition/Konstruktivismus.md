@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 #Konstruktivismus [Siebert 2003]
 *„Der Mensch hat keinen Zugriff auf
 die objektive Realität“* (Heinz von Foester)
@@ -20,6 +21,12 @@ Abhängig von den individuellen Determinationen, mit denen ein Mensch im Leben b
 * „Der Mensch hat keinen Zugriff auf
 die objektive Realität“* (Heinz Foester)
 
+=======
+# Konstruktivismus [Siebert 2003]
+* „Der Mensch hat keinen Zugriff auf
+die objektive Realität“* (Heinz Foester)
+
+>>>>>>> parent of 171af9b... Bearbeitung Protokoll #186
 - Wie nimmt der Mensch die Welt wahr und inwiefern prägen ihn dabei indivduelle Erfahrungen?
 
 Bezieht man sich auf das einführende Zitat der Unmögichkeit einer objektiven Wahrnehmung, so wird der Denkanstz des Konstruktivisten deutlich.
@@ -40,6 +47,7 @@ Diese beruht jedoch auf der subjektiven Auslegung (z.B. nach Wichtigkeit der Inf
 Die Subjektivität wird von Viabilität und Rekursivität bestimmt, womit ein Ansatz zur Lerntheorie gefunden werden kann, der benötigt wird.
 <!-- TODO: Lerntheorie! und Subjektivität ändern -->
 Geht man von der vollkommenen Subjektivität eines Individuums aus, so ist das, auf allgemeine Lernmethoden beruhtes Schulsystem nicht in der Lage zu **lehren**.
+<<<<<<< HEAD
 <<<<<<< HEAD
 Demzufolge schlussfolgert Siebert, dass ein *"Bildungskanon"* (ebd. S.28) nicht der menschlichen Natur des Lernens entspricht.
 In einer pluralisierten Gesellschaft ist somit ein pluralistisches Lernraster erforderlich.
@@ -91,6 +99,23 @@ Beispielsweise geht der Kontruktivismus ontologisch von autonomen Individuen aus
 Problematisch ist hierbei die vollkommene Isolierung des Einzelnen in der eigenen subjektiven Welt.  
 Dies impliziert ein Kooperationsproblem zwischen koexistierenden *"Lebensrealitäten"*, welches durch Perturbation einen Lösungsansatz finden kann.
 >>>>>>> parent of 171af9b... Bearbeitung Protokoll #186
+=======
+Demzufolge schlussfolgert Siebert, dass ein *"Bildungskanon"* (S.28) nicht der menschlichen Natur des Lernens entspricht.
+In einer pluralisierten Gesellschaft ist somit ein pluralistisches Lehrnraster erforderlich.
+- Die Frage nach einem (erwünschtem) Lernerfolg hinsichtlich des Lernenden und des Lernstoffes bleibt somit eine essentielle Frage der Schul- sowie Lernpädagogik.
+
+Siebert selbst geht auf diese Frage wie folgt ein:
+"Menschen als selbstgesteuerte *„Systeme“* können von der Umwelt nicht determiniert, sondern allenfalls **perturbiert**, das heißt, **„gestört“** und **angeregt** werden." (S.5)
+Der Mensch kann demzufolge durch Perturbationen (*(An)Reize*) zum (Um)Denken angeregt werden.
+Diese Möglichkeit der Perturbation kann der Lehrende zur Vermittlung von Wissen nutzen und damit gegebenenfalls neue Sichtweisen für den Lernenden eröffnen.
+
+Hierbei ist eine Parallele zu **Benner** ersichtlich, da  durch seiner Aufforderung zur Selbsttätigkeit eine **mögliche Perturbation in Sieberts Sinne besteht.**
+
+Die Perturbation kann sowohl auf lernpädagogische Ansätze angewandt werden, als auch auf soziologische Problematiken übertragen werden.
+Beispielsweise geht der Kontruktivismus ontologisch von autonomen Individuen aus.
+Problematisch ist hierbei die vollkommene Isolierung des Einzelnen in der eigenen subjektiven Welt.  
+Dies impliziert ein Kooperationsproblem zwischen koexistierenden *"Lebensrealitäten"*, welches durch Perturbation einen Lösungsansatz finden kann.
+>>>>>>> parent of 171af9b... Bearbeitung Protokoll #186
 Durch Anwendung dieser *"Störung"* [Sprachmacht, Gesellschaftsmacht, Glaubensmacht] kann eine allgemein gültige Leitkultur (**Makrosoziologie**) unter verschieden Individuen enstehen und eine gemeinsame Kooperationsgrundlage geschaffen werden.
 Dies impliziert ein Kooperationsproblem zwischen koexistierenden *"Lebensrealitäten"*, welches durch Perturbation einen Lösungsansatz finden kann.
 Durch Anwendung dieser *"Störung"* [Sprachmacht, Gesellschaftsmacht, Glaubensmacht] kann eine allgemein gültige Leitkultur (**Makrosoziologie**) unter verschieden Individuen entstehen und eine gemeinsame Kooperationsgrundlage geschaffen werden.
@@ -98,9 +123,12 @@ Durch Anwendung dieser *"Störung"* [Sprachmacht, Gesellschaftsmacht, Glaubensma
 <!-- TODO: Es ist schwierig, weil wir über den SoWi-Teil keinen Text haben, aber falls der Teil in die Doku kommen soll, muss hier noch etwas nachgearbeitet werden. -->
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 > "Die Grenze ist nicht eine räumlich Tatsache hat sozologisch hen Wirkungen, sondern eine soziologische Tatsache, die sich räumlich formt"
 *(Georg Simmel)*
 =======
+=======
+>>>>>>> parent of 171af9b... Bearbeitung Protokoll #186
 ###**"Die Grenze ist nicht eine räumlich Tatsache hat sozologischen Wirkungen, sondern eine soziologische Tatsache, die sich räumlich formt"**
 *(Georg Simmel)*
 
