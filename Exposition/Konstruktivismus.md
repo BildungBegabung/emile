@@ -1,6 +1,6 @@
 # Konstruktivismus [Siebert 2003]
 
-> „Der Mensch hat keinen Zugriff auf die objektive Realität“*
+> „Der Mensch hat keinen Zugriff auf die objektive Realität“
 > Heinz von Foester
 
 - Wie nimmt der Mensch die Welt wahr und inwiefern prägen ihn dabei individuelle Erfahrungen?
@@ -23,19 +23,19 @@ Geht man allerdings von der vollkommenen Subjektivität eines Individuums aus, s
 
 Demzufolge schlussfolgert Siebert, dass ein *"Bildungskanon"* (ebd. S.28) nicht der menschlichen Natur des Lernens entspricht.
 In einer pluralisierten Gesellschaft ist somit ein pluralistisches Lernraster erforderlich.
-- Die Frage nach einem (erwünschtem) Lernerfolg hinsichtlich des Lernenden und des Lernstoffes bleibt somit eine essentielle Frage der Schul- sowie Lerntheorie.
-<!-- TODO: Verstehe, was du meinst, aber findest du noch eine klarere Formulierung? -->
+>In einer Gesellschaft die durch fortschreitende Individualisierung [...] gekennzeichnet ist, erscheint auch eine Pluralisierung des Bildungsbegriffs angemessen. (S.29)
+
+-Die Frage nach der bestmöglichen Vermittlung und damit auch dem Lernerfolg des Lernenden bleibt eine grundlegende Frage in der Schul - sowie Lerntheorie.
 
 Siebert selbst geht auf diese Frage wie folgt ein:
->"Menschen als selbstgesteuerte *„Systeme“* können von der Umwelt nicht determiniert, sondern allenfalls **perturbiert**, das heißt, **„gestört“** und **angeregt** werden." (S.5)
+>"Menschen als selbstgesteuerte *„Systeme“* können von der Umwelt nicht determiniert, sondern allenfalls **perturbiert**, das heißt, **„gestört“** und **angeregt** werden." (ebd. S.5)
 Der Mensch kann demzufolge durch Perturbationen (*(An)Reize*) zum (Um)Denken angeregt werden.
 Diese Möglichkeit der Perturbation kann der Lehrende zur Vermittlung von Wissen nutzen und damit gegebenenfalls neue Sichtweisen für den Lernenden eröffnen.
 
-Hierbei ist eine Parallele zu **Benner** ersichtlich, da durch seiner Aufforderung zur Selbsttätigkeit eine **mögliche Perturbation in Sieberts Sinne besteht.**
-<!-- TODO: etwas vorsichtiger formulieren (Vermutung) -->
+Hierbei ist eine Parallele zu **Benner** denkbar, da durch seine (Benners) Aufforderung zur Selbsttätigkeit eine **mögliche Perturbation in Sieberts Sinne bestehen könnte.**
 
-Die Perturbation kann sowohl auf lernpädagogische Ansätze angewandt werden, als auch auf soziologische Problematiken übertragen werden.
-<!-- lerntheoretische -->
+
+Die Perturbation kann sowohl auf lerntheoretischen  Ansätze angewandt werden, als auch auf soziologische Problematiken übertragen werden.
 Beispielsweise geht der Konstruktivismus ontologisch von autonomen Individuen aus.
 Problematisch ist hierbei die vollkommene Isolierung des Einzelnen in der eigenen subjektiven Welt.
 Diese angesprochene Isolation, besonders im radikalen Konstruktivismus, ist besonders gut an der Geschichte von *Peter Bichsel* *"Ein Tisch ist ein Tisch"* veranschaulicht.
@@ -48,35 +48,18 @@ Um sich aus dieser aussichtlosen Lebensweise zu berfreien beginnt er bekannte Ge
 Die radikale Änderung seiner eigenen Wahrnehmung und Kommunikation verursachte eine vollkommene Abgrenzung von jeglichen gesellschaftlichen Verbindungen, die Bichsel wie folgt beschreibt:
 
 > "Viel schlimmer war, sie konnten ihn nicht mehr verstehen. Und deshalb sagte er nichts mehr. Er schwieg, sprach nur noch mit sich selbst, grüßte nicht einmal mehr."
-> (Bichsel, Ein Tisch ist ein Tisch)
+> [Bichsel], (Ein Tisch ist ein Tisch)
 
 Der Verlust der Kooperation mit der Umwelt durch die Isolierung in der Subjektivität und damit auch die fehlende Beziehung mit Menschen, zeigt die Grenzen des radikalen Ansatzes der konstruktivistischen Theorie auf, denn sie iosliert den Menschen als geschlossenes *"System"*.
 Diese Tatasache impliziert ein Kooperationsproblem zwischen koexistierenden *"Lebensrealitäten"*, da jene *"Realitäten"* sich ausgehend vom Individuum unterscheiden.
 
-Demzufolge schlussfolgert Siebert, dass ein *"Bildungskanon"* (S.28) nicht der menschlichen Natur des Lernens entspricht.
-In einer pluralisierten Gesellschaft ist somit ein pluralistisches Lehrnraster erforderlich.
-- Die Frage nach einem (erwünschtem) Lernerfolg hinsichtlich des Lernenden und des Lernstoffes bleibt somit eine essentielle Frage der Schul- sowie Lernpädagogik.
-
-Siebert selbst geht auf diese Frage wie folgt ein:
-"Menschen als selbstgesteuerte *„Systeme“* können von der Umwelt nicht determiniert, sondern allenfalls **perturbiert**, das heißt, **„gestört“** und **angeregt** werden." (S.5)
-Der Mensch kann demzufolge durch Perturbationen (*(An)Reize*) zum (Um)Denken angeregt werden.
-Diese Möglichkeit der Perturbation kann der Lehrende zur Vermittlung von Wissen nutzen und damit gegebenenfalls neue Sichtweisen für den Lernenden eröffnen.
-
-Hierbei ist eine Parallele zu **Benner** ersichtlich, da  durch seiner Aufforderung zur Selbsttätigkeit eine **mögliche Perturbation in Sieberts Sinne besteht.**
-
-Die Perturbation kann sowohl auf lernpädagogische Ansätze angewandt werden, als auch auf soziologische Problematiken übertragen werden.
-Beispielsweise geht der Kontruktivismus ontologisch von autonomen Individuen aus.
-Problematisch ist hierbei die vollkommene Isolierung des Einzelnen in der eigenen subjektiven Welt.  
-Dies impliziert ein Kooperationsproblem zwischen koexistierenden *"Lebensrealitäten"*, welches durch Perturbation einen Lösungsansatz finden kann.
 
 Durch Anwendung dieser *"Störung"* [Sprachmacht, Gesellschaftsmacht, Glaubensmacht] kann eine allgemein gültige Leitkultur (**Makrosoziologie**) unter verschieden Individuen enstehen und eine gemeinsame Kooperationsgrundlage geschaffen werden.
 Dies impliziert ein Kooperationsproblem zwischen koexistierenden *"Lebensrealitäten"*, welches durch Perturbation einen Lösungsansatz finden kann.
-Durch Anwendung dieser *"Störung"* [Sprachmacht, Gesellschaftsmacht, Glaubensmacht] kann eine allgemein gültige Leitkultur (**Makrosoziologie**) unter verschieden Individuen entstehen und eine gemeinsame Kooperationsgrundlage geschaffen werden.
+Durch Anwendung dieser *"Störung"* [Sprachmacht, Gesellschaftsmacht, Glaubensmacht [Siebert] (vgl. S.11)] kann eine allgemein gültige Leitkultur (**Makrosoziologie**) unter verschieden Individuen entstehen und eine gemeinsame Kooperationsgrundlage geschaffen werden
+Der Mensch wird nach Siebert demzufolge auch "[...] durch politischokonomischen Verhältnissen, die durch Macht, Hierarchien, Partizipatrordischancem Eigentum, Massenmedien und Ähnliches gekennzeichnet sind", (ebd.) beeinflusst.
 
-<!-- TODO: Es ist schwierig, weil wir über den SoWi-Teil keinen Text haben, aber falls der Teil in die Doku kommen soll, muss hier noch etwas nachgearbeitet werden. -->
-
-> "Die Grenze ist nicht eine räumlich Tatsache hat sozologisch hen Wirkungen, sondern eine soziologische Tatsache, die sich räumlich formt"
-> *(Georg Simmel)*
+> "Die Grenze ist nicht eine räumlich Tatsache hat sozologisch hen Wirkungen, sondern eine soziologische Tatsache, die sich räumlich formt." [Georg Simmel]
 
 *(Es gibt zwei Wahrheiten: 1. Ebene die für alle ersichtlich sind (umunstößlich - dort treffen zwei Körper aufeinander - Realitätstheroie -> aus allen Perspektiven gibt es eine andere 2. Wahrheit, diese 2. Ebene ist für jeden subjektiv - je nach Standort und Standpunkt.)*
 <!-- TODO: S. 29; S. 187 nachschauen, Beobachtung 2. Ordnung im Siebert-Text nachschauen, ob dazu e -->
