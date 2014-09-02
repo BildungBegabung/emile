@@ -35,10 +35,10 @@ wechselseitige Beziehung, aufeinander bezogenes Handeln, gegenseitige Beeinfluss
 Staatsgenese
 ## Der Monopolist:
 Besitzer des absoluten Rechts oder der absoluten Kontrolle über die Produktion
-effective participation
-equal voting
-enlightened understanding
-control of the agenda
+## Effective participation
+## Equal Voting
+## Enlightened understanding
+## Control of the agenda
 ## Der Konstruktivismus:
 Theorie, die feststellt, dass jede Person die Welt verschiedenerweise versteht und dass keiner Zugang zu der objektiven Realität hat.
 ## Die Pädagogik: die Wissenschaft, die sich mit dem Unterrichten und Erziehen beschäftigt.
