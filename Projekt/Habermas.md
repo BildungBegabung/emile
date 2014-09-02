@@ -1,12 +1,16 @@
 # Habermas Projekt
 
-<!--TODO: Verbindungen zu anderen Autoren  -->
-<!-- TODO: Zusammenfassung  -->
-<!-- TODO: Verbindungen zu anderen Autoren -->
+
+Erstmal eine kurze Zusammenfassung:
 
 Verbindungen:
-- Konstruktivismus (intersubjectively exchanged lifeworlds)
-- SPrache ist rekursiv? Sprache ist Mittel zur Verständigung, ist Sprache, ist MIttel zur Verständigung....
-Vgl. Mead symbolischen Interaktionismus
-- "her own free will give approval" helfen/kommunikation muss immer freiwillig sein (Zimpel)
-- Sprache ist keine Institution (?)
+- Mead/symbolischer Interaktionismus
+- Konstruktivismusn(Intersubjectively shared lifeworlds geht nicht mit geschlossenen Systemen beim Konstruktivismus)
+- "Own free will give approval to agreement" > Kommunikation ist   freiwillig(Zimpel)
+- Dewey (beide Pragmatisten): dynamisches temporäres Ideal, verändert sich  
+                              durch Vielfalt und Austausch mit anderen
+                               Gesellschaften (Kommunikation) Wandel und somit
+                               Fortschritt möglich
+
+
+- Benner/Bildsamkeit:  
