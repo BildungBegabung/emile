@@ -29,7 +29,6 @@ Besitzer des absoluten Rechts oder der absoluten Kontrolle über die Produktion
 durch Annahme der inhärenten Gleichheit (s.Z.17) werden alle Stimmen im demokratischen Prozess gleich gewichtet.
 ## Enlightened understanding:
 stammt aus der Theorie Dahls und heißt übersetzt: "aufgeklärtes Verständnis".
-## Control of the agenda:
 ## Der Konstruktivismus:
 Theorie, die feststellt, dass jede Person die Welt verschiedenerweise versteht und dass keiner Zugang zu der objektiven Realität hat.
 ## Die Pädagogik:
