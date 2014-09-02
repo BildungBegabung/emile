@@ -1,7 +1,7 @@
 # Protokoll: Benner-2012
 
 Benner setzt sich damit auseinander, die **Grundsätze pädagogischen Handelns** aufzuzeigen, die für die ganze Menschheit gültig sind.
-Er richtet sch dabei an die pädagogisch interessierte Leserschaft.
+Er richtet sich dabei an die pädagogisch interessierte Leserschaft.
 Er definiert dazu zwei grundsätzliche große Extrema der Verhaltensbestimmung: Den **Determinismus und die transzendentale Freiheit**.
 Nach dem *Determinismus* ist das menschliche Verhalten grundsätzliche durch seine Umwelt oder seine Anlagen vorher bestimmt.
 Im Sinne der transzendentalen Freiheit kann der Mensch zu jedem Zeitpunkt vollkommen willkührlich über seine Handlungen und sein Schicksal entscheiden.
