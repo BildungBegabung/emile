@@ -48,7 +48,7 @@ Begriffe sind dann viabel, wenn sie zu Beschreibungen passen, für die wir sie a
 ## Nullsummenspiele:
 ## Nash Equilibrium:
 <!-- bitte bei Siebert nachschauen und Definition zitieren -->
-## Integral:
+## Integrall:
 Beschreibt den Abschnitt unter dem Graph in der Produktionsmöglichkeitenkurve.
 ## Die Pädagogik:
 Die Wissenschaft, die sich mit dem Unterrichten und Erziehen beschäftigt:
