@@ -3,8 +3,7 @@
 > „Der Mensch hat keinen Zugriff auf die objektive Realität“
 > Heinz von Foester
 
-- Wie nimmt der Mensch die Welt wahr und inwiefern prägen ihn dabei individuelle Erfahrungen?
-<!-- TODO: Einbindung der Frage in den Text -->
+Die zentrale Frage einer konstruktivistischen Lerntheorie lautet: Wie nimmt der Mensch die Welt wahr und inwiefern prägen ihn dabei individuelle Erfahrungen?
 
 Bezieht man sich auf das einführende Zitat der Unmögichkeit einer objektiven Wahrnehmung, so wird der Denkansatz des Konstruktivisten deutlich.
 
@@ -52,7 +51,7 @@ Die radikale Änderung seiner eigenen Wahrnehmung und Kommunikation verursachte 
 > [Bichsel] (Ein Tisch ist ein Tisch)
 
 Der Verlust der Kooperation mit der Umwelt durch die Isolierung in der Subjektivität und damit auch die fehlende Beziehung mit Menschen, zeigt die Grenzen des radikalen Ansatzes der konstruktivistischen Theorie auf, denn sie iosliert den Menschen als geschlossenes *"System"*.
-Diese Tatasache impliziert ein Kooperationsproblem zwischen koexistierenden *"Lebensrealitäten"*, da jene *"Realitäten"* sich ausgehend vom Individuum unterscheiden.
+Diese Tatsache impliziert ein Kooperationsproblem zwischen koexistierenden *"Lebensrealitäten"*, da jene *"Realitäten"* sich ausgehend vom Individuum unterscheiden.
 
 
 Durch Anwendung dieser *"Störung"* [Sprachmacht, Gesellschaftsmacht, Glaubensmacht] kann eine allgemein gültige Leitkultur (**Makrosoziologie**) unter verschieden Individuen enstehen und eine gemeinsame Kooperationsgrundlage geschaffen werden.
@@ -60,7 +59,7 @@ Dies impliziert ein Kooperationsproblem zwischen koexistierenden *"Lebensrealit�
 Durch Anwendung dieser *"Störung"* [Sprachmacht, Gesellschaftsmacht, Glaubensmacht [Siebert] (vgl. S.11)] kann eine allgemein gültige Leitkultur (**Makrosoziologie**) unter verschieden Individuen entstehen und eine gemeinsame Kooperationsgrundlage geschaffen werden
 Der Mensch wird nach Siebert demzufolge auch "[...] durch politischokonomischen Verhältnissen, die durch Macht, Hierarchien, Partizipatrordischancem Eigentum, Massenmedien und Ähnliches gekennzeichnet sind", (ebd.) beeinflusst.
 
-> "Die Grenze ist nicht eine räumlich Tatsache hat sozologisch hen Wirkungen, sondern eine soziologische Tatsache, die sich räumlich formt." [Georg Simmel]
+> "Die Grenze ist nicht eine räumlich Tatsache mit sozologischen Wirkungen, sondern eine soziologische Tatsache, die sich räumlich formt." [Georg Simmel]
 
 *(Es gibt zwei Wahrheiten: 1. Ebene die für alle ersichtlich sind (umunstößlich - dort treffen zwei Körper aufeinander - Realitätstheroie -> aus allen Perspektiven gibt es eine andere 2. Wahrheit, diese 2. Ebene ist für jeden subjektiv - je nach Standort und Standpunkt.)*
 <!-- TODO: S. 29; S. 187 nachschauen, Beobachtung 2. Ordnung im Siebert-Text nachschauen, ob dazu e -->
