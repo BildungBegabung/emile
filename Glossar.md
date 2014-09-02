@@ -110,7 +110,7 @@ Die Möglichkeit aus vielen verschiedenen Optionen individuell wählen zu könne
 ## Rekursivität:
 Bedeutet sich auf Erfahrungen zurückzubeziehen.
 ## Reflexivität:
-## System:
+## System: 
 <!-- TODO: Die letzten 4 Begriffe können bei Siebert im Glossar nachgeschaut werden -->
 ## Autopoiesis:
 Selbstorganisation lebender Wesen, die Fortpflanzung und Leben dienen.
