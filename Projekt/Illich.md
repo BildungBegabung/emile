@@ -32,19 +32,16 @@ Illich unterscheidet zwischen vier Aspekten, die er für die Bildung eines Kinde
 Jedes Kind benötigt neben dem Kontakt zu anderen Gleichaltrigen auch Vorbilder, von denen es unbewusst Lernen kann (Sprechen, Laufen, etc.).
 Zudem benötigt es bei komplexeren Sachverhalten professionelle Hilfe sowie Zugang zu Lernobjekten.
 Hierfür will er Netzwerke erstellen, in denen man Interessen formulieren und jeweils nach Gleichaltrigen, Hilfe, etc. suchen kann.
-Dies alles sollte auf freiwillger Basis geschehen.
+All dies sollte auf freiwillger Basis geschehen.
 
 Illichs Ziele für die "educational revolution" sind:
-=======
-Illich unterscheidet zwischen 4 Aspekte, die für die Bildung eines Kindes notwendig sind. Es braucht eine Umgebung in denen es gleichaltrigen Kinder gibt, aber wo es auch professionelle Hilfe von Pädagogen bekommen kann und wo es Lernobjekte gibt, die für seine Entwicklung wichtig sind, und es auch anwenden kann.  
-Illichs Zielen für die "educational revolution" sind:
->>>>>>> origin/illich
+
 1.-Abschaffung der Tatsache, dass Personen oder Institute auf Grund ihres Bildungsgrades Kontrolle über den Zugang zu Dingen ausüben.
 2.-Das Teilen/Gemeinsame Nutzung von Fertigkeiten ermöglichen, indem man die Freiheit unterrichtet und man ihr ausübt damit es  bei Bedarf sicher gestellt wird.
 3.-Freisetzung der kritischen und kreativen Ressourcen der Menschen, indem jedem Einzelnen die Möglichkeit zurückgegeben wird, Versammlungen einzuberufen und abzuhalten.
 4.-Befreiung des Individuums von der Verpflichtung, seine Aussichten nach der gebotenen Aufgabe irgendeiner Berufung zu formen – indem ihm die Möglichkeit bereitet wird, sich die Erfahrung seiner Fachkollegen zu Nutze machen zu können und sich dem Lehrer, Leiter, Berater oder Heiler seiner Wahl anzuvertrauen.
 
-Ein weiteres wichtiges Streben Illichs ist die Reduzierung der Komplexität unserer Umwelt, so dass sie wieder zugänglich für den Alltagsmenschen wird. Dazu könnten unter anderem die riesigen Summen an Geld verwendet werden, die man durch eine Abschaffung der Schulpflicht einsparen würde.
+Ein weiteres, wichtiges Streben Illichs ist die Reduzierung der Komplexität unserer Umwelt, so dass sie wieder zugänglich für den Alltagsmenschen wird. Dazu könnten unter anderem die riesigen Summen an Geld verwendet werden, die man durch eine Abschaffung der Schulpflicht einsparen würde.
 
 - Beschreibung von Illichs Vorschlägen
 (#118, #117)
@@ -59,19 +56,11 @@ vorläufige Ideen: (zu diskutieren)
  - Rousseau (Beruf Menschsein statt Spezailisierung);
  - (Benner (Interaktion zwischen Pädagogen und Lernendem - allgemein menschliche Interaktion);)
  - mead (Interaktion notwendig)
- 
 
-<<<<<<< HEAD
-Viele Elemente aus Illichs Vorstellung einer neuen Art von Lernen können als Lösungsansatz für Probleme und Fragen, die die in der Exposition des Kurses behandelten Texte aufgeworfen haben, interpretiert werden.
-So müssen nach der Theorie des Konstruktivismus Lerninhalte "viabel", das heißt für das lernende Individuum funktional, sein. 
-
-Daraus, das "das psychische System entscheidet, was es verarbeiten kann und will" (Siebert, S.18), ergibt sich die Forderung nach einem selbstbestimmten Lernen.
-Das Ziel aller Vorschläge Illichs ist es, den Lernenden "Zugang zu vorhandenen Möglichkeiten [zu] gewähren" (Illich, S.84) statt sie ihnen durch einen Lehrplan vorzuschreiben, welchen Wissensstand sie in welcher Zeit zu erreichen haben.
-=======
 Viele Elemente aus Illichs Lernkonzeptes erfüllen die Anforderungen, welche die in der Exposition behandelten Texte an den Prozess des Lernens stellen.
 So müssen nach der Theorie des Konstruktivismus Lerninhalte "viabel", das heißt für das lernende Individuum funktional und bedeutend, sein.
 Da "das psychische System entscheidet, was es verarbeiten kann und will" (Siebert, S.18), ergibt sich die Forderung nach einem selbstbestimmten Lernen.
-Das Ziel aller Vorschläge Illichs ist es, den Lernenden "Zugang zu vorhandenen Möglichkeiten [zu] gewähren" (Illich, S.84) statt sie ihnen durch einen Lehrplan vorzuschreiben, welchen Wissensstand sie in welcher Zeit zu erreichen haben. 
+Das Ziel aller Vorschläge Illichs ist es, den Lernenden "Zugang zu vorhandenen Möglichkeiten [zu] gewähren" (Illich, S.84) statt sie ihnen durch einen Lehrplan vorzuschreiben, welchen Wissensstand sie in welcher Zeit zu erreichen haben.
 >>>>>>> origin/illich
 Jeder hat die Freiheit, eine Gelegenheit zum Lernen wahrzunehmen, oder sich dagegen zu entscheiden.
 Durch die so entstandene Auswahlmöglichkeit zwischen verschiedensten Lerninhalten wird gewährleistet, dass sich jedes Individuum dem beschäftigen kann, der für es am anschlussfähigsten ist.
@@ -92,6 +81,7 @@ Lösung: Abschaffen der Bewertung von Fähigkeiten durch Zertifikate, die durch 
 - Verbindung zu Arbeiten mit Github
 (Github als Lernnetzwerk?)
 vorläufige Ideen:
+Ich würde das hier jetzt bearbeiten!!!!
  - Peer-Aspekt (Kommentare auf Issues ->Diskussion),
  - Inhaltlich für *Projektarbeit*,
  - keine Bestimmung des Inhalts durch andere (Bsp: unser Kurs statt Programm schreiben);
