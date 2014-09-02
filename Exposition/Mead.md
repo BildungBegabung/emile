@@ -4,7 +4,7 @@ Meads Text wurde 1934 veröffentlicht unter dem Namen "Symbolischer Interaktioni
 Symbolisch heißt soviel wie bildhaft oder sprachlich und Interaktionismus ist die Kommunikation zwischen Individuengruppen.
 Zusammengefasst heißt das also, dass Mead sich mit der sprachlichen, bildlichen Beziehung zwischen Menschen beschäftigt.
 Daraus lassen sich sowohl soziologische als auch pädagogische Rückschlüsse ziehen.
-Das Rückrad Meads, auf das sich seine ganze Theorie aufbaut, besteht aus den Komponenten "I", "Me" und "Self".
+Das Rückrad Meads, auf das sich seine ganze Theorie stützt, besteht aus den Komponenten "I", "Me" und "Self".
 <!-- TODO: umgangssprachl. -->
 Dabei werden Wünsche und Ziele durch das "I" ausgedrückt, kurz der Egoismus eines Individuums.
 <!-- TODO: Würde den Begriff Triebe vermeiden, da er zu sehr an Freud erinnert. -->
