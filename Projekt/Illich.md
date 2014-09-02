@@ -19,7 +19,7 @@ Diese Werte beginnen einen allgemein verbindlichen Charakter zu entwickeln, welc
 Die einzige, mögliche Konsequenz auf diese Fehleinschätzungen ist Eskalation.
 Sobald die Schule uns beigebracht hat, dass Wissensvermittlung zwangsläufig neue Kenntnisse hervorruft, nur durch aktive Wissensvermittlung der notwendige Wissenshorizont erreicht werden kann, ist die uns logische erscheinende Antwort auf alle Bildungprobleme Eskalation im Bildungsprozess:
 Die Schule lehrt: Je mehr Schule, desto mehr Lernerfolg, weshalb wir zur Schule.
-Dennoch sagt Illich: 
+Dennoch sagt Illich:
 
 
 ##### Illichs Zielen für die "educational revolution" sind:
@@ -27,7 +27,6 @@ Dennoch sagt Illich:
 - Beschreibung von Illichs Vorschlägen
 Illich unterscheidet zwischen 4 Aspekten, die für die Bildung eines Kindes notwendig sind. Es braucht eine Umgebung in denen es gleichaltrigen Kinder gibt, aber wo es auch professionelle Hilfe von Pädagogen bekommen kann und wo es Lernobjekte gibt, die für seine Entwicklung wichtig sind, und es auch anwenden kann.  
 Illichs Zielen für die "educational revolution" sind:
-
 1.-Abschaffung der Tatsache, dass Personen oder Institute auf Grund ihres Bildungsgrades Kontrolle über den Zugang zu Dingen ausüben.
 2.-Das Teilen/Gemeinsame Nutzung von Fertigkeiten ermöglichen, indem man die Freiheit unterrichtet und man ihr ausübt damit es  bei Bedarf sicher gestellt wird.
 3.-Freisetzung der kritischen und kreativen Ressourcen der Menschen, indem jedem Einzelnen die Möglichkeit zurückgegeben wird, Versammlungen einzuberufen und abzuhalten.
@@ -46,16 +45,28 @@ Illich begreift die Schule als eine Art Paradigma für die Natur von lebensbesti
 
 - Verbindungen zu anderen Texten -
 vorläufige Ideen: (zu diskutieren)
+  - Anforderungen erfüllen, nicht Probleme lösen
  - Dewey (geteilte Erfahrung, projektbezogenes Lernen; Austausch durch Lernnetzwerke (?));
  - Rousseau (Beruf Menschsein statt Spezailisierung);
- - Benner (Bildsamkeit - Vertrauen auf Entscheidungen von Lernenden; Interaktion zwischen Pädagogen und Lernendem - allgemein menschliche Interaktion);
+ - Benner (Interaktion zwischen Pädagogen und Lernendem - allgemein menschliche Interaktion);
+ - mead (Interaktion notwendig)
+ - zimpel (Hyperzyklus ---> Skill exchange)
 
-Viele Elemente aus Illichs Vorstellung einer neuen Art von Lernen können als Lösungsansatz für Probleme und Fragen, die die in der Exposition des Kurses behandelten Texte aufgeworfen haben, interpretiert werden.
-So müssen nach der Theorie des Konstruktivismus Lerninhalte "viabel", das heißt für das lernende Individuum funktional sein.
-Daraus, das "das psychische System entscheidet, was es verarbeiten kann und will" (Siebert, S.18), ergibt sich die Forderung nach einem selbstbestimmten Lernen.
-Das Ziel aller Vorschläge Illichs ist es, den Lernenden "Zugang zu vorhandenen Möglichkeiten [zu] gewähren" (Illich, S.84) statt sie ihnen durch einen Lehrplan vorzuschreiben, welchen Wissensstand sie in welcher Zeit zu erreichen haben. Jeder hat die Freiheit, eine Gelegenheit zum Lernen wahrzunehmen, oder nicht. Durch die so entstandene Auswahlmöglichkeit zwischen verschiedensten Lerninhalten wird gewährleistet, dass jedes Individuum den für es anschlussfähigsten bearbeiten kann.
+
+Viele Elemente aus Illichs Konzeption des Lernprozesses können als Lösungsansatz für Probleme und Fragen, welche die in der Exposition behandelten Texte aufgeworfen haben, herbeigezogen werden.
+So müssen nach der Theorie des Konstruktivismus Lerninhalte "viabel", das heißt für das lernende Individuum funktional und bedeutend, sein.
+Da "das psychische System entscheidet, was es verarbeiten kann und will" (Siebert, S.18), ergibt sich die Forderung nach einem selbstbestimmten Lernen.
+Dieses Ziel des individuellen Lernens lässt sich in einer zufällig bestimmten Gruppe nur schwer realisieren. Dem versucht man im heutigen System durch eine Einstufung in Altersklassen entgegenzuwirken.
+Hier trifft sich die konstruktivistische Theorie mit Illich, die besagt, dass eine allgemeine Einstufung in Altersklassen in keinster Weise gleiche Interessen, bzw. einen gleichen Stand in dem geistigen Reifeprozess, vorraussetzen.
+Jeder hat die Freiheit, so Illich, eine Gelegenheit zum Lernen wahrzunehmen, oder aber sich dagegen zu entscheiden.
+Das Ziel aller Vorschläge Illichs ist es, den Lernenden "Zugang zu vorhandenen Möglichkeiten [zu] gewähren" (Illich, S.84) statt sie ihnen durch einen Lehrplan vorzuschreiben, welchen Wissensstand sie in welcher Zeit zu erreichen haben.
+
+Durch die so entstandene Auswahlmöglichkeit zwischen verschiedensten Lerninhalten wird gewährleistet, dass sich jedes Individuum mit dem für es anschlussfähigsten beschäftigen kann.
+Diese Tatsache beruht darauf, dass den Lernenden Vertrauen entgegebracht und ihnen zugestanden wird,ihren "eigenen Bildungsweg [zu] gehen, der erst im Rückblick ein Programm erkennen" (Illich, S.105) lässt.
+Dieses Vertrauen, dass den Schülern entgegen gebracht wird beruht darauf, dass ihnen die grundsätzliche Fähigkeit zugeschrieben wird.... *(Parallele zu Benner geplant, aber evtl. nicht plausibel)*
 
 - darauf aufbauend: Illich als Lösungsvorschlag?
+
 
 - Verbindung zu Arbeiten mit Github
 (Github als Lernnetzwerk?)
