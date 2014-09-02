@@ -17,19 +17,42 @@ Die einzig mögliche Antwort auf diese Fehleinschätzungen ist Eskalation. Die S
 Somit schafft die Schule ihre eigene Grundlage.
 Die Schule zeigt den Schülern, wie sehr sie auf Institutionen angewiesen sind.
 
+- Beschreibung von Illichs Vorschlägen  
+
+##### Illichs Zielen für die "educational revolution" sind:
+1.-Abschaffung der Tatsache, dass Personen oder Institute auf Grund ihres Bildungsgrades Kontrolle über den Zugang zu Dingen ausüben.
+
+2.-Das Teilen/Gemeinsame Nutzung von Fertigkeiten ermöglichen, indem man die Freiheit unterrichtet und man ihr ausübt damit es  bei Bedarf sicher gestellt wird.
+
+3.-Freisetzung der kritischen und kreativen Ressourcen der Menschen, indem jedem Einzelnen die Möglichkeit zurückgegeben wird, Versammlungen einzuberufen und abzuhalten.
+
+4.-Befreiung des Individuums von der Verpflichtung, seine Aussichten nach der gebotenen Aufgabe irgendeiner Berufung zu formen – indem ihm die Möglichkeit bereitet wird, sich die Erfahrung seiner Fachkollegen zu Nutze machen zu können und sich dem Lehrer, Leiter, Berater oder Heiler seiner Wahl anzuvertrauen.
+
+##### Die volgenden Schritten passt er seine Vorstellung eines perfekten Bildungssystems an:
+
+**"Reference Services to Educational Objects"**, der Zugang zu Gegenständen, die zum Lernen notwendig sind.
+Hierbei unterscheidet er den speziellen Zugang zu gewöhnlichen Gegenständen und den einfachen Zugang zu speziellen Lehrgegenständen.
+ Erstere entstammen dem Alltag, aber ihre Funktionsweise wird dem Individuum durch die Wirtschaft bewusst verschwiegen.
+ Letztere stehen unter dem Monopol der Schule, die den Zugriff auf bestimmte Zeiten im Lehrplan beschränkt und die somit für den Schüler ein Symbol der (verhassten) Schule sind.
+Statt dessen fordert Illich zum einen die Möglichkeit unsere künstliche Welt zu verstehen; zum anderen den freien Zugriff für Lernende auf die nötigen Utensilien in Büchereien, Museen oder außerhalb der Arbeitszeiten in Betrieben.
+ Auf S.37 wird er extrem, indem er staatlich Förderung von Kinderarbeit zu Lernzwecken fordert.
+
+**"Skill Exchanges"**, der Austausch von Fähigkeiten: Dinge wie Sprechen und Laufen lernt der Mensch durch blose Nachahmung.
+ Illich möchte diese Fähigkeit von Vorbildern verallgemeinern und behauptet, dass ein motivierter Schüler ohne Behinderungen so ziemlich alles lernen kann, wenn andere es ihm vormachen.
+  Zu diesem Zweck kann jeder, der etwas kann und weitergeben möchte, sich registrieren lassen; und jeder, der etwas lernen möchte, meldet sich beim "Vorführer", der explizit kein Lehrer ist, weil die Pädagogik fehlt.
+   Zur Organisation macht Illich zwei Vorschläg: Entweder führt man "skill centers" ein mit kostenlosen oder kostenpflichtigen Kursen (~ VHS?);
+oder jeder besitzt eine gewisse Menge "credits", die er selbst durch das Erteilen von Unterricht wieder auffüllen kann.
+
+**"Peer-Matching"**, das Lernen mit Gleichgesinnten: Wer einen Partner zum Lernen sucht, lässt sich und den Lerngegenstand registrieren und bekommt andere, die dasselbe angegeben haben zugewiesen.
+ Für diese Form des Lernens besteht vorallem in Zeiten des Fernlernens (Kassetten, Bücher, Filme) eine Notwendigkeit für die gegenseitige Motivation und den Austausch.
+ Des Weiteren erlernt der Schüler die Suche nach Partnern für zukünftige Unternehmungen und durch das Bilden neuer Gruppen wird der gesellschaftliche Zusammenhalt gefördert.
+ Zu guter letzt benötigt ein Austausch auf Augenhöhe, aus dem alle den selben Nutzen ziehen, keine weiteren Anreize wie Lohnzahlungen.
+
+**"Reference Services to Educators"**, der Zugang zu Profis:
+Illich unterscheidet die "network creaters", die sich um das reibungslose Funktionieren des Systems kümmern; die Pädagogen, die Eltern und "Vorführer" beraten; sowie die "masters" oder "leaders", die ein echtes Meister-Schüler-Verhältnis aufbauen und den intellektuellen wie menschlichen Grundstein des Systems bilden.
 
 
-- Beschreibung von Illichs Vorschlägen
-(#118, #117)
-<<<<<<< HEAD
-<<<<<<< HEAD
 
-=======
-https://drive.google.com/folderview?id=0B9yv4BQ03sJed1BQN24wbTBwZ3M&usp=gmail
->>>>>>> origin/illich
-=======
-
->>>>>>> fc590a21ed4add360bbcf03c77b1d967f379e13e
 - evtl. Kritik an Illich-Text? (aus Präsentation, Problem: keine Quelle zum Zitieren)
 
 **2.Projekt**
