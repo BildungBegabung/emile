@@ -33,8 +33,6 @@ stammt aus der Theorie Dahls und heißt übersetzt: "aufgeklärtes Verständnis"
 Theorie, die feststellt, dass jede Person die Welt verschiedenerweise versteht und dass keiner Zugang zu der objektiven Realität hat.
 ## Die Pädagogik:
 Die Wissenschaft, die sich mit dem Unterrichten und Erziehen beschäftigt:
-Behaviorismus
-Kognitivismus
 ## Der Fortschritt:
 Die ständige Verbesserung und Weiterentwicklung der Wissenschaft, der Technik und der Lebensqualität.
 ## Symbolischer Interaktionismus:
