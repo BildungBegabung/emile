@@ -20,13 +20,13 @@ Aufbauend auf diesem individuell geprägten Menschenbild geht Siebert davon aus,
 <!-- TODO: Impression? Ausdruck -->
 Diese beruht jedoch auf der subjektiven Auslegung (z.B. nach Wichtigkeit der Information) jedes einzelnen Menschen (*Systems*) und demnach nicht als status quo anzusehen.
 
-Die Subjektivität wird von Viabilität und Rekursivität bestimmt, womit ein Ansatz zur Lernpädagogik gefunden werden kann, der benötigt wird.
+Die Subjektivität wird von Viabilität und Rekursivität bestimmt, womit ein Ansatz zur Lerntheorie gefunden werden kann, der benötigt wird.
 <!-- TODO: Lerntheorie! und Subjektivität ändern -->
 Geht man von der vollkommenen Subjektivität eines Individuums aus, so ist das, auf allgemeine Lernmethoden beruhtes Schulsystem nicht in der Lage zu **lehren**.
 Demzufolge schlussfolgert Siebert, dass ein *"Bildungskanon"* (ebd. S.28) nicht der menschlichen Natur des Lernens entspricht.
-In einer pluralisierten Gesellschaft ist somit ein pluralistisches Lehrnraster erforderlich.
+In einer pluralisierten Gesellschaft ist somit ein pluralistisches Lernraster erforderlich.
 <!-- TODO: Lehrnraster?  -->
-- Die Frage nach einem (erwünschtem) Lernerfolg hinsichtlich des Lernenden und des Lernstoffes bleibt somit eine essentielle Frage der Schul- sowie Lernpädagogik.
+- Die Frage nach einem (erwünschtem) Lernerfolg hinsichtlich des Lernenden und des Lernstoffes bleibt somit eine essentielle Frage der Schul- sowie Lerntheorie.
 <!-- TODO: Verstehe, was du meinst, aber findest du noch eine klarere Formulierung? -->
 
 Siebert selbst geht auf diese Frage wie folgt ein:
