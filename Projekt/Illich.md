@@ -6,11 +6,12 @@
 (#114, #116 und aus Präsentation “Institutionalisierung-Problem”)
 
 - Beschreibung von Illichs Vorschlägen
+Illich unterscheidet zwischen 4 Aspekte, die für die Bildung eines Kindes notwendig sind. Es braucht eine Umgebung in denen es gleichaltrigen Kinder gibt, aber wo es auch professionelle Hilfe von Pädagogen bekommen kann und wo es Lernobjekte gibt, die für seine Entwicklung wichtig sind, und es auch anwenden kann.  
 Illichs Zielen für die "educational revolution" sind:
 1.-Abschaffung der Tatsache, dass Personen oder Institute auf Grund ihres Bildungsgrades Kontrolle über den Zugang zu Dingen ausüben.
 2.-Das Teilen/Gemeinsame Nutzung von Fertigkeiten ermöglichen, indem man die Freiheit unterrichtet und man ihr ausübt damit es  bei Bedarf sicher gestellt wird.
 3.-Freisetzung der kritischen und kreativen Ressourcen der Menschen, indem jedem Einzelnen die Möglichkeit zurückgegeben wird, Versammlungen einzuberufen und abzuhalten.
-4.-Befreiung des Individuums von der Verpflichtung, seine Aussichten nach der gebotenen Aufgabe irgendeiner Berufung zu formen – indem ihm die Möglichkeit bereitet wird, sich die Erfahrung seiner Fachkollegen zu Nutze machen zu können und sich dem Lehrer, Leiter, Berater oder Heiler seiner Wahl anzuvertrauen. 
+4.-Befreiung des Individuums von der Verpflichtung, seine Aussichten nach der gebotenen Aufgabe irgendeiner Berufung zu formen – indem ihm die Möglichkeit bereitet wird, sich die Erfahrung seiner Fachkollegen zu Nutze machen zu können und sich dem Lehrer, Leiter, Berater oder Heiler seiner Wahl anzuvertrauen.
 
 - evtl. Kritik an Illich-Text? (aus Präsentation, Problem: keine Quelle zum Zitieren)
 
