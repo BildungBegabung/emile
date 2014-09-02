@@ -1,36 +1,30 @@
 # Protokoll: Benner-2012
 
-Benners Ausgangsfrage ist, mittels welches Konstrukts der Mensch seine Entscheidungen trifft.
-Er definiert dazu zwei große Extrema: Den **Determinismus und die transzendentale Freiheit**.
-Nach dem Determinismus ist das menschliche Verhalten grundsätzliche durch seine Umwelt oder seine Anlagen vorher bestimmt.
+Benner setzt sich damit auseinander, die **Grundsätze pädagogischen Handelns** aufzuzeigen, die für die ganze Menschheit gültig sind.
+Er richtet sch dabei an die pädagogisch interessierte Leserschaft.
+Er definiert dazu zwei grundsätzliche große Extrema der Verhaltensbestimmung: Den **Determinismus und die transzendentale Freiheit**.
+Nach dem *Determinismus* ist das menschliche Verhalten grundsätzliche durch seine Umwelt oder seine Anlagen vorher bestimmt.
 Im Sinne der transzendentalen Freiheit kann der Mensch zu jedem Zeitpunkt vollkommen willkührlich über seine Handlungen und sein Schicksal entscheiden.
-<<<<<<< HEAD:Protokolle/Protokoll Benner.md
 Benner stimmt weder dem Einen, noch dem Anderen zu (vgl. S,71).
-Er ist der Auffassung, dass jeder Mensch **Bildsam** ist.
-Bei dieser Bildsamkeit handelt es sich nicht um einen Mittelweg zwischen diesen beiden Extremen, sondern um eine deontologische Annahme.
-Benner sagt:
-*"Die Bildsamkeit eines Menschen anerkennen heißt ja nicht einen Mittelweg zwischen diesen Extremen [...] zu suchen"* (S,72)
-=======
-Benner stimmt weder dem Einen, noch dem Anderen zu (vgl. S. 71)
 Er ist der Auffassung, dass jeder Mensch **bildsam** ist.
-Bei der Bildsamkeit handelt es sich nicht um einen Mittelweg zwischen diesen beiden Extremen, sondern um eine deontologische Annahme.
-Benner sagt:
-"Die Bildsamkeit eines Menschen anerkennen heißt ja **nicht einen Mittelweg** zwischen diesen Extremen [...] zu suchen" (S. 72)
->>>>>>> FETCH_HEAD:Exposition/Benner.md
-Benner gibt keine Gründe für die Bildsamkeit, sondern behauptet, sie liege grundsätzlich in der menschlichen Natur.
+Bei dieser Bildsamkeit handelt es sich um eine deontologische Annahme.
+Benner  ist der Auffassung, *"Die Bildsamkeit eines Menschen anerkennen  heißt [...] nicht einen Mittelweg zwischen diesen Extremen [...] zu suchen"* (S,72)
+
+Benner gibt keine Gründe für die Bildsamkeit, sondern behauptet, sie liege grundsätzlich in der  Natur der Kommunikation zwischen Edukator und Edukand.
 Schließlich meint Bildsamkeit, dass jeder Mensch dazu fähig ist sich selbst zu bilden.
-Allerdings ist diese Bildsamkeit mehr ein Potenzial und muss daher zunächst allen entlockt werden:
-<!-- TODO: "entlockt werden"? Verstehe was du meinst, fällt dir noch eine weniger umgangssprachliche Formulierung ein? -->
-Der Mensch muss zur Selbsttätigkeit aufgefordert werden.
+Allerdings ist diese Bildsamkeit mehr ein Potenzial und muss daher dem Edukanten zunächst  entlockt werden: **Der Mensch muss zur Selbsttätigkeit aufgefordert werden.**
 Dies geschieht nach Benner intersubjektiv in einem Erziehungsprozess.
 Da es sich hierbei um einen Prozess handelt, kann ein Mensch zu keinem Zeitpunkt als vollendet erzogen angesehen werden.
-Anders als bei Rousseau bedarf ein Mensch, laut Benner, Zeit seines Lebens pädagogischer Hilfe, falls er sein Potential nicht ausnutzt.
+Anders als nach Rousseau bedarf ein Mensch, laut Bennerm, Zeit seines Lebens pädagogischer Hilfe, falls er sein Potential nicht ausnutzt.
+Benner nennt es die *"Imperfektheit des Menschen" (S.78).*
 <!-- TODO: Hier nochmal nachlesen S. 91, 2. Abschnitt -->
-Benner nennt es die "Imperfektheit des Menschen" (vgl. S. 78).
+Benner nennt es die "Imperfektheit des Menschen" (vgl. S.78).
 
-Dieses Lernen basiert laut Benner auf vier Grundlagen, die nur dem Menschen vorbehalten sind.
+Dieses Lernen basiert laut Benner auf vier Grundlagen, die nur dem Menschen  vorbehalten sind.
 Sie lauten: Leiblichkeit, Freiheit, Geschichtlichkeit und Sprachlichkeit.
-Benner ist der Auffassung: "Die pädagogische Praxis hat keine andere Möglichkeit [...] als den der Erziehung Bedürftigen als jemandenden zu begegnen, die Bildsam im Sinne der rezeptiven und spontanen Leiblichkeit, Freiheit, Geschichtlichkeit und Sprachlichkeit menschlicher Praxis sind" (S. 76).
+Benner ist der Auffassung:
+>*"Die pädagogische Praxis hat keine andere Möglichkeit [...] als den der Erziehung Bedürftigen als jemandenden zu begegnen, die Bildsam im Sinne der rezeptiven und spontanen Leiblichkeit, Freiheit, Geschichtlichkeit und Sprachlichkeit menschlicher Praxis sind"* (S. 76).
+
 Leiblichkeit beschreibt das sensomotorische menschliche Handeln, denn besonders duch physische Interaktion ist es uns möglich Zusammenhänge zu verstehen.
 Mit Freiheit meint Benner im Grunde die menschliche Bildsamkeit als solches und mit der Geschichtlichkeit die Abhängigkeit des Menschen von seinen Erfahrungen, die sein verhalten in der Gegenwart beeinflussen.
 Darüber hinaus sieht Benner in der Sprachlichkeit das wichtige Mittel zur Interaktion.
@@ -44,10 +38,6 @@ Er tue dies, weil er in seiner Vergangenheit immer Strafe rechnen musste, wenn e
 Es ist nun notwendig, so Benner, ihm wieder Bildsamkeit und das eigene Wünschen zu zeigen (vgl. 20)
 
 Dieser Ansatz definiert den Menschen grundsätzlich in seinem Potenzial, er wird also als etwas gesehen, was er nicht ist.
-<<<<<<< HEAD:Protokolle/Protokoll Benner.md
-Benner leitet daraus ab, dass Metakommunikation bzw. die aktive Reflektion des Zöglings über seine Gedankenprozesse entscheidend ist um das Potenzial der Bildsamkeit zu nutzen.
-=======
-Ein häufiger Kritikpunkt an Benner.
+Benner leitet daraus ab, dass Metakommunikation bzw. die aktive Reflektion des Zöglings über seine Gedankenprozesse entscheidend ist um das Potenzial der Bildsamkeit zu nutzen
 
 <!-- TODO: Bitte noch die Inline Notes auf GitHub.com beachten, die ich zuerst erstellt habe -->
->>>>>>> FETCH_HEAD:Exposition/Benner.md
