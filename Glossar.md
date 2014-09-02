@@ -26,7 +26,9 @@ wechselseitige Beziehung, aufeinander bezogenes Handeln, gegenseitige Beeinfluss
 Besitzer des absoluten Rechts oder der absoluten Kontrolle über die Produktion
 ## Effective participation:
 ## Equal Voting:
+durch Annahme der inhärenten Gleichheit (s.Z.17) werden alle Stimmen im demokratischen Prozess gleich gewichtet.
 ## Enlightened understanding:
+ist ein Begriff aus der Theorie Dahls, der übersetzt "aufgeklärtes Verstädnis" bedeutet.
 ## Control of the agenda:
 ## Der Konstruktivismus:
 Theorie, die feststellt, dass jede Person die Welt verschiedenerweise versteht und dass keiner Zugang zu der objektiven Realität hat.
@@ -53,7 +55,6 @@ Beschreibt den Abschnitt unter dem Graph in der Produktionsmöglichkeitenkurve.
 ## Die Pädagogik: die Wissenschaft, die sich mit dem Unterrichten und Erziehen beschäftigt:
 Behaviourismus
 Kognitivismus
-## Symbolischer Interaktionismus:
 ## Ecological Pragmatism:
 ## Vermachtung:
 ## Die Ethik:
