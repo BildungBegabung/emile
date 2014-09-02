@@ -44,12 +44,8 @@ Die ständige Verbesserung und Weiterentwicklung der WIssenschaft, der Technik u
 Symbolisch heißt soviel wie bildhaft oder sprachlich und Interaktionismus ist die Kommunikation zwischen Individuengruppen.
 Zusammengefasst heißt das also, dass Mead sich mit der sprachlichen, bildlichen Beziehung zwischen Menschen beschäftigt.
 ## Ecological Pragmatism:
-## Vermachtung:
-## Ethik/Pragmatische Ethik:
-## Moral:
 ## Geschichtlichkeit:
 ## Mutually exclusive:
-## Comprehensively exhaustive:
 ## Viabilität:
 Begriffe sind dann viabel, wenn sie zu Beschreibungen passen, für die wir sie auch benutzen. Desweiteren sind Dinge viabel, wenn sich ein Individuum dafür interessiert bzw. lebensdienlich ist.
 ## Reflexivität:
@@ -83,8 +79,6 @@ Gesellschaftliche Konventionen des Verhaltens
 Vom altgriechischen δέοντα; die Pflicht, die Bindung, Setzung, die keiner Begründung bedarf.
 ## Freiheit:
 Die Möglichkeit aus vielen verschiedenen Optionen individuell wählen zu können ohne jeglichen Vormund.
-## Geschichtlichkeit:
-## Mutually Exclusive:
 ## Comprehensively exhaustive:
 ## Viabilität:
 ## Rekursivität:
