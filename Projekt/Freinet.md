@@ -29,11 +29,11 @@ Es ist also wichtiger, "dass das Kind seine Individualität entwickelt" (S. 105)
 Die Interessenkomplexe (Complexe d'intéreêts) gehen vom Schüler bzw. von der Schülerin aus, d.h. er/sie hat gewissen Interessen, welche er/sie erarbeiten möchte. Der Lehrer hingegen verkörpert die Interessenzentren (Centres d'intérêts).
 Er hat ein weiteres Feld an Wissen und hat deshalb quasi Zentren in denen dieses Wissen gespeichert ist.
 Somit muss der Lehrer mit seinem Zentrum an Wissen den Schülern und Schülerinnen dabei helfen, ihre Komplexe an Wissen ordnen und kann auf weitere Möglichkeiten des Wissenserwerbs hinweisen.
-Trotzdem ist für Freinet die "Überlegenheit des Interessenkomplexes [...] gegenüber den Interessenzentren [nicht anzu]zweifeln" (S.89).
+Trotzdem ist für Freinet die "Überlegenheit des Interessenkomplexes [...] gegenüber den Interessenzentren [nicht] anzuzweifeln" (S.89).
 
 ## Was für ein Verständnis von Lernen liegt der Arbeit mit Interessenkomplexen zugrunde?
-Freinet geht davon aus, dass die Kinder lernen wollen. Aufgrund dieser Annahme richtet er seinen Unterricht nach den Interessenkomplexen der Kinder aus, d.h. im Unterricht werden die Themen bearbeitet, welche die Kinder interessieren.
-Freinet arbeitet also nach einer "neuen Art des Unterrichts nach Interessenkomplexen" (S.89).
+Freinet geht davon aus, dass die *Kinder lernen wollen*. Aufgrund dieser Annahme richtet er seinen Unterricht nach den Interessenkomplexen der Kinder aus, d.h. im Unterricht werden die Themen bearbeitet, welche die Kinder interessieren.
+Freinet arbeitet also nach einer "neuen **Art des Unterrichts nach Interessenkomplexen**" (S.89).
 Außerdem haben die Kinder die Möglichkeit sehr selbstständig zu arbeiten: Sie können sich aussuchen, welche Aufgabe sie bearbeiten, wo sie dies tun, mit wem, wann und wie lange.
 Wenn die Aufgabe den Kindern im Verlauf dann doch nicht mehr wichtig bzw. interessant erscheint, können sie diese beenden und eine neue Anfangen.
 
@@ -48,7 +48,12 @@ Von den Schülern und Schülerinnen wird verlangt ihre Interessen zu kennen, dam
 ## Zu den Projektfragen:
 
 ### Projektfrage 1
-Es muss zunächst klar gestellt werden, dass es für Freinet unerheblich ist, inwiefern ein Problem von persönlicher Autonomie und inherenter Gleichwertigkeit gelöst wird. Er beschäftigt sich mit der didaktischen Konzeption von Schule und wie diese
+Es muss zunächst klar gestellt werden, dass es für Freinet unerheblich ist, inwiefern ein Problem von persönlicher Autonomie und inherenter Gleichwertigkeit gelöst wird.
+Er beschäftigt sich mit der didaktischen Konzeption von Schule und wie diese dem Edukanten dabei hilft seine Individualität auszubilden.
+Dennoch beschreibt er unbewusst in seiner Pädagogik ein Verhältnis von persönlicher Autonomie und inherenter Gleichheit.
+So zeigt sich besonders in seiner Konzeption der Interessenkomplexen, die das Zentrum des Lernen sind.
+Jegliche Struktur des Unterrichts orientiert sich an ihnen (vgl. S. 89)
+
 
 Vgl. Freinet-1964, S. 509-510
 
