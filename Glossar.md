@@ -58,8 +58,7 @@ Kognitivismus
 ## Ecological Pragmatism:
 ## Vermachtung:
 ## Die Ethik:
-Pflichten, die ein Mensch von sich aus hat, also a priori
-Pragmatische Ethik
+Pflichten, die ein Mensch von sich aus hat
 ## Die Moral:
 Gesellschaftliche Konventionen des Verhaltens
 ## Konsequentialismus:
@@ -74,12 +73,10 @@ Vom altgriechischen δέοντα; die Pflicht, die Bindung, Setzung, die keiner 
 ## Freiheit:
 Die Möglichkeit aus vielen verschiedenen Optionen individuell wählen zu können ohne jeglichen Vormund.
 ## Comprehensively exhaustive:
-## Viabilität:
 ## Rekursivität:
 Bedeutet sich auf Erfahrungen zurückzubeziehen.
 ## Reflexivität:
 ## System:
-<!-- TODO: Die letzten 4 Begriffe können bei Siebert im Glossar nachgeschaut werden -->
 ## Autopoiesis:
 Selbstorganisation lebender Wesen, die Fortpflanzung und Leben dienen.
 ## Das Paretoprinzip:
