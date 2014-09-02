@@ -1,3 +1,9 @@
+Benner Nachbesprechung
+
+Unterschied Benner - Rousseau
+Rosseau:  phasenweise Einteilung der menschlichen Jugend
+          Isolation
+//
 
 Charles Tilly - War Making and State Making as Organized Crime
 
@@ -54,7 +60,7 @@ Staat: Dienstleister, der Sicherheit monopolisiert hat
 Monopole sind IMMER für den Monopolsgegenstand schlecht
 Bsp.: Smartphones würden monopolisiert, kein Wettbewerb, hohe Preise, schlechte Qualität
 Also ist Sicherheitsmonopol schlecht, da "
-inter-national gibt es kein Sicherheitsmonopol und es funktioniert
+weltweit gibt es kein Sicherheitsmonopol und es funktioniert
 
 Tilly Staatsgenese:
 Das Schutzgeldgeschäft:
