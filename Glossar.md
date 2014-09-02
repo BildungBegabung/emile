@@ -47,8 +47,6 @@ Zusammengefasst heißt das also, dass Mead sich mit der sprachlichen, bildlichen
 ## Vermachtung:
 ## Ethik/Pragmatische Ethik:
 ## Moral:
-## Freiheit:
-Beschreibt den Zustand, zwischen vielen verschiedenen Möglichkeiten beliebig wählen zu dürfen ohne dabei eingeschränkt zu werden.
 ## Geschichtlichkeit:
 ## Mutually exclusive:
 ## Comprehensively exhaustive:
@@ -96,10 +94,6 @@ Bedeutet sich auf Erfahrungen zurückzubeziehen.
 <!-- TODO: Die letzten 4 Begriffe können bei Siebert im Glossar nachgeschaut werden -->
 ## Autopoiesis:
 Selbstorganisation lebender Wesen, die Fortpflanzung und Leben dienen.
-## Nullsummenspiele:
-## Nash Equilibrium:
-## Nullsummenspiele
-## Nash Equilibrium
 ## Das Paretoprinzip:
 Beziehungsweise Unanimity ist nach dem Sozialwahlprinzip ein Kriterium, das laut Arrow bei einer Wahl erfüllt werden muss: Wenn alle Teilnehmer an einer Wahl in ihrer individuellen Rangliste eine Alternative (A) über eine andere (B) stellen, sollte die Rangfolge im Endergebnis diese Präferenz widerspiegeln, d.h. A sollte B vorgezogen werden. (vgl. S.749, Kleinberg)
 Allgemein kann man einen Prozess als eine Pareto-Verbesserung bezeichnen, wenn nach einer Veränderung alle Beteiligten besser oder zumindest gleich gut gestellt sind.
