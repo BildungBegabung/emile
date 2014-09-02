@@ -41,33 +41,26 @@ Die ständige Verbesserung und Weiterentwicklung der Wissenschaft, der Technik u
 ## Symbolischer Interaktionismus:
 Symbolisch heißt soviel wie bildhaft oder sprachlich und Interaktionismus ist die Kommunikation zwischen Individuengruppen.
 Zusammengefasst heißt das also, dass Mead sich mit der sprachlichen, bildlichen Beziehung zwischen Menschen beschäftigt.
-## Geschichtlichkeit:
 ## Mutually exclusive:
 ## Viabilität:
 Begriffe sind dann viabel, wenn sie zu Beschreibungen passen, für die wir sie auch benutzen. Desweiteren sind Dinge viabel, wenn sich ein Individuum dafür interessiert bzw. lebensdienlich ist.
 ## Reflexivität:
-## System:
 ## Nullsummenspiele:
 ## Nash Equilibrium:
 <!-- bitte bei Siebert nachschauen und Definition zitieren -->
 ## Integral:
 Beschreibt den Abschnitt unter dem Graph in der Produktionsmöglichkeitenkurve.
-## Die Pädagogik: die Wissenschaft, die sich mit dem Unterrichten und Erziehen beschäftigt:
-Behaviourismus
-Kognitivismus
+## Die Pädagogik:
+Die Wissenschaft, die sich mit dem Unterrichten und Erziehen beschäftigt:
 ## Ecological Pragmatism:
-## Vermachtung:
 ## Die Ethik:
 Pflichten, die ein Mensch von sich aus hat
 ## Die Moral:
 Gesellschaftliche Konventionen des Verhaltens
 ## Konsequentialismus:
 ## Negative Freiheit:
-## Individualität:
 ## Erziehungsideal:
-## Leiblichkeit:
 ## Selbsttätigkeit:
-## Identität:
 ## Deontologisch:
 Vom altgriechischen δέοντα; die Pflicht, die Bindung, Setzung, die keiner Begründung bedarf.
 ## Freiheit:
@@ -75,8 +68,6 @@ Die Möglichkeit aus vielen verschiedenen Optionen individuell wählen zu könne
 ## Comprehensively exhaustive:
 ## Rekursivität:
 Bedeutet sich auf Erfahrungen zurückzubeziehen.
-## Reflexivität:
-## System:
 ## Autopoiesis:
 Selbstorganisation lebender Wesen, die Fortpflanzung und Leben dienen.
 ## Das Paretoprinzip:
