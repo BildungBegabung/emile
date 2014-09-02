@@ -13,26 +13,29 @@ Illich begreift die Schule als eine Art Paradigma für die Natur von lebensbesti
 They school them to confuse process and substance."(Illich- P.3)
 Wir verwechseln Prozess und Wert, und werden so zu der Annahme verleitet, Lehren würde unausweichlich Lernerfolg bewirken.
 Diese Annahme lässt sich ebenso auf das Gesundheitssystem anwenden, welchem die Annahme vorrausgeht, medizinische Versorgung lasse sich mit Bekämpfung von Krankheiten gleichsetzen, oder auf Polizeipräsenz, welcher Sicherheit automatisch folgen sollte.
-Diese Anschauungen geben uns die Möglichkeit und fordern uns auch unterbewusst dazu auf, die Werte zu messen, einfach anhand des Umfangs des Prozesses, welcher schließlich, so die These, zwangsweise den Wert provoziert.
-Wir beziehen dies schließlich nicht nur auf bereit Institutionalisierte Werte, sondern versuchen auch unsere persönlichen Werte von Standarts abzuleiten und den Wert unserer Persönlichkeit messen zu wollen.
+Diese Anschauungen geben uns die Möglichkeit und fordern uns auch implizit dazu auf, die Werte zu messen, einfach anhand des Umfangs des Prozesses, welcher schließlich, so die These, zwangsweise den Wert provoziert.
+<!-- TODO: Ich verstehe, was ihr meint, aber könntet ihr diesen Zusammenhang nochmal klarer formulieren?
+Liegt das Problem nicht darin, dass von den Mitteln auf die Folge (der Wert) geschlossen wird?
+Schulen, Polizeipräsenz und das Gesundheitswesen sind nach Illich hinreichende, aber nicht notwendige Bedingungen für Lernen, Sicherheit und Gesundheit. -->
+Wir beziehen dies schließlich nicht nur auf bereits institutionalisierte Werte, sondern versuchen auch unsere persönlichen Werte von Standarts abzuleiten und den Wert unserer Persönlichkeit messen zu wollen.
 „In a schooled world the road to happiness is paved with a consumer's index“(P.??????).
-Diese Werte beginnen einen allgemein verbindlichen Charakter zu entwickeln, welche uns dazu verleiten, unser "Wissen" an die nächste Generation weitergeben zu wollen, und somit versuchen deren Lerneprozess ebenfalls zu kontrollieren. Wir gehen davon aus, das Urteil einer Person sollte entscheiden was, ein anderer Mensch wann lernt.
-Die einzige, mögliche Konsequenz auf diese Fehleinschätzungen ist Eskalation.
-Sobald die Schule uns beigebracht hat, dass Wissensvermittlung zwangsläufig neue Kenntnisse hervorruft, nur durch aktive Wissensvermittlung der notwendige Wissenshorizont erreicht werden kann, ist die uns logische erscheinende Antwort auf alle Bildungprobleme Eskalation im Bildungsprozess:
-Die Schule lehrt: Je mehr Schule, desto mehr Lernerfolg, weshalb wir zur Schule.
-Dennoch sagt Illich:
-"Most learning is not the result of instruction: It is rather the result of unhampered participation in a meaningful setting."
-
+<!-- FIXME: Seitenangabe (Tipp: Öffnet den Illich-Text im GoogleDrive-Ordner und sucht mit Strg + F nach dem Textabschnitt.) -->
+Diese Werte beginnen einen allgemein verbindlichen Charakter zu entwickeln, welche uns dazu verleiten, unser "Wissen" an die nächste Generation weitergeben zu wollen, und somit versuchen deren Lernprozesse ebenfalls zu kontrollieren. Wir gehen davon aus, das Urteil einer Person sollte entscheiden, was ein anderer Mensch wann lernt.
+Die einzige mögliche Konsequenz auf diese Fehleinschätzungen ist Eskalation.
+Sobald die Schule uns beigebracht hat, dass Wissensvermittlung zwangsläufig Lernen hervorruft und nur durch aktive Wissensvermittlung der notwendige Wissenshorizont erreicht werden kann, ist die uns logische erscheinende Antwort, auf alle Bildungprobleme mit Eskalation zu reagieren.
+Die Schule lehrt: Je mehr Schule, desto mehr Lernerfolg, weshalb wir zur Schule gehen.
+Im Gegensatz dazu schreibt Illich: "Most learning is not the result of instruction: It is rather the result of unhampered participation in a meaningful setting."
+<!-- FIXME: Seitenangabe -->
 
 ##### Illichs Zielen für die "educational revolution" sind:
 
 - Beschreibung von Illichs Vorschlägen
-<<<<<<< HEAD
 Illich unterscheidet zwischen vier Aspekten, die er für die Bildung eines Kindes als notwendig erachtet.
-Jedes Kind benötigt neben dem Kontakt zu anderen Gleichaltrigen auch Vorbilder, von denen es unbewusst Lernen kann (Sprechen, Laufen, etc.).
+Jedes Kind benötigt neben dem Kontakt zu anderen Gleichaltrigen auch Vorbilder, von denen es unbewusst lernen kann (Sprechen, Laufen, etc.).
 Zudem benötigt es bei komplexeren Sachverhalten professionelle Hilfe sowie Zugang zu Lernobjekten.
-Hierfür will er Netzwerke erstellen, in denen man Interessen formulieren und jeweils nach Gleichaltrigen, Hilfe, etc. suchen kann.
-All dies sollte auf freiwillger Basis geschehen.
+Hierfür will er Netzwerke erstellen, in denen man Interessen formulieren und jeweils nach Gleichaltrigen und Hilfsangeboten suchen kann.
+<!-- TODO: Ein Beispiel, z.B. Gitarre lernen, würde Illichs Vorschläge gut illustrieren. -->
+All dies sollte auf freiwilliger Basis geschehen.
 
 Illichs Ziele für die "educational revolution" sind:
 
@@ -40,8 +43,11 @@ Illichs Ziele für die "educational revolution" sind:
 2.-Das Teilen/Gemeinsame Nutzung von Fertigkeiten ermöglichen, indem man die Freiheit unterrichtet und man ihr ausübt damit es  bei Bedarf sicher gestellt wird.
 3.-Freisetzung der kritischen und kreativen Ressourcen der Menschen, indem jedem Einzelnen die Möglichkeit zurückgegeben wird, Versammlungen einzuberufen und abzuhalten.
 4.-Befreiung des Individuums von der Verpflichtung, seine Aussichten nach der gebotenen Aufgabe irgendeiner Berufung zu formen – indem ihm die Möglichkeit bereitet wird, sich die Erfahrung seiner Fachkollegen zu Nutze machen zu können und sich dem Lehrer, Leiter, Berater oder Heiler seiner Wahl anzuvertrauen.
+<!-- FIXME: Textbelege -->
 
-Ein weiteres, wichtiges Streben Illichs ist die Reduzierung der Komplexität unserer Umwelt, so dass sie wieder zugänglich für den Alltagsmenschen wird. Dazu könnten unter anderem die riesigen Summen an Geld verwendet werden, die man durch eine Abschaffung der Schulpflicht einsparen würde.
+Ein weiteres, wichtiges Streben Illichs ist die Reduzierung der Komplexität unserer Umwelt, so dass sie wieder zugänglich für den Alltagsmenschen wird.
+<!-- Ein Beispiel wäre nett, denke an Cedrics Vortrag mit der Autoreparatur.  -->
+Dazu könnten unter anderem die riesigen Summen an Geld verwendet werden, die man durch eine Abschaffung der Schulpflicht einsparen würde.
 
 - Beschreibung von Illichs Vorschlägen
 (#118, #117)
@@ -53,24 +59,26 @@ Ein weiteres, wichtiges Streben Illichs ist die Reduzierung der Komplexität uns
 vorläufige Ideen: (zu diskutieren)
   - Anforderungen erfüllen, nicht Probleme lösen
  - Dewey (geteilte Erfahrung, projektbezogenes Lernen; Austausch durch Lernnetzwerke (?));
- - Rousseau (Beruf Menschsein statt Spezailisierung);
- - (Benner (Interaktion zwischen Pädagogen und Lernendem - allgemein menschliche Interaktion);)
+ - Rousseau (Beruf Menschsein statt Spezialisierung);
+ - (Benner (Interaktion zwischen Pädagogen und Lernendem - allgemein menschliche Interaktion)
  - mead (Interaktion notwendig)
 
-Viele Elemente aus Illichs Lernkonzeptes erfüllen die Anforderungen, welche die in der Exposition behandelten Texte an den Prozess des Lernens stellen.
+<!-- TODO: Vielleicht auch SoWi-Texte? Mal Max ansprechen -->
+
+Viele Elemente aus Illichs Lernkonzept erfüllen die Anforderungen, welche die in der Exposition behandelten Texte an den Prozess des Lernens stellen.
 So müssen nach der Theorie des Konstruktivismus Lerninhalte "viabel", das heißt für das lernende Individuum funktional und bedeutend, sein.
 Da "das psychische System entscheidet, was es verarbeiten kann und will" (Siebert, S.18), ergibt sich die Forderung nach einem selbstbestimmten Lernen.
 Das Ziel aller Vorschläge Illichs ist es, den Lernenden "Zugang zu vorhandenen Möglichkeiten [zu] gewähren" (Illich, S.84) statt sie ihnen durch einen Lehrplan vorzuschreiben, welchen Wissensstand sie in welcher Zeit zu erreichen haben.
->>>>>>> origin/illich
+
 Jeder hat die Freiheit, eine Gelegenheit zum Lernen wahrzunehmen, oder sich dagegen zu entscheiden.
 Durch die so entstandene Auswahlmöglichkeit zwischen verschiedensten Lerninhalten wird gewährleistet, dass sich jedes Individuum dem beschäftigen kann, der für es am anschlussfähigsten ist.
+<!-- Die Verbindung zum Konstruktivismus ist auf jeden Fall gegeben -->
 
 Desweiteren geschieht Lernen in Illichs Modell oft in sozialen Kontexten.
 Beispielsweise findet es in "Fertigkeitsbörsen" statt.
-Dieser Vorgang lässt sich sehr gut mit dem Konzept des Hyperzyklus beschreiben, dessen Bedingung "wer etwas weiß oder kann, teilt es mit den anderen" (zimpel, S.123) durch diese Einrichtungen erfüllt wird.
+Dieser Vorgang lässt sich sehr gut mit dem Konzept des Hyperzyklus beschreiben, dessen Bedingung es ist, "wer etwas weiß oder kann, teilt es mit den anderen" (Zimpel, S.123), was durch Illichs Vorschläge erfüllt wird.
 Dadurch, dass nicht mehr wie vorher "das Grundrecht auf Mitteilung des eigenen Wissens in das Privileg akademischer Freiheit [verkehrt wird], das nur den in einer Schule Beschäftigten verliehen wird" (Illich, S.97), ist jeder dazu befähigt, andere an seinem Wissen teilhaben zu lassen, während er wiederum von den Fähigkeiten anderer profitieren kann.
-
-
+<!-- TODO: Fällt euch ein Beispiel ein, was z.B. vermeintlich Schwächere in einer Lernplattform für andere anbieten könnten? -->
 
 - darauf aufbauend: Illich als Lösungsvorschlag?
 Idee: Frage: Wie können unterschiedliche und unterschiedlich befähigte Menschen inhärent gleich berechtigt und persönlich autonom zusammenleben?
@@ -81,16 +89,19 @@ Lösung: Abschaffen der Bewertung von Fähigkeiten durch Zertifikate, die durch 
 - Verbindung zu Arbeiten mit Github
 (Github als Lernnetzwerk?)
 vorläufige Ideen:
-Ich würde das hier jetzt bearbeiten!!!!
-Illichs Beschreibung der learning webs decken sich grundsätzlich mit unserer Arbeit auf Github, angenommen, mehr Leute würden es nutzen und wir alle haben uns ganz frei dazu entschieden, genau an diesem Thema teilzunehmen, und sind jederzeit in der Lage unsere Arbeit zu verweigern- wenn wir wollten.
+
+Illichs Beschreibung der learning webs decken sich grundsätzlich mit unserer Arbeit auf Github, angenommen, mehr Leute würden es nutzen und wir alle haben uns ganz frei dazu entschieden, genau an diesem Thema teilzunehmen, und sind jederzeit in der Lage unsere Arbeit zu verweigern - wenn wir wollten.
+
 Angenommen PCs mit mindestens windows7 würden als Lernobjekt nach Illichs Definition gelten, hätte jeder Zugang zu diesem Programm.
-Zudem würde er die Einarbeitung in die Technik als sehr positiv betracchten, da es uns "zwingt" neue Sachverhalte zu verstehen, und uns dazu bringt mit neuen Themengebieten auseinanderzusetzen.
+Zudem würde er die Einarbeitung in die Technik als sehr positiv betrachten, da es uns dazu befähigt, neue Sachverhalte zu verstehen, und uns dazu bringt, uns mit neuen Themengebieten auseinanderzusetzen.
 Wichtig ist dabei, dass wir dieses Wissen als bedeutend für uns wahrnehmen, da es einen direkten Wirklichkeitsbezug hat.
-Illich würde auf jeden Fall der Issue- Organisation zustimmen, in welcher jeder seine eigenen Interessen kundtun kann, und auch an der Ausarbeitung bereits formulierten Interessen teilnehmen kann.
+Illich würde auf jeden Fall der Issue-Organisation zustimmen, in welcher jeder seine eigenen Interessen kundtun kann, und auch an der Ausarbeitung bereits formulierten Interessen teilnehmen kann.
 Wir arbeiten mit Gleichaltrigen, bzw. von ähnlichen Interessen Getriebenen, zusammen und können darauf Vertrauen, dass wir Einfluss auf das Endergebnis haben, und das wir in der Lage sind, unsere eigene Meinung so zu äußer, dass sie auch wahrgenommen wird.
-Dabei haben wir aber auch zu jedem Zeitpunkt die Möglichkeit, professionelle Hilfe zu bekommen, wobei diese uns nicht das eigentliche Wissen vermitteln, sondern ihnen lediglich eine beratende Stellung zukommt (Lob an Max und Verena an dieser Stelle!!), und uns vor allem in organisatorischen, bzw. technischen Fragen weiterhelfen.
+Dabei haben wir aber auch zu jedem Zeitpunkt die Möglichkeit, professionelle Hilfe zu bekommen, wobei diese uns nicht das eigentliche Wissen vermitteln, sondern ihnen lediglich eine beratende Stellung zukommt
+<!-- (Lob an Max und Verena an dieser Stelle!!) Habe es mal "unsichtbar" gemacht ;-) Danke!!! -->
+und uns vor allem in organisatorischen, bzw. technischen Fragen weiterhelfen.
 Als erster Kritikpnkt fällt natürlich die Vorauswahl der TNs ins Auge, jedoch stellen auch unter Negierung dieser Tatsache weitere Probleme in den Weg.
-Schränkte man unser Projekt allein auf die Ausarbeitung auf github ein, würde sich unser Kontakt ebenfalls wieder auf eine rein effizienzorientierte Ebene reduzieren und das eigentliche Indentifizierungsprozess mit der anderen Perönlichkeit gerät in den Hintergrund. 
+Schränkte man unser Projekt allein auf die Ausarbeitung auf github ein, würde sich unser Kontakt ebenfalls wieder auf eine rein effizienzorientierte Ebene reduzieren und das eigentliche Identifizierungsprozess mit der anderen Perönlichkeit gerät in den Hintergrund.
  - Peer-Aspekt (Kommentare auf Issues ->Diskussion),
  - Inhaltlich für *Projektarbeit*,
  - keine Bestimmung des Inhalts durch andere (Bsp: unser Kurs statt Programm schreiben);
