@@ -90,7 +90,7 @@ Illich würde auf jeden Fall der Issue- Organisation zustimmen, in welcher jeder
 Wir arbeiten mit Gleichaltrigen, bzw. von ähnlichen Interessen Getriebenen, zusammen und können darauf Vertrauen, dass wir Einfluss auf das Endergebnis haben, und das wir in der Lage sind, unsere eigene Meinung so zu äußer, dass sie auch wahrgenommen wird.
 Dabei haben wir aber auch zu jedem Zeitpunkt die Möglichkeit, professionelle Hilfe zu bekommen, wobei diese uns nicht das eigentliche Wissen vermitteln, sondern ihnen lediglich eine beratende Stellung zukommt (Lob an Max und Verena an dieser Stelle!!), und uns vor allem in organisatorischen, bzw. technischen Fragen weiterhelfen.
 Als erster Kritikpnkt fällt natürlich die Vorauswahl der TNs ins Auge, jedoch stellen auch unter Negierung dieser Tatsache weitere Probleme in den Weg.
-Schränkte man unser Projekt allein auf die Ausarbeitung auf github ein, würde sich unser Kontakt ebenfalls wieder auf eine rein effizienzorientierte Ebene reduzieren und das eigentliche Indentifizieren mit der anderen Perönlichkeit gerät in den Hintergrund. 
+Schränkte man unser Projekt allein auf die Ausarbeitung auf github ein, würde sich unser Kontakt ebenfalls wieder auf eine rein effizienzorientierte Ebene reduzieren und das eigentliche Indentifizierungsprozess mit der anderen Perönlichkeit gerät in den Hintergrund. 
  - Peer-Aspekt (Kommentare auf Issues ->Diskussion),
  - Inhaltlich für *Projektarbeit*,
  - keine Bestimmung des Inhalts durch andere (Bsp: unser Kurs statt Programm schreiben);
