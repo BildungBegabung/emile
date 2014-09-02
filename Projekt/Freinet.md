@@ -1,13 +1,12 @@
 # Freinet
 Zu S. 97-110
 
-## Was meint Freinet, wenn er schreibt: "Es geht darum, unser ganzes Erziehungssystem von der materiellen Basis her umzugestalten." (S. 99)?
-## Was verändert sich materiell im Vergleich zur "normalen, traditionellen Schule"?
+#### Was meint Freinet, wenn er schreibt: "Es geht darum, unser ganzes Erziehungssystem von der materiellen Basis her umzugestalten." (S. 99)? Was verändert sich materiell im Vergleich zur "normalen, traditionellen Schule"?
 Damit meint Freinet, dass es für eine erfolgreiche Anwendung seiner reformpädagogischen Ideen notwendig ist, gute und funktionstüchtige Werkzeuge zu haben.
 Wenn man nicht auf eine bestimmte Menge an Material zurückgreifen kann, so wären die Durchführung bestimmter Experimente gefährlich und "die Schüler würden infolge ihres technischen Unvermögens entmutigt" (S. 98).
 Weiterhin ist die richtige Organisation dieser Materialien notwendig um "disziplinarische Probleme einer klasse [zu lösen]" (S. 98)
 
-## Welche Möglichkeiten der A) Kooperation und B) individuellen Arbeit gibt es (für Schüler_innen und Lehrer_innen)?
+#### Welche Möglichkeiten der A) Kooperation und B) individuellen Arbeit gibt es (für Schüler_innen und Lehrer_innen)?
 Freinet ist der Meinung, das Verhältnis zwischen Lehrer und Schüler solle so ein wie das Verhältnis einer Mutter zu seinem Kind.
 Er sagt, ein Lehrer müsse seinen "Schülern das gleiche Vertrauen schenken können, das eine Mutter ihrem kleinen Kinde schenkt" (S. 105).
 Das beinhaltet ebenfalls absolute Ehrlichkeit dem Kinde gegenüber (vgl. S. 110)
@@ -18,7 +17,7 @@ Wichtig ist ebenfalls das empathische Auftreten des Lehrers.
 Zwar erkennt Freinet an, "dass es doch meistens nicht in ihrer Macht steht zu einer [...] liebevollen Begegnung mit dem Schüler zu gelangen" (S. 101), dennoch darf der Lehrer nicht drohen, schimpfen oder strafen (vgl. S. 103).
 Vielmehr gibt er "behutsam einige Hinweise" (S. 103).
 
-## Welche Möglichkeiten der Partizipation bieten sich ihnen?
+#### Welche Möglichkeiten der Partizipation bieten sich ihnen?
 Freinet räumt dem Kind einen großen Rahmen der Selbstbestimmung ein.
 Er ist der Auffassung, dass "zu einer Arbeit gezwungen zu werden [...] lähmt" (S. 495).
 Daher zeigt sich, dass die kindliche Partizipation nach Freinet ein entscheidener Teil der seiner diaktischen Konzeption ist.
@@ -30,6 +29,7 @@ Es ist also wichtiger, "dass das Kind seine Individualität entwickelt" (S. 105)
 ## Zu den Projektfragen:
 Projektfrage 1
 Es muss zunächst klar gestellt werden, dass es für Freinet unerheblich ist, inwiefern ein Problem von persönlicher Autonomie und inherenter Gleichwertigkeit gelöst wird. Er beschäftigt sich mit der didaktischen Konzeption von Schule und wie diese
+
 Vgl. Freinet-1964, S. 509-510
 
 Projektfrage 2
@@ -43,3 +43,8 @@ Diese Kriterien sind bei unserer Arbeit auf GitHub erfüllt:
 - Zugleich arbeiten wir kooperativ zusammen:  
 Durch die gegenseitige Kontrolle wird das Ergebnis besser, als es in Einzelarbeit wäre (Ernten von Positiv-Summen-Spiel-Erträge).
 - Und stellen uns in den Dienst der Gemeinschaft.
+Als Fazit lässt sich also sagen, dass Freinet unserem Sytem wahrscheinlich nicht abgeneigt wäre.
+
+Projektfrage 1
+Freinets Ansprüche sind in Projektfrage 2 dargestellt.
+Aber handelt es sich hierbei nicht doch eher um eine Präzesion der Frage als um eine Antwort?
