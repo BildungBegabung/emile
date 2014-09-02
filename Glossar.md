@@ -60,6 +60,7 @@ Beschreibt den Zustand, zwischen vielen verschiedenen Möglichkeiten beliebig w�
 ## Mutually exclusive:
 ## Comprehensively exhaustive:
 ## Viabilität:
+Begriffe sind dann viabel, wenn sie zu Beschreibungen passen, für die wir sie auch benutzen. Desweiteren sind Dinge viabel, wenn sich ein Individuum dafür interessiert bzw. lebensdienlich ist.
 ## Rekursivität:
 ## Reflexivität:
 ## System:
@@ -82,7 +83,6 @@ Pflichten, die ein Mensch von sich aus hat, also a priori
 Pragmatische Ethik
 ## Die Moral:
 Gesellschaftliche Konventionen des Verhaltens
-
 ## Deontologie:
 ## Konsequentialismus:
 ## Negative Freiheit:
