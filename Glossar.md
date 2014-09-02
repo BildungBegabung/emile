@@ -1,7 +1,6 @@
 # Fremdwörter und Definitionen
 ## Die Kooperation:
 Die Zusammenarbeit von zwei oder mehreren Parteien.
-
 ## Persönliche Autonomie:
 Die Fähigkeit des Menschen, sich selbst zu führen, ohne Hilfe oder Aufsicht von anderen.
 ## Inhärente Gleichheit:
@@ -21,9 +20,6 @@ Die Fähigkeit des Menschen, sich selbst zu führen, ohne Hilfe oder Aufsicht vo
 Die innewohnende Gleichwertigkeit einer Mehrzahl von Personen in einem bestimmten Merkmal, die von Geburt aus gleich sind.
 ## Die Institution:
 Eine soziale Struktur, die eine gewisse Stabilität hat. Im weiteren Sinne beschreiben Institutionen zum Beispiel auch Dinge wie "Klatschen" oder Hände schütteln zur Begrüßung.
-## Die Axiologie:
-## Die Ideologie:
-Alle Ansichten und Werte einer sozialen Gruppe, einer bestimmten Gesellschaft.
 ## Die Bildsamkeit:
 Fähigkeit der Menschen zu lernen und Bildung zu erwerben.
 ## Die Deontologie:
