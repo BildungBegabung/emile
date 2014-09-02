@@ -60,7 +60,7 @@ Gesellschaftliche Konventionen des Verhaltens
 ## Konsequentialismus:
 ## Negative Freiheit:
 ## Erziehungsideal:
-## Selbsttätigkeit:
+## Aufforderung zur Selbsttätigkeit:
 ## Deontologisch:
 Vom altgriechischen δέοντα; die Pflicht, die Bindung, Setzung, die keiner Begründung bedarf.
 ## Freiheit:
