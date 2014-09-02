@@ -29,6 +29,7 @@ In einer pluralisierten Gesellschaft ist somit ein pluralistisches Lernraster er
 
 Siebert selbst geht auf diese Frage wie folgt ein:
 >"Menschen als selbstgesteuerte *„Systeme“* können von der Umwelt nicht determiniert, sondern allenfalls **perturbiert**, das heißt, **„gestört“** und **angeregt** werden." (ebd. S.5)
+
 Der Mensch kann demzufolge durch Perturbationen (*(An)Reize*) zum (Um)Denken angeregt werden.
 Diese Möglichkeit der Perturbation kann der Lehrende zur Vermittlung von Wissen nutzen und damit gegebenenfalls neue Sichtweisen für den Lernenden eröffnen.
 
@@ -48,7 +49,7 @@ Um sich aus dieser aussichtlosen Lebensweise zu berfreien beginnt er bekannte Ge
 Die radikale Änderung seiner eigenen Wahrnehmung und Kommunikation verursachte eine vollkommene Abgrenzung von jeglichen gesellschaftlichen Verbindungen, die Bichsel wie folgt beschreibt:
 
 > "Viel schlimmer war, sie konnten ihn nicht mehr verstehen. Und deshalb sagte er nichts mehr. Er schwieg, sprach nur noch mit sich selbst, grüßte nicht einmal mehr."
-> [Bichsel], (Ein Tisch ist ein Tisch)
+> [Bichsel] (Ein Tisch ist ein Tisch)
 
 Der Verlust der Kooperation mit der Umwelt durch die Isolierung in der Subjektivität und damit auch die fehlende Beziehung mit Menschen, zeigt die Grenzen des radikalen Ansatzes der konstruktivistischen Theorie auf, denn sie iosliert den Menschen als geschlossenes *"System"*.
 Diese Tatasache impliziert ein Kooperationsproblem zwischen koexistierenden *"Lebensrealitäten"*, da jene *"Realitäten"* sich ausgehend vom Individuum unterscheiden.
