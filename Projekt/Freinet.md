@@ -20,6 +20,9 @@ Vielmehr gibt er "behutsam einige Hinweise" (S. 103).
 Freinet räumt dem Kind einen großen Rahmen der Selbstbestimmung ein.
 Er ist der Auffassung, dass "zu einer Arbeit gezwungen zu werden [...] lähmt" (S. 495).
 Daher zeigt sich, dass die kindliche Partizipation nach Freinet ein entscheidener Teil der seiner diaktischen Konzeption ist.
+Darüber hinaus sieht Freinet auch keine Notwendigkeit eines verallgemenernden Lehrplanes.
+Freinet ist sich sicher, "Was das Kind nicht heute lernt, nicht in dieser Woche, ja selbst nicht in diesem Jahre lernt, dass wird es sich später aneignen" (S. 105).
+Es ist also wichtiger, "dass das Kind seine Individualität entwickelt" (S. 105), als dass es spezielle Lerninhalte erfasst.
 
 
 Zu den Projektfragen:
