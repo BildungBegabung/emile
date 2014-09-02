@@ -1,14 +1,14 @@
-#Protokoll: Benner-2012
+# Protokoll: Benner-2012
 
 Benners Ausgangsfrage ist, mittels welches Konstrukts der Mensch seine Entscheidungen trifft.
 Er definiert dazu zwei große Extrema: Den **Determinismus und die transzendentale Freiheit**.
 Nach dem Determinismus ist das menschliche Verhalten grundsätzliche durch seine Umwelt oder seine Anlagen vorher bestimmt.
 Im Sinne der transzendentalen Freiheit kann der Mensch zu jedem Zeitpunkt vollkommen willkührlich über seine Handlungen und sein Schicksal entscheiden.
-Benner stimmt weder dem Einen, noch dem Anderen zu (vgl. S,71)
+Benner stimmt weder dem Einen, noch dem Anderen zu (vgl. S,71).
 Er ist der Auffassung, dass jeder Mensch **Bildsam** ist.
 Bei dieser Bildsamkeit handelt es sich nicht um einen Mittelweg zwischen diesen beiden Extremen, sondern um eine deontologische Annahme.
 Benner sagt:
-"Die Bildsamkeit eines Menschen anerkennen heißt ja **nicht einen Mittelweg** zwischen diesen Extremen [...] zu suchen" (S,72)
+*"Die Bildsamkeit eines Menschen anerkennen heißt ja nicht einen Mittelweg zwischen diesen Extremen [...] zu suchen"* (S,72)
 Benner gibt keine Gründe für die Bildsamkeit, sondern behauptet, sie liege grundsätzlich in der menschlichen Natur.
 Schließlich meint Bildsamkeit, dass jeder Mensch dazu fähig ist sich selbst zu bilden.
 Allerdings ist diese Bildsamkeit mehr ein Potenzial und muss daher zunächst Allen entlockt werden: Der Mensch muss zur Selbsttätigkeit aufgefordert werden.
@@ -32,4 +32,4 @@ Er tue dies, weil er in seiner Vergangenheit immer Strafe rechnen musste, wenn e
 Es ist nun notwendig, so Benner, ihm wieder Bildsamkeit und das eigene wünschen zu zeigen (vgl. 20)
 
 Dieser Ansatz definiert den Menschen grundsätzlich in seinem Potenzial, er wird also als etwas gesehen, was er nicht ist.
-Ein häufiger Kritikpunkt an Benner.
+Benner leitet daraus ab, dass Metakommunikation bzw. die aktive Reflektion des Zöglings über seine Gedankenprozesse entscheidend ist um das Potenzial der Bildsamkeit zu nutzen.
