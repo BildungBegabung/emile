@@ -97,7 +97,7 @@ Gesellschaftliche Konventionen des Verhaltens
 ## Identität:
 ## Freiheit:
 ## Deontologisch:
-(vom algriechischen δέοντα; die Pflicht, die Bindung) Setzung, die keiner Begründung bedarf.
+Vom altgriechischen δέοντα; die Pflicht, die Bindung, Setzung, die keiner Begründung bedarf.
 ## Konsequentialismus:
 ## Negative Freiheit:
 ## Individualität:
