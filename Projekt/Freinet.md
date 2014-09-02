@@ -19,8 +19,19 @@ Vielmehr gibt er "behutsam einige Hinweise" (S. 103).
 3)
 Freinet räumt dem Kind einen großen Rahmen der Selbstbestimmung ein.
 Er ist der Auffassung, dass "zu einer Arbeit gezwungen zu werden [...] lähmt" (S. 495).
-Daher zeigt sich, dass die kindliche Partizipation nach Freinet ein entscheidener Teil der seiner didaktischen Konzeption ist.
-Gleichsam sieht er auch in persönlicher Autonomie eine wichtige Grundlage.
-Darüber hinaus sieht Freinet auch keine Notwendigkeit eines verallgemenernden Lehrplanes.
-Freinet ist sich sicher, "Was das Kind nicht heute lernt, nicht in dieser Woche, ja selbst nicht in diesem Jahre lernt, dass wird es sich später aneignen" (S. 105).
-Es ist also wichtiger, "dass das Kind seine Individualität entwickelt" (S. 105), als dass es spezielle Lerninhalte erfasst.
+Daher zeigt sich, dass die kindliche Partizipation nach Freinet ein entscheidener Teil der seiner diaktischen Konzeption ist.
+
+
+Zu den Projektfragen:
+Vgl. Freinet-1964, S. 509-510
+Projektfrage 2
+> "Das Kind liebt nicht die Massenarbeit, bei welcher der Einzelne sich unterwerfen muß. Es liebt die Einzel- und Gruppenarbeit in einer kooperativen Gemeinschaft." (S. 509)
+Wenn alle das Gleiche bearbeiten, entsteht für viele der Schüler/DSA-Teilnehmer/... große Frustration.
+Für die einen geht es viel zu langsam, für die anderen viel zu schnell voran.
+>"Arbeit in der Gruppe [aber] bedeutet nicht zwangsläufig, daß jeder die gleiche Arbeit verrichtet. Der Einzelne muß dabei im Gegenteil ein Maximum von seiner Persönlichkeit bewahren, aber im Dienst der Gemeinschaft stehen." (S. 510)
+
+Diese Kriterien sind bei unserer Arbeit auf GitHub erfüllt:
+- Jeder arbeitet unabhängig und autonom in seiner Geschwindigkeit an selbstgewählten Themen (Vgl. S. 495 Wichtigkeit des Selberwählens aus gegebenen Alternativen).
+- Zugleich arbeiten wir kooperativ zusammen:  
+Durch die gegenseitige Kontrolle wird das Ergebnis besser, als es in Einzelarbeit wäre (Ernten von Positiv-Summen-Spiel-Erträge).
+- Und stellen uns in den Dienst der Gemeinschaft.
