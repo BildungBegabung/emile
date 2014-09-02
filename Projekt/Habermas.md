@@ -38,7 +38,7 @@ Es ist eine *manifestly strategic action*: Es geht nicht mehr um einen Gültigke
 
 Betrachtet man beide Fälle, stellt sich die Frage, ob ein Gewaltmonopol auch durch kommunikatives Handeln entstehen kann.
 
-Möglicherweise könnte man hier Dahl hinzuziehen, der 
+Möglicherweise könnte man hier Rousseau hinzuziehen, der 
 
 
 
