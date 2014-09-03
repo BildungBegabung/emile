@@ -21,8 +21,7 @@ Die individuelle Wahrnehmung wird von Viabilität und Rekursivität bestimmt, wo
 Geht man allerdings von der vollkommenen Subjektivität eines Individuums aus, so ist das, auf allgemeine Lernmethoden beruhende Schulsystem nicht in der Lage zu **lehren**.
 
 Demzufolge schlussfolgert Siebert, dass ein *"Bildungskanon"* (ebd. S.28) nicht der menschlichen Natur des Lernens entspricht.
-In einer pluralisierten Gesellschaft ist somit ein pluralistisches Lernraster erforderlich.
-<!-- TODO: VK Was meinst du mit Lernraster? Habe ich noch nicht gehört. -->
+In einer pluralisierten Gesellschaft ist eine *"Pluralisierung des Bildungsbegriffs angemessen"*.
 >In einer Gesellschaft die durch fortschreitende Individualisierung [...] gekennzeichnet ist, erscheint auch eine Pluralisierung des Bildungsbegriffs angemessen. (S.29)
 
 Wie Wissen am besten vermittelt wird und so der Lernerfolg maximiert werden kann, bleibt eine grundlegende Frage in der Schule - sowie der Lerntheorie.
@@ -31,23 +30,17 @@ Siebert selbst geht auf diese Frage wie folgt ein:
 >"Menschen als selbstgesteuerte *„Systeme“* können von der Umwelt nicht determiniert, sondern allenfalls **perturbiert**, das heißt, **„gestört“** und **angeregt** werden." (ebd. S.5)
 
 Beim Lernen werden vorhandene Assoziationsfelder aktiviert und verknüpft.
-Das Gehirn führt einen *„inneren Monolog“*, es kommuniziert mit sich selbst, sucht bestätigende Beispiele oder auch Widersprüche.
+Das Gehirn führt einen *„inneren Monolog“* (ebd. S.17), es kommuniziert mit sich selbst, sucht bestätigende Beispiele oder auch Widersprüche.
 <!-- FIXME: VK Textbeleg? -->
-Siebert beruft sich hier auf den Gehirnforscher *Wolf Singer*, der feststellte, dass 80% der kognitiven Aktivitäten beim Hören eines Vortrages dieser Innere Monolog waren.
+Siebert beruft sich hier auf den Gehirnforscher *Wolf Singer*, der feststellte, dass 80% der kognitiven Aktivitäten beim Hören eines Vortrages dieser Innere Monolog waren. (vgl. ebd. S. 17 f.)
 <!-- FIXME: VK Textbeleg? -->
 Was gelernt wird, hängt also weniger von den Informationsinputs als von der „individuellen kognitiv-emotionalen Vorstrukturund der psycho-physischen Befindlichkeit“ ab, also davon, welche Assoziationen oder Erinnerungen die Inputs hervorrufen (ebd. S. 18).
 Des Weiteren hängt die Auswahl der Informationen, also was und ob gelernt wird, laut Siebert von der direkten Relevanz der Informationen für das Individuum ab.
 Lernen ist also in erster Linie ein eigenwilliger und eigensinniger Prozess und dient primär der Selbsterhaltung (*Autopoiese* ~).
-Auf dieser Grundlage werden die Inputs gefiltert, das psychische *„System“* entscheidet selbst, was für das eigene Überleben wichtig ist und was nicht und entscheidet dementsprechend, was es verarbeitet.
-<!-- FIXME: VK Ausdruck überarbeiten -->
+Aufgrund dieser Autopoiese entscheidet der Mensch (*"das System"*) autonom über die Verarbeitung der Inputs.
 Der Mensch kann maximal durch Perturbationen (*(An)Reize*) zum (Um)Denken angeregt werden.
-Eine direkte Kontrolle des Lernstoffs ist demnach nicht möglich, aber der Lehrende kann durch gezielte Perturbationen gegebenenfalls neue Sichtweisen für den Lernenden eröffnen und diese somit zur Vermittlung von Wissen nutzen.
-<!-- FIXME: VK Verständlichkeit erhöhen -->
-Hierbei ist eine Parallele zu **Benner** denkbar, da durch seine (Benners) Aufforderung zur Selbsttätigkeit eine **mögliche Perturbation in Sieberts Sinne bestehen könnte.**
-<!-- TODO: Vielleicht nicht -->
+Diese Möglichkeit der Perturbation kann der Lehrende zur Vermittlung von Wissen nutzen und damit gegebenenfalls neue Sichtweisen für den Lernenden eröffnen.
 Die Perturbation kann sowohl auf lerntheoretischen Ansätze angewandt werden, als auch auf soziologische Problematiken übertragen werden.
-Beispielsweise geht der Konstruktivismus ontologisch von autonomen Individuen aus.
-<!-- FIXME: VK Würde ich weglassen -->
 Problematisch ist hierbei die vollkommene Isolierung des Einzelnen in der eigenen subjektiven Welt.
 Diese angesprochene Isolation, besonders im radikalen Konstruktivismus, ist besonders gut an der Geschichte von *Peter Bichsel* *"Ein Tisch ist ein Tisch"* veranschaulicht.
 Hierbei wird die Situation eines Mannes beschrieben, der in Unzufriedenheit lebt.
@@ -69,10 +62,6 @@ Diese Tatsache impliziert ein Kooperationsproblem zwischen koexistierenden *"Leb
 Sieberts Vorschlag der Perturbation impliziert einen Lösungsansatz für jenes Kooperationsproblem zwischen koexistierenden, voneinander isolierten *"Lebensrealitäten"*.
 Durch diese *"Störungen"* [Sprachmacht, Gesellschaftsmacht, Glaubensmacht [Siebert] (vgl. S.11)] kann eine allgemeingültige Leitkultur (**Makrosoziologie**) unter verschieden Individuen entstehen und eine gemeinsame Kooperationsgrundlage geschaffen werden.
 Der Mensch wird nach Siebert demzufolge auch *"[...] durch politischökonomischen Verhältnissen, die durch Macht, Hierarchien, Partizipatrordischancem Eigentum, Massenmedien und Ähnliches gekennzeichnet sind"*, (ebd.) beeinflusst.
-
-**Schule** kann in diesem Kontext als Bildung gemeinsamer Lebenswelt durch symmetrische Perturbation verstanden werden.
-Schule soll zum Beispiel durch einen Bildungskanon als möglichst "objektive" Instanz die individuellen subjektiven Realitäten annähern.
-<!-- FIXME: VK Siebert ist doch dagegen -->
 
 > "Die Grenze ist nicht eine räumlich Tatsache mit soziologischen Wirkungen, sondern eine soziologische Tatsache, die sich räumlich formt." [Georg Simmel]
 
