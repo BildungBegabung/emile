@@ -59,7 +59,6 @@ Dazu könnten unter anderem die riesigen Summen an Geld verwendet werden, die ma
 - Verbindungen zu anderen Texten -
 vorläufige Ideen: (zu diskutieren)
 
- - Dewey (geteilte Erfahrung, projektbezogenes Lernen; Austausch durch Lernnetzwerke (?));
  - Rousseau (Beruf Menschsein statt Spezialisierung);
  - (Benner (Interaktion zwischen Pädagogen und Lernendem - allgemein menschliche Interaktion)
  - mead (Interaktion notwendig)
@@ -104,7 +103,7 @@ Das impliziert die unterschiedliche Wertigkeit von Menschen und führt somit daz
 Illich schlägt nun vor, das Messen von Fähigkeiten stark einzuschränken und im Bezug auf den Zugang zu Bildungsmöglichkeiten ganz abzuschaffen.
 So entsteht ein Menschenbild, dass von der Gleichwertigkeit Aller ausgeht, während die beschriebenen Freiheiten und Wahlmöglichkeiten ein Maximum an persönlicher Autonomie ermöglichen.
 
-
+Hier fang ich an
 
 - Verbindung zu Arbeiten mit Github
 (Github als Lernnetzwerk?)
