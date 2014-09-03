@@ -1,21 +1,33 @@
 # Einführung
 
-Unser Kurs 'Schule der Demokratie" befasst sich mit zwei Wissenschaften, die wir mit einander zu verbinden versuchen:
+Unser Kurs "Schule der Demokratie" befasst sich mit zwei Wissenschaften, die wir mit einander zu verbinden versuchen:
 Deliberative Politik aus den Sozialwissenschaften und die Inklusive Paedagogik.
-Diesen Kurs in diesere Konstellation werden wir in keiner UNI vorfinden.
-Dabei muss uns staendig bewusst sein, dass wir keinen neutralen Kurs darstellen, denn allein schon durch die Auswahl der Texte findet eine Auslese statt und somit wird ein gefaerbtes Bild auf den Themenkomplex geworfen.
+Diesen Kurs in diesere Konstellation werden wir in keiner Universität vorfinden.
+<!-- TODO: MH strange Formulierung; so geht das nicht – interessiert ja keinen, das *wir* den Kurs so nirgends vorfinden werden – das muss allgemeiner formuliert werden, geeignet für einen neutralen Beobachter. -->
+Dabei muss uns ständig bewusst sein, dass wir keinen neutralen Kurs darstellen, denn allein schon durch die Auswahl der Texte findet eine Auslese statt und somit wird ein gefärbtes Bild auf den Themenkomplex geworfen.
+<!-- TODO: MH see above -->
 Die einzige Moeglichkeit hin zur Neutralitaet besteht darin, alternative Texte und Ansichten zu erwaehnen und die speziellen Ansichten der zu bearbeitenden Texte herauszuarbeiten.
-Wir betrachten unser Thema von einem onthologischen sowie von einem axiologischen Standpunkt aus, wobei beide Betrachtungsweisen nicht positiv, d.h. nicht empirisch ermittelbar sind. Die Onthologie betrachtet die Gegenstaende der sozialen Welt.
-Wenn wir uns Gedanken ueber unser Zusammenleben machen, stellt die Funktion und Organisation der Koorperation ein grundsaetzliches Problem der Sozialwissenschaften dar.
-Relativ selbst erklaerend ist die Tatsachen, dass Menschen in der Lage sind eine hoehere Produktivitaet zu erzielen, sobald sie sich spezialisieren und im Komplex agieren.
+<!-- TODO: MH Frage wäre ob sich nicht diese intellektuelle Fairness automatisch aus den Texten erkennen lässt; darauf hinzuweisen schriftlich ist irgendwie unelegant. -->
+Wir betrachten unser Thema von einem ontologischen sowie von einem axiologischen Standpunkt aus, wobei beide Betrachtungsweisen nicht positiv, d.h. nicht empirisch ermittelbar sind.
+Die Ontologie betrachtet die Gegenstände der sozialen Welt.
+<!-- TODO: MH genauer erklären, was bedeutet Ontologie jetzt bei uns? Was Axiologie?  -->
+Wenn wir uns Gedanken über unser Zusammenleben machen, stellt die Funktion und Organisation der Koorperation ein grundsätzliches Problem der Sozialwissenschaften dar.
+Relativ selbst erklärend ist die Tatsache, dass Menschen in der Lage sind eine höhere Produktivität zu erzielen, sobald sie sich spezialisieren und im Komplex agieren.
 Daraus geht die Grundlage des menschlichen Zusammenlebens hervor.
 Jedoch endet menschliches Zusammensein, in welchen jeder nur seine eigenen Interessen verfolgt, in Mord und Totschlag endet, das Extrem der Autonomie.
+<!-- TODO: MH warum ist dieser Satz hier?!? -->
 Damit jeder seine eigenen Ziele verfolgen kann, muessen Regeln bestehen, welche jedoch zwangsweise den Handlungsspielraum des Individuums einschraenken- ein Widerspruch in sich.
-Jede Form von Regel, die versucht gleiche Chancen fuer alle zu garantieren, zwaengt jedoch ein bestmmtes Ideal auf den Menschen, welcher sich in diesem Organisationsstatut befindet und ruft Ungleichheit bei denen hervor, die sich nicht durch das jeweilige Ideal vertreten sehen.
-Hieraus ergibt sich der grundsaetzliche Gegensatz, aber auch die gegenseitige Bedingtheit von persoenlicher Autonomie und inhaerenter Gleichheit.
+Jede Form von Regel, die versucht gleiche Chancen fuer alle zu garantieren, zwängt jedoch ein bestmmtes Ideal auf den Menschen, welcher sich in diesem Organisationsstatut befindet und ruft Ungleichheit bei denen hervor, die sich nicht durch das jeweilige Ideal vertreten sehen.
+Hieraus ergibt sich der grundsätzliche Gegensatz, aber auch die gegenseitige Bedingtheit von persönlicher Autonomie und inhärenter Gleichheit.
+<!-- TODO: MH erklären? -->
 Die beiden Attribute sind insofern wichtig, als dass sie klar stellen, dass es sich einerseits nicht um Klassenautonomie handelt, wie z.B. Vom marxistischen Weltbild angedeutet, und andererseits nicht um Gleichheit, die nicht nur bestimmte Leben mit einbezieht, welche sich etwa durch einen hohen IQ oder andere Fähigkeiten auszeichnen, sondern eine Gleichheit, die darauf zielt, jedem Lebewesen mit dem Genom des Homo sapiens gleiche Möglichkeiten in der Selbstverwirklichung bereitzustellen.
-Uns ist anscheinend keine natuerliche Antwort auf unsere Frage der Organisationsform gegebn, wie das z.B. Bei Bienen im Familienkomplex der Fall ist. Dieser "Natur der natuerlichen Undeterminiertheit" versuchen wir mit Institutionen zu begegnen, die gesellschaftliche Normen etablieren( The way things are done).
-Diese Erkenntnis der Gegensaetzlichkeit der Ontologie hat Ideologien hervorgerufen, welche die Axiologie untersucht auf einem Diagramm zu  veranschaulichen, in dem sie die verschieden Ansaetze abstrahiert. Dabei ist vor allem das Verhaeltnis -mathematisch gesehen das Steigungsdreieck auf dem Graphen, welcher die jeweilige Ideologie dartellt- wichtig.
-So sagt der Sozialismus, wenn wir nur ein bisschen Autonomie haben wollen, muessen wir im Vergleich viel mehr Gleichheit aufgeben. Die gegensaetzliche Anschauung wird durch den Pluralismus veranschaulicht. Demnach wird viel Autonomie gewonnen fuer nur wenig Gleichheit, bzw. um ein bisschen mehr Gleichheit zu erreichen, muss viel mehr Autonomie aufgegeben werden.
+Uns ist anscheinend keine natuerliche Antwort auf unsere Frage der Organisationsform gegeben, wie das z.B. Bei Bienen im Familienkomplex der Fall ist.
+Dieser "Natur der natuerlichen Undeterminiertheit" versuchen wir mit Institutionen zu begegnen, die gesellschaftliche Normen etablieren (The way things are done).
+Diese Erkenntnis der Gegensätzlichkeit der Ontologie hat Ideologien hervorgerufen, welche die Axiologie untersucht auf einem Diagramm zu  veranschaulichen, in dem sie die verschieden Ansaetze abstrahiert.
+Dabei ist vor allem das Verhaeltnis -mathematisch gesehen das Steigungsdreieck auf dem Graphen, welcher die jeweilige Ideologie dartellt- wichtig.
+So sagt der Sozialismus, wenn wir nur ein bisschen Autonomie haben wollen, muessen wir im Vergleich viel mehr Gleichheit aufgeben.
+Die gegensaetzliche Anschauung wird durch den Pluralismus veranschaulicht.
+Demnach wird viel Autonomie gewonnen fuer nur wenig Gleichheit, bzw. um ein bisschen mehr Gleichheit zu erreichen, muss viel mehr Autonomie aufgegeben werden.
 Somit haben wir die Grundfrage unseres Kurses hergeleitet, welche wir durch Paedagogik und Sozialwissenschaft zu beantworten zu versuchen, bzw. Ihre Unbeantwortbarkeit darstellen:
-Wie koennen unterschiedliche und unterschiedlich befaehigte Menschen inhaerent gleich und persoenlich autonom zusammen leben?
+Wie können unterschiedliche und unterschiedlich befaehigte Menschen inhärent gleich und persönlich autonom zusammen leben?
+<!-- TODO: MH Hier sollten evtl. die Abbildungen von Haus und/oder Autonomie/Gleichwertigkeit-Tradeoff eingefügt werden, evtl. dafür neu malen. -->
