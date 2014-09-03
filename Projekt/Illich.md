@@ -3,14 +3,16 @@
 #### Illichs Kritik an Schule
 (#114, #116 und aus Präsentation “Institutionalisierung-Problem”)
 
-
 In Illichs erster gesellschaftkritischer Schrift "Deschooling Society" (1971) hinterfragt Illich die Stellung und Aufgabenfelder der Schule.
 Er stellt sich nicht gegen deren inhaltliche und pädagogische Konzeption;
 vielmehr kritisiert Illich eine Institution, welche uns glauben lassen soll, wir könnten Wertevorstellungen wie Bildung, eine der ureigensten Eigenschaften des Menschen, bestimmen, analysieren und schließlich messen.
-Illich begreift die Schule als eine Art Paradigma für die Natur von lebensbestimmenden Institutionen, fordert deren Abschaffung und plädiert für eine Gesellschaft, die sich für freie, und nicht durch Pflichten wie Berufe und Schulanwesenheit provozierte, zwischenmenschliche Interaktion ausspricht.
+Illich begreift die Schule als eine Art Paradigma für die Natur von lebensbestimmenden Institutionen.
+Er fordert deren Abschaffung und plädiert für eine Gesellschaft, die sich für freie, und nicht durch Pflichten wie Berufe und Schulanwesenheit provozierte, zwischenmenschliche Interaktion ausspricht.
+<!-- VK: echt auch durch Berufe? -->
 
->"Many students, especially those who are poor, intuitively know what the schools do for them.
-They school them to confuse process and substance."(Illich- P.3)
+>"Many students, especially those who are poor, intuitively know what the schools do for them. They school them to confuse process and substance."(Illich- P.3)
+
+<!-- Tipp VK: Zitate dürfen trotz mehrerer Sätze nicht mit Absatz getrennt werden, schau mal mit shift-ctrl-P Markdown-Preview  -->
 
 Wir verwechseln Prozess und Wert, und werden so zu der Annahme verleitet, Lehren würde zwangsweise Lernerfolg bewirken.
 Diese Annahme lässt sich ebenso auf das Gesundheitssystem anwenden, welchem die Annahme vorrausgeht, medizinische Versorgung lasse sich mit Bekämpfung von Krankheiten gleichsetzen, oder auf Polizeipräsenz, welcher Sicherheit automatisch folgen sollte.
