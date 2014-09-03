@@ -45,7 +45,7 @@ Illichs Ziele für die "educational revolution" sind:
 4.-Befreiung des Individuums von der Verpflichtung, seine Aussichten nach der gebotenen Aufgabe irgendeiner Berufung zu formen – indem ihm die Möglichkeit bereitet wird, sich die Erfahrung seiner Fachkollegen zu Nutze machen zu können und sich dem Lehrer, Leiter, Berater oder Heiler seiner Wahl anzuvertrauen.
 <!-- FIXME: Textbelege -->
 
-Ein weiteres, wichtiges Streben Illichs ist die Reduzierung der Komplexität unserer Umwelt, so dass sie wieder zugänglich für den Alltagsmenschen wird.
+Ein weiteres, wichtiges Streben Illichs ist die Reduzierung der Komplexität unserer Umwelt, so dass sie wieder zugänglich für den Alltagsmenschen wird. Ein Beispiel dafür ist die Tatsache, dass wir heutzutage nicht mehr wissen, wie unsere Autos funktionieren, da es uns in der Schule nicht beigebracht wird. Nach Illichs Idealvorstellung sollte die Umwelt zugänglicher für die Menschen sein. So könnten wir selbst unsere Autos reparieren oder beispielsweise unsere Nachbarn um Hilfe bitten. Damit wäre auch die Interaktion zwischen Menschen verstärkt.
 <!-- Ein Beispiel wäre nett, denke an Cedrics Vortrag mit der Autoreparatur.  -->
 Dazu könnten unter anderem die riesigen Summen an Geld verwendet werden, die man durch eine Abschaffung der Schulpflicht einsparen würde.
 
