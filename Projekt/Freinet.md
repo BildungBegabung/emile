@@ -52,17 +52,18 @@ Wie diese Autonomie mit der inhärenter Gleichwertigkeit von Schülern und Lehre
 Er beschäftigt sich mit der didaktischen Konzeption von Schule und wie diese dem Edukanten hilft, seine Individualität auszubilden.
 Dafür müssen aber alle Schüler untereinander und zu den Lehrern inhärent gleichwertig sein (Vgl. ebd.), da ansonsten irgendeine Partei durch Autorität die Autonomie der anderen einschränkt (Vgl. ebd. S.492).
 
-
-### Projektfrage 2
+Wie sieht also ein solches System aus?
 > "Das Kind liebt nicht die Massenarbeit, bei welcher der Einzelne sich unterwerfen muß. Es liebt die Einzel- und Gruppenarbeit in einer kooperativen Gemeinschaft." (ebd. S. 509)
 
 Wenn alle das Gleiche bearbeiten, entsteht für viele der Schüler/DSA-Teilnehmer/... große Frustration.
 Für die einen geht es viel zu langsam, für die anderen viel zu schnell voran.
+
 >"Arbeit in der Gruppe [aber] bedeutet nicht zwangsläufig, daß jeder die gleiche Arbeit verrichtet. Der Einzelne muß dabei im Gegenteil ein Maximum von seiner Persönlichkeit bewahren, aber im Dienst der Gemeinschaft stehen." (S. ebd. 510)
 
-Diese Kriterien sind bei unserer Arbeit auf GitHub erfüllt:
+Wenn wir uns und unsere Arbeit nach diesen Kriterien messen, zeigt sich:
 - Jeder arbeitet unabhängig und autonom in seiner Geschwindigkeit an selbstgewählten Themen (Vgl. S. 495 Wichtigkeit des Selberwählens aus gegebenen Alternativen).
 - Zugleich arbeiten wir kooperativ zusammen:  
 Durch die gegenseitige Kontrolle wird das Ergebnis besser, als es in Einzelarbeit wäre (Ernten von Positiv-Summen-Spiel-Erträge).
 - Und stellen uns in den Dienst der Gemeinschaft.
+
 Als Fazit lässt sich also sagen, dass Freinet unserem Sytem wahrscheinlich nicht abgeneigt wäre.
