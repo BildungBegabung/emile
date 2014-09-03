@@ -51,8 +51,7 @@ im MECE-Prinzip.
 Besagt, dass ein Kriterium hinreichend ist, wenn es nur auf eine von zwei Möglichkeiten zutreffend ist.
 ### Nash Equilibrium:
 Eine Kombination von Strategien in nicht-kooperativen Spielen, wobei jeder Spieler genau eine Strategie wählt, von der aus es für keinen Spieler sinnvoll ist, von seiner gewählten Strategie abzuwenden.
-
-### Null-Summenspiel:
+### Nullsummenspiel:
 Situationen in der Spieltheorie bei denen die Summe der Gewinne und Verluste aller Spieler zusammengenommen gleich null ist.
 ### Paretoprinzip:
 Beziehungsweise Unanimity ist nach dem Sozialwahlprinzip ein Kriterium, das laut Arrow bei einer Wahl erfüllt werden muss:
@@ -66,8 +65,8 @@ Die Wissenschaft des menschlichen Verhaltens.
 Teil des Sprechaktes, der eine Wirkung beim Hörer erzielt.
 ### Persönliche Autonomie:
 Die Fähigkeit des Menschen, sich selbst zu führen, ohne Hilfe oder Aufsicht von anderen.
-### Positiv-Summenspiel:
-
+### Positivsummenspiel:
+Situationen in der Spieltheorie bei denen die Summe der Gewinne und Verluste aller Spieler sich unterscheiden oder bei denen es keinen Gewinn oder Verlust gibt.
 ### Rekursivität:
 Bedeutet sich auf Erfahrungen zurückzubeziehen.
 ### Aufforderung zur Selbsttätigkeit:
