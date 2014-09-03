@@ -14,7 +14,7 @@ Bei einer Wahl muss die Stimme eines Individuums genauso viel Wert besitzen, wie
 ## Enlightened understanding:
 stammt aus der Theorie Dahls und heißt übersetzt: "aufgeklärtes Verständnis"
 ## Equal voting:
-## Erziehungsideal:
+Jede Stimme eines Individuums zählt genauso viel wie die eines anderen Individuums.
 ## Ethik/pragmatische Ethik:
 Pflichten, die ein Mensch von sich aus hat, also a priori
 ## Fortschritt:
@@ -33,7 +33,7 @@ Eine soziale Struktur, die eine gewisse Stabilität hat. Im weiteren Sinne besch
 Beschreibt den Abschnitt unter dem Graph in der Produktionsmöglichkeitenkurve.
 ## Interaktion:
 wechselseitige Beziehung, aufeinander bezogenes Handeln, gegenseitige Beeinflussung.
-## intersubjektiv:
+## Intersubjektiv:
 mehreren Personen gleichermaßen zugänglich.
 ## Konsequentialismus:
 Handeln ist gut, wenn das Ergebnis gut ist.
@@ -58,9 +58,8 @@ Wenn alle Teilnehmer an einer Wahl in ihrer individuellen Rangliste eine Alterna
 Allgemein kann man einen Prozess als eine Pareto-Verbesserung bezeichnen, wenn nach einer Veränderung alle Beteiligten besser oder zumindest gleich gut gestellt sind.
 ## Pädagogik:
 Die Wissenschaft, die sich mit dem Unterrichten und Erziehen beschäftigt:
-## Behaviorismus
-## Kognitivismus
-## perlokutiv:
+## Behaviorismus:
+## Perlokutiv:
 Teil des Sprechaktes, der eine Wirkung beim Hörer erzielt.
 ## Persönliche Autonomie:
 Die Fähigkeit des Menschen, sich selbst zu führen, ohne Hilfe oder Aufsicht von anderen.
