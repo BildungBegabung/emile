@@ -110,11 +110,13 @@ Das mag möglicherweise Grund für ein sehr unbeschwertes Bild einer *freien* Or
 
 
 >"The child grows up in a world, surrounded by people who serve as models for skills and values (...), peers (...) to coorporate and understand, and if he is lucky, he is exposed to criticism by an experienced elders who really cares."
+
 Jedem Menschen, so Illich, sollte der Zugang zu diesen "Ressourcen" gewährleistet sein für eine freie Entfaltung. Dies trifft sich mit Benner, der auch sehr klar die Notwendigkeit einer Bezugs- und erziehenden Persönlichkeit formuliert.
 Nach Benner benötgt der Zögling den Beistand eines Älteren, der ihn in seinem Reifungsprozess fördert bis dieser in der Lage ist, selbsttätig zu handeln.
 Dieses Ziel kann nur durch permanente Aufforderungen erreicht werden.
 Allerdings darf diese Einwirkung nur stattfinden, solange sie nötig ist:
 >"Im Sinne dieser Dialektik ist pädagogisches Handeln nur dort erlaubt, wo der Zu-Erziehende der Fremdaufforderung zur Selbsttätigkeit bedarf, und muss Erziehung stets don an ihr Ende gekommen sein, wo pädagogische Fremdaufforderung zur Selbsttätigkeit in Selbstaufforderung übergehen kann."
+
 So überschreitet die Schule die Grenzen der Pädagogik, da sie den Heranwachsenden auch noch dann versucht zu erziehen, wenn er schon in der Lage ist, selbsttätig zu handeln.
 Indem Benner keine weiteren Angaben dazu macht, ab welchem Alter dies in der Regel zutrifft,, macht er deutlich, dass eine allgemeine Einstufung von Kindern als unselbstständig, wie sie in der Schule geschieht, nicht angemessen ist, da es einerseits Schüler gibt, die sehr früh unabhängig in ihren Entscheidungen sind, andererseits auch viele Erwachsene, die wieder der Pädagogik bedürfen.
 Genauso beschreibt Illich Kindheit als eine moderne Erfindung und behauptet, einem Kind wurde bis zur Postmoderne moralisches Urteilsvermögen mit 7 Jahren zugeschrieben.
