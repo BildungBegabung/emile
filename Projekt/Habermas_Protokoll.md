@@ -29,14 +29,18 @@ Denn mit jedem Sprechakt wird automatisch ein Gültigkeitsanspruch aufgestellt u
 
 
 Durch diese Nötigkeit der Kooperation entstehen allerdings auch Konflikte, weshalb sich Habermas im weiteren Textverlauf fast ausschließlich mit den sozialen Handlungen befasst.
+Seine Sprachakttheorie lehnt er hierbei an die des amerikanischen Philosophen John Rogers Searle und seines britischen Kollegen John Langshaw Austin an.
+Allerdings grenzt er sich von der Vorstellung ab, die Gültigkeitsansprüche, die mit jedem Sprechakt aufgestellt weren, würden nur aus der Aussagenlogik betstehen, sondern sieht diese nur als einen Teil der Gültigkeitsansprüche, die an Sprechakte gestellt werden müssen.
 Hier differenziert er zwischen strategischem und kommunikativem Handeln, wobei er Letzteres für erstrebenswert hält.
 Zwar steht für Habermas grundsätzlich hinter jeder Handlung ein "action plan", ist jede Handlung in irgendeiner Form mit einem Ziel verbunden.
 Allerdings geht er auch davon aus, dass für eine erfolgreiche Kommunikation die Beilegung dieses "action plans" nötig ist, um ausschließlich illokutive Ziele zu verfolgen.
 Wird dies nicht getan, spricht Habermas von strategischem Handeln, das *perlokutive* Ziele in den Vordergrund stellt.
 Dabei gibt es wiederum zwei Arten von strategischem Handeln:
-Latent strategisches Handeln und manifestly strategic Handeln.
+Latent strategisches Handeln und manifest strategisches Handeln.
 
 Das latent strategische Handeln zeichnet sich dadurch aus, dass der Sprechende zwar vorgibt illokutive Ziele zu verfolgen und einen  anzweifelbaren Gültigkeitsanspruch aufzustellen, in Wirklichkeit aber perlokutive Ziele im Blick hat und somit von einer Kausalität ausgeht, die sein Gegenüber als Mittel zum Zweck missbraucht.
-Das manifestly stratgische Handeln schließt eine Orientierung an Gültigkeitsansprüchen von vorneherein aus und ersetzt diese durch Machtansprüche. Ein klassisches Beispiel dessen, das Habermas in seinem Text anführt, ist das eines Bankräubers, der "Hände hoch!" ruft, während er eine Pistole auf den Kassierer richtet, dem er befiehlt ihm Geld zu geben (vgl. S.225).
+Das manifest stratgische Handeln schließt eine Orientierung an Gültigkeitsansprüchen von vorneherein aus und ersetzt diese durch Machtansprüche. Ein klassisches Beispiel dessen, das Habermas in seinem Text anführt, ist das eines Bankräubers, der "Hände hoch!" ruft, während er eine Pistole auf den Kassierer richtet, dem er befiehlt ihm Geld zu geben (vgl. S.225).
+
 In einer solchen Situation sind die Bedingungen der normativen Gültigkeit außer Kraft gesetzt und werden durch Sanktionsbedingungen ersetzt.
 In beiden Fällen des strategischen Handelns spricht Habermas nicht von Verständigung, diese ist als solche nur möglich in Form des kommunikativen Handlens in einer intersubjektiv geteilten Lebenswelt, bei der beide Parteien uneingeschränkt das Ziel der Verständigung haben.
+Er geht davon aus, dass strategische Handlungen in Systemen und kommunikatives Handeln in intersubjektiven Lebenswelten stattfinden und kritisiert hier, die Kolonialisierung der Lebenswelten durch das System durch die Instutionalisierung der Gesellschaft.
