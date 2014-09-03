@@ -14,3 +14,8 @@ Innerhalb der Struktur des Graphs kann es Besonderheiten, wie z.B. **Components*
 <!-- FIXME: Ludwig Fragen über Richtigkeit-->
 
 ### Schlussfolgerungen
+
+Aus dieser Ausgangssituation kann man je nach Betrachtungsweise verschiedene Schlussfolgerungen ziehen.
+
+Beispielsweise kann man den Informationsfluss in Netzwerken analysieren.
+ <!-- TODO: Plakat anschauen, einfügen -->
