@@ -8,9 +8,14 @@ Wenn man nicht auf eine bestimmte Menge an Material zurückgreifen kann, so wär
 Weiterhin ist die richtige Organisation dieser Materialien notwendig um "disziplinarische Probleme einer Klasse [zu lösen]" (ebd. S. 98)
 Erst in einer gut ausgestatteten Schule kann man sich also an die Umsetzuung der Ideen wagen.
 
-Hierbei ist die intersubjektive Beziehung Lehrer-Schüler von enormer Bedeutung.
+Diese Ideen hält Freinet in sogenannten Invarianten fest.
+Invarianten sind unveränderliche Wahrheiten. (Vgl. Freinet-1964 S. 488)
+Das spricht für einen normativen Status des Textes.
+Jedoch ist Freinet eigentlich ein Empiriker mit viel Schulerfahrung.
+
+Daher weiß er um die enorme Bedeutung der intersubjektiven Beziehung Lehrer-Schüler.
 Freinet ist der Meinung, das Verhältnis zwischen Lehrer und Schüler solle so sein wie das Verhältnis einer Mutter zu ihrem Kind.
-Er sagt, ein Lehrer müsse seinen "Schülern das gleiche Vertrauen schenken können, das eine Mutter ihrem kleinen Kinde schenkt" (ebd. S. 105).
+Er sagt, ein Lehrer müsse seinen "Schülern das gleiche Vertrauen schenken können, das eine Mutter ihrem kleinen Kinde schenkt" (Freinet-1946 S. 105).
 Das beinhaltet ebenfalls absolute Ehrlichkeit dem Kinde gegenüber (vgl. ebd. S. 110)
 Darüberhinaus ist Freinet davon überzeugt, dass Kinder am besten ganz individuell auf ihre eigene Art und Weise lernen.
 Für Freinet ist "die ständige Anwesenheit des Lehrers nirgendwo erforderlich" (ebd. S. 105), wovon sich ableiten lässt, dass der Lehrer nur beratend und unterstützend wirken darf und soll.
