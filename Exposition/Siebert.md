@@ -24,7 +24,8 @@ Demzufolge schlussfolgert Siebert, dass ein *"Bildungskanon"* (ebd. S.28) nicht 
 In einer pluralisierten Gesellschaft ist somit ein pluralistisches Lernraster erforderlich.
 >In einer Gesellschaft die durch fortschreitende Individualisierung [...] gekennzeichnet ist, erscheint auch eine Pluralisierung des Bildungsbegriffs angemessen. (S.29)
 
--Die Frage nach der bestmöglichen Vermittlung und damit auch dem Lernerfolg des Lernenden bleibt eine grundlegende Frage in der Schul - sowie Lerntheorie.
+-Wie Wissen am besten vermittelt wird und so der Lernerfolg maximiert werden kann, bleibt eine grundlegende Frage in der Schule - sowie der Lerntheorie.
+<!--Ce: Ich hoffe das geht klar, vorher war "Die frage" nur doppelt gemoppelt  -->
 
 Siebert selbst geht auf diese Frage wie folgt ein:
 >"Menschen als selbstgesteuerte *„Systeme“* können von der Umwelt nicht determiniert, sondern allenfalls **perturbiert**, das heißt, **„gestört“** und **angeregt** werden." (ebd. S.5)
@@ -41,6 +42,7 @@ Beim Lernen werden vorhandene Assoziationsfelder aktiviert und verknüpft, das G
 
 Der Mensch kann demzufolge durch Perturbationen (*(An)Reize*) zum (Um)Denken angeregt werden.
 Diese Möglichkeit der Perturbation kann der Lehrende zur Vermittlung von Wissen nutzen und damit gegebenenfalls neue Sichtweisen für den Lernenden eröffnen.
+<!-- Eine direkte Kontrolle des Lernstoffs ist demnach natürlich nicht möglich, aber der Lehrende kann durch gezielte Perturbationen gegebenenfalls neue Sichtweisen für den Lernenden eröffnen und diese somit zur Vermittlung von Wissen nutzen. -->
 
 Hierbei ist eine Parallele zu **Benner** denkbar, da durch seine (Benners) Aufforderung zur Selbsttätigkeit eine **mögliche Perturbation in Sieberts Sinne bestehen könnte.**
 
