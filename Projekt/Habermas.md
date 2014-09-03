@@ -7,9 +7,6 @@
 <!-- TODO: Umsetzbarkeit/In github -->
 <!-- TODO: klären, ob das Publikum einen Plan hat -->
 
-
-**HI Ludewig, ich habe alles eingetragen!** :D
-
 Verbindungen:
 - Konstruktivismus (intersubjectively exchanged lifeworlds)
 - Sprache ist rekursiv? Sprache ist Mittel zur Verständigung, ist Sprache, ist MIttel zur Verständigung....
@@ -19,6 +16,9 @@ Vgl. Mead symbolischen Interaktionismus
 - Dewey auch Pragmatist (Habermas sieht sprache immer im Bezug zur Umwelt)
 - **Benner** Bildsamkeit -> man hat die Fähigkeit zur Selbstbestimmung, soll man selbstbestimmung gelehrt bekommen, kann das nur über kommunikatives Handeln geschehen, weil durch strategisches Handeln uneigethunne Meinungen geförtert werden. Heini soll kommunikativ sein!
 - **Zimpel** Heini muss gholfen werden ABER wo ist da die Verbindung?? Ist helfen kommunikation (beidseitig) oder action (einseitig?)
+- **Sozialwahltheorie** - single-peakedness durch kommunikatives Handeln erreichen, einigung über allgemeine Optimumordung, besseres Wahlverhalten, prävention einer diktatur über wahlverhalten
+- **Dahl** enlightend understaning, ist nicht soo wichtig (da Dahl liberal) ; Control of the Agenda -> durch kommunikation erreichbar -> strategisches handeln = manipulation; liberale sprechen über freiheit als negativen Begriff, hat das Folgen?? Wie androhung von Gewalt
+
 
 ## Habermas - Tilly : Gewaltandrohung als Strategisches Haneln
 
@@ -71,18 +71,9 @@ Leider sind nicht alle in dem geichen großen custer, es gibt Randgruppen die wa
 
 ## Habermas - Spieltheorie : Menschen als kausale Objekte
 
-Möglicherweise ist die spieltheoretische Betrachtung für Habermas nicht immer angebracht, da sie davon ausgeht, dass Spieler immer nur  Strategien und nicht die andern Spieler an sich betrachten.
-Damit degradieren sie ihr Gegenüber als Objekt und teil der Umwelt mit dem sie kausal interagieren können.
-Die Spieltheorie modelliert menschliches Handeln als kausale, vorhersagbare Ereignissketten, ist diese Handlung für Habermas *purposive*.
-
- und noc nicht mal einen Sprechakt, sondern eine *purposive* action durchführen, indem sie den Spieler als teil der Objetiven Umwelt und kausal herleibar ansehen.
-vielleicht gilt dass auber auch nur für systeme und in einem kleinen Umfeld wie zB der dsa ist kommunikativesHaneln möglich und das Gefangennendilemma erreicht sein WOhlfahrtsoptimum?
-positive summenerträge tatsächlich kooperation
-
-
-Kontrast Dahl...
-----
-- **Spieltheorie** - positive Summenerträge entstehen nur durch Kooperation/Kommunikation. Gefangenenendilemma: das soziale wWohlfahrtsoptimum durch kommunikatives Handeln erreichen (eindeutig unterschwellige Eigeninteressen vermeiden). in der Spieltheorie betrachtet man die Strategien der anderen Spieler, also sind die Spieler Objekte, -> purposive action?
-
-- **Sozialwahltheorie** - single-peakedness durch kommunikatives Handeln erreichen, einigung über allgemeine Optimumordung, besseres Wahlverhalten, prävention einer diktatur über wahlverhalten
-- **Dahl** enlightend understaning, ist nicht soo wichtig (da Dahl liberal) ; Control of the Agenda -> durch kommunikation erreichbar -> strategisches handeln = manipulation; liberale sprechen über freiheit als negativen Begriff, hat das Folgen?? Wie androhung von Gewalt
+Möglicherweise ist die spieltheoretische Modellierung von Handlungen aus Habermas Sicht nicht immer angebracht, da sie davon ausgeht, dass Spieler immer nur  Strategien und nicht die andern Spieler als Mensch betrachten.
+Damit degradieren sie ihr Gegenüber zum Objekt und dadurch zu einem Teil der Umwelt mit dem sie kausal interagieren können.
+Die Spieltheorie modelliert menschliches Handeln als kausale, vorhersagbare Ereignissketten, daher sind alle Handlungen in der Spieltheorie für Habermas *purposive*.
+Es ist darum möglich zu überlegen, wie sich Spielverhalten ändern würde, wenn Spiele in kommunikativem Umfeld stattfinden.
+Ein Gefangenendilemma könnte dann möglicherweise auf ein soziales Wohlfahrtsoptimum hinauslaufen, wenn die Spieler Verständigung über die für beide beste Lösung erreichen.
+Kommunikatives Handeln, also effektive Kooperation scheint also tatsächlich auf Positivsummenerträge hinauszulaufen.
