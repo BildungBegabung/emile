@@ -41,16 +41,20 @@ Es ist eine *manifestly strategic action*: Es geht nicht mehr um einen Gültigke
 
 Betrachtet man beide Fälle, stellt sich die Frage, ob ein Gewaltmonopol auch durch kommunikatives Handeln entstehen kann.
 
-Möglicherweise könnte man hier Dewey hinzuziehen, der davon ausgeht, dass ein demokratischer Staat durch eine Vielfalt von Idealen und den Austausch von Ideen bereichert und durch den so entstehenden ständigen Fortschritt immerhin weiterentwickelt wird.
-
 John Dewey ist wie Habermas ein Vertreter des Pragmatismus.
 Nach Deweys Ansicht gibt es ein dynamisches, wandelbares Ideal, abhängig von der jeweiligen Gesellschaft.
 Dewey beurteilt Gesellschaften dabei einerseits nach dem gemeinsam geteilten Konsens sowie den  Austausch mit anderen Gesellschaften.
+So sollte sich ein demokratischer Staat durch eine Vielfalt von Idealen und den Austausch von Ideen und den so entstehenden Fortschritt auszeichnen.
 Dieser Austausch ist nur durch kommunikatives Handeln möglich, da die verschiedenen Parteien aufeinander eingehen und sich verständigen müssen.
-Die pragmatistische Ansicht des wnadelbaren Ideals ist nur durch kommunikatives Handeln realisierbar, da sie eine Selbstreflektion und ein Bewusstsein der eigenen Unfehlbarkeit voraussetzt, somit offen für Einflüsse und Austausch mit anderen ist.
+Die pragmatistische Ansicht des wandelbaren Ideals ist nur durch kommunikatives Handeln realisierbar, da sie eine Selbstreflektion und ein Bewusstsein der eigenen Unfehlbarkeit voraussetzt, somit offen für Einflüsse und Austausch mit anderen ist.
 Ein Fortschritt im pragmatistischen Sinne wäre dementsprechend nur durch Kommunikation möglich.
 
-<!-- TODO: System/Lifeworld + legale Sklaverei -->
+Des weiteren kritisiert Dewey die **legale Sklaverei**.
+Damit bezieht er sich auf ein Arbeitsverhältnis innerhalb eines 2-Klassen-Gesellschaft, bei dem der Arbeiter seine Arbeit lediglich aus reiner Routine tut, ohne sich dessen Bedeutung für sich selbst und für die Gesellschaft bewusst zu sein.
+Eine Kommunikation zwischen Arbeiter und Arbeitgeber ist nicht vorhanden.
+Dazu passend steht Habermas' Konzept von System und **lifeworlds**(Lebenswelten)
+Nach Habermas würde bei der legalen Sklaverei nur in einem System kommuniziert werden, es handelt sich nur um strategische Handlungen, eine Verständigung ist nicht beabsichtigt, vielmehr würde der Arbeiter durch den Arbeitgeber manipuliert, sei es durch latente oder manipulative Strategien.
+
 
 ## Habermas - Rousseau : Verträge durch Kommunikatives Handeln
 
