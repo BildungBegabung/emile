@@ -21,6 +21,7 @@ Vgl. Mead symbolischen Interaktionismus
 - **Zimpel** Heini muss gholfen werden ABER wo ist da die Verbindung?? Ist helfen kommunikation (beidseitig) oder action (einseitig?)
 
 ## Habermas - Tilly : Gewaltandrohung als Strategisches Haneln
+
 Laut **Charles Tilly** ist die Geschichte der Staatenbildung eine Geschichte der Gewaltmonopole.
 Die Art und Weise, auf die diese gebildet werden, lässt sich ansatzweise durch Habermas Konzept der *strategic speech acts* modellieren.
 Gewaltmonopole können durch Gruppen von racketters unterschiedlich erreicht werden.
@@ -70,7 +71,11 @@ Leider sind nicht alle in dem geichen großen custer, es gibt Randgruppen die wa
 
 ## Habermas - Spieltheorie : Menschen als kausale Objekte
 
-Möglicherweise ist die Spieltheoretische Betrachtung aber auch unangebracht in einer Demokratie, da sie davon ausgeht, dass Spieler immer nur die strategien des anr anderen Spieler betrachten und damit ihr Gegenüber als Objekt degradieren und noc nicht mal einen Sprechakt, sondern eine *purposive* action durchführen, indem sie den Spieler als teil der Objetiven Umwelt und kausal herleibar ansehen.
+Möglicherweise ist die spieltheoretische Betrachtung für Habermas nicht immer angebracht, da sie davon ausgeht, dass Spieler immer nur  Strategien und nicht die andern Spieler an sich betrachten.
+Damit degradieren sie ihr Gegenüber als Objekt und teil der Umwelt mit dem sie kausal interagieren können.
+Die Spieltheorie modelliert menschliches Handeln als kausale, vorhersagbare Ereignissketten, ist diese Handlung für Habermas *purposive*.
+
+ und noc nicht mal einen Sprechakt, sondern eine *purposive* action durchführen, indem sie den Spieler als teil der Objetiven Umwelt und kausal herleibar ansehen.
 vielleicht gilt dass auber auch nur für systeme und in einem kleinen Umfeld wie zB der dsa ist kommunikativesHaneln möglich und das Gefangennendilemma erreicht sein WOhlfahrtsoptimum?
 positive summenerträge tatsächlich kooperation
 
