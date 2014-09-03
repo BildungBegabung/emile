@@ -4,13 +4,20 @@ Meads Text wurde 1934 veröffentlicht unter dem Namen "Symbolischer Interaktioni
 Symbolisch heißt soviel wie bildhaft oder sprachlich und Interaktionismus ist die Kommunikation zwischen Individuengruppen.
 Zusammengefasst heißt das also, dass Mead sich mit der sprachlichen, bildlichen Beziehung zwischen Menschen beschäftigt.
 Daraus lassen sich sowohl soziologische als auch pädagogische Rückschlüsse ziehen.
+
 Das Rückrad Meads, auf das sich seine ganze Theorie stützt, besteht aus den Komponenten "I", "Me" und "Self".
 <!-- TODO: umgangssprachl. -->
-Dabei werden Wünsche und Ziele durch das "I" ausgedrückt, kurz der Egoismus eines Individuums.
+Dabei werden Wünsche und Ziele bzw. sinnliche und körperliche Bedürfnisse durch das "I" ausgedrückt, kurz der Egoismus eines Individuums.
+Das "I" wird auch impulsives Ich genannt, da es immer Neues und Schöpferisches in jede Situation bringt.
 <!-- TODO: Würde den Begriff Triebe vermeiden, da er zu sehr an Freud erinnert. -->
 Das "Me" steht dem gegenüber und ist die Vorstellung eines Menschen, wie er von der Außenwelt betrachtet wird.
+Es ist somit das reflektierte Ich.
+Des Weiteren ist das "Me" ständig in Bewegung, weil immer neue Ansichten, wie jemand von der Gesellschaft gesehen wird, im Verlauf des Lebens hinzukommen.
+Die Bildung des "Me" ist also nie wirklich abgeschlossen.
 Aufgrund dessen, dass das "Me" die Moralität beinhaltet und den Pluralismus der Gesellschaft umfasst, ist es der ständige Gegenspieler des "I".
 Der dritte Komponent ist die Entscheidungskraft, beziehungsweise das Ergebnis aus den ersten beiden Komponenten, das "Self".
+Dieses ist quasi die Identität, welche aus der ständigen Vermittlung zwischen "I" und "Me" entsteht.
+Eine gelungene Identität ist erreicht, wenn "I" und "Me" in einer gleichgewichtigen Spannung zueinander stehen.
 Wichtig sind diese Komponenten für die Selbstreflexion eines Individuums, auch looking-glass-effect gennant.
 Dieser Spiegelbildeffekt hilft dem Menschen sich aufgrund von Reaktionen des Gegenübers selber wahrzunehmen und mitzubekommen, wie andere auf das eigene Verhalten reagieren.
 Dies funktioniert, indem das "Me" die Umwelt wahrnimmt und das "I" diese Eindrücke subjektiv entgegennimmt und spontan reagiert, sich also dadurch auch verändern, vielleicht sogar verbessern kann.
