@@ -5,56 +5,59 @@
 
 
 In Illichs erster gesellschaftkritischer Schrift "Deschooling Society" (1971) hinterfragt Illich die Stellung und Aufgabenfelder der Schule.
-Er stellt sich nicht gegen deren inhaltliche und pädagogische Konzeption,
-vielmehr kritisiert Illich eine Istitution, welche uns glauben lassen soll, wir könnten Wertevorstellungen wie Bildung, eine der ureigensten Eigenschaften des Menschen, bestimmen, analysieren und schließlich messen.
+Er stellt sich nicht gegen deren inhaltliche und pädagogische Konzeption;
+vielmehr kritisiert Illich eine Institution, welche uns glauben lassen soll, wir könnten Wertevorstellungen wie Bildung, eine der ureigensten Eigenschaften des Menschen, bestimmen, analysieren und schließlich messen.
 Illich begreift die Schule als eine Art Paradigma für die Natur von lebensbestimmenden Institutionen, fordert deren Abschaffung und plädiert für eine Gesellschaft, die sich für freie, und nicht durch Pflichten wie Berufe und Schulanwesenheit provozierte, zwischenmenschliche Interaktion ausspricht.
 
-"Many students, especially those who are poor, intuitively know what the schools do for them.
+>"Many students, especially those who are poor, intuitively know what the schools do for them.
 They school them to confuse process and substance."(Illich- P.3)
-Wir verwechseln Prozess und Wert, und werden so zu der Annahme verleitet, Lehren würde unausweichlich Lernerfolg bewirken.
+
+Wir verwechseln Prozess und Wert, und werden so zu der Annahme verleitet, Lehren würde zwangsweise Lernerfolg bewirken.
 Diese Annahme lässt sich ebenso auf das Gesundheitssystem anwenden, welchem die Annahme vorrausgeht, medizinische Versorgung lasse sich mit Bekämpfung von Krankheiten gleichsetzen, oder auf Polizeipräsenz, welcher Sicherheit automatisch folgen sollte.
-Es mag möglich sein, dass Polizei zur Sicherheit eines Wohnviertels beitragen kann, aber der Umkehrschluss, dass Sicherheit nur durch Polizeipräsenz erreicht werden kann, bzw. dass Polizeipräsenz *unausweichlich* zu mehr Sicherheit führt verleitet zu falschen Konsequenzen.
+Es mag möglich sein, dass Polizei zur Sicherheit eines Wohnviertels beitragen kann, aber der Umkehrschluss, dass Sicherheit nur durch Polizeipräsenz erreicht werden kann, bzw. dass Polizeipräsenz *unausweichlich* zu mehr Sicherheit führt, verleitet zu falschen Konsequenzen.
 Aus diesem Zusammenhang würde sich die Möglichkeit ergeben, die Werte, d.h. Sicherheit, Lernerfolg, etc., zu messen; und zwar am Umfang des Prozesses (Polizeipräsenz, Schulanwesenheit).
 <!-- TODO: Ich verstehe, was ihr meint, aber könntet ihr diesen Zusammenhang nochmal klarer formulieren?
 Liegt das Problem nicht darin, dass von den Mitteln auf die Folge (der Wert) geschlossen wird?
 Schulen, Polizeipräsenz und das Gesundheitswesen sind nach Illich hinreichende, aber nicht notwendige Bedingungen für Lernen, Sicherheit und Gesundheit. -->
-Den Mythos der messbaren Werte beziehen schließlich auch auf unsere "imaginations, and, indeed, man himself"(p.19)
-„In a schooled world the road to happiness is paved with a consumer's index“(P.19).
+Den Mythos der messbaren Werte beziehen wir schließlich auch auf unsere "imaginations, and, indeed, man himself"(p.19)
+>„In a schooled world the road to happiness is paved with a consumer's index“(P.19).
 
 Diese Werte beginnen einen allgemein verbindlichen Charakter zu entwickeln, weswegen wir unser "Wissen" an die nächste Generation weitergeben wollen, und somit versuchen deren Lernprozess ebenfalls zu kontrollieren.
 Wir gehen davon aus, das Urteil einer Person sollte entscheiden, was ein anderer Mensch wann lernt.
 Die einzige mögliche Konsequenz auf diese Fehleinschätzungen ist Eskalation.
 Sobald die Schule uns beigebracht hat, dass Wissensvermittlung zwangsläufig Lernen hervorruft und nur durch aktive Wissensvermittlung der notwendige Wissenshorizont erreicht werden kann, ist die uns logische erscheinende Antwort, auf alle Bildungprobleme mit Eskalation zu reagieren.
 Die Schule lehrt: Je mehr Schule, desto mehr Lernerfolg, weshalb wir zur Schule gehen.
-Im Gegensatz dazu schreibt Illich: "Most learning is not the result of instruction: It is rather the result of unhampered participation in a meaningful setting." (p.18)
+Im Gegensatz dazu schreibt Illich:
+>"Most learning is not the result of instruction: It is rather the result of unhampered participation in a meaningful setting." (p.18)
 
 ##### Illichs Ziele für die "educational revolution" sind:
 
-- Beschreibung von Illichs Vorschlägen
 Illich unterscheidet zwischen vier Aspekten, die er für die Bildung eines Kindes als notwendig erachtet.
 Jedes Kind benötigt neben dem Kontakt zu anderen Gleichaltrigen auch Vorbilder, von denen es unbewusst lernen kann (Sprechen, Laufen, etc.).
 Zudem benötigt es bei komplexeren Sachverhalten professionelle Hilfe sowie Zugang zu Lernobjekten.
 Hierfür will er Netzwerke erstellen, in denen man Interessen formulieren und jeweils nach Gleichaltrigen und Hilfsangeboten suchen kann.
-In einer dieser Netzwerke bräuchte ein Kind, das Guitarre spielen lernen will, einen Zeitraum in dem es mit anderen glecihaltrigen Kindern spielen kann, jemanden, der ihn bei Problemen und Schwierigkeiten unterstützen kann und als ein Art Vorbild funktioniert  und als letztes eine Guitarre und alle anderen möglichen Werkzeuge, die dazu führen werden, dass das Kind erfolgreich den Lernprozess bewältigt.
+In einer dieser Netzwerke bräuchte ein Kind, das Guitarre spielen lernen will, einen Zeitraum in dem es mit anderen gleichaltrigen Kindern spielen kann, jemanden, der ihn bei Problemen und Schwierigkeiten unterstützen kann und als ein Art Vorbild funktioniert  und als letztes eine Guitarre und alle anderen möglichen Werkzeuge, die dazu führen werden, dass das Kind erfolgreich den Lernprozess bewältigt.
 All dies sollte auf freiwilliger Basis geschehen.
 
 Illichs Ziele für die "educational revolution" sind:
 
 1.-Abschaffung der Tatsache, dass Personen oder Institute auf Grund ihres Bildungsgrades Kontrolle über den Zugang zu Dingen ausüben.
+
 2.-Das Teilen/Gemeinsame Nutzung von Fertigkeiten ermöglichen, indem man die Freiheit unterrichtet und man ihr ausübt damit es  bei Bedarf sicher gestellt wird.
+
 3.-Freisetzung der kritischen und kreativen Ressourcen der Menschen, indem jedem Einzelnen die Möglichkeit zurückgegeben wird, Versammlungen einzuberufen und abzuhalten.
+
 4.-Befreiung des Individuums von der Verpflichtung, seine Aussichten nach der gebotenen Aufgabe irgendeiner Berufung zu formen – indem ihm die Möglichkeit bereitet wird, sich die Erfahrung seiner Fachkollegen zu Nutze machen zu können und sich dem Lehrer, Leiter, Berater oder Heiler seiner Wahl anzuvertrauen.
 <!-- FIXME: Textbelege -->
 
-Ein weiteres, wichtiges Streben Illichs ist die Reduzierung der Komplexität unserer Umwelt, so dass sie wieder zugänglich für den Alltagsmenschen wird. Ein Beispiel dafür ist die Tatsache, dass wir heutzutage nicht mehr wissen, wie unsere Autos funktionieren, da es uns in der Schule nicht beigebracht wird. Nach Illichs Idealvorstellung sollte die Umwelt zugänglicher für die Menschen sein. So könnten wir selbst unsere Autos reparieren oder beispielsweise unsere Nachbarn um Hilfe bitten. Damit wäre auch die Interaktion zwischen Menschen verstärkt.
-
+Ein weiteres, wichtiges Streben Illichs ist die Reduzierung der Komplexität unserer Umwelt, so dass sie wieder zugänglich für den Alltagsmenschen wird.
 Dazu könnten unter anderem die riesigen Summen an Geld verwendet werden, die man durch eine Abschaffung der Schulpflicht einsparen würde.
+So könnten zum Beispiel Firmen subenzioniert werden, die ihre Autos wieder leichter verständlich konzipieren, so dass der durchschnitts Bürger in der Lage ist, allgemeine Reparationen selbstständig durchzuführen.
+Auf diese Weise würden Menschen von alleine dazu motiviert werden zu lernen.
+Dies würde den Lernprozess fördern sowie unverbindliche, nachbarschafliche Interaktion.
 
-- Beschreibung von Illichs Vorschlägen
-(#118, #117)
-- evtl. Kritik an Illich-Text? (aus Präsentation, Problem: keine Quelle zum Zitieren)
 
-**2.Projekt**
+### 2.Projektfragen**
 
 - Verbindungen zu anderen Texten -
 vorläufige Ideen: (zu diskutieren)
@@ -121,7 +124,7 @@ education by all means education by all
 p.11 rechts
 
 
-- Verbindung zu Arbeiten mit Github
+Verbindung zu Arbeiten mit Github
 (Github als Lernnetzwerk?)
 vorläufige Ideen:
 
