@@ -1,4 +1,4 @@
-**1.Allgemeines**
+### 1. Allgemeines
 
 - Illichs Kritik an Schule
 (#114, #116 und aus Präsentation “Institutionalisierung-Problem”)
