@@ -6,12 +6,8 @@ Selbstorganisation lebender Wesen, die Fortpflanzung und Leben dienen.
 Normatives, wie Dinge sein sollten.
 ## Bildsamkeit:
 Die Fähigkeit des Individuums sich fortzubilden (Theorie Benner) durch Lernen und Bildung.
-## Comprehensively exhaustive:
-## Control of the agenda:
 ## Deontologie:
 das Gesollte, die Pflicht
-## Deontologisch:
-Vom altgriechischen δέοντα; die Pflicht, die Bindung, Setzung, die keiner Begründung bedarf.
 ## Ecological Pragmatism:
 ## Effective participation:
 Bei einer Wahl muss die Stimme eines Individuums genauso viel Wert besitzen, wie die jedes anderen Individuums.
@@ -25,13 +21,10 @@ Pflichten, die ein Mensch von sich aus hat, also a priori
 Die ständige Verbesserung und Weiterentwicklung der WIssenschaft, der Technik und der Lebensqualität.
 ## Freiheit:
 Beschreibt den Zustand, zwischen vielen verschiedenen Möglichkeiten beliebig wählen zu dürfen ohne dabei eingeschränkt zu werden bzw. die Möglichkeit aus vielen verschiedenen Optionen individuell wählen zu können ohne jeglichen Vormund.
-## Geschichtlichkeit:
-## illokutiv:
+## Illokutiv:
 Element eines Sprechaktes, das die Intention des Sprechers deutlich macht.
-## Identität:
 ## Ideologie:
 Alle Ansichten und Werte einer sozialen Gruppe, einer bestimmten Gesellschaft.
-## Individualität:
 ## Inhärente Gleichheit:
 Die innewohnende Gleichwertigkeit einer Mehrzahl von Personen in einem bestimmten Merkmal, die von Geburt aus gleich sind.
 ## Institution:
@@ -57,8 +50,6 @@ im MECE-Prinzip.
 Besagt, dass ein Kriterium hinreichend ist, wenn es nur auf eine von zwei Möglichkeiten zutreffend ist.
 ## Nash Equilibrium:
 <!-- bitte bei Siebert nachschauen und Definition zitieren -->
-
-## Negative Freiheit:
 ## Null-Summenspiel:
 ## Paretoprinzip:
 Beziehungsweise Unanimity ist nach dem Sozialwahlprinzip ein Kriterium, das laut Arrow bei einer Wahl erfüllt werden muss:
@@ -73,17 +64,11 @@ Teil des Sprechaktes, der eine Wirkung beim Hörer erzielt.
 ## Persönliche Autonomie:
 Die Fähigkeit des Menschen, sich selbst zu führen, ohne Hilfe oder Aufsicht von anderen.
 ## Positiv-Summenspiel:
-## Reflexivität:
 ## Rekursivität:
 Bedeutet sich auf Erfahrungen zurückzubeziehen.
 ## Selbsttätigkeit:
 ## Symbolischer Interaktionismus:
 Symbolisch heißt soviel wie bildhaft oder sprachlich und Interaktionismus ist die Kommunikation zwischen Individuengruppen.
 Zusammengefasst heißt das also, dass Mead sich mit der sprachlichen, bildlichen Beziehung zwischen Menschen beschäftigt.
-## System:
-## Vermachtung:
 ## Viabilität:
 Begriffe sind dann viabel, wenn sie zu Beschreibungen passen, für die wir sie auch benutzen. Desweiteren sind Dinge viabel, wenn sich ein Individuum dafür interessiert bzw. lebensdienlich ist.
-
-
-<!-- TODO: Die letzten 4 Begriffe können bei Siebert im Glossar nachgeschaut werden -->
