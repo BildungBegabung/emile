@@ -31,9 +31,7 @@ Siebert selbst geht auf diese Frage wie folgt ein:
 
 Beim Lernen werden vorhandene Assoziationsfelder aktiviert und verknüpft.
 Das Gehirn führt einen *„inneren Monolog“* (ebd. S.17), es kommuniziert mit sich selbst, sucht bestätigende Beispiele oder auch Widersprüche.
-<!-- FIXME: VK Textbeleg? -->
 Siebert beruft sich hier auf den Gehirnforscher *Wolf Singer*, der feststellte, dass 80% der kognitiven Aktivitäten beim Hören eines Vortrages dieser Innere Monolog waren. (vgl. ebd. S. 17 f.)
-<!-- FIXME: VK Textbeleg? -->
 Was gelernt wird, hängt also weniger von den Informationsinputs als von der „individuellen kognitiv-emotionalen Vorstrukturund der psycho-physischen Befindlichkeit“ ab, also davon, welche Assoziationen oder Erinnerungen die Inputs hervorrufen (ebd. S. 18).
 Des Weiteren hängt die Auswahl der Informationen, also was und ob gelernt wird, laut Siebert von der direkten Relevanz der Informationen für das Individuum ab.
 Lernen ist also in erster Linie ein eigenwilliger und eigensinniger Prozess und dient primär der Selbsterhaltung (*Autopoiese* ~).
@@ -74,4 +72,3 @@ Doch die Relativitätstheorie kennt andererseits auch Ereignisse, wie etwa das A
 Auf den Konstruktivismus bezogen, bedeutet das:
 Je nach unseren genetischen Anlagen, Vorerfahrungen etc. hat jeder Mensch eine andere subjektive Wirklichkeit.
 Innerhalb dieser Wirklichkeiten nehmen wir aber bestimmte Gegebenheiten (*Da steht ein Stuhl*) gleich wahr.
-  -->
