@@ -2,14 +2,16 @@
 
 #Kleinberg [Spieltheorie]
 
+>"Gentlemen, Adam Smith needs revision" (John Nash)
 
+Nach Kleinberg kann man die meisten menschlichen Interaktionen auf die Grundlage der *Spieltheorie* zurückführen.
 Nach Kleinberg liegt der Erfolg einer Person am Spielausgang nicht darin für was er sich selbst entscheidet, sondern welche "Spiel"-Entscheidungen von allen getroffen werden (vgl. Kleinberg; Networks, Crowds and Markets, S.156).
-Großer Teil dieser Spieltheorie ist das "Gefangenendilemma", auf das ich mich später noch genauer beziehen werde.
+Großer Teil dieser Spieltheorie ist das "Gefangenendilemma", auf das ich mich später noch genauer beziehen werde um auf das Zitat von John Nash (siehe oben) zurückzukommen.
 
 
 Nach Annahme der Axiome der "Spieltheorie" entscheidet sich der Mensch in seinem Handeln stets streng ökonomisch, dass heißt er trifft die Wahl mit der größtmöglichen Summenanzahl für sich selbst (vgl. ebd.S159).
 Außerdem wird angenommen das jeder den "Spielplan" (vgl. ebd.S159) kennt und somit auch alle Spielstrategien und Mitspieler.
-Die letzte Annahme geht aus dem Prinzip der "Raionalität" aus und vereint zwei Annahmen: Zum einen die des "Homo ökonomicus" und zum anderen die Annahme, dass jeder Spieler die beste "Spielstrategie" wählt (vgl. ebd., S.156).
+Die letzte Annahme geht aus dem Prinzip der "Raionalität" aus und vereint zwei Annahmen: Zum einen die des "Homo ökonomikus" und zum anderen die Annahme, dass jeder Spieler die beste "Spielstrategie" wählt (vgl. ebd., S.156).
 Dies wäre Vergleichbar mit Adam Smiths Annahme:
 
 >"Wer sein eigenes Interesse verfolgt, befördert das Wohl der Gesamtgesellschaft häufig wirkungsvoller, als wenn er wirklich beabsichtigt, es zu fördern. Ich habe nie erlebt, dass viel Gutes von denen erreicht wurde, die vorgaben, für das öffentliche Wohl zu handeln." (Adam Smith; „Theorie der ethischen Gefühle)
@@ -29,7 +31,7 @@ Auf diese Weise haben alle mehr vom "Kuchen", egal zu welchem Spielausgang es ko
 Ein Beispiel aus der Wirtschaft wäre der Handel bei welchem  beide Spielpartner Positive Summenerträge erzielen
 
 2. Soziales Wohlfahrtsoptimum und "Nash-Equilibrium" fallen nicht zusammen.
-Ein Beispiel wäre das der Nationalen Co2 Emissionen.
+Ein Beispiel wäre das der Nationalen Co2 Emissionen. Entscheidet sich ein Land allein weniger Umweltschutzmaßnahmen zu treffen so profitiert es davon , dass andere Länder eben solche Maßnahmen treffen.
 
 
 Das Gefangenen Dilemma:
