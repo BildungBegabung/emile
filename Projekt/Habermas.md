@@ -8,7 +8,7 @@
 <!-- TODO: klären, ob das Publikum einen Plan hat -->
 
 
-**HI Ludewig, ich alles eingetragen!** :D
+**HI Ludewig, ich habe alles eingetragen!** :D
 
 Verbindungen:
 - Konstruktivismus (intersubjectively exchanged lifeworlds)
@@ -49,8 +49,17 @@ Fraglich ist allerdings wie man das Modell des kommunikativen Handelns in Gruppe
 Schließlich ist eine Demokratie ein "system" und keine "lifeworld", kommunikatives Handeln ist also sogut wie ausgeschlossen.
 
 Letztendlich entsteht also echtes Verständnis nur im persönlichen Umfeld und nicht in Wahlkampangen, welche ganz klar durch das perlukotive Ziel des Stimmgewinns strategisches Handeln sind.
-Utopisch wäre also ein Netz von Menschen, die sich kommunikativ aufklären, bestenfalls so gerade auch noch das Problem der single-peakedness lösen. Leider sind nicht alle in dem geichen großen custer, es gibt Randgruppen
-<!-- FIXME: atMAX - was sagst du hierzu? ich habe mich gerade in einem diesem sehr wirren Gedankenknoten nicht mehr raus -->
+Utopisch wäre also ein Netz von Menschen, die sich kommunikativ aufklären, bestenfalls so gerade auch noch das Problem der single-peakedness lösen. Leider sind nicht alle in dem geichen großen custer, es gibt Randgruppen die wahrscheinllich niemals so gut informiert wein wie das Inssere des Giant Component.
+
+Möglicherweise ist die Spieltheoretische Betrachtung aber auch unangebracht in einer Demokratie, da sie davon ausgeht, dass Spieler immer nur die strategien des anr anderen Spieler betrachten und damit ihr Gegenüber als Objekt degradieren und noc nicht mal einen Sprechakt, sondern eine *purposive* action durchführen, indem sie den Spieler als teil der Objetiven Umwelt und kausal herleibar ansehen.
+vielleicht gilt dass auber auch nur für systeme und in einem kleinen Umfeld wie zB der dsa ist kommunikativesHaneln möglich und das Gefangennendilemma erreicht sein WOhlfahrtsoptimum?
+
+in kleinem umfeld wie dsa
+
+
+
+
+<!-- FIXME: was sagst du hierzu? ich habe mich gerade in einem diesem sehr wirren Gedankenknoten nicht mehr raus -->
 Diese Randgruppen können alleine schon reichen um eine Diktatur im Wahlsystem zu ermöglichen (-> Arrow).
 Dann wären wir wieder beim Gewaltmonopol, welches vom Herrscher und nicht vom Volk ausgeht und strategisches Handeln ist an der tagesordung und das andere gar nicht mehr erwünscht?!! "Hilfe?!"
 
@@ -60,5 +69,5 @@ Kontrast Dahl...
 - **Spieltheorie** - positive Summenerträge entstehen nur durch Kooperation/Kommunikation. Gefangenenendilemma: das soziale wWohlfahrtsoptimum durch kommunikatives Handeln erreichen (eindeutig unterschwellige Eigeninteressen vermeiden). in der Spieltheorie betrachtet man die Strategien der anderen Spieler, also sind die Spieler Objekte, -> purposive action?
 - **Sozialwahltheorie** - single-peakedness durch kommunikatives Handeln erreichen, einigung über allgemeine Optimumordung, besseres Wahlverhalten, prävention einer diktatur über wahlverhalten
 - **Dahl** enlightend understaning, ist nicht soo wichtig (da Dahl liberal) ; Control of the Agenda -> durch kommunikation erreichbar -> strategisches handeln = manipulation; liberale sprechen über freiheit als negativen Begriff, hat das Folgen?? Wie androhung von Gewalt
-- **Mead** symbolischer Interaktion-> Rekursivität der Symbole, genau wie Rekursivität der Sprache bei Habermas; Bedeutung entsteht durch die Handungsbeziehungen mehrer Subjekte ... intersubjektivität, also KOmmunikation ist Grundlage von Identität, ist zuviel strategie dabei, dann ist Identität nicht richtig gegeben? oder ist kommunikatives Handeln ausdruck des Ichs?
+- **Mead** Habermas_Mead.md
 - **Dewey** (beide Pragmatisten): dynamisches temporäres Ideal, verändert sich durch Vielfalt und Austausch mit anderen Gesellschaften (Kommunikation) Wandel und somit wird Fortschritt möglich. Das läuft produktiv nur über kommunikatives Handeln; legale Sklaverei + soziale Schichten = system/lifeworld/system
