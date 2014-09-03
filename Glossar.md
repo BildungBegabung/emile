@@ -53,7 +53,7 @@ Besagt, dass ein Kriterium hinreichend ist, wenn es nur auf eine von zwei Mögli
  Eine Kombination von Strategien in nicht-kooperativen Spielen, wobei jeder Spieler genau eine Strategie wählt, von der aus es für keinen Spieler sinnvoll ist, von seiner gewählten Strategie abzuwenden.
 
 ## Null-Summenspiel:
-
+ Situationen in der Spieltheorie bei denen die Summe der Gewinne und Verluste aller Spieler zusammengenommen gleich null ist.
 ## Paretoprinzip:
 Beziehungsweise Unanimity ist nach dem Sozialwahlprinzip ein Kriterium, das laut Arrow bei einer Wahl erfüllt werden muss:
 Wenn alle Teilnehmer an einer Wahl in ihrer individuellen Rangliste eine Alternative (A) über eine andere (B) stellen, sollte die Rangfolge im Endergebnis diese Präferenz widerspiegeln, d.h. A sollte B vorgezogen werden. (vgl. S.749, Kleinberg)
