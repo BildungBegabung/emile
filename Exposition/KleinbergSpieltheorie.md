@@ -4,8 +4,8 @@
 
 >"Gentlemen, Adam Smith needs revision" (John Nash)
 
-Nach Kleinberg kann man die meisten menschlichen Interaktionen auf die Grundlage der *Spieltheorie* zurückführen.
-<!--- TODO CK: in irgendeiner Form vielleicht Spiel definieren? -->
+Nach Kleinberg kann man die meisten menschlichen Interaktionen (bzw. Spiele) auf die Grundlage der *Spieltheorie* zurückführen.
+
 Nach Kleinberg liegt der Erfolg einer Person am Spielausgang nicht darin für was er sich selbst entscheidet, sondern welche "Spiel"-Entscheidungen von allen getroffen werden (vgl. Kleinberg; Networks, Crowds and Markets, S.156).
 Großer Teil dieser Spieltheorie ist das "Gefangenendilemma", auf das ich mich später noch genauer beziehen werde um auf das Zitat von John Nash (siehe oben) zurückzukommen.
 
@@ -32,10 +32,10 @@ Es ergeben sich auf diese Weise zwei möglich Spielausgänge von Nichtnullsummen
 
 1. Soziales Wohlfahrtsoptimum (Siehe Glossar?) und "Nash-Equilibrium" (siehe Glossar?) fallen zusammen.
 Auf diese Weise haben alle mehr vom "Kuchen", egal zu welchem Spielausgang es kommt.
-Ein Beispiel aus der Wirtschaft wäre der Handel bei welchem  beide Spielpartner Positive Summenerträge erzielen da sich positivsummerträge sowhl aus "Wohlfahrtsoptimum" als auch "Nash-Equilibrium" ergeben.
+Ein Beispiel aus der Wirtschaft wäre der Handel bei welchem  beide Spielpartner Positive Summenerträge erzielen da sich Positive Summenerträge sowohl aus "Wohlfahrtsoptimum" als auch "Nash-Equilibrium" ergeben.
 
 2. Soziales Wohlfahrtsoptimum und "Nash-Equilibrium" fallen nicht zusammen.
-Ein Beispiel wäre das der Nationalen Co2 Emissionen. Entscheidet sich ein Land weniger Umweltschutzmaßnahmen zu treffen so profitiert es davon, solange die anderen Ländern nicht die gleiche Strategie wählen.
+Ein Beispiel wäre das der Nationalen Co2 Emissionen. Entscheidet sich ein Land weniger Umweltschutzmaßnahmen zu treffen so profitiert es davon nur, solange die anderen Ländern nicht die gleiche Strategie wählen.
 
 
 Eine Lösung des Gefangenen Dilemmas?
