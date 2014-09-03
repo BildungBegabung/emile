@@ -4,7 +4,7 @@
 (#114, #116 und aus Präsentation “Institutionalisierung-Problem”)
 
 
-In Illichs erster, gesellschaftkritischer Schrift hinterfragt er die Stellung und Aufgabenfelder der heutigen Schule.
+In Illichs erster, gesellschaftkritischer Schrift hinterfragt Illich die Stellung und Aufgabenfelder der heutigen Schule.
 Er stellt sich nicht gegen deren inhaltliche und pädagogische Konzeption;
 vielmehr kritisiert Illich eine Istitution, welche uns glauben lassen soll, wir könnten Wertevorstellungen wie Bildung, eine der ureigensten Eigenschaften des Menschen, bestimmen, analysieren und schließlch messen.
 Illich begreift die Schule als eine Art Paradigma für die Natur von lebensbestimmenden Institutionen, fordert deren Abschaffung und plädiert für eine Gesellschaft, die sich für freie, und nicht durch Pflichten wie Berufe und Schulanwesenheit provozierte, zwischenmenschliche Interaktion ausspricht.
@@ -26,11 +26,11 @@ Sobald die Schule uns beigebracht hat, dass Wissensvermittlung zwangsläufig Ler
 Die Schule lehrt: Je mehr Schule, desto mehr Lernerfolg, weshalb wir zur Schule gehen.
 Im Gegensatz dazu schreibt Illich: "Most learning is not the result of instruction: It is rather the result of unhampered participation in a meaningful setting." (p.18)
 
-##### Illichs Ziele für die "educational revolution" sind:
+##### Illichs Zielen für die "educational revolution" sind:
 
 - Beschreibung von Illichs Vorschlägen
 Illich unterscheidet zwischen vier Aspekten, die er für die Bildung eines Kindes als notwendig erachtet.
-Jedes Kind benötigt neben dem Kontakt zu anderen Gleichaltrigen auch **Vorbilder**, von denen es unbewusst lernen kann (Sprechen, Laufen, etc.).
+Jedes Kind benötigt neben dem Kontakt zu anderen Gleichaltrigen auch Vorbilder, von denen es unbewusst lernen kann (Sprechen, Laufen, etc.).
 Zudem benötigt es bei komplexeren Sachverhalten professionelle Hilfe sowie Zugang zu Lernobjekten.
 Hierfür will er Netzwerke erstellen, in denen man Interessen formulieren und jeweils nach Gleichaltrigen und Hilfsangeboten suchen kann.
 <!-- TODO: Ein Beispiel, z.B. Gitarre lernen, würde Illichs Vorschläge gut illustrieren. -->
@@ -68,7 +68,6 @@ Viele Elemente aus Illichs Lernkonzept erfüllen die Anforderungen, welche die i
 So müssen nach der Theorie des Konstruktivismus Lerninhalte "viabel", das heißt für das lernende Individuum funktional und bedeutend, sein.
 Da "das psychische System entscheidet, was es verarbeiten kann und will" (Siebert, S.18), ergibt sich die Forderung nach einem selbstbestimmten Lernen.
 Das Ziel aller Vorschläge Illichs ist es, den Lernenden "Zugang zu vorhandenen Möglichkeiten [zu] gewähren" (Illich, S.84) statt sie ihnen durch einen Lehrplan vorzuschreiben, welchen Wissensstand sie in welcher Zeit zu erreichen haben.
-
 Jeder hat die Freiheit, eine Gelegenheit zum Lernen wahrzunehmen, oder sich dagegen zu entscheiden.
 Durch die so entstandene Auswahlmöglichkeit zwischen verschiedensten Lerninhalten wird gewährleistet, dass sich jedes Individuum dem beschäftigen kann, der für es am anschlussfähigsten ist.
 <!-- Die Verbindung zum Konstruktivismus ist auf jeden Fall gegeben -->
@@ -81,14 +80,15 @@ Durch die große Vielfalt an Fähigkeiten, die durch die Fertigkeitsbörsen verm
 Der Prozess verläuft dort also nicht, wie in der Schule, einseitig zwischen Schüler und Lehrer, wordurch schwächere Schüler sich nicht als hilfreich für andere erleben können.
 <!-- TODO: Fällt euch ein Beispiel ein, was z.B. vermeintlich Schwächere in einer Lernplattform für andere anbieten könnten? -->
 
-- darauf aufbauend: Illich als Lösungsvorschlag?
+Auch die Forderung Deweys nach vielfältigen gemeinsamen Interessen und "eine[r] reiche[n] Mannigfaltigkeit gemeinsamer Unternehmungen und Erfahrungen" (S.117) wird durch die Komponente des Lernens mit Gleichaltrigen erfüllt....
+
 
 Man kann sogar noch einen Schritt weiter gehen, indem man in Illichs Ideen eine Antwort auf eine der zentralen Fragen unserers Kurses, "Wie können unterschiedliche und unterschiedlich befähigte Menschen inhärent gleich berechtigt und persönlich autonom zusammenleben?", sieht.
-Ein zentraler Punkt, den er an der Institution Schule kritisiert,ist deren Recht zur Bewertung der Schüler durch Zertifikate.
+Ein zentraler Punkt, den er an der Institution Schule kritisiert,ist deren Recht zur Bewertung der Schüler durch Zertifikate. 
 Diese schulischen Zertifikate werden in der gegenwärtigen Gesellschaft als einzig legitime Qualifikationen betrachtet und geben somit der Schule die Macht, über die Zulassung von Schülern zu weiteren Bildungseinrichtungen oder die Erlaubnis zur Ausübung eines Berufs zu entscheiden.
 Die Folgen dieses Symstems sind weitreichend, was Illich mit dem Satz "School initiates young people into a world where everything can be measured, including their imaginations, and, indeed, man himself. (Illich, e, S.19), veranschaulicht.
-Schule produziert also durch die Beeinflussung der Lernenden dahingehend, dass der Wert von allem, sogar von Menschen messbar sei.
-Das impliziert die unterschiedliche Wertigkeit von Menschen und führt damit dazu, dass Schüler nicht nur als ungleich betrachtet werden, sondern auch sich selber als unterschiedlich wertvoll ansehen.
+Schule produziert also durch die Beeinflussung der Lernenden dahingehend, dass der Wert von allem, sogar von Menschen messbar sei, Ungleichheit.
+Das impliziert die unterschiedliche Wertigkeit von Menschen und führt somit dazu, dass Schüler nicht nur als ungleich betrachtet werden, sondern auch sich selber als unterschiedlich wertvoll ansehen.
 Illich schlägt nun vor, das Messen von Fähigkeiten stark einzuschränken und im Bezug auf den Zugang zu Bildungsmöglichkeiten ganz abzuschaffen.
 So entsteht ein Menschenbild, dass von der Gleichwertigkeit Aller ausgeht, während die beschriebenen Freiheiten und Wahlmöglichkeiten ein Maximum an persönlicher Autonomie ermöglichen.
 
