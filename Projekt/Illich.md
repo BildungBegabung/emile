@@ -107,8 +107,8 @@ Und Beide berufen sich auf einen Akt der Schöpfung.
 Dem fast verschwörungstheoretischen Charakter bei der Gegenwartsbeschreibung und der Idealisierung einer grundauf freien Gesellschaft liegt ein sehr positives Bild des transzendental freien Menschen vor.
 Mit Kooperationsproblemen und Interessenkonflikten setzten sich beide nur wenig auseinander.
 Das mag möglicherweise Grund für ein sehr unbeschwertes Bild einer *freien* Organisation des Zusammenlebens sein, und auch weswegen beide schnell als Träumer eingestuft wurden und werden.
-Was uns aber zu denken geben sollte, ist dass Rousseau, damals kritisch beäugt, heute im Unterricht als Mitbegründer unserer Gesellschaft gesehen wird, während Illich heute einfach als realitätsfern kategorisiert wird. 
-
+Was uns aber zu denken geben sollte, ist dass Rousseau, damals kritisch beäugt, heute im Unterricht als Mitbegründer unserer Gesellschaft gesehen wird, während Illich heute einfach als realitätsfern kategorisiert wird.
+Auch wenn sie beides Träumer sind, fasziniert uns die Vorstellung eines *reinen* Menschen, frei von jeglicher Manipulation, und vielleicht lohnt es sich ja, an diesem Ideal festzuhalten, auch wenn die Verwirklichung eine Unmöglichkeit darstellt. 
 
 >"The child grows up in a world, surrounded by people who serve as models for skills and values (...), peers (...) to coorporate and understand, and if he is lucky, he is exposed to criticism by an experienced elders who really cares."
 
