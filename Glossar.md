@@ -50,6 +50,7 @@ Gesellschaftliche Konventionen des Verhaltens
 im MECE-Prinzip.
 Besagt, dass ein Kriterium hinreichend ist, wenn es nur auf eine von zwei Möglichkeiten zutreffend ist.
 ## Nash Equilibrium:
+ Eine Kombination von Strategien in nicht-kooperativen Spielen, wobei jeder Spieler genau eine Strategie wählt, von der aus es für keinen Spieler sinnvoll ist, von seiner gewählten Strategie abzuwenden.
 
 ## Null-Summenspiel:
 
