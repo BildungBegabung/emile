@@ -15,33 +15,6 @@ Abhängig von den individuellen Determinationen, mit denen ein Mensch im Leben k
 - Der Mensch ist demnach strukturdeterminiert (vgl. ebd. S. 5).
 
 
-Es gibt allerdings sehr verschiedene Strömungen des Konstruktivismus:
-
-Der **radikale Konstruktivismus** sagt aus, dass uns Menschen die Außenwelt epistemologisch verborgen bleibt (vgl. S.9).
-Des Weiteren ist die Wirklichkeit "erfunden" (S.9).
-Die Realität ist also eine Konstruktion aus Sinnesreizen und Gedächtnisleistung, d.h. die Objektivität im Sinne einer Übereinstimmung von wahrgenommenen Bildern und der Realität ist unmöglich, weil jede Wahrnehmung vollständig subjektiv ist.
-
-Im Gegensatz zum radikalen Konstruktivismus relativiert der **methodische Konstruktivismus** auch absolute Wahrheitsansprüche der Erfahrungswissenschaften (vgl. S.9).
-Die Differenz zwischen den alltäglichen Erfahrungswissenschaften und den experimentellen Ergebnissen wissenschaftlicher Forschung wird sehr betont (vgl. S.9).
-Das Programm und Zeil dieser Art des Konstruktivismus ist die Erzeugung der Gegenstände einer Wissenschaft durch die Angabe der methodisch nötigen Schritte und normgebenden Regeln, die ihrer methodisch kotrollierten und regelmäßigen Konstruktion zugrunde liegen und beachtet werden müssen, wenn diese in der Tat verwirklicht werden sollen, rekonstruieren.
-Das ist systematische Selbstreflexion.
-
-Der **soziale Konstruktivismus** sieht seine Aufgabe darin Wege nachzuspüren, wie die soziale Wirklichkeit und einzelne soziale Phänomene konstruiert werden unter folgender Leitfrage:
-Wie erzeugen Menschen gesellschaftliche Phänomene, institutionalisieren diese und überführen diese durch die Weitergabe an neue Generationen in Traditionen?
-Es geht außerdem um die Beschreibung von Institutionen und sozialem Handeln, aber weniger um die Suche nach Ursachen und Wirkungen dieser Dinge.
-Die soziale Wirklichkeit wird als dynamisch Prozesshaftes angesehen, das ständig durch das Handeln von Menschen und deren darauf bezogenen Interpretationen und ihr Weltwissen produziert und reproduiert wird.
-"Konstruktivismus findet [außerdem] in einer Lebenswelt, dabei in einer Kultur und in sozialen Verhältnissen statt, ist also immer sozialer Konstruktivismus." (S.11)
-
-Eine weitere Strömung ist der **neurobiologische Konstuktivismus**.
-Dieser erklärt die Grenzen menschlicher Erkenntnis aus der operationalen Geschlossenheit des Organismus (vgl. S.11).
-Die Zielgerichtetheit und Intentionalität geister Tätigkeit ist nämlich nicht angemessen verstehbar, wenn das Denken und Erkennen eines Menschen ausschließlich neurobiologisch und biochemisch beobachtet wird (vgl. S.11).
-Die Folge daraus wäre ein naturalistischer Kurzschluss:
-"Allen naturalistischen Erkenntnistheorien ist die Kurzsichtigkeit gemeinsam, das Hervorbringen der für erkenntnistheoretischen Folgerungen beanspruchten naturwissenschaftliche Resultate durch zweckverfolgende, handelnde Menschen zu übersehen." (S.11)
-
-Als Letztes aufzuführen ist die **makrosoziologische Beobachterperspektive**.
-Diese Perspektive sagt aus, dass die Wirklichkeit durch symbolische Interaktionen in sozialen Bezugsgruppen in politisch-ökonomischen Verhältnissen (Macht, Hierarchien, Partizipationschancen, Eigentum, Massenmedien, etc.) konstruiert wird.
-
-
 Aufbauend auf seinem individuell geprägten Menschenbild geht Siebert davon aus, dass ein Wechselverhältnis zwischen der Wahrnehmung des Menschens und der Umwelt existiert.
 Diese beruht jedoch auf der subjektiven Auslegung (z.B. bewertet nach Wichtigkeit der Information) jedes **einzelnen Menschen** (*Systems*) und demnach nicht als status quo anzusehen.
 
@@ -57,7 +30,7 @@ In einer pluralisierten Gesellschaft ist somit ein pluralistisches Lernraster er
 Siebert selbst geht auf diese Frage wie folgt ein:
 >"Menschen als selbstgesteuerte *„Systeme“* können von der Umwelt nicht determiniert, sondern allenfalls **perturbiert**, das heißt, **„gestört“** und **angeregt** werden." (ebd. S.5)
 
-Beim Lernen werden vorhandene Assoziationsfelder aktiviert und verknüpft, das Gehirn führt einen „Inneren Monolog“, es kommuniziert mit sich selbst, sucht bestätigende Beispiele oder auch Widersprüche. Siebert beruft sich hier auf den Gehirnforscher Wolf Singer, der feststellte, dass 80% der kognitiven Aktivitäten beim Hören eines Vortrages dieser Innere Monolog waren. Was gelernt wird, hängt also weniger von den Informationsinputs als von der „individuellen kognitiv-emotionalen Vorstrukturund der psycho-physischen Befindlichkeit“ (S. 18) ab, also davon, welche Assoziationen oder Erinnerungen die Inputs hervorrufen. Des weiteren hängt die Auswahl der Informationen, also was und ob gelernt wird, laut Siebert von der direkten Relevanz der Informationen für das Individuum ab. Lernen ist also in erster Linie ein eigenwilliger und eigensinniger Prozess und dient primär der Selbsterhaltung (Autopoiese). Auf dieser Grundlage werden die Inputs gefiltert, das psychische „System“ entscheidet selbst, was für das eigene Überleben wichtig ist und was nicht und entscheidet dementsprechend, was es verarbeitet.
+Beim Lernen werden vorhandene Assoziationsfelder aktiviert und verknüpft, das Gehirn führt einen *„Inneren Monolog“*, es kommuniziert mit sich selbst, sucht bestätigende Beispiele oder auch Widersprüche. Siebert beruft sich hier auf den Gehirnforscher *Wolf Singer*, der feststellte, dass 80% der kognitiven Aktivitäten beim Hören eines Vortrages dieser Innere Monolog waren. Was gelernt wird, hängt also weniger von den Informationsinputs als von der „individuellen kognitiv-emotionalen Vorstrukturund der psycho-physischen Befindlichkeit“ (ebd. S. 18) ab, also davon, welche Assoziationen oder Erinnerungen die Inputs hervorrufen. Des weiteren hängt die Auswahl der Informationen, also was und ob gelernt wird, laut Siebert von der direkten Relevanz der Informationen für das Individuum ab. Lernen ist also in erster Linie ein eigenwilliger und eigensinniger Prozess und dient primär der Selbsterhaltung (*Autopoiese* ~). Auf dieser Grundlage werden die Inputs gefiltert, das psychische *„System“* entscheidet selbst, was für das eigene Überleben wichtig ist und was nicht und entscheidet dementsprechend, was es verarbeitet.
 
 
 Der Mensch kann demzufolge durch Perturbationen (*(An)Reize*) zum (Um)Denken angeregt werden.
@@ -81,6 +54,8 @@ Die radikale Änderung seiner eigenen Wahrnehmung und Kommunikation verursachte 
 > [Peter Bichsel](Ein Tisch ist ein Tisch)
 
 Der Verlust der Kooperation mit der Umwelt durch die Isolierung in der Subjektivität und damit auch die fehlende Beziehung mit Menschen, zeigt die Grenzen des radikalen Ansatzes der konstruktivistischen Theorie auf.
+
+
 Diese Tatsache impliziert ein Kooperationsproblem zwischen koexistierenden *"Lebensrealitäten"*, da jene *"Realitäten"* sich ausgehend vom Individuum unterscheiden.
 
 
@@ -88,7 +63,11 @@ Diese Tatsache impliziert ein Kooperationsproblem zwischen koexistierenden *"Leb
 Durch diese *"Störungen"* [Sprachmacht, Gesellschaftsmacht, Glaubensmacht [Siebert] (vgl. S.11)] kann eine allgemeingültige Leitkultur (**Makrosoziologie**) unter verschieden Individuen entstehen und eine gemeinsame Kooperationsgrundlage geschaffen werden.
 Der Mensch wird nach Siebert demzufolge auch *"[...] durch politischökonomischen Verhältnissen, die durch Macht, Hierarchien, Partizipatrordischancem Eigentum, Massenmedien und Ähnliches gekennzeichnet sind"*, (ebd.) beeinflusst.
 
+**Schule** kann in diesem Kontext als Bildung gemeinsamer Lebenswelt durch symmetrische Perturbation verstanden werden.
+Schule soll zum Beispiel durch einen Bildungskanon als möglichst "objektive" Instanz die individuellen subjektiven Realitäten annähern.
+
 > "Die Grenze ist nicht eine räumlich Tatsache mit sozologischen Wirkungen, sondern eine soziologische Tatsache, die sich räumlich formt." [Georg Simmel]
+
 
 Dank dieser Leitkultur, oder auch einfach trotz der konstruktivistischen Vorstellungen, gibt es Tatsachen, die wir empirisch gleich wahrnehmen, etwa die Stellung von Gegenständen.
 Was das bedeutet lässt sich am Beispiel der Relativitätstheorie veranschaulichen:
