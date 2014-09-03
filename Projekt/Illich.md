@@ -18,14 +18,13 @@ Diese Anschauungen geben uns die Möglichkeit und fordern uns auch implizit dazu
 Liegt das Problem nicht darin, dass von den Mitteln auf die Folge (der Wert) geschlossen wird?
 Schulen, Polizeipräsenz und das Gesundheitswesen sind nach Illich hinreichende, aber nicht notwendige Bedingungen für Lernen, Sicherheit und Gesundheit. -->
 Wir beziehen dies schließlich nicht nur auf bereits institutionalisierte Werte, sondern versuchen auch unsere persönlichen Werte von Standarts abzuleiten und den Wert unserer Persönlichkeit messen zu wollen.
-„In a schooled world the road to happiness is paved with a consumer's index“(P.??????).
-<!-- FIXME: Seitenangabe (Tipp: Öffnet den Illich-Text im GoogleDrive-Ordner und sucht mit Strg + F nach dem Textabschnitt.) -->
+„In a schooled world the road to happiness is paved with a consumer's index“(P.19).
+
 Diese Werte beginnen einen allgemein verbindlichen Charakter zu entwickeln, welche uns dazu verleiten, unser "Wissen" an die nächste Generation weitergeben zu wollen, und somit versuchen deren Lernprozesse ebenfalls zu kontrollieren. Wir gehen davon aus, das Urteil einer Person sollte entscheiden, was ein anderer Mensch wann lernt.
 Die einzige mögliche Konsequenz auf diese Fehleinschätzungen ist Eskalation.
 Sobald die Schule uns beigebracht hat, dass Wissensvermittlung zwangsläufig Lernen hervorruft und nur durch aktive Wissensvermittlung der notwendige Wissenshorizont erreicht werden kann, ist die uns logische erscheinende Antwort, auf alle Bildungprobleme mit Eskalation zu reagieren.
 Die Schule lehrt: Je mehr Schule, desto mehr Lernerfolg, weshalb wir zur Schule gehen.
-Im Gegensatz dazu schreibt Illich: "Most learning is not the result of instruction: It is rather the result of unhampered participation in a meaningful setting."
-<!-- FIXME: Seitenangabe -->
+Im Gegensatz dazu schreibt Illich: "Most learning is not the result of instruction: It is rather the result of unhampered participation in a meaningful setting." (p.18)
 
 ##### Illichs Zielen für die "educational revolution" sind:
 
@@ -57,7 +56,7 @@ Dazu könnten unter anderem die riesigen Summen an Geld verwendet werden, die ma
 
 - Verbindungen zu anderen Texten -
 vorläufige Ideen: (zu diskutieren)
-  - Anforderungen erfüllen, nicht Probleme lösen
+
  - Dewey (geteilte Erfahrung, projektbezogenes Lernen; Austausch durch Lernnetzwerke (?));
  - Rousseau (Beruf Menschsein statt Spezialisierung);
  - (Benner (Interaktion zwischen Pädagogen und Lernendem - allgemein menschliche Interaktion)
