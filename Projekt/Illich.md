@@ -3,16 +3,14 @@
 #### Illichs Kritik an Schule
 (#114, #116 und aus Präsentation “Institutionalisierung-Problem”)
 
+
 In Illichs erster gesellschaftkritischer Schrift "Deschooling Society" (1971) hinterfragt Illich die Stellung und Aufgabenfelder der Schule.
 Er stellt sich nicht gegen deren inhaltliche und pädagogische Konzeption;
 vielmehr kritisiert Illich eine Institution, welche uns glauben lassen soll, wir könnten Wertevorstellungen wie Bildung, eine der ureigensten Eigenschaften des Menschen, bestimmen, analysieren und schließlich messen.
-Illich begreift die Schule als eine Art Paradigma für die Natur von lebensbestimmenden Institutionen.
-Er fordert deren Abschaffung und plädiert für eine Gesellschaft, die sich für freie, und nicht durch Pflichten wie Berufe und Schulanwesenheit provozierte, zwischenmenschliche Interaktion ausspricht.
-<!-- VK: echt auch durch Berufe? -->
+Illich begreift die Schule als eine Art Paradigma für die Natur von lebensbestimmenden Institutionen, fordert deren Abschaffung und plädiert für eine Gesellschaft, die sich für freie, und nicht durch Pflichten wie Berufe und Schulanwesenheit provozierte, zwischenmenschliche Interaktion ausspricht.
 
->"Many students, especially those who are poor, intuitively know what the schools do for them. They school them to confuse process and substance."(Illich- P.3)
-
-<!-- Tipp VK: Zitate dürfen trotz mehrerer Sätze nicht mit Absatz getrennt werden, schau mal mit shift-ctrl-P Markdown-Preview  -->
+>"Many students, especially those who are poor, intuitively know what the schools do for them.
+They school them to confuse process and substance."(Illich- P.3)
 
 Wir verwechseln Prozess und Wert, und werden so zu der Annahme verleitet, Lehren würde zwangsweise Lernerfolg bewirken.
 Diese Annahme lässt sich ebenso auf das Gesundheitssystem anwenden, welchem die Annahme vorrausgeht, medizinische Versorgung lasse sich mit Bekämpfung von Krankheiten gleichsetzen, oder auf Polizeipräsenz, welcher Sicherheit automatisch folgen sollte.
@@ -96,12 +94,10 @@ Dewey lässt sich in diesem Fall vielleicht als eine Art Vordenker für Illich s
 Er stellt das Ideal auf, während Illich dessen Umsetzung in der heutigen Gesellschaft durch das Schulsystem hinterfragt und sich mit der Errichtung einer demokratischen Gesellschaft (vrgl. S.121), im eigentlichen dewyschen Sinne, als mehr als nur eine Staatsform, beschäftigt.
 Illich begreift jedoch den Menschen an sich als Ziel, während Dewey seine pragmatische Ethik auf dem Fortschrittsgedanken basiert. (P.23)
 
-Illichs Wirken und Denken deckt sich in großen Teilen mit dem on Rousseau.
+Illichs Wirken und Denken deckt sich in großen Teilen mit dem von Rousseau.
 Beide begreifen das jeweils gegenwärtige Gesellschaftssystem als eine Form der Unterdrückung des eigentlichen Menschseins.
 >‘‘‘I’ precisely because of you, by allowing me to love you, give me the possibility to be co-relative to you, to be dysymmetrically proportionate to you. I see, therefore, in love, hope, and charity the crowning of the proportional nature
 of creation in the full, old sense of that term’’ (https://www.youtube.com/watch?v=vQLWAafp020)
-
->"Alles ist gut, wie es aus den Händen des Schöpfers der Dinge hervorgeht; alles entartet unter den Händen des Menschen." Rousseau-1762, Émile, S.48
 
 Beide romantisieren den vormodernen Menschen.
 Beide haben den Menschen an sich als Ziel und sehen immodernen Staat eine Pervertierung seiner Fähigkeiten.
@@ -112,6 +108,19 @@ Dem fast verschwörungstheoretischen Charakter bei der Gegenwartsbeschreibung un
 Mit Kooperationsproblemen und Interessenkonflikten setzten sich beide nur wenig auseinander.
 Das mag möglicherweise Grund für ein sehr unbeschwertes Bild einer *freien* Organisation des Zusammenlebens sein
 
+
+>"The child grows up in a world, surrounded by people who serve as models for skills and values (...), peers (...) to coorporate and understand, and if he is lucky, he is exposed to criticism by an experienced elders who really cares."
+Jedem Menschen, so Illich, sollte der Zugang zu diesen "Ressourcen" gewährleistet sein für eine freie Entfaltung. Dies trifft sich mit Benner, der auch sehr klar die Notwendigkeit einer Bezugs- und erziehenden Persönlichkeit formuliert.
+Nach Benner benötgt der Zögling den Beistand eines Älteren, der ihn in seinem Reifungsprozess fördert bis dieser in der Lage ist, selbsttätig zu handeln.
+Dieses Ziel kann nur durch permanente Aufforderungen erreicht werden.
+Allerdings darf diese Einwirkung nur stattfinden, solange sie nötig ist:
+>"Im Sinne dieser Dialektik ist pädagogisches Handeln nur dort erlaubt, wo der Zu-Erziehende der Fremdaufforderung zur Selbsttätigkeit bedarf, und muss Erziehung stets don an ihr Ende gekommen sein, wo pädagogische Fremdaufforderung zur Selbsttätigkeit in Selbstaufforderung übergehen kann."
+So überschreitet die Schule die Grenzen der Pädagogik, da sie den Heranwachsenden auch noch dann versucht zu erziehen, wenn er schon in der Lage ist, selbsttätig zu handeln.
+Indem Benner keine weiteren Angaben dazu macht, ab welchem Alter dies in der Regel zutrifft,, macht er deutlich, dass eine allgemeine Einstufung von Kindern als unselbstständig, wie sie in der Schule geschieht, nicht angemessen ist, da es einerseits Schüler gibt, die sehr früh unabhängig in ihren Entscheidungen sind, andererseits auch viele Erwachsene, die wieder der Pädagogik bedürfen.
+Genauso beschreibt Illich Kindheit als eine moderne Erfindung und behauptet, einem Kind wurde bis zur Postmoderne moralisches Urteilsvermögen mit 7 Jahren zugeschrieben.
+Diese Tatsachen können als Begründungen für Illichs Abschaffung der Schule dienen, indem sie auf deren Mängel hinweisen.
+
+
 Man kann sogar noch einen Schritt weiter gehen, indem man in Illichs Ideen eine Antwort auf eine der zentralen Fragen unserers Kurses, "Wie können unterschiedliche und unterschiedlich befähigte Menschen inhärent gleich berechtigt und persönlich autonom zusammenleben?", sieht.
 Ein zentraler Punkt, den er an der Institution Schule kritisiert,ist deren Recht zur Bewertung der Schüler durch Zertifikate.
 Diese schulischen Zertifikate werden in der gegenwärtigen Gesellschaft als einzig legitime Qualifikationen betrachtet und geben somit der Schule die Macht, über die Zulassung von Schülern zu weiteren Bildungseinrichtungen oder die Erlaubnis zur Ausübung eines Berufs zu entscheiden.
@@ -121,19 +130,6 @@ Das impliziert die unterschiedliche Wertigkeit von Menschen und führt somit daz
 Illich schlägt nun vor, das Messen von Fähigkeiten stark einzuschränken und im Bezug auf den Zugang zu Bildungsmöglichkeiten ganz abzuschaffen.
 So entsteht ein Menschenbild, dass von der Gleichwertigkeit Aller ausgeht, während die beschriebenen Freiheiten und Wahlmöglichkeiten ein Maximum an persönlicher Autonomie ermöglichen.
 
-
-Auch wenn Illich das Schulsystem abschaffen will - oder vielleicht auch gerade deswegen -, beschreibt er Lernen als eine innewohnende Eigenschaft des Menschen (
->"the humman activity which least needs manipulation by others"(P.18).
-Genauso sieht Benner in der "Bildsamkeit" *das* charakteristische Mermal des Menschen an sich.
-Beide schreiben dem Menschen die grundsätzliche Anlage zum Lernen zu und beide sehen dennoch in der Interaktion eine notwendige Bedingung.
->"The child grows up in a world, surrounded by people who serve as models for skills and values (...), peers (...) to coorporate and understand, and if he is lucky, he is exposed to criticism by an experienced elders who really cares."
-Jedem Menschen, so Illich, sollte der Zugang zu diesen "Ressourcen" gewährleistet sein für eine freie Entfaltung. Dies trifft sich mit Benner, der auch sehr klar die Notwendigkeit einer Bezugs- und erziehenden Persönlichkeit formuliert.
-Nach Benner benötgt der Zögling den Beistand eines Älteren, der ihn in seinem Reifungsprozess fördert bis dieser in der Lage ist, eigene Entschiedungen zu treffen.
-Dies kann jedoch nur durch permanente Aufforderungen passieren.
->Aber "Im Sinne dieser Dialektik ist pädagogisches Handeln nur dort erlaubt, wo der Zu-Erziehende der Fremdaufforderung zur Selbsttätigkeit bedarf, und muss Erziehung stets don an ihr Ende gekommen sein, wo pädagogische Fremdaufforderung zur Selbsttätigkeit in Selbstaufforderung übergehen kann."
-So überschreitet die Schule die Grenzen der Pädagogik, da sie den Heranwachsenden auch noch dann behandelt, wenn er in der Lage selbsttätig zu handeln.
-Benner macht keine Angaben dazu, wann dies in der Regel passiert und macht so auch deutlich, dass eine allgemeine Einstufung von Kindern als unselbstständig nicht zutreffend ist, da es einerseits Kinder gibt, die sehr früh unabhängig in ihren Entscheidungen sind, andererseits auch viele Erwachsene, die wieder der Pädagogik bedürfen.
-Genauso beschreibt Illich Kindheit als eine moderne Erfindung und behauptet, einem Kind wurde bis zur Postmoderne moralisches Urteilsvermögen mit 7 Jahren zugeschrieben.
 
 
 education by all means education by all
