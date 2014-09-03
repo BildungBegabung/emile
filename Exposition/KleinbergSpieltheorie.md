@@ -5,6 +5,7 @@
 >"Gentlemen, Adam Smith needs revision" (John Nash)
 
 Nach Kleinberg kann man die meisten menschlichen Interaktionen auf die Grundlage der *Spieltheorie* zurückführen.
+<!--- TODO CK: in irgendeiner Form vielleicht Spiel definieren? -->
 Nach Kleinberg liegt der Erfolg einer Person am Spielausgang nicht darin für was er sich selbst entscheidet, sondern welche "Spiel"-Entscheidungen von allen getroffen werden (vgl. Kleinberg; Networks, Crowds and Markets, S.156).
 Großer Teil dieser Spieltheorie ist das "Gefangenendilemma", auf das ich mich später noch genauer beziehen werde um auf das Zitat von John Nash (siehe oben) zurückzukommen.
 
@@ -21,8 +22,11 @@ Zum einem kann es Nullsummenspiele geben.
 Somit haben alle Spielausgänge die gleiche Summenanzahl.
 Zum anderen kann es Nichtnullsummenspiele geben.
 Ein Nichtnullsummenspiel enthällt unterschiedliche Summenanzahlen in unterschiedlichen Spielausgängen.
-Da, nach Annahme der Axiome der "Spieltheorie" der Mensch, stets danach strebt den höchst möglichen Gewinn zu erzielen, und eine höhere Gewinnmaximierung nur bei "Nicht-Nullsummespielen" gegeben ist, lassen sich nur nach Nicht-Nullsummenspiel Aussagen über menschliche Kooperation treffen.
+Da, nach Annahme der Axiome der "Spieltheorie" der Mensch, stets danach strebt den höchst möglichen Gewinn zu erzielen, und eine höhere Gewinnmaximierung nur bei "Nicht-Nullsummespielen" gegeben ist, lassen sich nur nach
+<!--TODO CK: eine Schreibweise festlegen -->
+Nicht-Nullsummenspiel Aussagen über menschliche Kooperation treffen.
 Demnach geben Nullsummenspiele keine Aussage über menschliche Kooperation, da die Summenanzahl bei jedem Spielausgang gleich bleibt.
+
 
 Es ergeben sich auf diese Weise zwei möglich Spielausgänge von Nichtnullsummenspielen:
 
@@ -41,3 +45,4 @@ Zur weiteren Erläuterung ein Fallbeispiel:
 Eine Lösung des Gefangenen Dilemmas?
 
 Außer durch den Einfluss eines Gewaltmonopolists oder einer Änderung der Axiome, kann das Gefangenen Dilemma nicht gelöst werden, da die Konzeption dem Menschenbild des homo ökonomicus unterliegt und davon ausgeht, dass jeder nur aus Eigeninteresse handelt und das Optimum, da die dritte Annahme (siehe Z.8) unzutreffend ist und ggf. nur per Zufall erreicht wird.
+<!--TODO CK: auf Nash-Zitat eingehen, wie angekündigt  -->
