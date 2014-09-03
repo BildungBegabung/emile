@@ -16,6 +16,19 @@ Somit ist jedes Laster direkt nachvollziehbar und begründbar.
 >"Es gibt [...] kein Laster, von dem man nicht sagen könnte, wie und woher es hineingekommen ist." (Rousseau-1762, Émile, S. 53)
 Um den Menschen vor Lastern zu bewahren, muss er also natürlich erzogen werden.
 In der Kindheit bedeutet diese natürliche Erziehung, auch negative (nicht moralische) Erziehung genannt, dass der Zögling abgeschottet von der Gesellschaft aufwächst.
+Hier wird es in einer Art extremer Laissez-Faire-Erziehung vor Lastern und Irrtümern bewahrt.
+Dies bedeutet etwa, dass wenn ein Kind von ihm benötigte Gegenstände zerstört, er weder Ärger noch einen Ersatz bekommt.
+>"Beeeilt euch nicht, ihm andere zu geben; laßt es empfinden, wie unangenehm es ist, sie nicht zu haben. Es wirft die Fensterscheibe an seinem Zimmer ein: laßt den Wind Tag und Nacht herein und kümmert euch nicht um seinen Schnupfen[...]" (Rousseau-1762, Émile, S. 54)
+Bis zum 12. Lebensjahr soll das Kind auf diese Weise einfach stark und gesund werden.
+Ab dann beginnt man es in Naturkunde zu unterrichten. (Vgl. ebd. S.56)
+Hierbei soll der Erzieher darauf achten, dass er dem Kind alles selber hersufinden lässt.
+Er erklärt nichts, sondern schafft nur die Situation, in der das Kind lernen kann.
+Da das Kind auf diese Weise lernt zu verstehen, wird es traditionell erzogene Gleichaltrige später schnell überflügeln.
+
+Wenn das Kind dann erwachsen wird, beginnt die positive Erziehung:
+Die Beziehung Des Erziehers zum Zuerziehenden ändert sich.
+Er ist jetzt nicht mehr Zögling, sondern Freund und wird moralisch, religiös und gesellschaftlich unterwiesen.
+Denn er ist jetzt in der Lage eigene fundierte Entscheidungen zu treffen.
 Allerdings benötigt der Mensch die Gesellschaft und kann nicht für immer allein bleiben.
 Wenn alle Erziehungsphasen beendet sind, aber auch wirklich erst dann, kann der jetzt Erwachsene in die Gesellschaft eintreten.
 Denn jetzt hat er die Fähigkeit, auch in ihr autonom zu bleiben.
