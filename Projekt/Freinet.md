@@ -107,4 +107,12 @@ Wenn wir uns und unsere Arbeit nach diesen Kriterien messen, zeigt sich:
 Durch die gegenseitige Kontrolle wird das Ergebnis besser, als es in Einzelarbeit wäre (Ernten von Positiv-Summen-Spiel-Erträgen).
 - Und stellen uns in den Dienst der Gemeinschaft.
 
-Als Fazit lässt sich also sagen, dass Freinet unserem System wahrscheinlich nicht abgeneigt wäre.
+Es ist allerdings problematisch, dass durch die Vernetzung, die GitHub bietet eine emotionale Verbindung verloren geht.
+Für Freinet ist eine Gruppendynamik ähnlich die einer Familie sehr wichtig.
+Diese ist nicht mehr gegeben, sobald vernetztes Lernen beginnt, da es eine geographische Nähe nicht mehr notwendig ist.
+Darüberhinaus bietet das Internet als Plattform für GitHub dem Edukator praktisch Unfehlbarkeit.
+Jedoch ist gerade die Fehlbarkeit des Lehrers entscheidend, denn hier kann er ehrlich zu seinen Schülern sein (vgl. Freinet-1946 S. 110).
+
+Trotz alle dem ist es fraglich ob eine vernetzte Arbeit mit Freinets Reformpädagogik verglichen werden kann, schließlich konnte Freinet in der Mitte des 20.Jahrhunderts die Entwicklung des Internets nicht vorhersagen.
+
+Als Fazit lässt sich also sagen, dass Freinet unserem System wahrscheinlich nicht abgeneigt wäre. Aber seine contra-sozialen Folgen stark kritisieren würde.
