@@ -2,9 +2,8 @@
 
 Hayek beschäftigt sich mit der Frage, wie ein gutes wirtschaftliches System aussieht (economic order (S.519)).
 Er geht davon aus, dass wirtschaftliches Verhalten abhängig von der Information ist, welche dem Individuum zur Verfügung steht.
-Dieses Wissen
 
->"never exists in concentrated or integrated form, but solely as the dispersed bits of incomplete and frequently contradicitionary knowlegde which all the seperate individuals possess" (S.520).
+>"[This knowldedge] never exists in concentrated or integrated form, but solely as the dispersed bits of incomplete and frequently contradicitionary knowlegde which all the seperate individuals possess" (S.520).
 
 Ein zentraler Begriff Hayeks ist also das *knowledge* (Wissen bzw. Information).
 Um wirtschaftliches Handeln zu fördern ist die Anhäufung von *knowledge* nötig, indem individuelles Wissen durch Kommunikation transferiert wird.
@@ -12,8 +11,6 @@ Um wirtschaftliches Handeln zu fördern ist die Anhäufung von *knowledge* nöti
 Hayek stellt ein dezentrales wirtschaftliches System vor, das auf eigenständigen wirtschaftlichen Entscheidungen basiert
 Diesem anarchokapitalistischen Wirtschaftsmodell stellt Hayek ein zentralisiertes, planwirtschaftliches Modell gegenüber, in dem die wirtschaftlichen Entscheidungen in der Hierarchiespitze getroffen werden.
 Das heißt, anstatt nach eigenen Informationen für sich selbst zu handeln, müssen in dem planwirtschaftlichen System alle Informationen der Individuen an die Hierarchiespitze gebracht werden, die diese dann addiert und zu einer wirtschaftlichen Handlung transformiert.
-<!-- "at the disposal of a single central authority" () -->
-<!-- "planning". -->
 Das Kriterium dieser Modelle ist nach Hayek der Grad an Ausnutzung des vorhandenen Wissens ("We need decentralization because only thus [...] the knowledge [...] will be promptly used").
 <!-- TODO: Niko, findet jemand ein besseres Zitat? -->
 Ein dezentrales System erfüllt dieses Kriterium besser, weil Hayek davon ausgeht, dass
@@ -31,9 +28,6 @@ Nach Hayek hat der Preis für alle Mitglieder einer Gesellschaft den gleichen We
 Damit ist der Preis in Hayeks Interpretation auch ein Symbol in Meads Theorie.
 Hayeks Verständnis von Symbolen als Konventionen, deren Herkunft man nicht mehr nachvollziehen kann, entspricht nämlich derjenigen von Mead.
 Auch die Wiedereinflussnahme aus Meads symbolischem Interaktionismus deckt sich mit dem Sparen als Konsequenz von hohen Preisen.
-<!-- TODO: Niko, ecological pragmatism hinzufügen  -->
-
-<!-- Hayek stellt so, ähnlich wie Kleinberg mit der Idee eines sozialen Wohlfahrtsoptimums im Positiv-Summen-Spiel, vor allem die wirtschaftliche Erträglichkeit von Kommunikation, als Mittel zur Anhäufung von Wissen, in den Mittelpunkt. #195 -->
 
 Auf diese Art und Weise nähert sich Hayek auch Sieberts Konstruktivismus an, wenn er sagt, dass wir nicht für andere entscheiden können, weil Informationen nur lokal in Individuen vorhanden sind.
 Da auch die Hierarchiespitze einer Planwirtschaft nicht objektiv sein kann und deswegen dieses System schlechter funktioniert, kann man daraus schließen, dass Objektivismus für Hayek nicht möglich bzw. sehr uneffektiv scheint.
