@@ -14,6 +14,7 @@ Benner  ist der Auffassung, *"Die Bildsamkeit eines Menschen anerkennen  heißt 
 Benner gibt keine Gründe für die Bildsamkeit, sondern behauptet, sie liege grundsätzlich in der  Natur der Kommunikation zwischen Edukator und Edukand.
 Allerdings ist diese Bildsamkeit mehr ein Potenzial und  daher muss der Edukator dem Edukanten bei der Herausbildung der Bildsamkeit helfen: **Der Mensch muss zur Selbsttätigkeit aufgefordert werden.**
 Dies geschieht nach Benner intersubjektiv in einem Erziehungsprozess.
+Der Erziehungsprozess ist nach dem Prinzip der unbestimmten Bildsamkeit im Sinne der autoritativen Erziehung als Interaktion zwischen dem Erzieher und dem Zu-Erziehenden zu sehen.
 
 Grundsätzlich sieht Benner für diesen Erziehungsprozess kein Ende.
 Sobald der Zu-Erziehende nicht mehr dazu in der Lage ist, bildsam zu handeln, benötigt er für Benner wieder pdagogische Hilfe.
