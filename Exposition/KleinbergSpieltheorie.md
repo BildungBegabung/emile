@@ -26,8 +26,11 @@ Es ergeben sich auf diese Weise zwei möglich Spielausgänge von Nichtnullsummen
 
 1. Soziales Wohlfahrtsoptimum (Siehe Glossar?) und "Nash-Equilibrium" (siehe Glossar?) fallen zusammen.
 Auf diese Weise haben alle mehr vom "Kuchen", egal zu welchem Spielausgang es kommt.
+Ein Beispiel aus der Wirtschaft wäre der Handel bei welchem  beide Spielpartner Positive Summenerträge erzielen
 
 2. Soziales Wohlfahrtsoptimum und "Nash-Equilibrium" fallen nicht zusammen.
+Ein Beispiel wäre das der Nationalen Co2 Emissionen.
+
 
 Das Gefangenen Dilemma:
 
