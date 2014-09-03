@@ -14,7 +14,9 @@ das Gesollte, die Pflicht
 Vom altgriechischen δέοντα; die Pflicht, die Bindung, Setzung, die keiner Begründung bedarf.
 ## Ecological Pragmatism:
 ## Effective participation:
+Bei einer Wahl muss die Stimme eines Individuums genauso viel Wert besitzen, wie die jedes anderen Individuums.
 ## Enlightened understanding:
+stammt aus der Theorie Dahls und heißt übersetzt: "aufgeklärtes Verständnis"
 ## Equal voting:
 ## Erziehungsideal:
 ## Ethik/pragmatische Ethik:
@@ -47,6 +49,8 @@ Besitzer des absoluten Rechts oder der absoluten Kontrolle über die Produktion.
 ## Moral:
 Gesellschaftliche Konventionen des Verhaltens
 ## Mutually exclusive:
+im MECE-Prinzip.
+Besagt, dass ein Kriterium hinreichend ist, wenn es nur auf eine von zwei Möglichkeiten zutreffend ist.
 ## Nash Equilibrium:
 <!-- bitte bei Siebert nachschauen und Definition zitieren -->
 
