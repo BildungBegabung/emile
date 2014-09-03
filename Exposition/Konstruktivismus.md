@@ -56,3 +56,12 @@ Durch Anwendung dieser *"Störung"* [Sprachmacht, Gesellschaftsmacht, Glaubensma
 Der Mensch wird nach Siebert demzufolge auch durch *"[...] politischökonomische[n] Verhältnisse[n], die durch Macht, Hierarchien, Partizipationschancen, Eigentum, Massenmedien und Ähnliches gekennzeichnet sind"*, (ebd.) beeinflusst.
 
 > "Die Grenze ist nicht eine räumlich Tatsache mit soziologischen Wirkungen, sondern eine soziologische Tatsache, die sich räumlich formt." [Georg Simmel]
+
+Dank dieser Leitkultur, oder auch einfach trotz der konstruktivistischen Vorstellungen, gibt es Tatsachen, die wir empirisch gleich wahrnehmen, etwa die Stellung von Gegenständen.
+Was das bedeutet lässt sich am Beispiel der Relativitätstheorie veranschaulichen:
+In relatvistischen Situation (in denen die Relativitätstheorie greift) kann man nicht sagen, wie groß, schnell oder massereich ein Körper ist.
+Diese Eigenschaften, die wir für gewöhnlich als objektiv und unumstößlich wahr ansehen, hängen vom Bewegungszustand des Beobachters ab.
+Doch die Relativitätstheorie kennt andererseits auch Ereignisse, wie etwa das Aufeinandertreffen zweier Körper, die allgemeingültig sind und die jeder Betrachter so sieht. (Vgl. Einstein, Albert: Über die spezielle und die allgemeine Relativitätstheorie, 23. Auflage, Berlin u.a. 1988, S. 1-38)
+Auf den Konstruktivismus bezogen, bedeutet das:
+Je nach unseren genetischen Anlagen, Vorerfahrungen etc. hat jeder Mensch eine andere subjektive Wirklichkeit.
+Innerhalb dieser Wirklichkeiten nehmen wir aber bestimmte Gegebenheiten (*Da steht ein Stuhl*) gleich wahr.
