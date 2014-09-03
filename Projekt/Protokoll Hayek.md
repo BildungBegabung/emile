@@ -32,12 +32,12 @@ In gewisser Weise entkräftet auch er damit so wie Siebert den *objektiven Maßs
 Hayek beschäftigt jedoch weniger die Frage nach der Möglichkeit der Kommunikation (Kooperation?), wie es der Konstruktivismus formuliert, als vielmehr die Frage nach der Nötigkeit derselben.
 Hayeks Verständnis von Symbolen als Konventionen, deren Herkunft man nicht mehr nachvollziehen kann, entspricht derjenigen von Mead.
 Auch die Wiedereinflussnahme aus Meads symbolischem Interaktionismus deckt sich mit dem Sparen als Konsequenz von hohen Preisen.
-
+<!-- TODO: Niko, ecological pragmatism hinzufügen  -->
 Das einzige "Symbol" , das wir brauchen , die einzige objektive Instanz und die einzige ist der Preis. Im Preis sind alle Informationen über ein Produkt enthalten, welche den Konsumenten interessieren müssen.  
 <!-- TODO: Sagt er das wirklich? Textnachweis -->
-Hayek plädiert für eine freie Marktwirtschaft, mit wenigen zentralisierten Elementen.
+Hayek plädiert für einen puren Kapitalismus mit keinen zentralisierten Elementen. Der Staat soll den Rahmen für die freie Ausübung der marktwirtschaftlichen Praxis bieten - aber möglichst wenig Autorität ausüben.
 
-Im sozialen und gesellschaftlichen Kontext bedeutet das, dass Instituionen und staatliche Instanzen nur einen Umweg, eine Verkomplizierung in der Informationsvermittlung bedeuten, und die Interessen der Einzelnen nicht fassen können.
+Im sozialen und gesellschaftlichen Kontext bedeutet das, dass Instituionen und staatliche Instanzen nur einen Umweg, eine Verkomplizierung in der Informationsvermittlung bedeuten, und die Interessen der Einzelnen nicht fassen können. Die Entscheidungsgewalt über ökonomische Handlungen sollte 
 
 In Bezug auf die Schule bedeutet das, dass die Idee eines Bildungskanons, einer Informationsvermittlung auf objektiver Basis, verneint wird.
 Brauchen wir Schule überhauptinstutionalisiertes Lehrsystem, wenn die individuelle Informationsfülle reicht?
