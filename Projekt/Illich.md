@@ -97,13 +97,20 @@ Er stellt das Ideal auf, während Illich dessen Umsetzung in der heutigen Gesell
 Illich begreift jedoch den Menschen an sich als Ziel, während Dewey seine pragmatische Ethik auf dem Fortschrittsgedanken basiert. (P.23)
 
 Illichs Wirken und Denken deckt sich in großen Teilen mit dem on Rousseau.
-Beide begreifen das jeweils gegenwärtige              Gesellschaftssystem als eine Form der Unterdrückung des eigentlichen Menschseins, wodurch die Schriften einen sehr romantischen Charakter bei der Beschreibung des Idealzustandes bekommen.
+Beide begreifen das jeweils gegenwärtige Gesellschaftssystem als eine Form der Unterdrückung des eigentlichen Menschseins.
 >‘‘‘I’ precisely because of you, by allowing me to love you, give me the possibility to be co-relative to you, to be dysymmetrically proportionate to you. I see, therefore, in love, hope, and charity the crowning of the proportional nature
 of creation in the full, old sense of that term’’ (https://www.youtube.com/watch?v=vQLWAafp020)
 
 >"Alles ist gut, wie es aus den Händen des Schöpfers der Dinge hervorgeht; alles entartet unter den Händen des Menschen." Rousseau-1762, Émile, S.48
 
-
+Beide romantisieren den vormodernen Menschen.
+Beide haben den Menschen an sich als Ziel und sehen immodernen Staat eine Pervertierung seiner Fähigkeiten.
+Rousseau will den Menschen aus seiner Idendifikation durch Berufe befreien, während sich Illich stark gegen eine gesellschaftliche Rolle ausspricht.
+Beide plädieren für eine unabhängige Erziehung, die sie nicht auf eine spätere Funktion vorbereiten soll.
+Und Beide berufen sich auf einen Akt der Schöpfung.
+Dem fast verschwörungstheoretischen Charakter bei der Gegenwartsbeschreibung und der Idealisierung einer grundauf freien Gesellschaft liegt ein sehr positives Bild des transzendental freien Menschen vor.
+Mit Kooperationsproblemen und Interessenkonflikten setzten sich beide nur wenig auseinander.
+Das mag möglicherweise Grund für ein sehr unbeschwertes Bild einer *freien* Organisation des Zusammenlebens sein
 
 Man kann sogar noch einen Schritt weiter gehen, indem man in Illichs Ideen eine Antwort auf eine der zentralen Fragen unserers Kurses, "Wie können unterschiedliche und unterschiedlich befähigte Menschen inhärent gleich berechtigt und persönlich autonom zusammenleben?", sieht.
 Ein zentraler Punkt, den er an der Institution Schule kritisiert,ist deren Recht zur Bewertung der Schüler durch Zertifikate.
