@@ -36,6 +36,7 @@ wechselseitige Beziehung, aufeinander bezogenes Handeln, gegenseitige Beeinfluss
 ## intersubjektiv:
 mehreren Personen gleichermaßen zugänglich.
 ## Konsequentialismus:
+Handeln ist gut, wenn das Ergebnis gut ist.
 ## Konstruktivismus:
 Theorie, die feststellt, dass jede Person die Welt verschiedenerweise versteht und dass keiner Zugang zu der objektiven Realität hat.
 ## Kooperation:
