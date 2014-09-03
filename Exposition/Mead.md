@@ -13,7 +13,7 @@ Das "I" wird auch impulsives Ich genannt, da es immer Neues und Schöpferisches 
 Das "Me" steht dem gegenüber und ist die Vorstellung eines Menschen, wie er von der Außenwelt betrachtet wird.
 Es ist somit das reflektierte Ich.
 Des Weiteren ist das "Me" ständig in Bewegung, weil immer neue Ansichten, wie jemand von der Gesellschaft gesehen wird, im Verlauf des Lebens hinzukommen. Mead beschreibt den Zusammenhang zwischen "I" und "Me" so:
->*"Das I ruft das Me nicht nur hervor, es reagiert auch darauf. Zusammen bilden sie eine Persönlichkeit, wie sie in der gesellschaftlichenErfahrungen erscheint."* (Mead-1934, S. 221)
+>*"Das I ruft das Me nicht nur hervor, es reagiert auch darauf. Zusammen bilden sie eine Persönlichkeit, wie sie in der gesellschaftlichen Erfahrungen erscheint."* (Mead-1934, S. 221)
 
 Die Bildung des "Me" ist also nie wirklich abgeschlossen.
 Aufgrund dessen, dass das "Me" die Moralität beinhaltet und den Pluralismus der Gesellschaft umfasst, ist es der ständige Gegenspieler des "I".
