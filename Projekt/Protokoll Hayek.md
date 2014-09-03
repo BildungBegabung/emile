@@ -1,22 +1,22 @@
 # Protokoll Hayek
 
 Hayek beschäftigt sich mit der Frage, wie ein gutes wirtschaftliches System aussieht (economic order (S.519)).
-Er geht davon aus, dass wirtschaftliches Verhalten abhängig von dem Wissen (knowledge) ist, welches dem Individuum zur Verfügung steht.
-Dieses Wissen,
+Er geht davon aus, dass wirtschaftliches Verhalten abhängig von der Information ist, welche dem Individuum zur Verfügung steht.
+Dieses Wissen
 
 >"never exists in concentrated or integrated form, but solely as the dispersed bits of incomplete and frequently contradicitionary knowlegde which all the seperate individuals possess" (S.520).
 
-Hayek legt besonderen Wert auf eine Differenzierung zwischen Faktenwissen (scientific knowledge(S.522))
-Um wirtschaftliches Handeln zu fördern ist also die Anhäufung von Wissen nötig, indem individuelles Wissen transferiert wird: Kommunikation.
+Ein zentraler Begriff Hayeks ist also das *knowledge* (Wissen bzw. Information).
+Um wirtschaftliches Handeln zu fördern ist die Anhäufung von *knowledge* nötig, indem individuelles Wissen durch Kommunikation transferiert wird.
 
-Hayek stellt ein dezentralisiertes System von "Competition" (S.3), das von vielen Personen "geplant" wird über ein System von zentralisiertem
+Hayek stellt ein dezentrales wirtschaftliches System vor, das auf eigenständigen wirtschaftlichen Entscheidungen basiert
+Diesem anarchokapitalistischen Wirtschaftsmodell stellt Hayek ein zentralisiertes, planwirtschaftliches Modell gegenüber, in dem die wirtschaftlichen Entscheidungen in der Hierarchiespitze getroffen werden.
+Das heißt, anstatt nach eigenen Informationen für sich selbst zu handeln, müssen in dem planwirtschaftlichen System alle Informationen der Individuen an die Hierarchiespitze gebracht werden, die diese dann addiert und zu einer wirtschaftlichen Handlung transformiert.
 
->"at the disposal of a single central authority" (S.3)
-
-"planning".
-
-Das Kriterium dafür ist der Grad an Ausnutzung des vorhandenen Wissens ("which of them we can expect fuller use will be made of the existing knowledge"(S.3)).
-Ein dezentralisiertes System erfüllt dieses Kriterium in höherem Maße, weil Hayek davon ausgeht, dass "[...] every individual has some advantage over all the others in that he posseses unique information of which beneficial use can be made only if the decisions depending on it are left to him or are made with his active cooperation".
+<!-- "at the disposal of a single central authority" (S.3) -->
+<!-- "planning". -->
+Das Kriterium dieser Modelle ist nach Hayek der Grad an Ausnutzung des vorhandenen Wissens ("We need decentralization because only thus [...] the knowledge [...] will be promptly used").
+Ein dezentrales System erfüllt dieses Kriterium besser, weil Hayek davon ausgeht, dass "[...] every individual has some advantage over all the others in that he posseses unique information of which beneficial use can be made only if the decisions depending on it are left to him or are made with his active cooperation".
 
 Hayek meint außerdem, das in einer Planwirtschaft [äpfel-birnen-preis?] nicht genug Informationen über das Produkt vermitteln werden. [........]
 
