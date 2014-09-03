@@ -13,7 +13,8 @@ Großer Teil dieser Spieltheorie ist das "Gefangenendilemma", auf das ich mich s
 Nach Annahme der Axiome der "Spieltheorie" entscheidet sich der Mensch in seinem Handeln stets streng ökonomisch, dass heißt, er trifft die Wahl mit der größtmöglichen Summenanzahl für sich selbst (vgl. ebd. S.159).
 Außerdem wird angenommen, dass jeder den "Spielplan" (vgl. ebd. S.159) kennt und somit auch alle Spielstrategien und Mitspieler.
 Die letzte Annahme geht aus dem Prinzip der "Raionalität" aus und vereint zwei Annahmen: Zum einen die des "Homo ökonomikus" und zum anderen die Annahme, dass jeder Spieler die beste "Spielstrategie" wählt (vgl. ebd., S.156).
-<!-- TODO SF: Auf Strategien eingehen -->
+Die *streng dominante* Stategie wählen die Spieler unabhängig von den Mitspielern stets den höchst möglichen Spielertrag (vgl. ebd.S.164).
+
 Dies wäre Vergleichbar mit Adam Smiths Annahme:
 
 >"Wer sein eigenes Interesse verfolgt, befördert das Wohl der Gesamtgesellschaft häufig wirkungsvoller, als wenn er wirklich beabsichtigt, es zu fördern. Ich habe nie erlebt, dass viel Gutes von denen erreicht wurde, die vorgaben, für das öffentliche Wohl zu handeln." (Adam Smith; „Theorie der ethischen Gefühle)
@@ -31,15 +32,10 @@ Es ergeben sich auf diese Weise zwei möglich Spielausgänge von Nichtnullsummen
 
 1. Soziales Wohlfahrtsoptimum (Siehe Glossar?) und "Nash-Equilibrium" (siehe Glossar?) fallen zusammen.
 Auf diese Weise haben alle mehr vom "Kuchen", egal zu welchem Spielausgang es kommt.
-Ein Beispiel aus der Wirtschaft wäre der Handel bei welchem  beide Spielpartner Positive Summenerträge erzielen
+Ein Beispiel aus der Wirtschaft wäre der Handel bei welchem  beide Spielpartner Positive Summenerträge erzielen da sich positivsummerträge sowhl aus "Wohlfahrtsoptimum" als auch "Nash-Equilibrium" ergeben.
 
 2. Soziales Wohlfahrtsoptimum und "Nash-Equilibrium" fallen nicht zusammen.
-Ein Beispiel wäre das der Nationalen Co2 Emissionen. Entscheidet sich ein Land allein weniger Umweltschutzmaßnahmen zu treffen so profitiert es davon , dass andere Länder eben solche Maßnahmen treffen.
-
-
-Das Gefangenen Dilemma:
-
-Zur weiteren Erläuterung ein Fallbeispiel:
+Ein Beispiel wäre das der Nationalen Co2 Emissionen. Entscheidet sich ein Land weniger Umweltschutzmaßnahmen zu treffen so profitiert es davon, solange die anderen Ländern nicht die gleiche Strategie wählen.
 
 
 Eine Lösung des Gefangenen Dilemmas?
