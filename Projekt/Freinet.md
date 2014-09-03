@@ -52,6 +52,7 @@ Dies müssen sie nicht nur in Bezug auf die "nur [...] durch den täglichen Text
 
 Dies verlangt von den Schülern und Schülerinnen, ihre Interessen zu kennen, damit die Lehrer den Schülern und Schülerinnen bei dem Erlangen von Informationen über dieses Interesse helfen zu können.  
 
+## Projektfrage 1:
 Der Schüler bei Freinet ist also sehr autonom.
 Wie diese Autonomie mit der inhärenter Gleichwertigkeit von Schülern und Lehrern, die er ebenfalls fordert (Vgl. Freinet-1964 S. 489), zusammenpasst, ist für Freinet erstmal nebensächlich.
 Er beschäftigt sich mit der didaktischen Konzeption von Schule und wie diese dem Edukanten hilft, seine Individualität auszubilden.
@@ -60,6 +61,7 @@ Dafür müssen aber alle Schüler untereinander und zu den Lehrern inhärent gle
 Wie sieht also ein solches System aus?
 > "Das Kind liebt nicht die Massenarbeit, bei welcher der Einzelne sich unterwerfen muß. Es liebt die Einzel- und Gruppenarbeit in einer kooperativen Gemeinschaft." (ebd. S. 509)
 
+## Projektfrage 2:
 Wenn alle das Gleiche bearbeiten, entsteht für viele der Schüler/DSA-Teilnehmer/... große Frustration.
 Für die einen geht es viel zu langsam, für die anderen viel zu schnell voran.
 
@@ -71,4 +73,4 @@ Wenn wir uns und unsere Arbeit nach diesen Kriterien messen, zeigt sich:
 Durch die gegenseitige Kontrolle wird das Ergebnis besser, als es in Einzelarbeit wäre (Ernten von Positiv-Summen-Spiel-Erträgen).
 - Und stellen uns in den Dienst der Gemeinschaft.
 
-Als Fazit lässt sich also sagen, dass Freinet unserem Sytem wahrscheinlich nicht abgeneigt wäre.
+Als Fazit lässt sich also sagen, dass Freinet unserem System wahrscheinlich nicht abgeneigt wäre.
