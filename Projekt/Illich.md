@@ -33,7 +33,7 @@ Illich unterscheidet zwischen vier Aspekten, die er für die Bildung eines Kinde
 Jedes Kind benötigt neben dem Kontakt zu anderen Gleichaltrigen auch Vorbilder, von denen es unbewusst lernen kann (Sprechen, Laufen, etc.).
 Zudem benötigt es bei komplexeren Sachverhalten professionelle Hilfe sowie Zugang zu Lernobjekten.
 Hierfür will er Netzwerke erstellen, in denen man Interessen formulieren und jeweils nach Gleichaltrigen und Hilfsangeboten suchen kann.
-<!-- TODO: Ein Beispiel, z.B. Gitarre lernen, würde Illichs Vorschläge gut illustrieren. -->
+In einer dieser Netzwerke bräuchte ein Kind, das Guitarre spielen lernen will, einen Zeitraum in dem es mit anderen glecihaltrigen Kindern spielen kann, jemanden, der ihn bei Problemen und Schwierigkeiten unterstützen kann und als ein Art Vorbild funktioniert  und als letztes eine Guitarre und alle anderen möglichen Werkzeuge, die dazu führen werden, dass das Kind erfolgreich den Lernprozess bewältigt.   
 All dies sollte auf freiwilliger Basis geschehen.
 
 Illichs Ziele für die "educational revolution" sind:
