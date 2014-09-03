@@ -22,9 +22,7 @@ Zum einem kann es Nullsummenspiele geben.
 Somit haben alle Spielausgänge die gleiche Summenanzahl.
 Zum anderen kann es Nichtnullsummenspiele geben.
 Ein Nichtnullsummenspiel enthällt unterschiedliche Summenanzahlen in unterschiedlichen Spielausgängen.
-Da, nach Annahme der Axiome der "Spieltheorie" der Mensch, stets danach strebt den höchst möglichen Gewinn zu erzielen, und eine höhere Gewinnmaximierung nur bei "Nicht-Nullsummespielen" gegeben ist, lassen sich nur nach
-<!--TODO CK: eine Schreibweise festlegen -->
-Nicht-Nullsummenspiel Aussagen über menschliche Kooperation treffen.
+Da, nach Annahme der Axiome der "Spieltheorie" der Mensch, stets danach strebt den höchst möglichen Gewinn zu erzielen, und eine höhere Gewinnmaximierung nur bei Nichtnullsummespielen gegeben ist, lassen sich nur nach Nicht-Nullsummenspiel Aussagen über menschliche Kooperation treffen.
 Demnach geben Nullsummenspiele keine Aussage über menschliche Kooperation, da die Summenanzahl bei jedem Spielausgang gleich bleibt.
 
 
@@ -41,6 +39,7 @@ Ein Beispiel wäre das der Nationalen Co2 Emissionen. Entscheidet sich ein Land 
 Das Gefangenen Dilemma:
 
 Zur weiteren Erläuterung ein Fallbeispiel:
+
 
 Eine Lösung des Gefangenen Dilemmas?
 
