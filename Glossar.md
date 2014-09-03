@@ -9,6 +9,7 @@ Die Fähigkeit des Individuums sich fortzubilden (Theorie Benner) durch Lernen u
 ## Deontologie:
 das Gesollte, die Pflicht
 ## Ecological Pragmatism:
+
 ## Effective participation:
 Bei einer Wahl muss die Stimme eines Individuums genauso viel Wert besitzen, wie die jedes anderen Individuums.
 ## Enlightened understanding:
@@ -51,6 +52,7 @@ Besagt, dass ein Kriterium hinreichend ist, wenn es nur auf eine von zwei Mögli
 ## Nash Equilibrium:
 <!-- bitte bei Siebert nachschauen und Definition zitieren -->
 ## Null-Summenspiel:
+
 ## Paretoprinzip:
 Beziehungsweise Unanimity ist nach dem Sozialwahlprinzip ein Kriterium, das laut Arrow bei einer Wahl erfüllt werden muss:
 Wenn alle Teilnehmer an einer Wahl in ihrer individuellen Rangliste eine Alternative (A) über eine andere (B) stellen, sollte die Rangfolge im Endergebnis diese Präferenz widerspiegeln, d.h. A sollte B vorgezogen werden. (vgl. S.749, Kleinberg)
@@ -64,9 +66,11 @@ Teil des Sprechaktes, der eine Wirkung beim Hörer erzielt.
 ## Persönliche Autonomie:
 Die Fähigkeit des Menschen, sich selbst zu führen, ohne Hilfe oder Aufsicht von anderen.
 ## Positiv-Summenspiel:
+
 ## Rekursivität:
 Bedeutet sich auf Erfahrungen zurückzubeziehen.
 ## Selbsttätigkeit:
+
 ## Symbolischer Interaktionismus:
 Symbolisch heißt soviel wie bildhaft oder sprachlich und Interaktionismus ist die Kommunikation zwischen Individuengruppen.
 Zusammengefasst heißt das also, dass Mead sich mit der sprachlichen, bildlichen Beziehung zwischen Menschen beschäftigt.
