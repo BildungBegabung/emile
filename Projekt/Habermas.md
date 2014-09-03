@@ -30,22 +30,22 @@ Gewaltmonopole können durch Gruppen von racketters unterschiedlich erreicht wer
 Einerseits kann durch Schutzgelderpressung *"protection"* angeboten werden: "Ich schütze dich vor Gewalteinflüssen, wenn du mich bezahlst".
 Errstmal ist der Schutz *"comforting"*, aber da bei dieser Proposition gleichzeitig eine Androhung von Gewalt (durch den Schützenden selbst) impliziert wird, ist "portection" ebenfalls "ominous".
 Aufgrund dieses Aufbaus kann man bei einer Schutzgelderpressung von einem *latently strategic speech act* sprechen.
-Das Ziel des Sprechens ist in dem Moment nicht der illokutive Akt, sondern ein perlokutionäres Ziel, das Ziel der Machterweiterung und Geldgewinn.
+Das Ziel des Sprechens ist in dem Moment nicht illokutiv, sondern perlokutiv.
+Der Zweck ist Machterweiterung und Geldgewinn.
 Letzlich wird so der Mensch als Mittel zum Zweck genutzt.
 
-Eine zweite Möglichkeit durch Zwang Gewaltmonopole zu bilden ist die direkte Androhung von Gewalt, wie z.B. "Gib mir das Geld, oder ich knall dich ab".
+Eine zweite Möglichkeit durch Zwang Gewaltmonopole zu bilden, ist die direkte Androhung von Gewalt, wie z.B. "Gib mir das Geld, oder ich knall dich ab".
 Es ist eine *manifestly strategic action*: Es geht nicht mehr um einen Gültigkeitsanspruch, sondern den Machtanspruch über das Geld des Bedrohten.
 
 Betrachtet man beide Fälle, stellt sich die Frage, ob ein Gewaltmonopol auch durch kommunikatives Handeln entstehen kann.
 
 Möglicherweise könnte man hier Dewey hinzuziehen, der davon ausgeht, dass ein demokratischer Staat durch eine Vielfalt von Idealen und den Austausch von Ideen bereichert und durch den so entstehenden ständigen Fortschritt immerhin weiterentwickelt wird.
  <!-- TODO: github mit deweys idee vn prozess der demokratie --><!-- soll ich das machen? -->
-Da ein Sprechakt nur dann gegenseitige Verständigung zur Folge hat, wenn es sich um kommunikatives Handeln handelt, kann man davon ausgehen dass dieser Fortschritt nur durch kommunikatives Handlen erreicht werden kann.
 
-Notwendig wäre kommunikativevs Handeln auch bei der Umsetzung einer Vertragstheorie wie Rousseus Gedankenexpreiment vom contract sociale (französisch^^).
+Notwendig wäre kommunikatives Handeln auch bei der Umsetzung einer Vertragstheorie wie Rousseus Gedankenexpreiment vom contract sociale (französisch^^).
 Schließlich soll eine Einigung, eine Verständigung aller Bürger, im Vertrag festgehalten werden.
 
-Fraglich ist allerdings wie man das Modell des kommunikativen Handelns in Gruppen *systematisch* umsetzt werden kann, die über die Ausmaße einer Familie oder eines Freundeskreises hinausgeht.
+Fraglich ist allerdings wie man das Modell des kommunikativen Handelns in Gruppen *systematisch* umsetzten  kann, die über die Ausmaße einer Familie oder eines Freundeskreises hinausgehen.
 Schließlich ist eine Demokratie ein "system" und keine "lifeworld", kommunikatives Handeln ist also sogut wie ausgeschlossen.
 
 Letztendlich entsteht also echtes Verständnis nur im persönlichen Umfeld und nicht in Wahlkampangen, welche ganz klar durch das perlukotive Ziel des Stimmgewinns strategisches Handeln sind.
