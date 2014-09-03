@@ -1,6 +1,6 @@
 ### 1. Allgemeines
 
-- Illichs Kritik an Schule
+#### Illichs Kritik an Schule
 (#114, #116 und aus Präsentation “Institutionalisierung-Problem”)
 
 
@@ -13,21 +13,22 @@ Illich begreift die Schule als eine Art Paradigma für die Natur von lebensbesti
 They school them to confuse process and substance."(Illich- P.3)
 Wir verwechseln Prozess und Wert, und werden so zu der Annahme verleitet, Lehren würde unausweichlich Lernerfolg bewirken.
 Diese Annahme lässt sich ebenso auf das Gesundheitssystem anwenden, welchem die Annahme vorrausgeht, medizinische Versorgung lasse sich mit Bekämpfung von Krankheiten gleichsetzen, oder auf Polizeipräsenz, welcher Sicherheit automatisch folgen sollte.
-Diese Anschauungen geben uns die Möglichkeit und fordern uns auch implizit dazu auf, die Werte zu messen, einfach anhand des Umfangs des Prozesses, welcher schließlich, so die These, zwangsweise den Wert provoziert.
+Es mag möglich sein, dass Polizei zur Sicherheit eines Wohnviertels beitragen kann, aber der Umkehrschluss, dass Sicherheit nur durch Polizeipräsenz erreicht werden kann, bzw. dass Polizeipräsenz *unausweichlich* zu mehr Sicherheit führt verleitet zu falschen Konsequenzen.
+Aus diesem Zusammenhang würde sich die Möglichkeit ergeben, die Werte, d.h. Sicherheit, Lernerfolg, etc., zu messen; und zwar am Umfang des Prozesses (Polizeipräsenz, Schulanwesenheit).
 <!-- TODO: Ich verstehe, was ihr meint, aber könntet ihr diesen Zusammenhang nochmal klarer formulieren?
 Liegt das Problem nicht darin, dass von den Mitteln auf die Folge (der Wert) geschlossen wird?
-
 Schulen, Polizeipräsenz und das Gesundheitswesen sind nach Illich hinreichende, aber nicht notwendige Bedingungen für Lernen, Sicherheit und Gesundheit. -->
-Wir beziehen dies schließlich nicht nur auf bereits institutionalisierte Werte, sondern versuchen auch unsere persönlichen Werte von Standarts abzuleiten und den Wert unserer Persönlichkeit messen zu wollen.
+Den Mythos der institutionalisierten Werte beziehen schließlich auch auf unser privates Leben und glauben den Wert unserer Persönlichkeit messen zu können.
 „In a schooled world the road to happiness is paved with a consumer's index“(P.19).
 
-Diese Werte beginnen einen allgemein verbindlichen Charakter zu entwickeln, welche uns dazu verleiten, unser "Wissen" an die nächste Generation weitergeben zu wollen, und somit versuchen deren Lernprozesse ebenfalls zu kontrollieren. Wir gehen davon aus, das Urteil einer Person sollte entscheiden, was ein anderer Mensch wann lernt.
+Diese Werte beginnen einen allgemein verbindlichen Charakter zu entwickeln, weswegen wir unser "Wissen" an die nächste Generation weitergeben wollen, und somit versuchen deren Lernprozess ebenfalls zu kontrollieren.
+Wir gehen davon aus, das Urteil einer Person sollte entscheiden, was ein anderer Mensch wann lernt.
 Die einzige mögliche Konsequenz auf diese Fehleinschätzungen ist Eskalation.
 Sobald die Schule uns beigebracht hat, dass Wissensvermittlung zwangsläufig Lernen hervorruft und nur durch aktive Wissensvermittlung der notwendige Wissenshorizont erreicht werden kann, ist die uns logische erscheinende Antwort, auf alle Bildungprobleme mit Eskalation zu reagieren.
 Die Schule lehrt: Je mehr Schule, desto mehr Lernerfolg, weshalb wir zur Schule gehen.
 Im Gegensatz dazu schreibt Illich: "Most learning is not the result of instruction: It is rather the result of unhampered participation in a meaningful setting." (p.18)
 
-##### Illichs Zielen für die "educational revolution" sind:
+##### Illichs Ziele für die "educational revolution" sind:
 
 - Beschreibung von Illichs Vorschlägen
 Illich unterscheidet zwischen vier Aspekten, die er für die Bildung eines Kindes als notwendig erachtet.
