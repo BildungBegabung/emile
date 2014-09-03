@@ -21,7 +21,7 @@ Darüberhinaus ist Freinet davon überzeugt, dass Kinder am besten ganz individu
 Für Freinet ist "die ständige Anwesenheit des Lehrers nirgendwo erforderlich" (ebd. S. 105), wovon sich ableiten lässt, dass der Lehrer nur beratend und unterstützend wirken darf und soll.
 Allerdings darf selbst diese Hilfe erst dann genutzt werden, wenn das Kind den Lehrer von sich aus fragt.
 Wichtig ist ebenfalls das empathische Auftreten des Lehrers.
-Zwar erkennt Freinet an, "dass es doch meistens nicht in ihrer Macht steht zu einer [...] liebevollen Begegnung mit dem Schüler zu gelangen" (ebd. S. 101), dennoch darf der **Lehrer nicht drohen, schimpfen oder strafen** (vgl. S. 103).
+zwar erkennt Freinet an, "dass es doch meistens nicht in ihrer Macht steht zu einer [...] liebevollen Begegnung mit dem Schüler zu gelangen" (ebd. S. 101), dennoch darf der **Lehrer nicht drohen, schimpfen oder strafen** (vgl. S. 103).
 Vielmehr gibt er "behutsam einige Hinweise" (ebd. S. 103).
 
 Diese Lehrerrolle räumt dem Kind einen großen Rahmen der Selbstbestimmung ein, was für Freinet sehr bedeutsam ist, da "zu einer Arbeit gezwungen zu werden [...] lähmt" (Freinet-1964 S. 495).
