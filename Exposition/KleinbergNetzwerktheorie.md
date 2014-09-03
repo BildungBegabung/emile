@@ -21,10 +21,11 @@ Beispielsweise kann man den Informationsfluss in Netzwerken analysieren.
  <!-- TODO: Plakat anschauen, einfügen -->
 ###Kaskaden und Cluster
 
-Mithilfe von Graphen ist es möglich, Die Ausbreitung von Ideen oder Technologien innerhalb eines Netzwerks zu beschreiben. Laut Kleinberg ist diese Verbreitung von sozialen Gründen abhängig, Menschen entscheiden sich aufgrund ihrer sozialen Nachbarn. 
+Mithilfe von Graphen ist es möglich, Die Ausbreitung von Ideen oder Technologien innerhalb eines Netzwerks zu beschreiben. Laut Kleinberg ist diese Verbreitung von sozialen Gründen abhängig, Menschen entscheiden sich aufgrund ihrer sozialen Nachbarn.
 Hierbei geht man von einer bestimmten Anzahl von Subjekten (also Knoten) aus, die diese Neuerung benutzen.
 Ihre Nachbarn werden dann nacheinander entscheiden, ob sie diese übernehmen möchten oder nicht, dies wird entschieden durch einen  **Treshold** (Grenze), die angibt, welcher Anteil von Nachbarn die Neuerung mindestens benutzen müssen, damit man diese auch übernimmt.
 Dementsprechend findet eine Ausbreitung durch das Netzwerk, eine Kaskade, statt.
 Diese wird in einigen Fällen gestoppt, endet also, ohne das gesamte Netzwerk übernommen zu haben.
-Grund dafür sind **Cluster**, also Bereiche des Netzwerks mit eng untereinander verbundene Knoten, die allerdings nur wenige Verbindungen zu Knoten außerhalb des Clusters haben. An den Grenzen dieser Cluster kommt es leicht zum Ausbreitungsstopp der Neuerung, da der Treshold für Außenstehende nicht erfüllt wird.  
+Grund dafür sind **Cluster**, also Bereiche des Netzwerks mit eng untereinander verbundene Knoten, die allerdings nur wenige Verbindungen zu Knoten außerhalb des Clusters haben.
+An den Grenzen dieser Cluster kommt es leicht zum Ausbreitungsstopp der Neuerung, da der Treshold für Außenstehende nicht erfüllt wird.  
  :squirrel: :up: :cookie: :banana:
