@@ -1,5 +1,3 @@
-# Projekt
-
 ***Vergleich Illich,Benner und Dewey zu Hayek:***
 
 Die sofortige Übereinstimmung die einem auffällt, wenn man Illich und Hayek vergleicht, bezieht sich auf die Pädagogik. Hayek äußert sich zwar nicht direkt zum Schulsystem, doch würde man seine Gedankenansätze darauf übertragen, so würde einem auffallen, dass er gegen ein Schulsystem ist, welches die Informationsvermittlung verhindert bzw. verlangsamt. Hayek ist für einen schnellen Daten -und Wissensaustausch ohne Einschränkungen. Illich denkt ähnlich, denn er möchte das Schulsystem sogar ganz abschaffen, da er persönliche Autonomie und Gleichheit schaffen möchte. Ohne Schule müsse sich jeder selber melden, um zu lernen und könne auch aussuchen von wem er lernt. Das würde Gleichheit und Autonomie schaffen.
