@@ -40,14 +40,14 @@ Im sozialen und gesellschaftlichen Kontext bedeutet das, dass Instituionen und s
 
 Wenn man versucht, das auf das Schulsystem zu beziehen, könnte man sagen, dass die Idee eines Bildungskanons, einer Informationsvermittlung auf objektiver Basis, verneint wird.
 In diesem Kontext kann man Hayek auch mit Illich assoziieren.
-Fraglich ist allerdings, ob Hayeks ökonomische Gedanken auf das Schulsystem übertragbar sind, vor allem, da Hayek sich explizit positiv zum Schulsystem geäußert hat. 
+Fraglich ist allerdings, ob Hayeks ökonomische Gedanken auf das Schulsystem übertragbar sind, vor allem, da Hayek sich explizit positiv zum Schulsystem geäußert hat.
 
 # Projekt
 ##Vergleich Hayek zu Dahl:
 
 >"What is the problem we wish to solve when we try to construct a rational economic order?" (Hayek, The American Economic Review,S.519)
 
-Hayeks Lösung auf dieses Frage  besteht darin, dass er die menschliche Kooperation nur noch auf den *"Tauschhandel"* (ebd.) reduziert um die Probleme der "Wissensvermittlung" auf die Institution des "Preises" zu beschränken.
+Hayeks Lösung auf diese Frage  besteht darin, dass er die menschliche Kooperation nur noch auf den *"Tauschhandel"* (ebd.) reduziert um die Probleme der "Wissensvermittlung" auf die Institution des "Preises" zu beschränken.
 Er sieht es als Errungenschaft der Moderne, dass menschliche Kooperation fortan nur noch durch den *Preis* bestimmt wird und somit vereinfacht ist.
 Nach Hayek hat dieser für alle Mitlgieder einer Gesellschaft den gleichen Wert.
 
