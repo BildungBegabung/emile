@@ -7,13 +7,13 @@ Normatives, wie Dinge sein sollten.
 ### Bildsamkeit:
 Die Fähigkeit des Individuums sich fortzubilden (Theorie Benner) durch Lernen und Bildung.
 ### Deontologie:
-das Gesollte, die Pflicht
+Das Gesollte, die Pflicht
 ### Ecological Pragmatism:
-
+Theorie von Griffin zu Mead, das Symbole sich entwickelt haben, aufgrund ihrer Effektivität menschlichen Handels in der Vergangenheit.
 ### Effective participation:
 Bei einer Wahl muss die Stimme eines Individuums genauso viel Wert besitzen, wie die jedes anderen Individuums.
 ### Enlightened understanding:
-stammt aus der Theorie Dahls und heißt übersetzt: "aufgeklärtes Verständnis"
+Stammt aus der Theorie Dahls und heißt übersetzt: "aufgeklärtes Verständnis"
 ### Equal voting:
 Jede Stimme eines Individuums zählt genauso viel wie die eines anderen Individuums.
 ### Ethik/Pragmatische Ethik:
@@ -33,9 +33,9 @@ Eine soziale Struktur, die eine gewisse Stabilität hat. Im weiteren Sinne besch
 ### Integral:
 Beschreibt den Abschnitt unter dem Graph in der Produktionsmöglichkeitenkurve.
 ### Interaktion:
-wechselseitige Beziehung, aufeinander bezogenes Handeln, gegenseitige Beeinflussung.
+Wechselseitige Beziehung, aufeinander bezogenes Handeln, gegenseitige Beeinflussung.
 ### Intersubjektiv:
-mehreren Personen gleichermaßen zugänglich.
+Mehreren Personen gleichermaßen zugänglich.
 ### Konsequentialismus:
 Handeln ist gut, wenn das Ergebnis gut ist.
 ### Konstruktivismus:
@@ -47,7 +47,7 @@ Besitzer des absoluten Rechts oder der absoluten Kontrolle über die Produktion.
 ### Moral:
 Gesellschaftliche Konventionen des Verhaltens
 ### Mutually exclusive:
-im MECE-Prinzip.
+Im MECE-Prinzip.
 Besagt, dass ein Kriterium hinreichend ist, wenn es nur auf eine von zwei Möglichkeiten zutreffend ist.
 ### Nash Equilibrium:
 Eine Kombination von Strategien in nicht-kooperativen Spielen, wobei jeder Spieler genau eine Strategie wählt, von der aus es für keinen Spieler sinnvoll ist, von seiner gewählten Strategie abzuwenden.
