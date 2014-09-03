@@ -27,6 +27,7 @@ Die ständige Verbesserung und Weiterentwicklung der WIssenschaft, der Technik u
 Beschreibt den Zustand, zwischen vielen verschiedenen Möglichkeiten beliebig wählen zu dürfen ohne dabei eingeschränkt zu werden bzw. die Möglichkeit aus vielen verschiedenen Optionen individuell wählen zu können ohne jeglichen Vormund.
 ## Geschichtlichkeit:
 ## illokutiv:
+Element eines Sprechaktes, das die Intention des Sprechers deutlich macht.
 ## Identität:
 ## Ideologie:
 Alle Ansichten und Werte einer sozialen Gruppe, einer bestimmten Gesellschaft.
@@ -40,6 +41,7 @@ Beschreibt den Abschnitt unter dem Graph in der Produktionsmöglichkeitenkurve.
 ## Interaktion:
 wechselseitige Beziehung, aufeinander bezogenes Handeln, gegenseitige Beeinflussung.
 ## intersubjektiv:
+mehreren Personen gleichermaßen zugänglich.
 ## Konsequentialismus:
 ## Konstruktivismus:
 Theorie, die feststellt, dass jede Person die Welt verschiedenerweise versteht und dass keiner Zugang zu der objektiven Realität hat.
@@ -67,6 +69,7 @@ Die Wissenschaft, die sich mit dem Unterrichten und Erziehen beschäftigt:
 ## Behaviorismus
 ## Kognitivismus
 ## perlokutiv:
+Teil des Sprechaktes, der eine Wirkung beim Hörer erzielt.
 ## Persönliche Autonomie:
 Die Fähigkeit des Menschen, sich selbst zu führen, ohne Hilfe oder Aufsicht von anderen.
 ## Positiv-Summenspiel:
