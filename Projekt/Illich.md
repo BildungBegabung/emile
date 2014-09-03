@@ -86,18 +86,24 @@ Durch die große Vielfalt an Fähigkeiten, die durch die Fertigkeitsbörsen verm
 Der Prozess verläuft dort also nicht, wie in der Schule, einseitig zwischen Schüler und Lehrer, wordurch schwächere Schüler sich nicht als hilfreich für andere erleben können.
 <!-- TODO: Fällt euch ein Beispiel ein, was z.B. vermeintlich Schwächere in einer Lernplattform für andere anbieten könnten? -->
 
-Illich und Dewey beschreiben beide keinen aktiven Lehrprozess, sondern sehen Lernen eher als eine natürliche Eigenschaft des Menschen.
-Illich richtet sich ja sehr klar gegen die Vorstellung eines geplanten Lernweges, und sagt, niemand anders sollte in eder Lage sein auf welche Weise eine andere Person was lernt.
-Bei Dewey wird die These des unbestimmten Lernweges deutlich an der beweussten Formulierung des lernens als Erfahrungsaustausch. Das Wort impliziert eine ungezwungene Kommunikation in der beide Parteien gleichberechtigt sind.
-
+Der Ansatz des sozialen Lernens lässt sich auch auf Dewey beziehen. Illich und Dewey stellen sich beide gegen einen aktiven Lehrprozess und sehen Lernen eher als eine natürliche Eigenschaft des Menschen.
+Bei Dewey wird die These des unbestimmten Lernweges deutlich an der bewussten Formulierung des Lernens als Erfahrungsaustausch. Das Wort impliziert eine ungezwungene Kommunikation, in der beide Parteien gleichberechtigt agieren.
 Genauso beschreibt Dewey den ungehinderten Meinungsaustausch als den wichtigsten Faktor in Richtigung Fortschritt.
 Dabei stellt jede Form der Kategorisierung eine Einschränkung dar, welcher aber auch durch den freien Meinungsaustausch entgegengewirkt werden kann.
-Illich bezieht sich mit seinen Reformvorschlägen auf dieses Gesellschaftsbild.
-Er sieht seine Netzwerktheorie als eine Möglichkeit, ungehinderte Kommunikation außerhalb von gesellschaftlichen Pflichten zu realisieren.
-Die Schule stellt für ihn eine Institution dar, die diese Form des Erfahrungsaustausches behindert und sich ihr bewusst entgegenstellt.
+Dieses ideal lässt sich nahezu perfekt auf Illichs Netzwerktheorie anwenden;
+nämlich als eine Möglichkeit, ungehinderte Kommunikation außerhalb von gesellschaftlichen Pflichten zu realisieren.
 Dewey lässt sich in diesem Fall vielleicht als eine Art Vordenker für Illich sehen.
-Er stellt das Ideal auf, während Illich dessen Umsetzung in der heutigen Gesellschaft hinterfragt und sich mit der Errichtung einer demokratischen Gesellschaft (vrgl. S.121), im eigentlichen dewyschen Sinne, als mehr als nur eine Staatsform, beschäftigt.
-Illich sieht jedoch den Menschen an sich als Zielm, während Dewey seine pragmatische Ethik auf dem Fortschrittsgedanken basiert. (P.23)
+Er stellt das Ideal auf, während Illich dessen Umsetzung in der heutigen Gesellschaft durch das Schulsystem hinterfragt und sich mit der Errichtung einer demokratischen Gesellschaft (vrgl. S.121), im eigentlichen dewyschen Sinne, als mehr als nur eine Staatsform, beschäftigt.
+Illich begreift jedoch den Menschen an sich als Ziel, während Dewey seine pragmatische Ethik auf dem Fortschrittsgedanken basiert. (P.23)
+
+Illichs Wirken und Denken deckt sich in großen Teilen mit dem on Rousseau.
+Beide begreifen das jeweils gegenwärtige              Gesellschaftssystem als eine Form der Unterdrückung des eigentlichen Menschseins, wodurch die Schriften einen sehr romantischen Charakter bei der Beschreibung des Idealzustandes bekommen.
+>‘‘‘I’ precisely because of you, by allowing me to love you, give me the possibility to be co-relative to you, to be dysymmetrically proportionate to you. I see, therefore, in love, hope, and charity the crowning of the proportional nature
+of creation in the full, old sense of that term’’ (https://www.youtube.com/watch?v=vQLWAafp020)
+
+>"Alles ist gut, wie es aus den Händen des Schöpfers der Dinge hervorgeht; alles entartet unter den Händen des Menschen." Rousseau-1762, Émile, S.48
+
+
 
 Man kann sogar noch einen Schritt weiter gehen, indem man in Illichs Ideen eine Antwort auf eine der zentralen Fragen unserers Kurses, "Wie können unterschiedliche und unterschiedlich befähigte Menschen inhärent gleich berechtigt und persönlich autonom zusammenleben?", sieht.
 Ein zentraler Punkt, den er an der Institution Schule kritisiert,ist deren Recht zur Bewertung der Schüler durch Zertifikate.
@@ -107,6 +113,7 @@ Schule produziert also durch die Beeinflussung der Lernenden dahingehend, dass d
 Das impliziert die unterschiedliche Wertigkeit von Menschen und führt somit dazu, dass Schüler nicht nur als ungleich betrachtet werden, sondern auch sich selber als unterschiedlich wertvoll ansehen.
 Illich schlägt nun vor, das Messen von Fähigkeiten stark einzuschränken und im Bezug auf den Zugang zu Bildungsmöglichkeiten ganz abzuschaffen.
 So entsteht ein Menschenbild, dass von der Gleichwertigkeit Aller ausgeht, während die beschriebenen Freiheiten und Wahlmöglichkeiten ein Maximum an persönlicher Autonomie ermöglichen.
+
 
 Auch wenn Illich das Schulsystem abschaffen will - oder vielleicht auch gerade deswegen -, beschreibt er Lernen als eine innewohnende Eigenschaft des Menschen (
 >"the humman activity which least needs manipulation by others"(P.18).
