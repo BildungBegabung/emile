@@ -15,6 +15,7 @@ Das heißt, anstatt nach eigenen Informationen für sich selbst zu handeln, müs
 <!-- "at the disposal of a single central authority" (S.3) -->
 <!-- "planning". -->
 Das Kriterium dieser Modelle ist nach Hayek der Grad an Ausnutzung des vorhandenen Wissens ("We need decentralization because only thus [...] the knowledge [...] will be promptly used").
+<!-- TODO: Niko, findet jemand ein besseres Zitat? -->
 Ein dezentrales System erfüllt dieses Kriterium besser, weil Hayek davon ausgeht, dass
 > "[...] every individual has some advantage over all the others in that he posseses unique information of which beneficial use can be made only if the decisions depending on it are left to him or are made with his active cooperation".
 Im Gegensatz zu seinem Plädoyer gehen in einer Planwirtschaft viele Informationen verloren, außerdem sei kein Mensch fähig, wirtschaftliche Entscheidungen für eine ganze Gesellschaft zu treffen.
@@ -23,12 +24,13 @@ Im Gegensatz zu seinem Plädoyer gehen in einer Planwirtschaft viele Information
 Mit der Idee von einzigartigem (individuellen) Wissen erinnert Hayek an einen radikalen Dahl, der dessen Formulierung: "Every adult is the best judge of his/her self interest" verschärft.
 Er sagt nämlich, dass jene lokalen Informationen nur dann abrufbar sind, wenn, die Person freiwillig in den Markt eintritt.
 
-Hayek stellt so, ähnlich wie Kleinberg mit der Idee eines sozialen Wohlfahrtsoptimum im Positiv-Summen-Spiel, vor allem die wirtschaftliche Erträglichkeit von Kommunikation, als Mittel zur Anhäufung von Wissen, in den Mittelpunkt.
+<!-- Hayek stellt so, ähnlich wie Kleinberg mit der Idee eines sozialen Wohlfahrtsoptimums im Positiv-Summen-Spiel, vor allem die wirtschaftliche Erträglichkeit von Kommunikation, als Mittel zur Anhäufung von Wissen, in den Mittelpunkt. #195 -->
 
-Auf diese Art und Weise nähert sich Hayek auch dem Konstruktivismus an, wenn er sagt, dass wir nicht für andere entscheiden können, weil Informationen nur lokal in Individuen vorhanden sind.
-Auch Hayek schafft bis zu einem gewissen Grade einen objektiven Maßstab ab.
+Auf diese Art und Weise nähert sich Hayek auch Sieberts Konstruktivismus an, wenn er sagt, dass wir nicht für andere entscheiden können, weil Informationen nur lokal in Individuen vorhanden sind.
+Da auch die Hierarchiespitze einer Planwirtschaft nicht objektiv sein kann und deswegen dieses System schlechter funktioniert, kann man daraus schließen, dass Objektivismus für Hayek nicht möglich bzw. sehr uneffektiv scheint.
+In gewisser Weise entkräftet auch er damit so wie Siebert den *objektiven Maßstab*.
 Hayek beschäftigt jedoch weniger die Frage nach der Möglichkeit der Kommunikation (Kooperation?), wie es der Konstruktivismus formuliert, als vielmehr die Frage nach der Nötigkeit derselben.
-Brauchen wir Kommunikation, brauchen wir gemeinsame Symbole, um den Bogen zu Mead zu schlagen?  (: : : : : : : : : : : : : : : : : : : :)
+
 
 Das einzige "Symbol" , das wir brauchen , die einzige objektive Instanz und die einzige ist der Preis. Im Preis sind alle Informationen über ein Produkt enthalten, welche den Konsumenten interessieren müssen.  
 
