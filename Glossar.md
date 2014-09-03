@@ -50,7 +50,7 @@ Gesellschaftliche Konventionen des Verhaltens
 im MECE-Prinzip.
 Besagt, dass ein Kriterium hinreichend ist, wenn es nur auf eine von zwei Möglichkeiten zutreffend ist.
 ## Nash Equilibrium:
-<!-- bitte bei Siebert nachschauen und Definition zitieren -->
+
 ## Null-Summenspiel:
 
 ## Paretoprinzip:
