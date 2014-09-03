@@ -52,6 +52,40 @@ Dies müssen sie nicht nur in Bezug auf die "nur [...] durch den täglichen Text
 
 Dies verlangt von den Schülern und Schülerinnen, ihre Interessen zu kennen, damit die Lehrer den Schülern und Schülerinnen bei dem Erlangen von Informationen über dieses Interesse helfen zu können.  
 
+## Bezüge von Freinet zu anderen Theoretikern
+
+### Siebert:
+Freinet geht davon aus, dass ein Edukant am besten auf seine ganz individuelle Art und Weise lernt und sich die Welt erklärt (vgl. Freinet S. 496).
+Daraus lässt sich ableiten, dass nach Freinet in der Individualität für Freinet ein großer und wichtiger Vorteil liegt.
+Es lässt sich also schlussfolgern, dass Freinet einem konstruktivistischem Lernkonzept wie das von Horst Siebert zustimmen würde.
+Dieser behauptet:
+>"Die [...] so erzeugte Wirklichkeit ist keine Repräsentation [...] der Außenwelt, sondern eine funktionale, viable Konstruktion, die von anderen Menschen geteilt wird und die sich biographisch und gattungsgeschichtlich als lebensdienlich erwiesen hat" ( Siebert-2003 S. 6)
+
+Allerdings würde Freinet Sieberts Vorstelung des radikalen Konstruktivismus ablehnen, da dieser Kommunikation unter Menschen keinen Platz einräumt.
+Es würden danach semtliche Gedanken nur im Kopf eines Menschen rekursiv reknstruiert werden (vgl. Siebert-2003 S. 10) und somit hätte eine Schule wie sich Freinet sie Vorstellt keine Berechtigung
+Viel eher würde Freinet dem sozialen Konstruktivismus zustimmen. Dieser setzt besonders auf  soziale Interaktion einen großen Wert.
+
+### Benner:
+Benner sieht in einem Erziehungsprozess immer eine Aufforderung zur Bildsamkeit beziehungsweise zur Selbsttätigkeit.
+> "Der Grundbegriff der Pädagogik ist die Bildsamkeit" (Benner-2012 S. 70)
+
+Er räumt damit dem Individuum eine große Menge an Autonome ein.
+Gerade diese Autonomie die durch Selbsttätigkeit entsteht ist ein Grundsatz in Freinets didaktischer Konzeption.
+Hilfe gibt Freinet nur dann, wenn der Edukant diese auch benötigt, dies kommt Benners Aufforderung zur Bildsamkeit sehr Nahe, die nur dann notwendig ist, wenn der Edukant nicht dazu fähig ist sich selbst zu bilden.
+
+### Mead:
+Meads symbloischer Interaktionismus legt durch Kommunikation den Grundstein für die menschliche Identität.
+Diesen Ansatz würde Freinet unterstützen, da seine Didaktik ähnlich abläuft "wie in der Familie" ( Freinet-1946 S. 109).
+Somit ist Kommunikation sehr wichtig.
+
+### Zimpel:
+Nach Zimpels Hyperzyklus ist jedes Individuum wichtig für die Arbeit in einer Gruppe.
+Fällt auch nur ein Individuum weg, so ist die gesammte Struktur des Systems gefährdet und es kann nicht mehr jeder profitieren.
+Für Freinet ergibt sich diese Form des Lernens nocht nicht.
+Er stellt besonders die Beziehung zwischen Lehrer und Schüler in den Vordergrund.
+Unter den Schülern selbst herrscht jedoch ein großes Maß an Autonomie.
+Man erkennt jedoch, das bereits die Tendenz zu einer Schule mit solch inkluiver Arbeit vorhanden ist.
+
 ## Projektfrage 1:
 Der Schüler bei Freinet ist also sehr autonom.
 Wie diese Autonomie mit der inhärenter Gleichwertigkeit von Schülern und Lehrern, die er ebenfalls fordert (Vgl. Freinet-1964 S. 489), zusammenpasst, ist für Freinet erstmal nebensächlich.
