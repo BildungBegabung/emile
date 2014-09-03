@@ -32,8 +32,6 @@ In gewisser Weise entkräftet auch er damit so wie Siebert den *objektiven Maßs
 Hayek beschäftigt jedoch weniger die Frage nach der Möglichkeit der Kommunikation (Kooperation?), wie es der Konstruktivismus formuliert, als vielmehr die Frage nach der Nötigkeit derselben.
 Hayeks Verständnis von Symbolen als Konventionen, deren Herkunft man nicht mehr nachvollziehen kann, entspricht derjenigen von Mead.
 Auch die Wiedereinflussnahme aus Meads symbolischem Interaktionismus deckt sich mit dem Sparen als Konsequenz von hohen Preisen.
-Außerdem ergänzt sich der Wettbewerbsgedanke Hayeks mit der Idee des *Ecological Pragmatism*, welches aus aus Mead *Symbolischem Interaktionismus* hervorgeht:
-Ein Tisch dessen Nutzen sich nicht mit dessen Preis deckt, wird auf Dauer nicht Wettbewerbsfähig sein.
 
 Das einzige "Symbol" , das wir brauchen , die einzige objektive Instanz und die einzige ist der Preis. Im Preis sind alle Informationen über ein Produkt enthalten, welche den Konsumenten interessieren müssen.  
 <!-- TODO: Sagt er das wirklich? Textnachweis -->
