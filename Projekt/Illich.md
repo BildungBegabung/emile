@@ -82,8 +82,18 @@ Durch die große Vielfalt an Fähigkeiten, die durch die Fertigkeitsbörsen verm
 Der Prozess verläuft dort also nicht, wie in der Schule, einseitig zwischen Schüler und Lehrer, wordurch schwächere Schüler sich nicht als hilfreich für andere erleben können.
 <!-- TODO: Fällt euch ein Beispiel ein, was z.B. vermeintlich Schwächere in einer Lernplattform für andere anbieten könnten? -->
 
-Auch die Forderung Deweys nach vielfältigen gemeinsamen Interessen und "eine[r] reiche[n] Mannigfaltigkeit gemeinsamer Unternehmungen und Erfahrungen" (S.117) wird durch die Komponente des Lernens mit Gleichaltrigen erfüllt....
+Illich und Dewey beschreiben beide keinen aktiven Lehrprozess, sondern sehen Lernen eher als eine natürliche Eigenschaft des Menschen.
+Illich richtet sich ja sehr klar gegen die Vorstellung eines geplanten Lernweges, und sagt, niemand anders sollte in eder Lage sein auf welche Weise eine andere Person was lernt.
+Bei Dewey wird die These des unbestimmten Lernweges deutlich an der beweussten Formulierung des lernens als Erfahrungsaustausch. Das Wort impliziert eine ungezwungene Kommunikation in der beide Parteien gleichberechtigt sind.
 
+Genauso beschreibt Dewey den ungehinderten Meinungsaustausch als den wichtigsten Faktor in Richtigung Fortschritt.
+Dabei stellt jede Form der Kategorisierung eine Einschränkung dar, welcher aber auch durch den freien Meinungsaustausch entgegengewirkt werden kann.
+Illich bezieht sich mit seinen Reformvorschlägen auf dieses Gesellschaftsbild.
+Er sieht seine Netzwerktheorie als eine Möglichkeit, ungehinderte Kommunikation außerhalb von gesellschaftlichen Pflichten zu realisieren.
+Die Schule stellt für ihn eine Institution dar, die diese Form des Erfahrungsaustausches behindert und sich ihr bewusst entgegenstellt.
+Dewey lässt sich in diesem Fall vielleicht als eine Art Vordenker für Illich sehen.
+Er stellt das Ideal auf, während Illich dessen Umsetzung in der heutigen Gesellschaft hinterfragt und sich mit der Errichtung einer demokratischen Gesellschaft (vrgl. S.121), im eigentlichen dewyschen Sinne, als mehr als nur eine Staatsform, beschäftigt.
+Illich sieht jedoch den Menschen an sich als Zielm, während Dewey seine pragmatische Ethik auf dem Fortschrittsgedanken basiert.
 
 Man kann sogar noch einen Schritt weiter gehen, indem man in Illichs Ideen eine Antwort auf eine der zentralen Fragen unserers Kurses, "Wie können unterschiedliche und unterschiedlich befähigte Menschen inhärent gleich berechtigt und persönlich autonom zusammenleben?", sieht.
 Ein zentraler Punkt, den er an der Institution Schule kritisiert,ist deren Recht zur Bewertung der Schüler durch Zertifikate.
