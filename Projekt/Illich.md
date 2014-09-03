@@ -106,7 +106,8 @@ Beide plädieren für eine unabhängige Erziehung, die sie nicht auf eine späte
 Und Beide berufen sich auf einen Akt der Schöpfung.
 Dem fast verschwörungstheoretischen Charakter bei der Gegenwartsbeschreibung und der Idealisierung einer grundauf freien Gesellschaft liegt ein sehr positives Bild des transzendental freien Menschen vor.
 Mit Kooperationsproblemen und Interessenkonflikten setzten sich beide nur wenig auseinander.
-Das mag möglicherweise Grund für ein sehr unbeschwertes Bild einer *freien* Organisation des Zusammenlebens sein
+Das mag möglicherweise Grund für ein sehr unbeschwertes Bild einer *freien* Organisation des Zusammenlebens sein, und auch weswegen beide schnell als Träumer eingestuft wurden und werden.
+Was uns aber zu denken geben sollte, ist dass Rousseau, damals kritisch beäugt, heute im Unterricht als Mitbegründer unserer Gesellschaft gesehen wird, während Illich heute einfach als realitätsfern kategorisiert wird. 
 
 
 >"The child grows up in a world, surrounded by people who serve as models for skills and values (...), peers (...) to coorporate and understand, and if he is lucky, he is exposed to criticism by an experienced elders who really cares."
@@ -134,7 +135,7 @@ So entsteht ein Menschenbild, dass von der Gleichwertigkeit Aller ausgeht, währ
 
 
 
-education by all means education by all
+education for all means education by all
 p.11 rechts
 
 
@@ -154,7 +155,8 @@ Dabei haben wir aber auch zu jedem Zeitpunkt die Möglichkeit, professionelle Hi
 und uns vor allem in organisatorischen, bzw. technischen Fragen weiterhelfen.
 Als erster Kritikpnkt fällt natürlich die Vorauswahl der TNs ins Auge, jedoch stellen auch unter Negierung dieser Tatsache weitere Probleme in den Weg.
 Schränkte man unser Projekt allein auf die Ausarbeitung auf github ein, würde sich unser Kontakt ebenfalls wieder auf eine rein effizienzorientierte Ebene reduzieren und das eigentliche Identifizierungsprozess mit der anderen Perönlichkeit gerät in den Hintergrund.
-Illich hat sich nicht mit merge-conflicts auseinandergesetzt, bzw. auch allgemein nicht mit kooperationsproblemen 
+Illich hat sich nicht mit merge-conflicts auseinandergesetzt, bzw. auch allgemein nicht mit kooperationsproblemen,
+Rousseau auch nicht.
 
 evtl. passendes Zitat, das unseren Arbeitsprozess ganz gut veranschaulicht: (Illich über "Ältere"): "Sie können einen auf die richtigen Fragen hinweisen, die man mit Gleichaltrigen anschneiden soll, und auf die Unzulänglichkeit der Antworten, die man dort findet." (S.86)
 
