@@ -65,7 +65,7 @@ vorläufige Ideen: (zu diskutieren)
 
 <!-- TODO: Vielleicht auch SoWi-Texte? Mal Max ansprechen -->
 
-Viele Elemente aus Illichs Lernkonzept erfüllen die Anforderungen, welche die in der Exposition behandelten Texte an den Prozess des Lernens stellen.
+Viele Elemente aus Illichs Lernkonzept erfüllen die Anforderungen, welche die in der Exposition behandelten Texte an den Prozess des Lernens (?und an das menschliche Zusammenleben?) stellen.
 So müssen nach der Theorie des Konstruktivismus Lerninhalte "viabel", das heißt für das lernende Individuum funktional und bedeutend, sein.
 Da "das psychische System entscheidet, was es verarbeiten kann und will" (Siebert, S.18), ergibt sich die Forderung nach einem selbstbestimmten Lernen.
 Das Ziel aller Vorschläge Illichs ist es, den Lernenden "Zugang zu vorhandenen Möglichkeiten [zu] gewähren" (Illich, S.84) statt sie ihnen durch einen Lehrplan vorzuschreiben, welchen Wissensstand sie in welcher Zeit zu erreichen haben.
@@ -78,10 +78,16 @@ Desweiteren geschieht Lernen in Illichs Modell oft in sozialen Kontexten.
 Beispielsweise findet es in "Fertigkeitsbörsen" statt.
 Dieser Vorgang lässt sich sehr gut mit dem Konzept des Hyperzyklus beschreiben, dessen Bedingung es ist, "wer etwas weiß oder kann, teilt es mit den anderen" (Zimpel, S.123), was durch Illichs Vorschläge erfüllt wird.
 Dadurch, dass nicht mehr wie vorher "das Grundrecht auf Mitteilung des eigenen Wissens in das Privileg akademischer Freiheit [verkehrt wird], das nur den in einer Schule Beschäftigten verliehen wird" (Illich, S.97), ist jeder dazu befähigt, andere an seinem Wissen teilhaben zu lassen, während er wiederum von den Fähigkeiten anderer profitieren kann.
+Durch die große Vielfalt an Fähigkeiten, die durch die Fertigkeitsbörsen vermittelt werden können, erhalten so viele Menschen wie möglich die Gelegenheit, dort anderen gezielt helfen zu können und sich so als Teil eines Kreislaufs aus Geben und Nehmen zu verstehen.
+Der Prozess verläuft dort also nicht, wie in der Schule, einseitig zwischen Schüler und Lehrer, wordurch schwächere Schüler sich nicht als hilfreich für andere erleben können.
 <!-- TODO: Fällt euch ein Beispiel ein, was z.B. vermeintlich Schwächere in einer Lernplattform für andere anbieten könnten? -->
 
 - darauf aufbauend: Illich als Lösungsvorschlag?
-Idee: Frage: Wie können unterschiedliche und unterschiedlich befähigte Menschen inhärent gleich berechtigt und persönlich autonom zusammenleben?
+
+Man kann sogar noch einen Schritt weiter gehen, indem man in Illichs Ideen eine Antwort auf eine der zentralen Fragen unserers Kurses, "Wie können unterschiedliche und unterschiedlich befähigte Menschen inhärent gleich berechtigt und persönlich autonom zusammenleben?", sieht.
+Ein zentraler Punkt, den er an der Institution Schule kritisiert,ist deren Recht zur Bewertung von den Schülern durch Zertifikate. 
+Diese schulischen Zertifikate werden in der gegenwärtigen Gesellschaft als einzig legitime Qualifikationen betrachtet und geben somit der Schule die Macht, über die Zulassung von Schülern zu weiteren Bildungseinrichtungen oder die Erlaubnis zur Ausübung eines Berufs zu entscheiden.
+Durch dieses System...
 
 Lösung: Abschaffen der Bewertung von Fähigkeiten durch Zertifikate, die durch Institutionen vergeben werde. -->Gleichheit durch Gleichwertigkeit unterschiedlicher Fähigkeiten
 
@@ -102,6 +108,9 @@ Dabei haben wir aber auch zu jedem Zeitpunkt die Möglichkeit, professionelle Hi
 und uns vor allem in organisatorischen, bzw. technischen Fragen weiterhelfen.
 Als erster Kritikpnkt fällt natürlich die Vorauswahl der TNs ins Auge, jedoch stellen auch unter Negierung dieser Tatsache weitere Probleme in den Weg.
 Schränkte man unser Projekt allein auf die Ausarbeitung auf github ein, würde sich unser Kontakt ebenfalls wieder auf eine rein effizienzorientierte Ebene reduzieren und das eigentliche Identifizierungsprozess mit der anderen Perönlichkeit gerät in den Hintergrund.
+
+evtl. passendes Zitat, das unseren Arbeitsprozess ganz gut veranschaulicht: (Illich über "Ältere"): "Sie können einen auf die richtigen Fragen hinweisen, die man mit Gleichaltrigen anschneiden soll, und auf die Unzulänglichkeit der Antworten, die man dort findet." (S.86)
+
  - Peer-Aspekt (Kommentare auf Issues ->Diskussion),
  - Inhaltlich für *Projektarbeit*,
  - keine Bestimmung des Inhalts durch andere (Bsp: unser Kurs statt Programm schreiben);
