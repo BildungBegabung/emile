@@ -20,7 +20,6 @@ Ein dezentrales System erfüllt dieses Kriterium besser, weil Hayek davon ausgeh
 > "[...] every individual has some advantage over all the others in that he posseses unique information of which beneficial use can be made only if the decisions depending on it are left to him or are made with his active cooperation".
 Im Gegensatz zu seinem Plädoyer gehen in einer Planwirtschaft viele Informationen verloren, außerdem sei kein Mensch fähig, wirtschaftliche Entscheidungen für eine ganze Gesellschaft zu treffen.
 
-
 Mit der Idee von einzigartigem (individuellen) Wissen erinnert Hayek an einen radikalen Dahl, der dessen Formulierung: "Every adult is the best judge of his/her self interest" verschärft.
 Er sagt nämlich, dass jene lokalen Informationen nur dann abrufbar sind, wenn, die Person freiwillig in den Markt eintritt.
 
@@ -62,3 +61,6 @@ Beide gehen davon aus, dass jeder seinen eigenen Interessen am besten selber ein
 Dahl setze dies in den Zusammenhang mit der Persönlichen Autonomie, als Annahme für ein Demokratisches System.
 Hayek hingegen sagt je "weniger Regierung" (ebd. 527-528) und kollektive Entscheidungen (w.z.B. Planwirtschaft) desto besser.
 In diesen beiden unterschiedlichen Perspektiven für ein Gesellschaftssystem besteht der starke Kontrast zwischen den beiden Autoren.
+
+# Projekt
+## Vergleich Hayek zu Illich:
