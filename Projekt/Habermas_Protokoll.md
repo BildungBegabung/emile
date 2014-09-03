@@ -28,7 +28,7 @@ Außerdem kann das Ziel eines Sprechaktes nicht kausal herbeigeführt werden, da
 Denn mit jedem Sprechakt wird automatisch ein Gültigkeitsanspruch aufgestellt und sobald illokutive Ziele verfolgt werden, wird der Handlungsbereich des Sprechenden verlassen und dieser ist auf die Kooperation und Einwilligung des Gespächspartners angewiesen, um sein Ziel zu erreichen.
 
 
-Durch diese Nötigkeit der Kooperation entstehen allerdings auch Konflikte, weshalb sich Habermas im weiteren Text fast ausschließlich mit den sozialen Handlungen befasst.
+Durch diese Nötigkeit der Kooperation entstehen allerdings auch Konflikte, weshalb sich Habermas im weiteren Textverlauf fast ausschließlich mit den sozialen Handlungen befasst.
 Hier differenziert er zwischen strategischem und kommunikativem Handeln, wobei er Letzteres für erstrebenswert hält.
 Zwar steht für Habermas grundsätzlich hinter jeder Handlung ein "action plan", ist jede Handlung in irgendeiner Form mit einem Ziel verbunden.
 Allerdings geht er auch davon aus, dass für eine erfolgreiche Kommunikation die Beilegung dieses "action plans" nötig ist, um ausschließlich illokutive Ziele zu verfolgen.
