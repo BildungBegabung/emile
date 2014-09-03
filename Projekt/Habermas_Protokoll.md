@@ -8,14 +8,14 @@ Er unterscheidet diese Handlungsformen anhand von zwei Gesichtspunkten:
 
 Die Beobachtung und das Telos (Ziel), die durch die Handlungen erreicht werden können.
 Handlungen an Objekten können zwar identifiziert werden, als beispielsweise schnelles Laufen oder Hinsetzen, aber durch reine Beobachtung von einer außenstehenden Person können sie nie ausreichend beschrieben werden, da das Ziel hinter der Handlung nicht ersichtlich ist.
-Der Sprechakt hingegen offenbart dem Gesprächspartner die dem Sprechakt zugrundeliegende Absicht des Sprechers durch das enthaltene *illokutive* Element und erklärt sich somit selbst.
+Der Sprechakt hingegen offenbart dem Gesprächspartner die dem Sprechakt zugrundeliegende Absicht des Sprechers durch das enthaltene illokutive ~ Element und erklärt sich somit selbst.
 Allerdings nur dem Gesprächspartner, der
 
 a) die selbe Sprache spricht wie der Sprechende,
 
 b) die Perspektive des Beobachters aufgibt, um die des Partizipierenden einzunehmen und
 
-c) eine *intersubjektive Lebenswelt* mit dem Sprechenden teilt.
+c) eine intersubjektive Lebenswelt ~ mit dem Sprechenden teilt.
 
 Die beiden Handlungsformen unterscheiden sich aber nicht nur in Bezug auf den selbstreflektierenden Faktor sondern auch, was den Weg zum Erreichen der Ziele angeht.
 Während die Ziele der Handlungen am Objekt laut Habermas kausal herbeigeführt werden können und die Mittel unabhängig vom Zwecks stehen, können die Ziele eines Sprechaktes nicht unter diesen Kategorien zusammengefasst werden.
@@ -34,7 +34,7 @@ Allerdings grenzt er sich von deren Vorstellung ab, die von Sprechakten aufgeste
 Hier differenziert er zwischen strategischem und kommunikativem Handeln, wobei er letzteres für erstrebenswerter hält.
 Zwar steht für Habermas grundsätzlich hinter jeder Handlung ein "action plan",  also ein Ziel.
 Allerdings geht er auch davon aus, dass für eine erfolgreiche Kommunikation die Beilegung dieses "action plans" nötig ist, um ausschließlich illokutive Ziele zu verfolgen.
-Wird mehr als ein illokutives Ziel verfolgt, spricht Habermas von strategischem Handeln, welches *perlokutive* Ziele in den Vordergrund stellt.
+Wird mehr als ein illokutives Ziel verfolgt, spricht Habermas von strategischem Handeln, welches perlokutive ~ Ziele in den Vordergrund stellt.
 Dabei gibt es wiederum zwei Arten von strategischem Handeln:
 Latent strategisches Handeln und manifest strategisches Handeln.
 
