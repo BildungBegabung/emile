@@ -12,15 +12,16 @@ Um wirtschaftliches Handeln zu fördern ist die Anhäufung von *knowledge* nöti
 Hayek stellt ein dezentrales wirtschaftliches System vor, das auf eigenständigen wirtschaftlichen Entscheidungen basiert
 Diesem anarchokapitalistischen Wirtschaftsmodell stellt Hayek ein zentralisiertes, planwirtschaftliches Modell gegenüber, in dem die wirtschaftlichen Entscheidungen in der Hierarchiespitze getroffen werden.
 Das heißt, anstatt nach eigenen Informationen für sich selbst zu handeln, müssen in dem planwirtschaftlichen System alle Informationen der Individuen an die Hierarchiespitze gebracht werden, die diese dann addiert und zu einer wirtschaftlichen Handlung transformiert.
-
 <!-- "at the disposal of a single central authority" (S.3) -->
 <!-- "planning". -->
 Das Kriterium dieser Modelle ist nach Hayek der Grad an Ausnutzung des vorhandenen Wissens ("We need decentralization because only thus [...] the knowledge [...] will be promptly used").
-Ein dezentrales System erfüllt dieses Kriterium besser, weil Hayek davon ausgeht, dass "[...] every individual has some advantage over all the others in that he posseses unique information of which beneficial use can be made only if the decisions depending on it are left to him or are made with his active cooperation".
+Ein dezentrales System erfüllt dieses Kriterium besser, weil Hayek davon ausgeht, dass
+> "[...] every individual has some advantage over all the others in that he posseses unique information of which beneficial use can be made only if the decisions depending on it are left to him or are made with his active cooperation".
+Im Gegensatz zu seinem Plädoyer gehen in einer Planwirtschaft viele Informationen verloren, außerdem sei kein Mensch fähig, wirtschaftliche Entscheidungen für eine ganze Gesellschaft zu treffen.
 
-Hayek meint außerdem, das in einer Planwirtschaft [äpfel-birnen-preis?] nicht genug Informationen über das Produkt vermitteln werden. [........]
 
-Mit der Idee von einzigartigem (individuellen) Wissen, das jede Person mehr innehat als alle anderen, erinnert Hayek an einen radikalen Dahl, der dessen Formulierung: "Every adult is the best judge of his/her self interest" verschärft, indem Hayek sagt, dass Informationen nur lokal existieren und wenn die Person frei in Marktaustausch eintritt.
+Mit der Idee von einzigartigem (individuellen) Wissen erinnert Hayek an einen radikalen Dahl, der dessen Formulierung: "Every adult is the best judge of his/her self interest" verschärft.
+Er sagt nämlich, dass jene lokalen Informationen nur dann abrufbar sind, wenn, die Person freiwillig in den Markt eintritt.
 
 Hayek stellt so, ähnlich wie Kleinberg mit der Idee eines sozialen Wohlfahrtsoptimum im Positiv-Summen-Spiel, vor allem die wirtschaftliche Erträglichkeit von Kommunikation, als Mittel zur Anhäufung von Wissen, in den Mittelpunkt.
 
