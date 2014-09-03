@@ -5,14 +5,14 @@ Symbolisch heißt soviel wie bildhaft oder sprachlich und Interaktionismus ist d
 Zusammengefasst heißt das also, dass Mead sich mit der sprachlichen, bildlichen Beziehung zwischen Menschen beschäftigt.
 Daraus lassen sich sowohl soziologische als auch pädagogische Rückschlüsse ziehen.
 
-Das Rückrad Meads, auf das sich seine ganze Theorie stützt, besteht aus den Komponenten "I", "Me" und "Self".
-<!-- TODO: umgangssprachl. -->
-Dabei werden Wünsche und Ziele bzw. sinnliche und körperliche Bedürfnisse durch das "I" ausgedrückt, kurz der Egoismus eines Individuums.
+Der Hauptbestandteil Meads, auf den sich seine ganze Theorie stützt, besteht aus den Komponenten **"I"**, **"Me"** und **"Self"**.
+Dabei werden Wünsche und Ziele beziehungsweise sinnliche und körperliche Bedürfnisse durch das "I" ausgedrückt, kurz der Egoismus eines Individuums.
 Das "I" wird auch impulsives Ich genannt, da es immer Neues und Schöpferisches in jede Situation bringt.
-<!-- TODO: Würde den Begriff Triebe vermeiden, da er zu sehr an Freud erinnert. -->
 Das "Me" steht dem gegenüber und ist die Vorstellung eines Menschen, wie er von der Außenwelt betrachtet wird.
 Es ist somit das reflektierte Ich.
-Des Weiteren ist das "Me" ständig in Bewegung, weil immer neue Ansichten, wie jemand von der Gesellschaft gesehen wird, im Verlauf des Lebens hinzukommen.
+Des Weiteren ist das "Me" ständig in Bewegung, weil immer neue Ansichten, wie jemand von der Gesellschaft gesehen wird, im Verlauf des Lebens hinzukommen. Mead beschreibt den Zusammenhang zwischen "I" und "Me" so:
+>*"Das I ruft das Me nicht nur hervor, es reagiert auch darauf. Zusammen bilden sie eine Persönlichkeit, wie sie in der gesellschaftlichenErfahrungen erscheint."* (Mead-1934, S.221)
+
 Die Bildung des "Me" ist also nie wirklich abgeschlossen.
 Aufgrund dessen, dass das "Me" die Moralität beinhaltet und den Pluralismus der Gesellschaft umfasst, ist es der ständige Gegenspieler des "I".
 Der dritte Komponent ist die Entscheidungskraft, beziehungsweise das Ergebnis aus den ersten beiden Komponenten, das "Self".
@@ -28,7 +28,7 @@ Zwei Individuen einigen sich auf ein Symbol, welches wiederum Einfluss auf diese
 Es entsteht also ein Kreislauf.
 Dieser Kreislauf funktioniert auf der Basis von Individuation und Sozialisation:
 Der Prozess, in welchem sich zwei Individuen auf ein Symbol einigen, ist die Sozialisation, da einem Individuum ein Wert der Gesellschaft als Symbol erklärt wird.
-Dieser Wert hat dann wiederrum einen individuellen Einfluss auf beide Individuen, weshalb dies die Individuation von beiden Individuen ist.
+Dieser Wert hat dann wiederum einen individuellen Einfluss auf beide Individuen, weshalb dies die Individuation von beiden Individuen ist.
 
 Genauer erklärt heißt Sozialisation folgendes:
 Die Anpassung an gesellschaftliche Denk- und Gefühlsmuster durch Internalisierung von sozialen Werte und Normen.
@@ -43,11 +43,8 @@ Obwohl die Gesellschaft Erwartungen an jedes Individuum stellt, ist immer noch d
 Jeder Mensch ist zusätzlich dazu noch individuell darin, wie er sich in den jeweiligen Situationen entscheidet: Für das I oder für das Me. Auch dieses wird in einer identischen Situation nicht von jedem Menschen gleich beantwortet. Das hängt wiederum mit den zuvor in der Sozialisation erworbenen Werten und Normen zusammen.
 An diesem Punkt ist zu bemerken, dass die Gesellschaft und das Individuum nicht zu trennen sind, genauso wie das I und das Me. Beides gehört zu einer Person und die genaue Individualität wird dadurch erreicht, was diese Person mit der eigenen Individualität und den Normen und Werten der Gesellschaft macht.
 
-
 Besonders rückblickend auf die Symbole lassen sich drei Schlussfolgerungen ziehen, die aus dieser Theorie entstehen:
 Zum einen die von Michel Faucault, die besagt, dass einflussreiche Personen Symbole konstruiert haben und somit als Macht benutzt haben.
 Zum anderen die von Griffin, die beinhaltet, dass der "Ecological Pragmatism", wie er es nennt, schon in unser Historie die Verhaltensweisen der Menschen beschreibt.
 Die dritte Schlussfolgerung ist die "Integrationspädagogik", die besagt, dass aufgrund des Kreislaufes Behinderte nicht nur körperlich, sondern auch symbolisch eingeschränkt sind, sie also an gewissen gesellschaftlichen Aktionen nicht teilnehmen können.
 Diese Schranken aufzuheben, um soziale Integration von Menschen mit Behinderung zu fördern, versucht die Integrationspädagogik in der Schule zu etablieren.
-
-<!-- TODO: Hier sollten noch Zitate aus dem Mead-text (besonders zu I, Me und Self) nachträglich eingefügt werden. -->
