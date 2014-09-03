@@ -45,7 +45,7 @@ Diese Möglichkeit der Perturbation kann der Lehrende zur Vermittlung von Wissen
 <!-- Eine direkte Kontrolle des Lernstoffs ist demnach natürlich nicht möglich, aber der Lehrende kann durch gezielte Perturbationen gegebenenfalls neue Sichtweisen für den Lernenden eröffnen und diese somit zur Vermittlung von Wissen nutzen. -->
 
 Hierbei ist eine Parallele zu **Benner** denkbar, da durch seine (Benners) Aufforderung zur Selbsttätigkeit eine **mögliche Perturbation in Sieberts Sinne bestehen könnte.**
-
+<!-- Hierbei ist eine Parallele zu **Benners** Aufforderung zur Selbsttätigkeit denkbar, da diese **möglicherweise eine Perturbation in Sieberts Sinne darstellt.** -->
 
 Die Perturbation kann sowohl auf lerntheoretischen  Ansätze angewandt werden, als auch auf soziologische Problematiken übertragen werden.
 Beispielsweise geht der Konstruktivismus ontologisch von autonomen Individuen aus.
@@ -63,20 +63,25 @@ Die radikale Änderung seiner eigenen Wahrnehmung und Kommunikation verursachte 
 > [Peter Bichsel](Ein Tisch ist ein Tisch)
 
 Der Verlust der Kooperation mit der Umwelt durch die Isolierung in der Subjektivität und damit auch die fehlende Beziehung mit Menschen, zeigt die Grenzen des radikalen Ansatzes der konstruktivistischen Theorie auf, denn sie iosliert den Menschen als geschlossenes *"System"*.
+<!--CE: Ich glaube der letzte Nebensatz ist nicht nötig, eig wiederholt es ja nur den Anfang des Satzes  -->
 Diese Tatsache impliziert ein Kooperationsproblem zwischen koexistierenden *"Lebensrealitäten"*, da jene *"Realitäten"* sich ausgehend vom Individuum unterscheiden.
 
 
 Dies impliziert ein Kooperationsproblem zwischen koexistierenden *"Lebensrealitäten"*, welches durch Perturbation einen Lösungsansatz finden kann.
-Durch Anwendung dieser *"Störung"* [Sprachmacht, Gesellschaftsmacht, Glaubensmacht [Siebert] (vgl. S.11)] kann eine allgemein gültige Leitkultur (**Makrosoziologie**) unter verschieden Individuen entstehen und eine gemeinsame Kooperationsgrundlage geschaffen werden
+<!--CE: Sieberts Vorschlag der Perturbation bietet einen Lösungsansatz für jenes Kooperationsproblem zwischen koexistierenden, voneinander isolierten *Lebensrealitäten*.   -->
+Durch diese *"Störungen"* [Sprachmacht, Gesellschaftsmacht, Glaubensmacht [Siebert] (vgl. S.11)] kann eine allgemeingültige Leitkultur (**Makrosoziologie**) unter verschieden Individuen entstehen und eine gemeinsame Kooperationsgrundlage geschaffen werden.
 Der Mensch wird nach Siebert demzufolge auch *"[...] durch politischökonomischen Verhältnissen, die durch Macht, Hierarchien, Partizipatrordischancem Eigentum, Massenmedien und Ähnliches gekennzeichnet sind"*, (ebd.) beeinflusst.
 
 > "Die Grenze ist nicht eine räumlich Tatsache mit sozologischen Wirkungen, sondern eine soziologische Tatsache, die sich räumlich formt." [Georg Simmel]
 
 Dank dieser Leitkultur, oder auch einfach trotz der konstruktivistischen Vorstellungen, gibt es Tatsachen, die wir empirisch gleich wahrnehmen, etwa die Stellung von Gegenständen.
+<!--So öffnet sich der Konstruktivismus für allgemeine Vorstellungen und kann auch Tatsachen Bezug nehmen, die wir alle gleich wahrnehmenn, wie z.B. die Positionen von Gegenständen. (?)   -->
 Was das bedeutet lässt sich am Beispiel der Relativitätstheorie veranschaulichen:
 In relatvistischen Situation (in denen die Relativitätstheorie greift) kann man nicht sagen, wie groß, schnell oder massereich ein Körper ist.
 Diese Eigenschaften, die wir für gewöhnlich als objektiv und unumstößlich wahr ansehen, hängen vom Bewegungszustand des Beobachters ab.
 Doch die Relativitätstheorie kennt andererseits auch Ereignisse, wie etwa das Aufeinandertreffen zweier Körper, die allgemeingültig sind und die jeder Betrachter so sieht. (Vgl. Einstein, Albert: Über die spezielle und die allgemeine Relativitätstheorie, 23. Auflage, Berlin u.a. 1988, S. 1-38)
+<!-- Ce:(ab Z.65)Treffen zwei Körper aufeinander, so lassen sich nach der Relativitätstheorie die genauen Umstände wie der Zeitpunkt, die genaue Position und Geschwindigkeit, unmöglich einheitlich bestimmen. *Dass* sie es aber tun, ist unbestritten; in dieser Hinsicht sind sich alle Beobachter einig. -->
 Auf den Konstruktivismus bezogen, bedeutet das:
 Je nach unseren genetischen Anlagen, Vorerfahrungen etc. hat jeder Mensch eine andere subjektive Wirklichkeit.
 Innerhalb dieser Wirklichkeiten nehmen wir aber bestimmte Gegebenheiten (*Da steht ein Stuhl*) gleich wahr.
+<!--Trotz unser unterschiedlichen genetischen Vorraussetzungen, unser tiefst individuellen Biographie, Erfahrungen und verschiedenen subjetiven Wirklichkeiten, können wir uns trotzdem auf bestimmte Werte einigen.  -->
