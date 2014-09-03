@@ -37,11 +37,11 @@ Das einzige "Symbol" , das wir brauchen , die einzige objektive Instanz und die 
 <!-- TODO: Sagt er das wirklich? Textnachweis -->
 Hayek plädiert für einen puren Kapitalismus mit keinen zentralisierten Elementen. Der Staat soll den Rahmen für die freie Ausübung der marktwirtschaftlichen Praxis bieten - aber möglichst wenig Autorität ausüben.
 
-Im sozialen und gesellschaftlichen Kontext bedeutet das, dass Instituionen und staatliche Instanzen nur einen Umweg, eine Verkomplizierung in der Informationsvermittlung bedeuten, und die Interessen der Einzelnen nicht fassen können. Die Entscheidungsgewalt über ökonomische Handlungen sollte 
+Im sozialen und gesellschaftlichen Kontext bedeutet das, dass Instituionen und staatliche Instanzen nur einen Umweg, eine Verkomplizierung in der Informationsvermittlung bedeuten, und die Interessen der Einzelnen nicht fassen können. Die Entscheidungsgewalt über ökonomische Handlungen sollte also so oft wie möglich bei den Individuen liegen.
 
-In Bezug auf die Schule bedeutet das, dass die Idee eines Bildungskanons, einer Informationsvermittlung auf objektiver Basis, verneint wird.
-Brauchen wir Schule überhauptinstutionalisiertes Lehrsystem, wenn die individuelle Informationsfülle reicht?
+Wenn man versucht, das auf das Schulsystem zu beziehen, könnte man sagen, dass die Idee eines Bildungskanons, einer Informationsvermittlung auf objektiver Basis, verneint wird.
 In diesem Kontext kann man Hayek auch mit Illich assoziieren.
+Fraglich ist allerdings, ob Hayeks ökonomische Gedanken auf das Schulsystem übertragbar sind, vor allem, da Hayek sich explizit positiv zum Schulsystem geäußert hat. 
 
 # Projekt
 ##Vergleich Hayek zu Dahl:
