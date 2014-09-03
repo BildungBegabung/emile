@@ -15,14 +15,14 @@ Abhängig von den individuellen Determinationen, mit denen ein Mensch im Leben k
 - Der Mensch ist demnach strukturdeterminiert (vgl. ebd. S. 5).
 
 Aufbauend auf diesem individuell geprägten Menschenbild geht Siebert davon aus, dass ein Wechselverhältnis zwischen der Wahrnehmung des Menschens und der Umwelt existiert.
-Diese beruht jedoch auf der subjektiven Auslegung (z.B. bewertet nach Wichtigkeit der Information) jedes **einzelnen Menschen** (*Systems*) und demnach nicht als status quo anzusehen.
+Dieses beruht jedoch auf der subjektiven Auslegung (z.B. bewertet nach Wichtigkeit der Information) jedes **einzelnen Menschen** (*Systems*) und ist demnach nicht als status quo anzusehen.
 
 Die individuelle Wahrnehmung wird von Viabilität und Rekursivität bestimmt, womit ein Ansatz zur Lerntheorie gefunden werden kann, der benötigt wird.
-Geht man allerdings von der vollkommenen Subjektivität eines Individuums aus, so ist das, auf allgemeine Lernmethoden beruhtes Schulsystem nicht in der Lage zu **lehren**.
+Geht man allerdings von der vollkommenen Subjektivität eines Individuums aus, so ist das auf allgemeinen Lernmethoden beruhende Schulsystem nicht in der Lage zu **lehren**.
 
 Demzufolge schlussfolgert Siebert, dass ein *"Bildungskanon"* (ebd. S.28) nicht der menschlichen Natur des Lernens entspricht.
 In einer pluralisierten Gesellschaft ist somit ein pluralistisches Lernraster erforderlich.
->In einer Gesellschaft die durch fortschreitende Individualisierung [...] gekennzeichnet ist, erscheint auch eine Pluralisierung des Bildungsbegriffs angemessen. (S.29)
+>In einer Gesellschaft die durch fortschreitende Individualisierung [...] gekennzeichnet ist, erscheint auch eine Pluralisierung des Bildungsbegriffs angemessen. (ebd. S.29)
 
 -Die Frage nach der bestmöglichen Vermittlung und damit auch dem Lernerfolg des Lernenden bleibt eine grundlegende Frage in der Schul - sowie Lerntheorie.
 
@@ -50,12 +50,9 @@ Die radikale Änderung seiner eigenen Wahrnehmung und Kommunikation verursachte 
 > "Viel schlimmer war, sie konnten ihn nicht mehr verstehen. Und deshalb sagte er nichts mehr. Er schwieg, sprach nur noch mit sich selbst, grüßte nicht einmal mehr."
 > [Peter Bichsel](Ein Tisch ist ein Tisch)
 
-Der Verlust der Kooperation mit der Umwelt durch die Isolierung in der Subjektivität und damit auch die fehlende Beziehung mit Menschen, zeigt die Grenzen des radikalen Ansatzes der konstruktivistischen Theorie auf, denn sie iosliert den Menschen als geschlossenes *"System"*.
-Diese Tatsache impliziert ein Kooperationsproblem zwischen koexistierenden *"Lebensrealitäten"*, da jene *"Realitäten"* sich ausgehend vom Individuum unterscheiden.
+Der Verlust der Kooperation mit der Umwelt durch die Isolierung in der Subjektivität und damit auch die fehlende Beziehung mit Menschen, zeigt die Grenzen des radikalen Ansatzes der konstruktivistischen Theorie auf, denn sie isoliert den Menschen als geschlossenes *"System"*.
+Diese Tatsache impliziert ein Kooperationsproblem zwischen koexistierenden *"Lebensrealitäten"*, da jene *"Realitäten"* sich ausgehend vom Individuum unterscheiden und welches durch Perturbation einen Lösungsansatz finden kann.
+Durch Anwendung dieser *"Störung"* [Sprachmacht, Gesellschaftsmacht, Glaubensmacht [Siebert] (vgl. S.11)] kann eine allgemein gültige Leitkultur (**Makrosoziologie**) unter verschiedenen Individuen entstehen und eine gemeinsame Kooperationsgrundlage geschaffen werden
+Der Mensch wird nach Siebert demzufolge auch durch *"[...] politischökonomische[n] Verhältnisse[n], die durch Macht, Hierarchien, Partizipationschancen, Eigentum, Massenmedien und Ähnliches gekennzeichnet sind"*, (ebd.) beeinflusst.
 
-
-Dies impliziert ein Kooperationsproblem zwischen koexistierenden *"Lebensrealitäten"*, welches durch Perturbation einen Lösungsansatz finden kann.
-Durch Anwendung dieser *"Störung"* [Sprachmacht, Gesellschaftsmacht, Glaubensmacht [Siebert] (vgl. S.11)] kann eine allgemein gültige Leitkultur (**Makrosoziologie**) unter verschieden Individuen entstehen und eine gemeinsame Kooperationsgrundlage geschaffen werden
-Der Mensch wird nach Siebert demzufolge auch *"[...] durch politischökonomischen Verhältnissen, die durch Macht, Hierarchien, Partizipatrordischancem Eigentum, Massenmedien und Ähnliches gekennzeichnet sind"*, (ebd.) beeinflusst.
-
-> "Die Grenze ist nicht eine räumlich Tatsache mit sozologischen Wirkungen, sondern eine soziologische Tatsache, die sich räumlich formt." [Georg Simmel]
+> "Die Grenze ist nicht eine räumlich Tatsache mit soziologischen Wirkungen, sondern eine soziologische Tatsache, die sich räumlich formt." [Georg Simmel]
