@@ -1,79 +1,79 @@
 # Fremdwörter und Definitionen
 
-## Autopoiesis:
+### Autopoiesis:
 Selbstorganisation lebender Wesen, die Fortpflanzung und Leben dienen.
-## Axiologie:
+### Axiologie:
 Normatives, wie Dinge sein sollten.
-## Bildsamkeit:
+### Bildsamkeit:
 Die Fähigkeit des Individuums sich fortzubilden (Theorie Benner) durch Lernen und Bildung.
-## Deontologie:
+### Deontologie:
 das Gesollte, die Pflicht
-## Ecological Pragmatism:
+### Ecological Pragmatism:
 
-## Effective participation:
+### Effective participation:
 Bei einer Wahl muss die Stimme eines Individuums genauso viel Wert besitzen, wie die jedes anderen Individuums.
-## Enlightened understanding:
+### Enlightened understanding:
 stammt aus der Theorie Dahls und heißt übersetzt: "aufgeklärtes Verständnis"
-## Equal voting:
+### Equal voting:
 Jede Stimme eines Individuums zählt genauso viel wie die eines anderen Individuums.
-## Ethik/Pragmatische Ethik:
+### Ethik/Pragmatische Ethik:
 Pflichten, die ein Mensch von sich aus hat, also a priori
-## Fortschritt:
+### Fortschritt:
 Die ständige Verbesserung und Weiterentwicklung der WIssenschaft, der Technik und der Lebensqualität.
-## Freiheit:
+### Freiheit:
 Beschreibt den Zustand, zwischen vielen verschiedenen Möglichkeiten beliebig wählen zu dürfen ohne dabei eingeschränkt zu werden bzw. die Möglichkeit aus vielen verschiedenen Optionen individuell wählen zu können ohne jeglichen Vormund.
-## Illokutiv:
+### Illokutiv:
 Element eines Sprechaktes, das die Intention des Sprechers deutlich macht.
-## Ideologie:
+### Ideologie:
 Alle Ansichten und Werte einer sozialen Gruppe, einer bestimmten Gesellschaft.
-## Inhärente Gleichheit:
+### Inhärente Gleichheit:
 Die innewohnende Gleichwertigkeit einer Mehrzahl von Personen in einem bestimmten Merkmal, die von Geburt aus gleich sind.
-## Institution:
+### Institution:
 Eine soziale Struktur, die eine gewisse Stabilität hat. Im weiteren Sinne beschreiben Instutitutionen zum Beispiel auch Dinge wie "Klatschen" oder Hände schütteln zur Begrüßung.
-## Integral:
+### Integral:
 Beschreibt den Abschnitt unter dem Graph in der Produktionsmöglichkeitenkurve.
-## Interaktion:
+### Interaktion:
 wechselseitige Beziehung, aufeinander bezogenes Handeln, gegenseitige Beeinflussung.
-## Intersubjektiv:
+### Intersubjektiv:
 mehreren Personen gleichermaßen zugänglich.
-## Konsequentialismus:
+### Konsequentialismus:
 Handeln ist gut, wenn das Ergebnis gut ist.
-## Konstruktivismus:
+### Konstruktivismus:
 Theorie, die feststellt, dass jede Person die Welt verschiedenerweise versteht und dass keiner Zugang zu der objektiven Realität hat.
-## Kooperation:
+### Kooperation:
 Die Zusammenarbeit von zwei oder mehreren Parteien.
-## Monopolist:
+### Monopolist:
 Besitzer des absoluten Rechts oder der absoluten Kontrolle über die Produktion.
-## Moral:
+### Moral:
 Gesellschaftliche Konventionen des Verhaltens
-## Mutually exclusive:
+### Mutually exclusive:
 im MECE-Prinzip.
 Besagt, dass ein Kriterium hinreichend ist, wenn es nur auf eine von zwei Möglichkeiten zutreffend ist.
-## Nash Equilibrium:
- Eine Kombination von Strategien in nicht-kooperativen Spielen, wobei jeder Spieler genau eine Strategie wählt, von der aus es für keinen Spieler sinnvoll ist, von seiner gewählten Strategie abzuwenden.
+### Nash Equilibrium:
+Eine Kombination von Strategien in nicht-kooperativen Spielen, wobei jeder Spieler genau eine Strategie wählt, von der aus es für keinen Spieler sinnvoll ist, von seiner gewählten Strategie abzuwenden.
 
-## Null-Summenspiel:
- Situationen in der Spieltheorie bei denen die Summe der Gewinne und Verluste aller Spieler zusammengenommen gleich null ist.
-## Paretoprinzip:
+### Null-Summenspiel:
+Situationen in der Spieltheorie bei denen die Summe der Gewinne und Verluste aller Spieler zusammengenommen gleich null ist.
+### Paretoprinzip:
 Beziehungsweise Unanimity ist nach dem Sozialwahlprinzip ein Kriterium, das laut Arrow bei einer Wahl erfüllt werden muss:
 Wenn alle Teilnehmer an einer Wahl in ihrer individuellen Rangliste eine Alternative (A) über eine andere (B) stellen, sollte die Rangfolge im Endergebnis diese Präferenz widerspiegeln, d.h. A sollte B vorgezogen werden. (vgl. S.749, Kleinberg)
 Allgemein kann man einen Prozess als eine Pareto-Verbesserung bezeichnen, wenn nach einer Veränderung alle Beteiligten besser oder zumindest gleich gut gestellt sind.
-## Pädagogik:
+### Pädagogik:
 Die Wissenschaft, die sich mit dem Unterrichten und Erziehen beschäftigt:
-## Behaviorismus:
+### Behaviorismus:
 Die Wissenschaft des menschlichen Verhaltens.
-## Perlokutiv:
+### Perlokutiv:
 Teil des Sprechaktes, der eine Wirkung beim Hörer erzielt.
-## Persönliche Autonomie:
+### Persönliche Autonomie:
 Die Fähigkeit des Menschen, sich selbst zu führen, ohne Hilfe oder Aufsicht von anderen.
-## Positiv-Summenspiel:
+### Positiv-Summenspiel:
 
-## Rekursivität:
+### Rekursivität:
 Bedeutet sich auf Erfahrungen zurückzubeziehen.
-## Aufforderung zur Selbsttätigkeit:
+### Aufforderung zur Selbsttätigkeit:
 Beschreibt den Vorgang, dass ein Lehrender z.B ein Pädagoge den "Zu-Lehrenden" auffordert oder dazu bringt autonom zu sein.
-## Symbolischer Interaktionismus:
+### Symbolischer Interaktionismus:
 Symbolisch heißt soviel wie bildhaft oder sprachlich und Interaktionismus ist die Kommunikation zwischen Individuengruppen.
 Zusammengefasst heißt das also, dass Mead sich mit der sprachlichen, bildlichen Beziehung zwischen Menschen beschäftigt.
-## Viabilität:
+### Viabilität:
 Begriffe sind dann viabel, wenn sie zu Beschreibungen passen, für die wir sie auch benutzen. Desweiteren sind Dinge viabel, wenn sich ein Individuum dafür interessiert bzw. lebensdienlich ist.
