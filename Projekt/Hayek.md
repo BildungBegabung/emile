@@ -25,7 +25,13 @@ Angelehnt an seine zwei gegensätzlichen Wirtschaftsmodelle der Informationsvert
 Der Käufer eines Produktes braucht nicht zu wissen, mit welchem Schiff ein Produkt in den Laden verschifft wurde - es beeinflusst ihn schlicht nicht in seiner Kaufentscheidung.
 
 Mit der Idee von einzigartigem (individuellen) Wissen erinnert Hayek an einen radikalen Dahl, der dessen Formulierung: "Every adult is the best judge of his/her self interest" verschärft.
-Er sagt nämlich, dass jene lokalen Informationen nur dann abrufbar sind, wenn, die Person freiwillig in den Markt eintritt.
+Beide gehen davon aus,
+Außerdem sieht er es als eine Errungenschaft der Moderne, dass menschliche Kooperation fortan nur noch durch den *Preis* bestimmt wird und somit vereinfacht ist.
+Nach Hayek hat der Preis für alle Mitglieder einer Gesellschaft den gleichen Wert.
+Damit ist der Preis in Hayeks Interpretation auch ein Symbol in Meads Theorie.
+Hayeks Verständnis von Symbolen als Konventionen, deren Herkunft man nicht mehr nachvollziehen kann, entspricht nämlich derjenigen von Mead.
+Auch die Wiedereinflussnahme aus Meads symbolischem Interaktionismus deckt sich mit dem Sparen als Konsequenz von hohen Preisen.
+<!-- TODO: Niko, ecological pragmatism hinzufügen  -->
 
 <!-- Hayek stellt so, ähnlich wie Kleinberg mit der Idee eines sozialen Wohlfahrtsoptimums im Positiv-Summen-Spiel, vor allem die wirtschaftliche Erträglichkeit von Kommunikation, als Mittel zur Anhäufung von Wissen, in den Mittelpunkt. #195 -->
 
@@ -33,11 +39,9 @@ Auf diese Art und Weise nähert sich Hayek auch Sieberts Konstruktivismus an, we
 Da auch die Hierarchiespitze einer Planwirtschaft nicht objektiv sein kann und deswegen dieses System schlechter funktioniert, kann man daraus schließen, dass Objektivismus für Hayek nicht möglich bzw. sehr uneffektiv scheint.
 In gewisser Weise entkräftet auch er damit so wie Siebert den *objektiven Maßstab*.
 Hayek beschäftigt jedoch weniger die Frage nach der Möglichkeit der Kommunikation (Kooperation?), wie es der Konstruktivismus formuliert, als vielmehr die Frage nach der Nötigkeit derselben.
-Hayeks Verständnis von Symbolen als Konventionen, deren Herkunft man nicht mehr nachvollziehen kann, entspricht derjenigen von Mead.
-Auch die Wiedereinflussnahme aus Meads symbolischem Interaktionismus deckt sich mit dem Sparen als Konsequenz von hohen Preisen.
-<!-- TODO: Niko, ecological pragmatism hinzufügen  -->
-Das einzige "Symbol" , das wir brauchen , die einzige objektive Instanz und die einzige ist der Preis. Im Preis sind alle Informationen über ein Produkt enthalten, welche den Konsumenten interessieren müssen.  
+<!-- Das einzige "Symbol" , das wir brauchen , die einzige objektive Instanz und die einzige ist der Preis. Im Preis sind alle Informationen über ein Produkt enthalten, welche den Konsumenten interessieren müssen.   -->
 <!-- TODO: Sagt er das wirklich? Textnachweis -->
+
 Hayek plädiert für einen puren Kapitalismus mit keinen zentralisierten Elementen. Der Staat soll den Rahmen für die freie Ausübung der marktwirtschaftlichen Praxis bieten - aber möglichst wenig Autorität ausüben.
 
 Im sozialen und gesellschaftlichen Kontext bedeutet das, dass Institutionen und staatliche Instanzen nur einen Umweg, eine Verkomplizierung in der Informationsvermittlung bedeuten, und die Interessen der Einzelnen nicht fassen können. Die Entscheidungsgewalt über ökonomische Handlungen sollte also so oft wie möglich bei den Individuen liegen.
@@ -48,16 +52,16 @@ Fraglich ist allerdings, ob Hayeks ökonomische Gedanken auf das Schulsystem üb
 
 # Projekt
 ##Vergleich Hayek zu Dahl:
-
+<!-- Alles aus Hayek/Dahl eingefügt  -->
 >"What is the problem we wish to solve when we try to construct a rational economic order?" (Hayek, The American Economic Review,S.519)
 
 Hayeks Lösung auf diese Frage  besteht darin, dass er die menschliche Kooperation nur noch auf den *"Tauschhandel"* (ebd.) reduziert um die Probleme der "Wissensvermittlung" auf die Institution des "Preises" zu beschränken.
 Er sieht es als Errungenschaft der Moderne, dass menschliche Kooperation fortan nur noch durch den *Preis* bestimmt wird und somit vereinfacht ist.
 Nach Hayek hat dieser für alle Mitlgieder einer Gesellschaft den gleichen Wert.
-
+<!-- TODO: stimmt das wirklich? Textstelle! -->
 Hayeks Argument für den "Tauschhandel" besteht in seiner Annahme: "Der Kompetenteste bist du selbst!" (ebd.)
 Gleiches forderte Dahl auch nach seiner Annahme der persönlichen Autonomie als Grundlage einer Demokratischen Gesellschaft (siehe: Dahl 1989,S.90-91)
-
+<!-- schon vorhanden  -->
 >"every adult is the best judge of his or herself interest" (Dahl 1989, S.100)
 
 Hierin scheinen beide eine elementare Gemeinsamkeit zu haben:
