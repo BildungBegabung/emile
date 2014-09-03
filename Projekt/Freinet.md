@@ -59,8 +59,6 @@ Hierbei entwickelt er ein System, in dem der Schüler sehr autonom ist.
 Dafür müssen aber alle Schüler untereinander und zu den Lehrern inhärent gleichwertig sein (Vgl. Freinet-1964 S. 489), da ansonsten irgendeine Partei durch Autorität die Autonomie der anderen einschränkt (Vgl. ebd. S.492).
 
 
-Projektfrage 2
-
 ### Projektfrage 2
 > "Das Kind liebt nicht die Massenarbeit, bei welcher der Einzelne sich unterwerfen muß. Es liebt die Einzel- und Gruppenarbeit in einer kooperativen Gemeinschaft." (ebd. S. 509)
 
