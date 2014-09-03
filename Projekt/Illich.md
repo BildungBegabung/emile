@@ -17,7 +17,8 @@ Es mag möglich sein, dass Polizei zur Sicherheit eines Wohnviertels beitragen k
 Aus diesem Zusammenhang würde sich die Möglichkeit ergeben, die Werte, d.h. Sicherheit, Lernerfolg, etc., zu messen; und zwar anhand des Umfang des Prozesses (Polizeipräsenz, Schulanwesenheit).
 <!-- TODO: Ich verstehe, was ihr meint, aber könntet ihr diesen Zusammenhang nochmal klarer formulieren?
 Liegt das Problem nicht darin, dass von den Mitteln auf die Folge (der Wert) geschlossen wird?
-Schulen, Polizeipräsenz und das Gesundheitswesen sind nach Illich hinreichende, aber nicht notwendige Bedingungen für Lernen, Sicherheit und Gesundheit. C.E: So klarer hergeleitet?-->
+Schulen, Polizeipräsenz und das Gesundheitswesen sind nach Illich hinreichende, aber nicht notwendige Bedingungen für Lernen, Sicherheit und Gesundheit.
+CE: So klarer hergeleitet?-->
 Wir beziehen dies schließlich nicht nur auf bereits institutionalisierte Werte, sondern versuchen auch unsere persönlichen Werte von Standarts abzuleiten und den Wert unserer Persönlichkeit messen zu wollen.
 „In a schooled world the road to happiness is paved with a consumer's index“(P.19).
 
