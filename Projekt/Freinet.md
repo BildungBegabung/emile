@@ -68,7 +68,7 @@ Für die einen geht es viel zu langsam, für die anderen viel zu schnell voran.
 Wenn wir uns und unsere Arbeit nach diesen Kriterien messen, zeigt sich:
 - Jeder arbeitet unabhängig und autonom in seiner Geschwindigkeit an selbstgewählten Themen (Vgl. S. 495 Wichtigkeit des Selberwählens aus gegebenen Alternativen).
 - Zugleich arbeiten wir kooperativ zusammen:  
-Durch die gegenseitige Kontrolle wird das Ergebnis besser, als es in Einzelarbeit wäre (Ernten von Positiv-Summen-Spiel-Erträge).
+Durch die gegenseitige Kontrolle wird das Ergebnis besser, als es in Einzelarbeit wäre (Ernten von Positiv-Summen-Spiel-Erträgen).
 - Und stellen uns in den Dienst der Gemeinschaft.
 
 Als Fazit lässt sich also sagen, dass Freinet unserem Sytem wahrscheinlich nicht abgeneigt wäre.
