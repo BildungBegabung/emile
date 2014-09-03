@@ -1,12 +1,14 @@
 # Freinet
-Zu S. 97-110
 
-#### Was meint Freinet, wenn er schreibt: "Es geht darum, unser ganzes Erziehungssystem von der materiellen Basis her umzugestalten." (S. 99)? Was verändert sich materiell im Vergleich zur "normalen, traditionellen Schule"?
-Damit meint Freinet, dass es für eine erfolgreiche Anwendung seiner reformpädagogischen Ideen notwendig ist, gute und funktionstüchtige Werkzeuge zu haben.
+"Es geht darum, unser ganzes Erziehungssystem von der materiellen Basis her umzugestalten." (Freinet-1946 S. 99)
+Diese These Freinets scheint zunächst überraschend.
+Für gewöhnlich beginnt man eine solche Revolution mit einem theoretischen Konzept und nicht mit irgendwelchen Äußerlichkeiten.
+Für Freinet ist es aber notwendig, zuerst gute und funktionstüchtige Werkzeuge zu haben, da ohne diese eine erfolgreiche Anwendung seiner reformpädagogischen Ideen nicht möglich ist.
 Wenn man nicht auf eine bestimmte Menge an Material zurückgreifen kann, so wären die Durchführung bestimmter Experimente gefährlich und "die Schüler würden infolge ihres technischen Unvermögens entmutigt" (Freinet-1946, S. 98).
 Weiterhin ist die richtige Organisation dieser Materialien notwendig um "disziplinarische Probleme einer Klasse [zu lösen]" (ebd. S. 98)
+Erst in einer gut ausgestatteten Schule kann man sich also an die Umsetzuung der Ideen wagen.
 
-#### Welche Möglichkeiten der A) Kooperation und B) individuellen Arbeit gibt es (für Schüler_innen und Lehrer_innen)?
+Hierbei ist die intersubjektive Beziehung Lehrer-Schüler von enormer Bedeutung.
 Freinet ist der Meinung, das Verhältnis zwischen Lehrer und Schüler solle so sein wie das Verhältnis einer Mutter zu ihrem Kind.
 Er sagt, ein Lehrer müsse seinen "Schülern das gleiche Vertrauen schenken können, das eine Mutter ihrem kleinen Kinde schenkt" (ebd. S. 105).
 Das beinhaltet ebenfalls absolute Ehrlichkeit dem Kinde gegenüber (vgl. ebd. S. 110)
@@ -17,46 +19,38 @@ Wichtig ist ebenfalls das empathische Auftreten des Lehrers.
 Zwar erkennt Freinet an, "dass es doch meistens nicht in ihrer Macht steht zu einer [...] liebevollen Begegnung mit dem Schüler zu gelangen" (ebd. S. 101), dennoch darf der Lehrer nicht drohen, schimpfen oder strafen (vgl. S. 103).
 Vielmehr gibt er "behutsam einige Hinweise" (ebd. S. 103).
 
-#### Welche Möglichkeiten der Partizipation bieten sich den Schüler/innen?
-Freinet räumt dem Kind einen großen Rahmen der Selbstbestimmung ein.
-Er ist der Auffassung, dass "zu einer Arbeit gezwungen zu werden [...] lähmt" (Freinet-1964 S. 495).
+Diese Lehrerrolle räumt dem Kind einen großen Rahmen der Selbstbestimmung ein, was für Freinet sehr bedeutsam ist, da "zu einer Arbeit gezwungen zu werden [...] lähmt" (Freinet-1964 S. 495).
 Dies führt dazu, dass die kindliche Partizipation ein entscheidener Teil von Freinets diaktischen Konzeption ist.
 Darüber hinaus sieht Freinet auch keine Notwendigkeit eines verallgemeinernden Lehrplanes.
 Er ist sich sicher, "Was das Kind nicht heute lernt, nicht in dieser Woche, ja selbst nicht in diesem Jahre lernt, dass wird es sich später aneignen" (Freinet-1946 S. 105).
 Es ist also wichtiger, "dass das Kind seine Individualität entwickelt" (ebd. S. 105), als dass es spezielle Lerninhalte erfasst.
-
-## Interessenkomplexe & Interessenzentren
+Bei dieser Art der Pädagogik ist, da es keine Vorschriften gibt, was zu lernen ist, das individuelle Interesse sehr wichtig.
+Freinet unterscheidet hierbei zwischen Interessenkomplexen und Interessenzentren.
 Die Interessenkomplexe (Complexe d'intérêts) gehen vom Schüler bzw. von der Schülerin aus, d.h. er/sie hat gewisse Interessen, welche er/sie erarbeiten möchte.
 Der Lehrer hingegen verkörpert die Interessenzentren (Centres d'intérêts).
 Er hat ein weiteres Feld an Wissen und hat deshalb quasi Zentren, in denen dieses Wissen gespeichert ist.
 Deswegen muss der Lehrer mit seinem Zentrum an Wissen den Schülern und Schülerinnen dabei helfen, ihre Komplexe an Wissen ordnen und kann auf weitere Möglichkeiten des Wissenserwerbs hinweisen.
 Trotzdem ist für Freinet die "Überlegenheit des Interessenkomplexes [...] gegenüber den Interessenzentrenebd.  [nicht anzu]zweifeln" (ebd. S.89).
 
-## Was für ein Verständnis von Lernen liegt der Arbeit mit Interessenkomplexen zugrunde?
-Freinet geht davon aus, dass die *Kinder lernen wollen*. Aufgrund dieser Annahme richtet er seinen Unterricht nach den Interessenkomplexen der Kinder aus.
+Freinet geht dabei davon aus, dass die *Kinder lernen wollen*.
+Aufgrund dieser Annahme richtet er seinen Unterricht nach den Interessenkomplexen der Kinder aus.
 Das heißt, im Unterricht werden die Themen bearbeitet, welche die Kinder interessieren.
 Freinet arbeitet also nach einer "neuen **Art des Unterrichts nach Interessenkomplexen**" (ebd. S.89).
 Außerdem haben die Kinder die Möglichkeit sehr selbstständig zu arbeiten:
 Sie können sich aussuchen, welche Aufgabe sie bearbeiten, wo sie dies tun, mit wem, wann und wie lange.
 Wenn die Aufgabe den Kindern im Verlauf dann doch nicht mehr wichtig bzw. interessant erscheint, können sie diese beenden und eine neue anfangen.
 
-## Was müssen Lehrer_Innen bei der Arbeit mit Interessenkomplexen können?
-Lehrer und Lehrerinnen müssen in der Lage sein, die Interessenkomplexe der Schüler und Schülerinnen zu ordnen.
+Um gut unterrichten zu können, müssen Lehrer und Lehrerinnen in der Lage sein, die Interessenkomplexe der Schüler und Schülerinnen zu ordnen.
 Die Schüler haben nämlich die Interessen inne, über welche sie sich informieren möchten, allerdings sind diese noch nicht vollständig geordnet.
 Somit müssen die Lehrer bzw. die Lehrerinnen es sich zur Aufgabe machen, diese Interessen zu ordnen und den Schülern und Schülerinnen "bei der manuellen, künstlerischen und geistigen Verwirklichung ihrer vorherrschenden Möglichkeiten" (ebd. S.90) zu helfen.
 Dies müssen sie nicht nur in Bezug auf die "nur [...] durch den täglichen Text geoffenbarten Interessen" (ebd. S.89), sondern auch in Bezug auf "alle übrigen Interessen, die fern oder nah mit dem Ausgangsinteresse in Verbindung stehen" (ebd. S.90),
 
-## Was wird von den Schüler_Innen verlangt?
-Von den Schülern und Schülerinnen wird verlangt ihre Interessen zu kennen, damit die Lehrer den Schülern und Schülerinnen bei dem Erlangen von Informationen über dieses Interesse helfen zu können.
+Dies verlangt von den Schülern und Schülerinnen, ihre Interessen zu kennen, damit die Lehrer den Schülern und Schülerinnen bei dem Erlangen von Informationen über dieses Interesse helfen zu können.  
 
-
-## Zu den Projektfragen:
-
-### Projektfrage 1
-Es muss zunächst klar gestellt werden, dass es für Freinet unerheblich ist, inwiefern ein Problem von persönlicher Autonomie und inhärenter Gleichwertigkeit gelöst wird.
+Der Schüler bei Freinet ist also sehr autonom.
+Wie diese Autonomie mit der inhärenter Gleichwertigkeit von Schülern und Lehrern, die er ebenfalls fordert (Vgl. Freinet-1964 S. 489), zusammenpasst, ist für Freinet erstmal nebensächlich.
 Er beschäftigt sich mit der didaktischen Konzeption von Schule und wie diese dem Edukanten hilft, seine Individualität auszubilden.
-Hierbei entwickelt er ein System, in dem der Schüler sehr autonom ist.
-Dafür müssen aber alle Schüler untereinander und zu den Lehrern inhärent gleichwertig sein (Vgl. Freinet-1964 S. 489), da ansonsten irgendeine Partei durch Autorität die Autonomie der anderen einschränkt (Vgl. ebd. S.492).
+Dafür müssen aber alle Schüler untereinander und zu den Lehrern inhärent gleichwertig sein (Vgl. ebd.), da ansonsten irgendeine Partei durch Autorität die Autonomie der anderen einschränkt (Vgl. ebd. S.492).
 
 
 ### Projektfrage 2
