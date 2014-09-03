@@ -4,14 +4,14 @@ Dahl meint, dass es wichtig ist sich mit der Demokratie auseinanderzusetzen, da 
 Diese Auseinandersetzung mit der Demokratie trägt dazu bei stetig an ihr zu arbeiten, damit sie bewahrt wird, denn Demokratie ist nicht naturgegeben.
 
 
-## intrinsische Gleichheit & persönliche Autonomie
+### intrinsische Gleichheit & persönliche Autonomie
 
 Dahls Verständnis von **Demokratie** stützt sich auf die **Kombination aus intrinsischer Gleichwertigkeit und persönlicher Autonomie**.
 Intrinsische Gleichheit bedeutet, dass die gleiche Berücksichtigung aller Interessen der Mitglieder der Gemeinschaft zu beachten ist.
 Persönliche Autonomie beschreibt die Entscheidungsfreiheit, damit  jeder kann die Entscheidung treffen kann, die für ihn am besten ist, denn "every adult is the best judge of his or her own interest" (S.100).
 
 
-## Kriterien für eine funktionierende Demokratie
+### Kriterien für eine funktionierende Demokratie
 
 Um die Demokratie zu sichern, setzt Dahl **vier Kriterien** voraus:
 
@@ -25,7 +25,7 @@ Allerdings darf ein Mitglied der Gemeinschaft nicht zur Bildung gezwungen werden
 Das vierte Kriterium heißt **"control of the agenda"** und sagt aus, dass es wichtig ist die Individuen entscheiden zu lassen, welche Probleme behandelt werden bzw. über welche Probleme entschieden wird.
 
 
-## Rechtfertigung der Demokratie
+### Rechtfertigung der Demokratie
 
 Die Demokratie rechtfertigt Dahl auf Grundlage der **drei zentralen Dimensionen menschlichen Interesses**:
 
@@ -47,7 +47,7 @@ Deswegen respektiert wird auch die Autonomie größtmöglich akzeptiert.
 Außerdem ist Autonomie in einer Demokratie nicht wegzudenken, weil diese quasi durch die Bürger selbst regiert wird, denn "to be morally autonomous is to be self-governing in the domain of morally relevant choices" (S.91).
 
 
-## politische Einordnung
+### politische Einordnung
 
 Dahl ist in den **Liberalismus** einzuordnen, da er Vorschläge aufzeigt, wie Demokratie seiner Meinung nach am besten funktionieren würde.
 Allerdings zwingt er niemanden diese Vorschläge durchzuführen, sondern lässt die Freiheit sich dafür zu entscheiden oder nicht.
