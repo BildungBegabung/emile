@@ -1,21 +1,17 @@
 # Einführung
 
 Unser Kurs "Schule der Demokratie" befasst sich mit zwei Wissenschaften, die wir miteinander zu verbinden versuchen:
-Deliberative Politik aus den Sozialwissenschaften und die Inklusive Paedagogik.
-Diesen Kurs in diesere Konstellation werden wir in keiner Universität vorfinden.
-<!-- TODO: MH strange Formulierung; so geht das nicht – interessiert ja keinen, das *wir* den Kurs so nirgends vorfinden werden – das muss allgemeiner formuliert werden, geeignet für einen neutralen Beobachter. -->
-Dabei muss uns ständig bewusst sein, dass wir keinen neutralen Kurs darstellen, denn allein schon durch die Auswahl der Texte findet eine Auslese statt und somit wird ein gefärbtes Bild auf den Themenkomplex geworfen.
-<!-- TODO: MH see above -->
-Die einzige Moeglichkeit hin zur Neutralitaet besteht darin, alternative Texte und Ansichten zu erwaehnen und die speziellen Ansichten der zu bearbeitenden Texte herauszuarbeiten.
-<!-- TODO: MH Frage wäre ob sich nicht diese intellektuelle Fairness automatisch aus den Texten erkennen lässt; darauf hinzuweisen schriftlich ist irgendwie unelegant. -->
-Wir betrachten unser Thema von einem ontologischen sowie von einem axiologischen Standpunkt aus, wobei beide Betrachtungsweisen nicht positiv, d.h. nicht empirisch ermittelbar sind.
-Die Ontologie betrachtet die Gegenstände der sozialen Welt.
-<!-- TODO: MH genauer erklären, was bedeutet Ontologie jetzt bei uns? Was Axiologie?  -->
+Deliberative Politik und Inklusive Paedagogik.
+Diese Kombination gehört nicht zu den klassischen Kursen, die in Universitäten angeboten werden.
+Vorab muss deshalb erwähnt werden, dass dieses "Experiment" und unsere Schlüsse stark von der Auswahl der Texte geprägt sind.
+
+In einem Drahtseilakt zwischen persönlicher Autonomie und inhärenter Gleichheit setzen wir uns mit der Frage auseinander: Wie kann und soll Zusammenleben gestaltet sein?
+*Grundsätzlich steht immer im Raum: Was sind die Gegenstände unserer Betrachtung, die Einheit in denen wir denken (Ontologie).*
+Wieso ist Zusammenleben überhaupt wünschenswert?
+
 Wenn wir uns Gedanken über unser Zusammenleben machen, stellt die Funktion und Organisation der Koorperation ein grundsätzliches Problem der Sozialwissenschaften dar.
 Relativ selbst erklärend ist die Tatsache, dass Menschen in der Lage sind eine höhere Produktivität zu erzielen, sobald sie sich spezialisieren und im Komplex agieren.
-Daraus geht die Grundlage des menschlichen Zusammenlebens hervor.
-Jedoch endet menschliches Zusammensein, in welchen jeder nur seine eigenen Interessen verfolgt, in Mord und Totschlag endet, das Extrem der Autonomie.
-<!-- TODO: MH warum ist dieser Satz hier?!? -->
+
 Damit jeder seine eigenen Ziele verfolgen kann, muessen Regeln bestehen, welche jedoch zwangsweise den Handlungsspielraum des Individuums einschraenken- ein Widerspruch in sich.
 Jede Form von Regel, die versucht gleiche Chancen fuer alle zu garantieren, zwängt jedoch ein bestmmtes Ideal auf den Menschen, welcher sich in diesem Organisationsstatut befindet und ruft Ungleichheit bei denen hervor, die sich nicht durch das jeweilige Ideal vertreten sehen.
 Hieraus ergibt sich der grundsätzliche Gegensatz, aber auch die gegenseitige Bedingtheit von persönlicher Autonomie und inhärenter Gleichheit.
