@@ -36,7 +36,6 @@ In diesem Kontext kann man Hayek auch mit Illich assoziieren.
 # Projekt
 ##Vergleich Hayek zu Dahl:
 
-Ich bin noch eine leere Doku Seite.
 >"What is the problem we wish to solve when we try to construct a rational economic order?" (Hayek, The American Economic Review,S.519)
 
 Hayeks Lösung auf dieses Frage  besteht darin, dass er die menschliche Kooperation nur noch auf den "Tauschhandel" (ebd.) reduziert um die Probleme der "Wissensvermittlung" auf die Institution des "Preises" zu beschränken.
@@ -51,5 +50,5 @@ Gleiches forderte Dahl auch nach seiner Annahme der persönliche Autonomie als G
 Hierin scheinen beide eine elementare Gemeinsamkeit zu haben:
 Beide gehen davon aus, dass jeder seinen eigenen Interessen am besten selber einschätzen kann.
 Dahl setze dies in den Zusammenhang mit der Persönlichen Autonomie, als Annahme für ein Demokratisches System.
-Hayek hingegen sagt je "weniger Regierung" (ebd. 527-528) desto besser.
+Hayek hingegen sagt je "weniger Regierung" (ebd. 527-528) und kollektive Entscheidungen (w.z.B. Planwirtschaft) desto besser.
 In diesen beiden unterschiedlichen Perspektiven für ein Gesellschaftssystem besteht der starke Kontrast zwischen den beiden Autoren.
