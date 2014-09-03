@@ -32,6 +32,9 @@ Verbindung zwischen einzelnen nodges in der Netzwerktheorie.
 Bei einer Wahl muss die Stimme eines Individuums genauso viel Wert besitzen, wie die jedes anderen Individuums.
 ### Enlightened understanding:
 Stammt aus der Theorie Dahls und heißt übersetzt: "aufgeklärtes Verständnis"
+### Epistemologisch:
+Beantwortet die Frage nach der Vorraussetzung für Erkenntnis, dem Zustandekommen von Wissen und anderen Formen von Überzeugungen.
+Außerdem wird untersucht, was Gewissheit und Rechtfertigung ausmacht und welche Art von Zweifel an welcher Art von Überzeugung objektiv bestehen kann.
 ### Equal voting:
 Jede Stimme eines Individuums zählt genauso viel wie die eines anderen Individuums.
 ### Ethik/Pragmatische Ethik:
