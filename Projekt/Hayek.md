@@ -39,7 +39,13 @@ Auf diese Art und Weise nähert sich Hayek auch Sieberts Konstruktivismus an, we
 Da auch die Hierarchiespitze einer Planwirtschaft nicht objektiv sein kann und deswegen dieses System schlechter funktioniert, kann man daraus schließen, dass Objektivismus für Hayek nicht möglich bzw. sehr uneffektiv scheint.
 In gewisser Weise entkräftet auch er damit so wie Siebert den *objektiven Maßstab*.
 Hayek beschäftigt jedoch weniger die Frage nach der Möglichkeit der Kommunikation (Kooperation?), wie es der Konstruktivismus formuliert, als vielmehr die Frage nach der Nötigkeit derselben.
-<!-- Das einzige "Symbol" , das wir brauchen , die einzige objektive Instanz und die einzige ist der Preis. Im Preis sind alle Informationen über ein Produkt enthalten, welche den Konsumenten interessieren müssen.   -->
+
+Hayeks Verständnis von Symbolen als Konventionen, deren Herkunft man nicht mehr nachvollziehen kann, entspricht derjenigen von Mead.
+Auch die Wiedereinflussnahme aus Meads symbolischem Interaktionismus deckt sich mit dem Sparen als Konsequenz von hohen Preisen.
+Außerdem ergänzt sich der Wettbewerbsgedanke Hayeks mit der Idee des *Ecological Pragmatism*, welches aus aus Mead *Symbolischem Interaktionismus* hervorgeht:
+Ein Tisch dessen Nutzen sich nicht mit dessen Preis deckt, wird auf Dauer nicht Wettbewerbsfähig sein.
+Das einzige "Symbol" , das wir brauchen , die einzige objektive Instanz und die einzige ist der Preis. Im Preis sind alle Informationen über ein Produkt enthalten, welche den Konsumenten interessieren müssen.  
+
 <!-- TODO: Sagt er das wirklich? Textnachweis -->
 
 Hayek plädiert für einen puren Kapitalismus mit keinen zentralisierten Elementen. Der Staat soll den Rahmen für die freie Ausübung der marktwirtschaftlichen Praxis bieten - aber möglichst wenig Autorität ausüben.
