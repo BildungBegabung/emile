@@ -17,7 +17,7 @@ Es mag möglich sein, dass Polizei zur Sicherheit eines Wohnviertels beitragen k
 Aus diesem Zusammenhang würde sich die Möglichkeit ergeben, die Werte, d.h. Sicherheit, Lernerfolg, etc., zu messen; und zwar anhand des Umfang des Prozesses (Polizeipräsenz, Schulanwesenheit).
 <!-- TODO: Ich verstehe, was ihr meint, aber könntet ihr diesen Zusammenhang nochmal klarer formulieren?
 Liegt das Problem nicht darin, dass von den Mitteln auf die Folge (der Wert) geschlossen wird?
-Schulen, Polizeipräsenz und das Gesundheitswesen sind nach Illich hinreichende, aber nicht notwendige Bedingungen für Lernen, Sicherheit und Gesundheit. C.E: So einverstanden?-->
+Schulen, Polizeipräsenz und das Gesundheitswesen sind nach Illich hinreichende, aber nicht notwendige Bedingungen für Lernen, Sicherheit und Gesundheit. C.E: So klarer hergeleitet?-->
 Wir beziehen dies schließlich nicht nur auf bereits institutionalisierte Werte, sondern versuchen auch unsere persönlichen Werte von Standarts abzuleiten und den Wert unserer Persönlichkeit messen zu wollen.
 „In a schooled world the road to happiness is paved with a consumer's index“(P.19).
 
@@ -34,7 +34,7 @@ Illich unterscheidet zwischen vier Aspekten, die er für die Bildung eines Kinde
 Jedes Kind benötigt neben dem Kontakt zu anderen Gleichaltrigen auch Vorbilder, von denen es unbewusst lernen kann (Sprechen, Laufen, etc.).
 Zudem benötigt es bei komplexeren Sachverhalten professionelle Hilfe sowie Zugang zu Lernobjekten.
 Hierfür will er Netzwerke erstellen, in denen man Interessen formulieren und jeweils nach Gleichaltrigen und Hilfsangeboten suchen kann.
-In einer dieser Netzwerke bräuchte ein Kind, das Guitarre spielen lernen will, einen Zeitraum in dem es mit anderen glecihaltrigen Kindern spielen kann, jemanden, der ihn bei Problemen und Schwierigkeiten unterstützen kann und als ein Art Vorbild funktioniert  und als letztes eine Guitarre und alle anderen möglichen Werkzeuge, die dazu führen werden, dass das Kind erfolgreich den Lernprozess bewältigt.   
+In einer dieser Netzwerke bräuchte ein Kind, das Guitarre spielen lernen will, einen Zeitraum in dem es mit anderen glecihaltrigen Kindern spielen kann, jemanden, der ihn bei Problemen und Schwierigkeiten unterstützen kann und als ein Art Vorbild funktioniert  und als letztes eine Guitarre und alle anderen möglichen Werkzeuge, die dazu führen werden, dass das Kind erfolgreich den Lernprozess bewältigt.
 All dies sollte auf freiwilliger Basis geschehen.
 
 Illichs Ziele für die "educational revolution" sind:
@@ -86,7 +86,7 @@ Auch die Forderung Deweys nach vielfältigen gemeinsamen Interessen und "eine[r]
 Illich richtet sich ja sehr klar gegen die Vorstellung eines geplanten Lernweges, und sagt, niemand anders sollte in eder Lage sein auf welche Weise eine andere Person was lernt.
 Bei Dewey wird die These des unbestimmten Lernweges deutlich an der beweussten Formulierung des lernens als Erfahrungsaustausch. Das Wort impliziert eine ungezwungene Kommunikation in der beide Parteien gleichberechtigt sind.
 
-- Genauso beschreibt Dewey den ungehinderten Meinungsaustausch als den wichtigsten Faktor in Richtigung Fortschritt. 
+- Genauso beschreibt Dewey den ungehinderten Meinungsaustausch als den wichtigsten Faktor in Richtigung Fortschritt.
 Dabei stellt jede Form der Kategorisierung eine Einschränkung dar, welcher aber auch durch den freien Meinungsaustausch entgegengewirkt werden kann.
 Illich bezieht sich mit seinen Reformvorschlägen auf dieses Gesellschaftsbild.
 Er sieht seine Netzwerktheorie als eine Möglichkeit, ungehinderte Kommunikation außerhalb von gesellschaftlichen Pflichten zu realisieren.
