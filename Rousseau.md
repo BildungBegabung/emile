@@ -5,30 +5,30 @@ Diesen, wie jeden Menschen, sieht Rousseau als per se gut an.
 Er schreibt:
 >"Alles ist gut, wie es aus den Händen des Schöpfers der Dinge hervorgeht; alles entartet unter den Händen des Menschen." (Rousseau-1762, Émile, S.48)
 Diese falsche Erziehumg macht den Menschen "schlecht".
->"In der natürlichen Ordnung sind die Menschen alle einander gleich. Ihr gemeinsamer Beruf ist: Mensch zu sein." (Rousseau-1762, Émile, S.50)
->"Wenn man z.B. einen Menschen für andere erziehen will, anstatt für ihn selbst - gemäß seiner Natur - zu erziehen? Dann ist Einklang ausgeschlossen." (Rousseau-1762, Émile, S.49)
+>"In der natürlichen Ordnung sind die Menschen alle einander gleich. Ihr gemeinsamer Beruf ist: Mensch zu sein." (ebd. S.50)
+>"Wenn man z.B. einen Menschen für andere erziehen will, anstatt für ihn selbst - gemäß seiner Natur - zu erziehen? Dann ist Einklang ausgeschlossen." (ebd. S.49)
 In der Folge existiert der Mensch zugleich in verschiedenen Rollen (Identitäten), er ist zerteilt.
 Die entstandenen Teile des Menschen, beziehungsweise ihre jeweiligen Pflichten, sind nicht miteinander zu vereinbaren.
-Der auf diese Weise zerissene Mensch ist entartet und will nichts mehr so haben, wie es von der Natur vorgesehen ist. (Vgl. Rousseau-1762, Émile, S.48)
+Der auf diese Weise zerissene Mensch ist entartet und will nichts mehr so haben, wie es von der Natur vorgesehen ist. (Vgl. ebd. S.48)
 Er bildet Laster aus.
 Die Verantwortung hierfür liegt bei der Gesellschaft, die eine derartige bürgerliche Erziehung fordert.
 Somit ist jedes Laster direkt nachvollziehbar und begründbar.
->"Es gibt [...] kein Laster, von dem man nicht sagen könnte, wie und woher es hineingekommen ist." (Rousseau-1762, Émile, S. 53)
+>"Es gibt [...] kein Laster, von dem man nicht sagen könnte, wie und woher es hineingekommen ist." ( ebd. Rousseau-1762, Émile, S. 53)
 Um den Menschen vor Lastern zu bewahren, muss er also natürlich erzogen werden.
 In der Kindheit bedeutet diese natürliche Erziehung, auch negative (nicht moralische) Erziehung genannt, dass der Zögling abgeschottet von der Gesellschaft aufwächst.
 Hier wird es in einer Art extremer Laissez-Faire-Erziehung vor Lastern und Irrtümern bewahrt.
 Dies bedeutet etwa, dass wenn ein Kind von ihm benötigte Gegenstände zerstört, er weder Ärger noch einen Ersatz bekommt.
->"Beeeilt euch nicht, ihm andere zu geben; laßt es empfinden, wie unangenehm es ist, sie nicht zu haben. Es wirft die Fensterscheibe an seinem Zimmer ein: laßt den Wind Tag und Nacht herein und kümmert euch nicht um seinen Schnupfen[...]" (Rousseau-1762, Émile, S. 54)
+>"Beeeilt euch nicht, ihm andere zu geben; laßt es empfinden, wie unangenehm es ist, sie nicht zu haben. Es wirft die Fensterscheibe an seinem Zimmer ein: laßt den Wind Tag und Nacht herein und kümmert euch nicht um seinen Schnupfen[...]" ( ebd. S. 54)
 Bis zum 12. Lebensjahr soll das Kind auf diese Weise einfach stark und gesund werden.
 Ab dann beginnt man es in Naturkunde zu unterrichten. (Vgl. ebd. S.56)
-Hierbei soll der Erzieher darauf achten, dass er dem Kind alles selber hersufinden lässt.
+Hierbei soll der Erzieher darauf achten, dass er dem Kind alles selber heraufinden lässt.
 Er erklärt nichts, sondern schafft nur die Situation, in der das Kind lernen kann.
 Da das Kind auf diese Weise lernt zu verstehen, wird es traditionell erzogene Gleichaltrige später schnell überflügeln.
 
 Wenn das Kind dann erwachsen wird, beginnt die positive Erziehung:
 Die Beziehung Des Erziehers zum Zuerziehenden ändert sich.
 Er ist jetzt nicht mehr Zögling, sondern Freund und wird moralisch, religiös und gesellschaftlich unterwiesen.
-Denn er ist jetzt in der Lage eigene fundierte Entscheidungen zu treffen.
+Denn er ist jetzt in der Lage eigene fundierte Entscheidungen zu treffen. (Vgl. ebd. S. 60f)
 Allerdings benötigt der Mensch die Gesellschaft und kann nicht für immer allein bleiben.
 Wenn alle Erziehungsphasen beendet sind, aber auch wirklich erst dann, kann der jetzt Erwachsene in die Gesellschaft eintreten.
 Denn jetzt hat er die Fähigkeit, auch in ihr autonom zu bleiben.
