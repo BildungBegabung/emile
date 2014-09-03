@@ -1,15 +1,14 @@
-# Protokoll Hayek
+# Hayek
 
 Hayek beschäftigt sich mit der Frage, wie ein gutes wirtschaftliches System aussieht (economic order (S.519)).
 Er geht davon aus, dass wirtschaftliches Verhalten, abhängig ist von dem Wissen (knowledge), welches dem Individuum zur Verfügung steht.
 Dieses Wissen "never exists in concentrated or integrated form, but solely as the dispersed bits of incomplete and frequently contradicitionary knowlegde which all the seperate individuals possess" (S.520).
 
-Hayek legt besonderen Wert auf eine Differenzierung zwischen Faktenwissen (scientific knowledge(S.522))
 Um wirtschaftliches Handeln zu fördern ist also die Anhäufung von Wissen nötig, indem individuelles Wissen transferiert wird: Kommunikation.
 
-Hayek stellt ein dezentralisiertes System von "Competition" (S.3), das von vielen Personen "geplant" wird über ein System von zentralisiertem ("at the disposal of a single central authority" (S.3)) "planning".
+Hayek stellt ein dezentralisiertes System von "Competition" (S.521), das von vielen Personen "geplant" wird über ein System von zentralisiertem ("at the disposal of a single central authority" (S.521)) "planning".
 
-Das Kriterium dafür ist der Grad an Ausnutzung des vorhandenen Wissens ("which of them we can expect fuller use will be made of the existing knowledge"(S.3)).
+Das Kriterium dafür ist der Grad an Ausnutzung des vorhandenen Wissens ("which of them we can expect fuller use will be made of the existing knowledge"(S.521)).
 Ein dezentralisiertes System erfüllt dieses Kriterium in höherem Maße, weil Hayek davon ausgeht, dass "[...] every individual has some advantage over all the others in that he posseses unique information of which beneficial use can be made only if the decisions depending on it are left to him or are made with his active cooperation".
 
 Hayek meint außerdem, das in einer Planwirtschaft [äpfel-birnen-preis?] nicht genug Informationen über das Produkt vermitteln werden. [........]
