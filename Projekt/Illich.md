@@ -6,7 +6,7 @@
 
 In Illichs erster, gesellschaftkritischer Schrift hinterfragt Illich die Stellung und Aufgabenfelder der heutigen Schule.
 Er stellt sich nicht gegen deren inhaltliche und pädagogische Konzeption;
-vielmehr kritisiert Illich eine Istitution, welche uns glauben lassen soll, wir könnten Wertevorstellungen wie Bildung, eine der ureigensten Eigenschaften des Menschen, bestimmen, analysieren und schließlch messen.
+vielmehr kritisiert Illich eine Istitution, welche uns glauben lassen soll, wir könnten Wertevorstellungen wie Bildung, eine der ureigensten Eigenschaften des Menschen, bestimmen, analysieren und schließlich messen.
 Illich begreift die Schule als eine Art Paradigma für die Natur von lebensbestimmenden Institutionen, fordert deren Abschaffung und plädiert für eine Gesellschaft, die sich für freie, und nicht durch Pflichten wie Berufe und Schulanwesenheit provozierte, zwischenmenschliche Interaktion ausspricht.
 
 "Many students, especially those who are poor, intuitively know what the schools do for them.
@@ -84,7 +84,7 @@ Auch die Forderung Deweys nach vielfältigen gemeinsamen Interessen und "eine[r]
 
 
 Man kann sogar noch einen Schritt weiter gehen, indem man in Illichs Ideen eine Antwort auf eine der zentralen Fragen unserers Kurses, "Wie können unterschiedliche und unterschiedlich befähigte Menschen inhärent gleich berechtigt und persönlich autonom zusammenleben?", sieht.
-Ein zentraler Punkt, den er an der Institution Schule kritisiert,ist deren Recht zur Bewertung der Schüler durch Zertifikate. 
+Ein zentraler Punkt, den er an der Institution Schule kritisiert,ist deren Recht zur Bewertung der Schüler durch Zertifikate.
 Diese schulischen Zertifikate werden in der gegenwärtigen Gesellschaft als einzig legitime Qualifikationen betrachtet und geben somit der Schule die Macht, über die Zulassung von Schülern zu weiteren Bildungseinrichtungen oder die Erlaubnis zur Ausübung eines Berufs zu entscheiden.
 Die Folgen dieses Symstems sind weitreichend, was Illich mit dem Satz "School initiates young people into a world where everything can be measured, including their imaginations, and, indeed, man himself. (Illich, e, S.19), veranschaulicht.
 Schule produziert also durch die Beeinflussung der Lernenden dahingehend, dass der Wert von allem, sogar von Menschen messbar sei, Ungleichheit.
