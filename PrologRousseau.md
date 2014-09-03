@@ -1,10 +1,11 @@
 # Prolog: Rousseau
 
 <!-- TODO:  MH  hier (Und/oder am Ende) könnte auch gut das stehen (so einiges) was Emile und le Contrat Social verbindet ...; gegenwärtig stehen die beiden etwas alleine -->
+
 Wie kann man Sozialwissenschaften und Pädagogik verbinden?
 Wie persönliche Autonomie und inhärente Freiheit?
 Viele der Fragen, mit denen sich unserer Kurs beschäftigt, stellte sich Rousseau mehr oder weniger bewusst bereits im 18. Jahrhundert.
-Auch wenn uns die Antworten, die er im Contrat Sociale und Émile gibt, nicht unbedingt befriedigen können, so helfen sie doch zu präzesisieren, womit sich unser Kurs und dieser Text beschäftigen.
+Auch wenn uns die Antworten, die er im Contrat Sociale und Émile gibt, nicht unbedingt befriedigen können, so helfen sie doch zu präzesisieren, wovon unser Kurs und dieser Text handeln.
 
 ## Émile
 Rousseaus Gesellschafsverständnis baut hierbei stark auf dem Menschenbild auf, das er im Émile, einem Erziehungsroman, entwickelt:
@@ -22,13 +23,16 @@ Ab dann beginnt man das Kind in Naturkunde zu unterrichten. (Vgl. ebd., S. 55)
 In diesem Unterricht aber hat der Lehrer/Erzieher nur die Aufgabe, Lernsituationen zu schaffen.
 Er soll nichts erklären, sondern den Zögling alles allein herausfinden und verstehen lassen. (Vgl. ebd., S. 56)
 Laut Rousseau ist das so erworben Wissen, da es verstanden ist, besser als auswendig gelerntes Wissen, und das Kind so darauf vorbereitet, neue Inhalte zu verstehen, dass es später seine traditionell in allen Fächern unterrichteten Gleichaltrigen schnell überflügeln wird.
+
 Wenn das Kind dann erwachsen wird, beginnt man mit der positiven Erziehung:
-Das Kind wird nicht mehr als Zögling, sondern als Freund behandelt und moralisch, gesellschaftlich und religiös unterwiesen. Es ist nun in der Lage eigene fundierte Entscheidungen, wie die Wahl seiner Religion, zu treffen. (Vgl. ebd., S. 60f)
+Das Kind wird nicht mehr als Zögling, sondern als Freund behandelt und moralisch, gesellschaftlich und religiös unterwiesen.
+Es ist nun in der Lage eigene fundierte Entscheidungen, wie die Wahl seiner Religion, zu treffen. (Vgl. ebd., S. 60f)
+
 Da der Mensch nicht für immer allein bleiben kann (Vgl. ebd., S. 61), muss Émile irgendwann in die Gesellschaft eingeführt werden.
 Dies geschieht, wenn alle Erziehungsphasen beendet sind, aber auch wirklich erst dann.
 Denn jetzt hat der nun Erwachsene die Fähigkeit, auch in der Gesellschaft seine Aufgabe zur erfüllen, Mensch zu bleiben.
 >"In der natürlichen Ordnung sind die Menschen alle einander gleich. Ihr gemeinsamer Beruf ist: Mensch zu sein."
-(Rousseau-1762, Émile, S.50)
+(ebd., S.50)
 
 Was passiert aber mit demjenigen, der nicht natürlich erzogen wird?
 Seine, bürgerliche, Erziehung zerteilt ihn verschiedene Rollen und Identitäten, deren verschiedene Pflichten nicht miteinander zuvereinbaren sind.
@@ -36,35 +40,13 @@ Er ist z.B. als Abgeordneter dem Fraktionszwang unterworfen, für etwa eine Steu
 Oder er muss als Teilnehmer der KüMu zu einer Probe und als Kursteilnehmer Protokoll schreiben, ...
 > "Wenn man z.B. einen Menschen für andere erziehen will, anstatt für ihn selbst - gemäß seiner Natur - zu erziehen?
 > Dann ist Einklang ausgeschlossen."
-> (Rousseau-1762, Émile, S.49)
+(ebd., S.49)
+Der auf diese Weise zerrissene Mensch ist entartet und will nichts mehr so haben, wie es von der Natur vorgesehen ist (Vgl. ebd., S.48).
 
-
-Diesen, wie jeden Menschen, sieht Rousseau als per se gut an.
-<!-- FIXME: MH, nein nicht wie jeden Menschen, wie jeden *natürlichen* Menschen. Außerdem ist das hier gewissermaßen eher eine Schlussfolgerung. Nochmal schauen ob das hier mehr als Sanduhr strukturiert werden kann: mit dem allgemeinen anfangen, einen Fokuspunkt herleiten, dann allgemeinere Schlussfolgerung anschließen. -->
-
-
-
+Er war zwar gut geschaffen:
 > "Alles ist gut, wie es aus den Händen des Schöpfers der Dinge hervorgeht; alles entartet unter den Händen des Menschen."
-> Rousseau-1762, Émile, S.48
-
-Diese falsche Erziehung macht den Menschen "schlecht".
-<!-- TODO: MH erläutern, zu kurz -->
-
-
-Der auf diese Weise zerrissene Mensch ist entartet und will nichts mehr so haben, wie es von der Natur vorgesehen ist (Vgl. Rousseau-1762, Émile, S.48).
-Er bildet Laster aus.
-Die Verantwortung hierfür liegt bei der Gesellschaft, die eine derartige bürgerliche Erziehung fordert.
-Somit ist jedes Laster direkt nachvollziehbar und begründbar.
-<!-- FIXME: MH Übertreibung, zu simpel -->
-
-> "Es gibt [...] kein Laster, von dem man nicht sagen könnte, wie und woher es hineingekommen ist."
-> (Rousseau-1762, Émile, S. 53)
-
-<!-- FIXME: MH die Laster wirken hier etwas ... deplaziert; sind die nicht eigentlich ein Spezial- und Anwendungsfall des generellen Problems der bürgerlichen Existenz nach Rousseau? Das hier zäumt irgendwie das Pferd von hinten auf ... -->
-
-Um den Menschen vor Lastern zu bewahren, muss er also natürlich erzogen werden.
-
-<!-- FIXME: MH ich finde hier steht schon ganz viel ganz wichtiges und richtiges zu Rousseau drin; allerdings erscheint mir die die Reihenfolge irgendwie noch schräg. Geht das irgendwie noch Sanduhr-mäßiger? -->
+(ebd., S.48),
+aber nun ist er schlecht geworden.
 
 
 ## Le Contrat Social
