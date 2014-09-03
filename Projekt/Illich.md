@@ -109,12 +109,18 @@ Genauso sieht Benner in der "Bildsamkeit" *das* charakteristische Mermal des Men
 Beide schreiben dem Menschen die grundsätzliche Anlage zum Lernen zu und beide sehen dennoch in der Interaktion eine notwendige Bedingung.
 >"The child grows up in a world, surrounded by people who serve as models for skills and values (...), peers (...) to coorporate and understand, and if he is lucky, he is exposed to criticism by an experienced elders who really cares."
 Jedem Menschen, so Illich, sollte der Zugang zu diesen "Ressourcen" gewährleistet sein für eine freie Entfaltung. Dies trifft sich mit Benner, der auch sehr klar die Notwendigkeit einer Bezugs- und erziehenden Persönlichkeit formuliert.
-Der Zögling benötgt den Beistand eines Älteren, um ihn in seinem Reifungsprozess zu fördern bis er in der Lage ist, "selbsttätig" zu handeln
+Nach Benner benötgt der Zögling den Beistand eines Älteren, der ihn in seinem Reifungsprozess fördert bis dieser in der Lage ist, eigene Entschiedungen zu treffen.
+Dies kann jedoch nur durch permanente Aufforderungen passieren.
+>Aber "Im Sinne dieser Dialektik ist pädagogisches Handeln nur dort erlaubt, wo der Zu-Erziehende der Fremdaufforderung zur Selbsttätigkeit bedarf, und muss Erziehung stets don an ihr Ende gekommen sein, wo pädagogische Fremdaufforderung zur Selbsttätigkeit in Selbstaufforderung übergehen kann."
+So überschreitet die Schule die Grenzen der Pädagogik, da sie den Heranwachsenden auch noch dann behandelt, wenn er in der Lage selbsttätig zu handeln.
+Benner macht keine Angaben dazu, wann dies in der Regel passiert und macht so auch deutlich, dass eine allgemeine Einstufung von Kindern als unselbstständig nicht zutreffend ist, da es einerseits Kinder gibt, die sehr früh unabhängig in ihren Entscheidungen sind, andererseits auch viele Erwachsene, die wieder der Pädagogik bedürfen.
+Genauso beschreibt Illich Kindheit als eine moderne Erfindung und behauptet, einem Kind wurde bis zur Postmoderne moralisches Urteilsvermögen mit 7 Jahren zugeschrieben.
+
+
 education by all means education by all
 p.11 rechts
 
-Für Illich als auch Benner ist die Interaktion ein wesentlicher Bestandteil bei der Betrachtung des Individuums.
-Nach Illich beschrei
+
 - Verbindung zu Arbeiten mit Github
 (Github als Lernnetzwerk?)
 vorläufige Ideen:
