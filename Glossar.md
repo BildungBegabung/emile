@@ -26,6 +26,7 @@ Die ständige Verbesserung und Weiterentwicklung der WIssenschaft, der Technik u
 ## Freiheit:
 Beschreibt den Zustand, zwischen vielen verschiedenen Möglichkeiten beliebig wählen zu dürfen ohne dabei eingeschränkt zu werden bzw. die Möglichkeit aus vielen verschiedenen Optionen individuell wählen zu können ohne jeglichen Vormund.
 ## Geschichtlichkeit:
+## illokutiv:
 ## Identität:
 ## Ideologie:
 Alle Ansichten und Werte einer sozialen Gruppe, einer bestimmten Gesellschaft.
@@ -38,6 +39,7 @@ Eine soziale Struktur, die eine gewisse Stabilität hat. Im weiteren Sinne besch
 Beschreibt den Abschnitt unter dem Graph in der Produktionsmöglichkeitenkurve.
 ## Interaktion:
 wechselseitige Beziehung, aufeinander bezogenes Handeln, gegenseitige Beeinflussung.
+## intersubjektiv:
 ## Konsequentialismus:
 ## Konstruktivismus:
 Theorie, die feststellt, dass jede Person die Welt verschiedenerweise versteht und dass keiner Zugang zu der objektiven Realität hat.
@@ -62,8 +64,9 @@ Wenn alle Teilnehmer an einer Wahl in ihrer individuellen Rangliste eine Alterna
 Allgemein kann man einen Prozess als eine Pareto-Verbesserung bezeichnen, wenn nach einer Veränderung alle Beteiligten besser oder zumindest gleich gut gestellt sind.
 ## Pädagogik:
 Die Wissenschaft, die sich mit dem Unterrichten und Erziehen beschäftigt:
-Behaviorismus
-Kognitivismus
+## Behaviorismus
+## Kognitivismus
+## perlokutiv:
 ## Persönliche Autonomie:
 Die Fähigkeit des Menschen, sich selbst zu führen, ohne Hilfe oder Aufsicht von anderen.
 ## Positiv-Summenspiel:
