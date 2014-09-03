@@ -13,10 +13,11 @@ Illich begreift die Schule als eine Art Paradigma für die Natur von lebensbesti
 They school them to confuse process and substance."(Illich- P.3)
 Wir verwechseln Prozess und Wert, und werden so zu der Annahme verleitet, Lehren würde unausweichlich Lernerfolg bewirken.
 Diese Annahme lässt sich ebenso auf das Gesundheitssystem anwenden, welchem die Annahme vorrausgeht, medizinische Versorgung lasse sich mit Bekämpfung von Krankheiten gleichsetzen, oder auf Polizeipräsenz, welcher Sicherheit automatisch folgen sollte.
-Diese Anschauungen geben uns die Möglichkeit und fordern uns auch implizit dazu auf, die Werte zu messen, einfach anhand des Umfangs des Prozesses, welcher schließlich, so die These, zwangsweise den Wert provoziert.
+Es mag möglich sein, dass Polizei zur Sicherheit eines Wohnviertels beitragen kann, aber der Umkehrschluss, dass Sicherheit nur durch Polizeipräsenz erreicht werden kann, bzw. dass Polizeipräsenz *unausweichlich* zu mehr Sicherheit führt leitet zu falschen Konequenzen.
+Aus diesem Zusammenhang würde sich die Möglichkeit ergeben, die Werte, d.h. Sicherheit, Lernerfolg, etc., zu messen; und zwar anhand des Umfang des Prozesses (Polizeipräsenz, Schulanwesenheit).
 <!-- TODO: Ich verstehe, was ihr meint, aber könntet ihr diesen Zusammenhang nochmal klarer formulieren?
 Liegt das Problem nicht darin, dass von den Mitteln auf die Folge (der Wert) geschlossen wird?
-Schulen, Polizeipräsenz und das Gesundheitswesen sind nach Illich hinreichende, aber nicht notwendige Bedingungen für Lernen, Sicherheit und Gesundheit. -->
+Schulen, Polizeipräsenz und das Gesundheitswesen sind nach Illich hinreichende, aber nicht notwendige Bedingungen für Lernen, Sicherheit und Gesundheit. C.E: So einverstanden?-->
 Wir beziehen dies schließlich nicht nur auf bereits institutionalisierte Werte, sondern versuchen auch unsere persönlichen Werte von Standarts abzuleiten und den Wert unserer Persönlichkeit messen zu wollen.
 „In a schooled world the road to happiness is paved with a consumer's index“(P.19).
 
