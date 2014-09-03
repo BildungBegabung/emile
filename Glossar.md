@@ -49,6 +49,7 @@ Gesellschaftliche Konventionen des Verhaltens
 ## Mutually exclusive:
 ## Nash Equilibrium:
 <!-- bitte bei Siebert nachschauen und Definition zitieren -->
+
 ## Negative Freiheit:
 ## Null-Summenspiel:
 ## Paretoprinzip:
