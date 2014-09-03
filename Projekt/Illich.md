@@ -18,7 +18,7 @@ Aus diesem Zusammenhang würde sich die Möglichkeit ergeben, die Werte, d.h. Si
 <!-- TODO: Ich verstehe, was ihr meint, aber könntet ihr diesen Zusammenhang nochmal klarer formulieren?
 Liegt das Problem nicht darin, dass von den Mitteln auf die Folge (der Wert) geschlossen wird?
 Schulen, Polizeipräsenz und das Gesundheitswesen sind nach Illich hinreichende, aber nicht notwendige Bedingungen für Lernen, Sicherheit und Gesundheit. -->
-Den Mythos der institutionalisierten Werte beziehen schließlich auch auf unser privates Leben und glauben den Wert unserer Persönlichkeit messen zu können.
+Den Mythos der messbaren Werte beziehen schließlich auch auf unsere "imaginations, and, indeed, man himself"(p.19)
 „In a schooled world the road to happiness is paved with a consumer's index“(P.19).
 
 Diese Werte beginnen einen allgemein verbindlichen Charakter zu entwickeln, weswegen wir unser "Wissen" an die nächste Generation weitergeben wollen, und somit versuchen deren Lernprozess ebenfalls zu kontrollieren.
@@ -92,7 +92,7 @@ Er sieht seine Netzwerktheorie als eine Möglichkeit, ungehinderte Kommunikation
 Die Schule stellt für ihn eine Institution dar, die diese Form des Erfahrungsaustausches behindert und sich ihr bewusst entgegenstellt.
 Dewey lässt sich in diesem Fall vielleicht als eine Art Vordenker für Illich sehen.
 Er stellt das Ideal auf, während Illich dessen Umsetzung in der heutigen Gesellschaft hinterfragt und sich mit der Errichtung einer demokratischen Gesellschaft (vrgl. S.121), im eigentlichen dewyschen Sinne, als mehr als nur eine Staatsform, beschäftigt.
-Illich sieht jedoch den Menschen an sich als Zielm, während Dewey seine pragmatische Ethik auf dem Fortschrittsgedanken basiert.
+Illich sieht jedoch den Menschen an sich als Zielm, während Dewey seine pragmatische Ethik auf dem Fortschrittsgedanken basiert. (P.23)
 
 Man kann sogar noch einen Schritt weiter gehen, indem man in Illichs Ideen eine Antwort auf eine der zentralen Fragen unserers Kurses, "Wie können unterschiedliche und unterschiedlich befähigte Menschen inhärent gleich berechtigt und persönlich autonom zusammenleben?", sieht.
 Ein zentraler Punkt, den er an der Institution Schule kritisiert,ist deren Recht zur Bewertung der Schüler durch Zertifikate.
@@ -103,8 +103,18 @@ Das impliziert die unterschiedliche Wertigkeit von Menschen und führt somit daz
 Illich schlägt nun vor, das Messen von Fähigkeiten stark einzuschränken und im Bezug auf den Zugang zu Bildungsmöglichkeiten ganz abzuschaffen.
 So entsteht ein Menschenbild, dass von der Gleichwertigkeit Aller ausgeht, während die beschriebenen Freiheiten und Wahlmöglichkeiten ein Maximum an persönlicher Autonomie ermöglichen.
 
-Hier fang ich an
+Auch wenn Illich das Schulsystem abschaffen will - oder vielleicht auch gerade deswegen -, beschreibt er Lernen als eine innewohnende Eigenschaft des Menschen (
+>"the humman activity which least needs manipulation by others"(P.18).
+Genauso sieht Benner in der "Bildsamkeit" *das* charakteristische Mermal des Menschen an sich.
+Beide schreiben dem Menschen die grundsätzliche Anlage zum Lernen zu und beide sehen dennoch in der Interaktion eine notwendige Bedingung.
+>"The child grows up in a world, surrounded by people who serve as models for skills and values (...), peers (...) to coorporate and understand, and if he is lucky, he is exposed to criticism by an experienced elders who really cares."
+Jedem Menschen, so Illich, sollte der Zugang zu diesen "Ressourcen" gewährleistet sein für eine freie Entfaltung. Dies trifft sich mit Benner, der auch sehr klar die Notwendigkeit einer Bezugs- und erziehenden Persönlichkeit formuliert.
+Der Zögling benötgt den Beistand eines Älteren, um ihn in seinem Reifungsprozess zu fördern bis er in der Lage ist, "selbsttätig" zu handeln
+education by all means education by all
+p.11 rechts
 
+Für Illich als auch Benner ist die Interaktion ein wesentlicher Bestandteil bei der Betrachtung des Individuums.
+Nach Illich beschrei
 - Verbindung zu Arbeiten mit Github
 (Github als Lernnetzwerk?)
 vorläufige Ideen:
