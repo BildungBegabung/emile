@@ -15,7 +15,7 @@ Bei einer Wahl muss die Stimme eines Individuums genauso viel Wert besitzen, wie
 stammt aus der Theorie Dahls und heißt übersetzt: "aufgeklärtes Verständnis"
 ## Equal voting:
 Jede Stimme eines Individuums zählt genauso viel wie die eines anderen Individuums.
-## Ethik/pragmatische Ethik:
+## Ethik/Pragmatische Ethik:
 Pflichten, die ein Mensch von sich aus hat, also a priori
 ## Fortschritt:
 Die ständige Verbesserung und Weiterentwicklung der WIssenschaft, der Technik und der Lebensqualität.
@@ -41,7 +41,6 @@ Handeln ist gut, wenn das Ergebnis gut ist.
 Theorie, die feststellt, dass jede Person die Welt verschiedenerweise versteht und dass keiner Zugang zu der objektiven Realität hat.
 ## Kooperation:
 Die Zusammenarbeit von zwei oder mehreren Parteien.
-## Leiblichkeit:
 ## Monopolist:
 Besitzer des absoluten Rechts oder der absoluten Kontrolle über die Produktion.
 ## Moral:
@@ -59,6 +58,7 @@ Allgemein kann man einen Prozess als eine Pareto-Verbesserung bezeichnen, wenn n
 ## Pädagogik:
 Die Wissenschaft, die sich mit dem Unterrichten und Erziehen beschäftigt:
 ## Behaviorismus:
+Die Wissenschaft des menschlichen Verhaltens.
 ## Perlokutiv:
 Teil des Sprechaktes, der eine Wirkung beim Hörer erzielt.
 ## Persönliche Autonomie:
