@@ -17,7 +17,7 @@ Vgl. Mead symbolischen Interaktionismus
 - "her own free will give approval" helfen/kommunikation muss immer freiwillig sein (Zimpel)
 - Sprache ist keine Institution (?) Rousseau
 - Dewey auch Pragmatist (Habermas sieht sprache immer im Bezug zur Umwelt)
-- **Benner** Bildsamkeit -> man hat die Fähigkeit zur Selbstbestimmung, soll man selbstbestimmung gelehrt bekommen, kann das nur über kommunikatives Handeln geschehen, weil durch strategisches Handeln uneigene Meinungen geförtert werden. Heini soll kommunikativ sein!
+- **Benner** Bildsamkeit -> man hat die Fähigkeit zur Selbstbestimmung, soll man selbstbestimmung gelehrt bekommen, kann das nur über kommunikatives Handeln geschehen, weil durch strategisches Handeln uneigethunne Meinungen geförtert werden. Heini soll kommunikativ sein!
 - **Zimpel** Heini muss gholfen werden ABER wo ist da die Verbindung?? Ist helfen kommunikation (beidseitig) oder action (einseitig?)
 - **Emile** nix da (evtl System vs Lifeworld)
 - **Tilly** Es geht immer um Gewalt, eine Form von strategischem Handeln: *latent* = Androhung von Gewalt durch Anbieten von Schutz ; *manifest* = Pistole vor den Kopf - gewagte these: nur über strategisches handeln netstehen Staaten
@@ -51,17 +51,14 @@ Schließlich ist eine Demokratie ein "system" und keine "lifeworld", kommunikati
 Letztendlich entsteht also echtes Verständnis nur im persönlichen Umfeld und nicht in Wahlkampangen, welche ganz klar durch das perlukotive Ziel des Stimmgewinns strategisches Handeln sind.
 Utopisch wäre also ein Netz von Menschen, die sich kommunikativ aufklären, bestenfalls so gerade auch noch das Problem der single-peakedness lösen. Leider sind nicht alle in dem geichen großen custer, es gibt Randgruppen die wahrscheinllich niemals so gut informiert wein wie das Inssere des Giant Component.
 
+Diese Randgruppen können alleine schon reichen um eine Diktatur im Wahlsystem zu ermöglichen (-> Arrow).
+Dann wären wir wieder beim Gewaltmonopol, welches vom Herrscher und nicht vom Volk ausgeht und strategisches Handeln ist an der tagesordung und das andere gar nicht mehr erwünscht?!! "Hilfe?!"
+
 Möglicherweise ist die Spieltheoretische Betrachtung aber auch unangebracht in einer Demokratie, da sie davon ausgeht, dass Spieler immer nur die strategien des anr anderen Spieler betrachten und damit ihr Gegenüber als Objekt degradieren und noc nicht mal einen Sprechakt, sondern eine *purposive* action durchführen, indem sie den Spieler als teil der Objetiven Umwelt und kausal herleibar ansehen.
 vielleicht gilt dass auber auch nur für systeme und in einem kleinen Umfeld wie zB der dsa ist kommunikativesHaneln möglich und das Gefangennendilemma erreicht sein WOhlfahrtsoptimum?
 
-in kleinem umfeld wie dsa
-
-
-
-
 <!-- FIXME: was sagst du hierzu? ich habe mich gerade in einem diesem sehr wirren Gedankenknoten nicht mehr raus -->
-Diese Randgruppen können alleine schon reichen um eine Diktatur im Wahlsystem zu ermöglichen (-> Arrow).
-Dann wären wir wieder beim Gewaltmonopol, welches vom Herrscher und nicht vom Volk ausgeht und strategisches Handeln ist an der tagesordung und das andere gar nicht mehr erwünscht?!! "Hilfe?!"
+
 
 
 Kontrast Dahl...
