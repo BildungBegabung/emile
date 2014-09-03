@@ -47,8 +47,8 @@ Wenn man versucht, das auf das Schulsystem zu beziehen, könnte man sagen, dass 
 In diesem Kontext kann man Hayek auch mit Illich assoziieren.
 Fraglich ist allerdings, ob Hayeks ökonomische Gedanken auf das Schulsystem übertragbar sind, vor allem, da Hayek sich explizit positiv zum Schulsystem geäußert hat.
 
-# Projekt
-##Vergleich Hayek zu Dahl:
+
+###  Hayek zu Dahl:
 
 >"What is the problem we wish to solve when we try to construct a rational economic order?" (Hayek, The American Economic Review,S.519)
 
