@@ -1,15 +1,33 @@
 # Fremdwörter und Definitionen
 
+### Aufforderung zur Selbsttätigkeit:
+Beschreibt den Vorgang, dass ein Lehrender z.B ein Pädagoge den "Zu-Lehrenden" auffordert oder dazu bringt autonom zu sein.
+### Auszahlung/Payoff:
+Gewinn des Spielers, dessen Höhe von den Entscheidungen der verschiedenen Spieler abhängt.
 ### Autopoiesis:
 Selbstorganisation lebender Wesen, die Fortpflanzung und Leben dienen.
 ### Axiologie:
 Normatives, wie Dinge sein sollten.
+### Behaviorismus:
+Die Wissenschaft des menschlichen Verhaltens.
+### Beste Antwort/Best Response:
+Strategie, die bei einer gegebenen Strategie des Gegners die höchste Auszahlung bringt.
 ### Bildsamkeit:
 Die Fähigkeit des Individuums sich fortzubilden (Theorie Benner) durch Lernen und Bildung.
+### Cascade:
+
+### Cluster:
+
+### Component:
+
 ### Deontologie:
-Das Gesollte, die Pflicht
+Das Gesollte, die Pflicht.
+### Dominante Strategie/Dominant Response:
+Strategie, die bei jeder Strategie des Gegners die jeweils höchste Auszahlung bringt.
 ### Ecological Pragmatism:
 Theorie von Griffin zu Mead, das Symbole sich entwickelt haben, aufgrund ihrer Effektivität menschlichen Handels in der Vergangenheit.
+### Edge:
+Verbindung zwischen einzelnen nodges in der Netzwerktheorie.
 ### Effective participation:
 Bei einer Wahl muss die Stimme eines Individuums genauso viel Wert besitzen, wie die jedes anderen Individuums.
 ### Enlightened understanding:
@@ -17,7 +35,7 @@ Stammt aus der Theorie Dahls und heißt übersetzt: "aufgeklärtes Verständnis"
 ### Equal voting:
 Jede Stimme eines Individuums zählt genauso viel wie die eines anderen Individuums.
 ### Ethik/Pragmatische Ethik:
-Pflichten, die ein Mensch von sich aus hat, also a priori
+Pflichten, die ein Mensch von sich aus hat, also a priori.
 ### Fortschritt:
 Die ständige Verbesserung und Weiterentwicklung der WIssenschaft, der Technik und der Lebensqualität.
 ### Freiheit:
@@ -51,6 +69,8 @@ Im MECE-Prinzip.
 Besagt, dass ein Kriterium hinreichend ist, wenn es nur auf eine von zwei Möglichkeiten zutreffend ist.
 ### Nash Equilibrium:
 Eine Kombination von Strategien in nicht-kooperativen Spielen, wobei jeder Spieler genau eine Strategie wählt, von der aus es für keinen Spieler sinnvoll ist, von seiner gewählten Strategie abzuwenden.
+### Nodge:
+Knotenpunkt in einem Netzwerk, z.B. eine Person.
 ### Nullsummenspiel:
 Situationen in der Spieltheorie bei denen die Summe der Gewinne und Verluste aller Spieler zusammengenommen gleich null ist.
 ### Paretoprinzip:
@@ -59,8 +79,6 @@ Wenn alle Teilnehmer an einer Wahl in ihrer individuellen Rangliste eine Alterna
 Allgemein kann man einen Prozess als eine Pareto-Verbesserung bezeichnen, wenn nach einer Veränderung alle Beteiligten besser oder zumindest gleich gut gestellt sind.
 ### Pädagogik:
 Die Wissenschaft, die sich mit dem Unterrichten und Erziehen beschäftigt:
-### Behaviorismus:
-Die Wissenschaft des menschlichen Verhaltens.
 ### Perlokutiv:
 Teil des Sprechaktes, der eine Wirkung beim Hörer erzielt.
 ### Persönliche Autonomie:
@@ -69,8 +87,10 @@ Die Fähigkeit des Menschen, sich selbst zu führen, ohne Hilfe oder Aufsicht vo
 Situationen in der Spieltheorie bei denen die Summe der Gewinne und Verluste aller Spieler sich unterscheiden oder bei denen es keinen Gewinn oder Verlust gibt.
 ### Rekursivität:
 Bedeutet sich auf Erfahrungen zurückzubeziehen.
-### Aufforderung zur Selbsttätigkeit:
-Beschreibt den Vorgang, dass ein Lehrender z.B ein Pädagoge den "Zu-Lehrenden" auffordert oder dazu bringt autonom zu sein.
+### Spieler/Player:
+Handelnder im Spiel, der Entscheidungen trifft. Der Spieler muss nicht unbedingt eine Person, er kann auch etwa ein Unternehmen sein.
+### Strategie/Strategy:
+Handlungsmöglichkeit für den Spieler, Aufgabe des Spielers ist es sich für eine Aufgabe zu entscheiden.
 ### Symbolischer Interaktionismus:
 Symbolisch heißt soviel wie bildhaft oder sprachlich und Interaktionismus ist die Kommunikation zwischen Individuengruppen.
 Zusammengefasst heißt das also, dass Mead sich mit der sprachlichen, bildlichen Beziehung zwischen Menschen beschäftigt.
