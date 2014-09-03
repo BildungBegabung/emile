@@ -8,10 +8,12 @@ Daraus lassen sich sowohl soziologische als auch pädagogische Rückschlüsse zi
 Der Hauptbestandteil Meads, auf den sich seine ganze Theorie stützt, besteht aus den Komponenten **"I"**, **"Me"** und **"Self"**.
 Dabei werden Wünsche und Ziele beziehungsweise sinnliche und körperliche Bedürfnisse durch das "I" ausgedrückt, kurz der Egoismus eines Individuums.
 Das "I" wird auch impulsives Ich genannt, da es immer Neues und Schöpferisches in jede Situation bringt.
+>"Das I liefert das Gefühl der Freiheit der Initiative" (Mead-1934, S. 221)
+
 Das "Me" steht dem gegenüber und ist die Vorstellung eines Menschen, wie er von der Außenwelt betrachtet wird.
 Es ist somit das reflektierte Ich.
 Des Weiteren ist das "Me" ständig in Bewegung, weil immer neue Ansichten, wie jemand von der Gesellschaft gesehen wird, im Verlauf des Lebens hinzukommen. Mead beschreibt den Zusammenhang zwischen "I" und "Me" so:
->*"Das I ruft das Me nicht nur hervor, es reagiert auch darauf. Zusammen bilden sie eine Persönlichkeit, wie sie in der gesellschaftlichenErfahrungen erscheint."* (Mead-1934, S.221)
+>*"Das I ruft das Me nicht nur hervor, es reagiert auch darauf. Zusammen bilden sie eine Persönlichkeit, wie sie in der gesellschaftlichenErfahrungen erscheint."* (Mead-1934, S. 221)
 
 Die Bildung des "Me" ist also nie wirklich abgeschlossen.
 Aufgrund dessen, dass das "Me" die Moralität beinhaltet und den Pluralismus der Gesellschaft umfasst, ist es der ständige Gegenspieler des "I".
@@ -21,6 +23,8 @@ Eine gelungene Identität ist erreicht, wenn "I" und "Me" in einer gleichgewicht
 Wichtig sind diese Komponenten für die Selbstreflexion eines Individuums, auch looking-glass-effect gennant.
 Dieser Spiegelbildeffekt hilft dem Menschen sich aufgrund von Reaktionen des Gegenübers selber wahrzunehmen und mitzubekommen, wie andere auf das eigene Verhalten reagieren.
 Dies funktioniert, indem das "Me" die Umwelt wahrnimmt und das "I" diese Eindrücke subjektiv entgegennimmt und spontan reagiert, sich also dadurch auch verändern, vielleicht sogar verbessern kann.
+>"Das Me ist die organsisierte Gruppe von Haltungen anderer, die man selbst einnimmt." (Mead-1934, S. 218)
+
 Diese drei Komponenten fasst man zusammen als ein dynamisches Konstrukt, was bedeutet, dass ein Leben lang das Wechselspiel dieser Drei nicht zu Ende gehen kann.
 Dynamisch ist es deshalb, weil "Me" und "I" durch die Interaktion mit Anderen in ständiger Bewegung sind, was bedeutet, dass bei jeder Entscheidung im Alltag entweder das "Me" oder das "I" überwiegen kann.
 Die Rückschlüsse, die sich nun daraus ziehen lassen sind Folgende:
