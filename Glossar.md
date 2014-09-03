@@ -69,8 +69,8 @@ Die Fähigkeit des Menschen, sich selbst zu führen, ohne Hilfe oder Aufsicht vo
 
 ## Rekursivität:
 Bedeutet sich auf Erfahrungen zurückzubeziehen.
-## Selbsttätigkeit:
-
+## Aufforderung zur Selbsttätigkeit:
+Beschreibt den Vorgang, dass ein Lehrender z.B ein Pädagoge den "Zu-Lehrenden" auffordert oder dazu bringt autonom zu sein.
 ## Symbolischer Interaktionismus:
 Symbolisch heißt soviel wie bildhaft oder sprachlich und Interaktionismus ist die Kommunikation zwischen Individuengruppen.
 Zusammengefasst heißt das also, dass Mead sich mit der sprachlichen, bildlichen Beziehung zwischen Menschen beschäftigt.
