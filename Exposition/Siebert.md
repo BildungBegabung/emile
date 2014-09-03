@@ -29,6 +29,16 @@ In einer pluralisierten Gesellschaft ist somit ein pluralistisches Lernraster er
 Siebert selbst geht auf diese Frage wie folgt ein:
 >"Menschen als selbstgesteuerte *„Systeme“* können von der Umwelt nicht determiniert, sondern allenfalls **perturbiert**, das heißt, **„gestört“** und **angeregt** werden." (ebd. S.5)
 
+Beim Lernen werden vorhandene Assoziationsfelder aktiviert und verknüpft, das Gehirn führt einen „Inneren Monolog“, es kommuniziert mit sich selbst, sucht bestätigende Beispiele oder auch Widersprüche. Siebert beruft sich hier auf den Gehirnforscher Wolf Singer, der feststellte, dass 80% der kognitiven Aktivitäten beim Hören eines Vortrages dieser Innere Monolog waren. Was gelernt wird, hängt also weniger von den Informationsinputs als von der „individuellen kognitiv-emotionalen Vorstrukturund der psycho-physischen Befindlichkeit“ (S. 18) ab, also davon, welche Assoziationen oder Erinnerungen die Inputs hervorrufen. Des weiteren hängt die Auswahl der Informationen, also was und ob gelernt wird, laut Siebert von der direkten Relevanz der Informationen für das Individuum ab. Lernen ist also in erster Linie ein eigenwilliger und eigensinniger Prozess und dient primär der Selbsterhaltung (Autopoiese). Auf dieser Grundlage werden die Inputs gefiltert, das psychische „System“ entscheidet selbst , was für das eigene Überleben wichtig ist und was nicht und entscheidet dementsprechend, was es verarbeitet.
+
+
+
+
+
+
+
+
+
 Der Mensch kann demzufolge durch Perturbationen (*(An)Reize*) zum (Um)Denken angeregt werden.
 Diese Möglichkeit der Perturbation kann der Lehrende zur Vermittlung von Wissen nutzen und damit gegebenenfalls neue Sichtweisen für den Lernenden eröffnen.
 
