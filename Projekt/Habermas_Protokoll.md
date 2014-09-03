@@ -28,7 +28,7 @@ Außerdem kann das Ziel eines Sprechaktes nicht kausal herbeigeführt werden, da
 Denn mit jedem Sprechakt wird automatisch ein Gültigkeitsanspruch aufgestellt und sobald illokutive Ziele verfolgt werden, wird der Handlungsbereich des Sprechenden verlassen und dieser ist auf die Kooperation und Einwilligung des Gespächspartners angewiesen, um sein Ziel zu erreichen.
 
 
-Durch diese Nötigkeit der Kooperation entstehen allerdings auch Konflikte, weshalb sich Habermas im weiteren Textverlauf fast ausschließlich mit den sozialen Handlungen befasst.
+Durch diese Notwendigkeit der Kooperation entstehen allerdings auch Konflikte, weshalb sich Habermas im weiteren Textverlauf fast ausschließlich mit den sozialen Handlungen befasst.
 Seine Sprachakttheorie lehnt er hierbei an die des amerikanischen Philosophen John Rogers Searle und seines britischen Kollegen John Langshaw Austin an.
 Allerdings grenzt er sich von der Vorstellung ab, die Gültigkeitsansprüche, die mit jedem Sprechakt aufgestellt weren, würden nur aus der Aussagenlogik betstehen, sondern sieht diese nur als einen Teil der Gültigkeitsansprüche, die an Sprechakte gestellt werden müssen.
 Hier differenziert er zwischen strategischem und kommunikativem Handeln, wobei er Letzteres für erstrebenswert hält.
