@@ -37,7 +37,6 @@ Hätte das Volk aber als solches die Möglichkeit, Steuern zu regulieren und üb
 Krieg macht es dem Staat möglich, seine Macht nach außen zu expandieren und legitimiert innerhalb seines Einflussbereiches das Eintreiben von Steuern. Das Eintreiben von Steuern  wiederum macht es dem Staat möglich, Krieg nach außen zu führen. Durch diese wechselseitige Beziehung wird die Wirtschaft, besonders die Gewaltproduktion, angekurbelt.
 Das intensiviert den Kreislauf zusätzlich.
 
-
 ## Durch welche Handlungen definiert sich ein Staat?
 Nachdem der Staat durch ***Unterwerfung*** das Machtmonopol installiert hat (ebd. S.175 Z.7f), *definiert* er sich durch das sogenannte *Gewaltmonopol* ("the authority's monopoly of force" ebd. S.172, Z.1).
 In Tillys Verständnis kann man dies als das Alleinrecht auf Sicherheit und Ordnung auf einem bestimmten Gebiet verstehen("governments claim to provide protection" ebd. S.172, Z.2).
