@@ -1,12 +1,12 @@
 # Habermas: Kommunikatives Handeln
 
 Dass Schule und Demokratie eng mit Kooperation und Kommunikation verbunden ist, wird bereits anhand von beispielsweise Kleinberg und Mead deutlich.
-Nach Meads symbolischem Interaktionismus entsteht die Identität schließlich immer im Kontakt mit anderen Individuen.
-Also immer in einem intersubjektiven Prozess.
-<!-- TODO MH: das ist eine gute einleitung; erklären anstelle von hinweis auf kleinberg und mead wäre noch etwas schöner -->
+Die Intersubjektivität ist bei bedien gegeben:
+Nach Meads symbolischem Interaktionismus entsteht die Identität schließlich immer im Kontakt mit anderen Individuen und Kleinbergs Kooperationslose Spiele enden nicht notwendigerweise im sozialen Optimum.
+
 Jürgen Habermas postuliert nun in seinem 1998 erschienen Text "On the Pragmatics of Communication" einen Telos menschlichen Handelns und menschlicher Sprache und unterscheidet zwischen verschiedenen Handlungsformen.
 
-
+![Baumdiagramm Zielorientiertes Handeln](img/Habermas_Baumuebersicht.jpg)
 
 Dabei differenziert er zunächst zwischen Handlungen an Objekten in der fassbaren Realität und Handlungen in der sozialen Welt, also Sprechakten, die sich insbesondere in ihren Zielen unterscheiden.
 
@@ -20,7 +20,6 @@ Außerdem ist auch die Trennung von Mittel und Zweck in der Sprache nicht mögli
 
 Wenn Hanna, Assistentin der Akademieleitung, im Plenum beispielsweise darauf hinweist, dass die Hilfe beim Drucken der Akademie-T-Shirt wichtig für das Gelingen des Projekts ist, muss Sie, um eben diese Verständigung zu erreichen auf Sprache zurück greifen, welche wiederrum einen Verständigungs-Telos impliziert.
 Führen wir diesen Gedanken weiter geraten wir schnell in einen Kreislauf, der die Rekursivität zwischen Sprache und dem Ziel der Verständigung deutlich macht.
-<!-- MH super beispiel, toll gelungen -->
 
 Das Telos der illokutiven Verständigung als universelles Ziel menschlicher Sprache steht für Habermas teleologisch fest und ist der Ausgangspunkt seiner an die des amerikanischen Philosophen John Rogers Searle und seines britischen Kollegen John Langshaw Austin angelehnten Sprechakttheorie.
 
@@ -30,7 +29,6 @@ Er sieht diese stattdessen nur als einen Teil der Gültigkeitsansprüche, die an
 
 Sagt Mihai, Assistent der Akademieleitung, beispielsweise "Wir sollten dem Küchenpersonal etwas vorsingen, weil es jeden Tag unser Essen zubereitet" kann nach Habermas zwar sowohl auf die objektive Wahrheit (Bereitet das Küchenpersonal wirklich unser Essen zu?) aber eben auch auf die normative Richtigkeit (Ist Vorsingen eine angemessene Dankesgeste), die subjektive Authenzithät (Ist das Gesagte auch so gemeint oder wird Mihai von Kerstin gezwungen diesen Vorschlag zu machen?) und die sprachliche Verständlichkeit überprüft werden.
 Für Habermas muss jeder einzelne dieser Gültigkeitsansprüche anfechtbar sein um kommunikatives Handeln zu ermöglichen.
-<!-- MH: sehr gut gelungen, wirklich ein eingängiges bsp -->
 
 Generell differenziert er zwischen strategischem und kommunikativem Handeln, wobei er letzteres für erstrebenswerter hält.
 Zwar steht für Habermas grundsätzlich hinter jeder Handlung ein "action plan", also ein Ziel, allerdings geht er auch davon aus, dass für eine erfolgreiche Kommunikation die Beilegung dieses "action plans" nötig ist, um ausschließlich illokutive Ziele zu verfolgen.
