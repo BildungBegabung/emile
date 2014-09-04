@@ -1,4 +1,4 @@
-# Selbstreflektion
+# Kooperation im Selbstexperiment - Reflektion über unsere Kursarbeit auf GitHub
 
 Während unserer Kursarbeit mussten unsere Kursleiter wohl oft mit Sorgenfalten in aufs extremste irritierte Gesichter geblickt haben.
 Es hatte ja auch etwas heroisches an sich, die grundsätzlichsten Fragen der menschlichen Existenz im Sinne seiner Entwicklung und seiner soziologischen Gemeinschaft beantworten zu wollen.
@@ -13,7 +13,7 @@ Jeder hatte zu jedem Zeitpunkt die Möglichkeit auf alle geschrieben Texte zuzug
 Dadurch entstand eine völlig neue Form der sozialen Interaktion, die in Bezug auf die Ausgangsfrage nach persönlicher Autonomie und inhärenter Gleichheit zu analysieren ist.
 Hierfür lassen wir vier Autoren aus unserem Kurs sprechen und befragen sie postum, was sie zu diesem gewagten Unterfangen auf GitHub sagen würden.
 
-## Freinet zu GitHub:
+## Was Freinet zu unserer Zusammenarbeit auf GitHub sagen würde
 
 Vor fast 100 Jahren sprießte die Reformpädagogik, in einer Zeit ohne Computer, geschweigedenn Internet.
 Während wir fleißig Issues closen und merge conflicts lösen, hantierte Célestin Freinet mit Druckerpressen und Karteikarten - damals der letzte Schrei.
@@ -37,7 +37,7 @@ Trotz alle dem ist es fraglich ob eine vernetzte Arbeit mit Freinets Reformpäda
 Als Fazit lässt sich also sagen, dass Freinet unserem System wahrscheinlich nicht abgeneigt wäre. Aber seine contra-sozialen Folgen stark kritisieren würde.
 
 
-## Illichs zu GitHub:
+## Was Illich zu unserer Zusammenarbeit auf GitHub sagen würde
 
 Illichs Beschreibung der "learning webs" decken sich grundsätzlich mit unserer Arbeit auf Github, angenommen, mehr Leute würden es nutzen und wir alle hätten uns ganz frei dazu entschieden, genau an diesem Thema teilzunehmen, und sind jederzeit in der Lage unsere Arbeit zu verweigern - wenn wir wollten.
 <!-- TODO: VK auch hier ein packenderer Einstieg? Schachtelsatz vermeiden  -->
@@ -57,14 +57,14 @@ Die Gefahr, dass die direkte Kommunikation hinter 16 aufgeklappten Laptopbildsch
 
 <!-- TODO: VK Guter Abschnitt, fehlen nur 1-2 knackige Zitate aus Illich  -->
 
-## Hayeks zu GitHub
+## Was Hayek zu unserer Zusammenarbeit auf GitHub sagen würde
 
-Ähnlich wie bei Illich ist es unklar wie Hayek zu modernen Kommunikationsmitteln stehen würde, einfach aus dem schlichten Grund, dass er vermutlich nie mit einem Computer kommuniziert hat.
+Ähnlich wie bei Illich ist es unklar wie Hayek zu modernen Kommunikationsmitteln stehen würde, einfach aus dem schlichten Grund, dass er vermutlich nie mit einem Computer gearbeitet hat.
 Doch kann man aufgrund seiner Aussagen, die er über Kooperation getätigt hat, im Jahre 1945, seine Ansätze übertragen auf ein Medium wie GitHub. Er äußert sich sehr negativ auf Institutionen, die Wissen und Informationen austauschen. Die einzige Institution die half und mit der etwas "getauscht" werden durfte war Geld.
 >It is in this connection that what I have called the economic calculus proper helps us, at least by analogy, to see how this problem can be solved, and in fact is being solved, by the price system. (Hayek-1945 S. 525)
 Aufgrund dieser Tatsache würde Hayek GitHub vermutlich stringend ablehnen und sich dagegen aussprechen, dass wir mit dieser Institution Wissen austauschen und kooperieren.
 
-## Habermas zu Github:
+## Was Habermas zu unserer Zusammenarbeit auf GitHub sagen würde
 
 Auch Jürgen Habermas dürfte, angesichts der Tatsache, dass er seine Texte bis heute auf einer Schreibmaschine schreibt, zunächst Bedenken haben, wenn er von unserer Zusammenarbeit auf GitHub hören würde.
 
