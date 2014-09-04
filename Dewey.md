@@ -30,8 +30,9 @@ Im Sinne der Motivation kann mit Angst allerdings kann ein Problem auftreten, we
 Findet ein Mitarbeiter keine Form von Selbstverwirklichung in seinem Beruf, so findet sich nach Dewey legale Sklaverei.
 <!-- TODO: MH genau -->
 Wie sich an der Kritik Deweys an Platos Klassengesellschaft erkennen lässt, ist der Individualismus dabei, laut Dewey, wichtig für die Chancengleichheit und den Meinungsaustausch in einer Demokratie, in welcher es die ständige Möglichkeit zur Neuausrichtung und Verbesserung geben muss:
->"He never got any conception of the indefinite plurality of activities which may characterize an individual [...] ans consequently limited his view to a limited number of *classes*" (S.95) und
+>"He never got any conception of the indefinite plurality of activities which may characterize an individual [...] ans consequently limited his view to a limited number of *classes*" (S.95) 
 "Hence education would soon reach a static limit in each class, for only diversity makes change and progress" (S.96)
+
 Des Weiteren ist die politische Mitwirkung jedes Einzelnen gewährleistet basierend auf Folgendem:
 Alle müssen gehört werden, denn sie könnten etwas sehen.
 Die Gesellschaft darf also nicht in zwei Klassen geteilt werden, zwischen welchen kein Austausch stattfindet und somit keine neuen Denkanstöße in die jeweilige Klasse eindringen können.
