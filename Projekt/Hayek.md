@@ -16,7 +16,6 @@ Hayek wäre vielleicht skeptisch ob der Chancen jedweder zentraler Planung – e
 Plausiblerweise würden die Teilnehmerinnen ihre zukünftigen Bedürfnisse ungenau einschätzen oder die Küche würde Nachfragespitzen nicht antizipieren.
 Eine katallaktische Lösung im Sinne Hayeks könnte es sein, anstelle des pauschal und subventioniert bereitgestellten Kaffees, Heißgetränke über einen Markt bereit zu stellen.
 Möglicherweise hätten dann kaufende Teilnehmerinnen Zugang zu ihren tatsächlich, am Markt bepreistem Bedürfnis an Heißgetränken und die Anbieter hätten Anreize Informationen über zu erwartende Nachfragespitzen (etwa in der Doku-nacht) einzuholen.
-<!-- TODO: MH habe jetzt mal oben reingeschrieben, an was ich da gedacht habe. lest es mal korrektur und schaut ob das so für euch passt, plausibel ist -->
 
 Hayek schätzt charakteristisch das Preissystem als geeigneter ein um lokale, und kontingente – also abhängig von Umständen – Informationen zu sammeln.
 
