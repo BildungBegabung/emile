@@ -1,8 +1,10 @@
 # Spieltheorie
 
+Kleinerg's Spieltheorie baut auf der Annahme einer Vernetzung von Individuen innerhalb eines Systems auf, so dass das Endergebnis von den Entscheidungen aller abhhängt. Das mathematische Konzept modelliert menschliche Interaktion in Form von Spielen, dessen *Spielausgänge* von den gewählten *Spielstrategien* abhängen und in Form einer Auszahlungsmatrix analysiert und veranschaulicht werden können.
+
 >„Game theory is concerned with situations in which decision-makers interact with one another, and in which the happiness of each participant with the outcome depends not just on his or her own decisions but on the decisions made by everyone." (Kleinberg; Networks, Crowds and Markets, S.156)
 
-**Spieltheorie** (siehe: Kleinberg, "Networks,Crowds and Markets", S.153-274) modelliert menschliche Interaktion in Form von Spielen, dessen *Spielausgänge* von den gewählten *Spielstrategien* abhängen und in Form einer Auszahlungsmatrix analysiert und veranschaulicht werden können.
+**Spieltheorie** (siehe: Kleinberg, "Networks,Crowds and Markets", S.153-274)
 
 Bei einem **Spiel** handelt es sich um eine Entscheidungsfindung von Spielern, in der alle Beteiligten wechselseitig von den Entscheidungen der anderen abhängig sind und stets nach Eigeninteresse handeln.
 
