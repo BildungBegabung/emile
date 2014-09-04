@@ -14,7 +14,7 @@ Erst in einer materialistisch gut ausgestatteten und überdacht organisierten Sc
 
 Seine grundlegenden pädagogischen Ideen hält Freinet in 30 sogenannten Invarianten fest.
 Invarianten sind unveränderliche Wahrheiten (vgl. Freinet-1964 S. 488).
-In Ihnen zeigt sich wie Bedeutsam die **intersubjektiven Beziehung** zwischen Lehrer-Schüler ist.
+In ihnen zeigt sich, wie bedeutsam die **intersubjektive Beziehung** zwischen Lehrer-Schüler ist.
 Freinet ist der Meinung, das Verhältnis zwischen Lehrer und Schüler solle so sein wie das **Verhältnis einer Mutter zu ihrem Kind**.
 Er sagt, ein Lehrer müsse seinen "Schülern das gleiche Vertrauen schenken können, das eine Mutter ihrem kleinen Kinde schenkt" (Freinet-1946 S. 105).
 Das beinhaltet ebenfalls "größtmögliche Ehrlichkeit" dem Kinde gegenüber (ebd. S. 110)
@@ -35,16 +35,15 @@ Er ist sich sicher, "Was das Kind nicht heute lernt, nicht in dieser Woche, ja s
 Es ist also wichtiger, "dass das Kind seine Individualität entwickelt" (ebd. S. 105), als dass es spezielle Lerninhalte erfasst.
 Bei dieser Art der Pädagogik ist, da es keine Vorschriften gibt, das individuelle Interesse sehr wichtig.
 Diese Ablehnung eines Bildungskanons ist ein weiteres Plädoyer für persönliche Auonomie, da sie zeigt, wie sehr Freinet jegliche Gleichstellung der Edukanten in einem Bildungsystem ablehnt.
-Er ist der Auffassung dass, die notwendigsten Dinge von sich aus durch das Kind irgendwann gelernt werden.
+Er ist der Auffassung, dass die notwendigsten Dinge von sich aus durch das Kind irgendwann gelernt werden.
 Dies kann man nur nicht auf einen bestimmten Zeitraum festlegen.
 
 Freinet unterscheidet hierbei zwischen Interessenkomplexen und Interessenzentren.
 Die **Interessenkomplexe (Complexe d'intérêts)** gehen vom Schüler bzw. von der Schülerin aus, d.h. er/sie hat gewisse Interessen, welche er/sie erarbeiten möchte.
 Ausgehend von diesen Interessenkomplexen strukturiert sich die gesamte pädagogische Arbeit.
-Für Freinet muss zu allererst der Schüler sein Interesse für einen bestimmten bereich zeigen, wovon anschließend der Lehrer behilflich sein kann, dass Wissen zu ordnen.
-<!-- TODO: VK Dopplungen mit den Eigeninteressen vermeiden -->
+Für Freinet muss zuallererst der Schüler seine Ambitionen für einen bestimmten Bereich zeigen, wovon anschließend der Lehrer behilflich sein kann, das Wissen zu ordnen.
 Freinet schreibt, der Lehrer muss den Kindern "bei der manuellen, künstlerischen und geistigen Verwirklichung ihrer vorherrschenden Möglichkeiten" (ebd. S.90) helfen.
-Er nennt dies Hilfe bei der Ordnung, die **Interessenzentren (Centres d'intérêts) der Lehrers**.
+Er nennt diese Hilfe bei der Ordnung die **Interessenzentren (Centres d'intérêts) der Lehrers**.
 Freinet spricht daher von der "Überlegenheit des Interessenkomplexes [...] gegenüber den Interessenzentren" (ebd. S.89).
 Gerade diese Überlegenheit der Interessenkomplexe macht deutlich, dass persönliche Autonomie der Grundpfeiler der Freinetschule ist.
 Schließlich hat jedes Kind seine eigenen individuellen Interessenkomplexe, welche auch individuell betrachtet werden sollen.
@@ -53,12 +52,12 @@ Schließlich hat jedes Kind seine eigenen individuellen Interessenkomplexe, welc
 
 ### Siebert:
 Freinet geht davon aus, dass ein Edukant am besten auf seine ganz individuelle Art und Weise lernt und sich die Welt erklärt (vgl. Freinet S. 496).
-Daraus lässt sich ableiten, dass nach Freinet in der Individualität für Freinet ein großer und wichtiger Vorteil liegt.
-Es lässt sich also schlussfolgern, dass Freinet einem konstruktivistischem Lernkonzept wie das von Horst Siebert zustimmen würde.
+Daraus lässt sich ableiten, dass in der Individualität für Freinet ein großer und wichtiger Vorteil liegt.
+Es lässt sich also schlussfolgern, dass Freinet einem konstruktivistischem Lernkonzept wie dem von Horst Siebert zustimmen würde.
 Dieser behauptet:
 >"Die [...] so erzeugte Wirklichkeit ist keine Repräsentation [...] der Außenwelt, sondern eine funktionale, viable Konstruktion, die von anderen Menschen geteilt wird und die sich biographisch und gattungsgeschichtlich als lebensdienlich erwiesen hat" ( Siebert-2003 S. 6)
 
-Allerdings würde Freinet Sieberts Vorstelung des radikalen Konstruktivismus ablehnen, da dieser Kommunikation unter Menschen keinen Platz einräumt.
+Allerdings würde Freinet Sieberts Vorstellung des radikalen Konstruktivismus ablehnen, da dieser Kommunikation unter Menschen keinen Platz einräumt.
 Es würden danach sämtliche Gedanken nur im Kopf eines Menschen rekursiv rekonstruiert werden (vgl. Siebert-2003 S. 10) und somit hätte eine Schule wie sich Freinet sie vorstellt keine Berechtigung.
 Viel eher würde Freinet dem sozialen Konstruktivismus zustimmen.
 Dieser setzt besonders auf soziale Interaktion einen großen Wert.
