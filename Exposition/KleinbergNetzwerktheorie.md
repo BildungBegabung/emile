@@ -1,8 +1,5 @@
 # Netzwerktheorie Kleinberg
 
-<!-- TODO: MH erstmal eine grundsätzliche Einleitung einfügen; *warum* befassen wir uns mit Netzwerktheorie? -->
-
-
 ### Terminologie
 
 Um Netzwerke, Systeme von Verbindungen zwischen Entitäten, theoretisch betrachten und analysieren zu können, gibt es die Möglichkeit sie als Graph darzustellen.
