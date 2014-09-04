@@ -1,11 +1,11 @@
 # Staatsgenese als organisiertes Verbrechen: Charles Tilly
-<!-- generelle Fehler -->
-<!-- TODO MH: deutsche Begriffe verwenden (auch unten stehend) für protection etc. -->
 
 <!-- TODO MH: Hier brauchen wir glaube ich erstmal einen einleitenden Satz; warum sollte uns das in unserem Kurs interessieren? (Tip: weil wir es mit Demokratie zu tun haben, und Demokratie das treffen von Kollektiv verbindlichen Entscheidungen betrifft, dafür also einen Staat braucht.) -->
-Ganz andere Fragen als Siebert beschäftigen den Historiker Charles Tilly.
-Sein Thema ist die Entstehung von Staaten.
+Bei genauerem Hinschauen erkennt man, dass das Kursthema voraussetzt, dass Demokratie überhaupt erstrebenswert ist.
+Da kollektiv verbindliche Entscheidungen einer Demokratie inhärent sind, braucht man einen Staat, der diese unter Zwang durchsetzt.
+Die Entstehung von Staaten ist das Thema Charles Tillys.
 Staaten definiert er hierbei über die Kontrolle der physischen Gewalt in einem Volk auf einem zusammenhängenden Territorium:
+
 >"national states: relatively centralized, differentiated organizations the officials of which more or less successfully claim control over the chief concentrated means of violence within a population inhabiting a large, contiguous territory." (Tilly-1985 S.170)
 
 ## Wie entsteht ein Staat?
