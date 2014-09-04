@@ -18,8 +18,7 @@ Somit ist davon auszugehen, dass Menschen in der Summe eine höhere Produktivit�
 Damit jeder seine eigenen Ziele verfolgen kann, müssen Regeln vorhanden sein.
 Diese schränken jedoch zwangsweise den Handlungsspielraum des Individuums ein.
 Jede Form von Regel, die versucht gleiche Chancen für alle zu garantieren, zwängt den Menschen in ein bestimmtes Ideal!
-<!-- Dieser befindet sich dann in diesem Organisationsstatus und führt zu seiner Ungleichheit, wenn sich der jeweilige Mensch nicht durch das jeweilige Ideal vertreten sieht. -->
-<!-- TODO: Was meinst du damit? besser erklären-->
+Dieser Zwang kann zu der Ungleichheit von Menschen untereinander führen, wenn sich einige nicht mit dem jeweiligen Ideal identifizieren können.
 
 Aus dieser Erkenntnis ergibt sich der grundsätzliche Gegensatz, aber auch die gegenseitige Bedingtheit von persönlicher Autonomie und inhärenter Gleichheit.
 Persönliche Autonomie ist die Fähigkeit sich selbst zu führen ohne die Hilfe oder Aufsicht von Mitmenschen bzw. der Gesellschaft.
@@ -28,8 +27,7 @@ Die beiden Attribute sind wichtig, weil sie klarstellen, dass es sich einerseits
 Stattdessen ist eine Gleichheit gemeint, die darauf abzielt, jedem Lebewesen mit dem Genom des homo sapiens gleiche Möglichkeiten in der Selbstverwirklichung bereitzustellen.
 
 Den Menschen ist scheinbar keine natürliche Antwort auf unsere Frage der Organisationsform gegeben, wie das z.B. bei Bienen im Familienkomplex der Fall ist.
-Es wird also versucht dieser "Natur der natürlichen Undeterminiertheit" mit Institutionen zu begegnen, die gesellschaftliche Normen etablieren (The way things are done).
-<!-- TODO: "Natur der natürlichen" doppelt gemoppelt?, Woher kommt der Satz "The way things are done"? -->
+Es wird also versucht dieser "Natur der Undeterminiertheit" mit Institutionen zu begegnen, die gesellschaftliche Normen etablieren.
 Es ist möglich verschiedene Gesellschaftsformen in einem Graphen darzustellen, in welchem die eine Achse für persönliche Autonomie steht und die andere für inhärente Gleichheit.
 In diesem Graphen ist vor allem das Verhältnis der beiden Faktoren zueinander wichtig.
 Die Grundfrage des Kurses bezieht sich darauf in der Gesellschaft eine möglichst hohe persönliche Autonomie zu ermöglichen, aber auch der inhärente Gleichheit einen größtmöglichen Einfluss zu gewährleisten.
