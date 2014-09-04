@@ -143,3 +143,10 @@ Rousseau auch nicht.
  - Inhaltlich für *Projektarbeit*,
  - keine Bestimmung des Inhalts durch andere (Bsp: unser Kurs statt Programm schreiben);
  - problematisch: kein direkter Kontakt untereinander, evtl. weniger Interaktion durch Effizienz-->
+>"If people are seriously to think about deschooling their life, and not just escape from the
+corrosive effects of compulsory schooling, they could do no better than to develop the habit of
+setting a mental question mark beside all discourse on young people’s ‘‘educational needs’’ or
+‘‘learning needs,’’ or about their need for a ‘‘preparation for life.’’ I would like them to reflect
+on the historicity of these very ideas. Such reflection would take the new crop of deschoolers
+a step further from where the younger and somewhat na¨ıve Ivan was situated, back when talk
+of ‘‘deschooling’’ was born.""
