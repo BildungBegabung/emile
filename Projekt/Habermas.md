@@ -1,21 +1,11 @@
 # Projekt: Habermas
 
-<!-- TODO: Verbindungen zu anderen Autoren  -->
-<!-- TODO: Zusammenfassung  -->
-<!-- TODO: Verbindungen zu anderen Autoren -->
-<!-- TODO: Umsetzbarkeit/In github -->
-<!-- TODO: klären, ob das Publikum einen Plan hat -->
-<!-- TODO: MH finde ich super, hier so die Aufgaben einzutragen, das ist super für den Endspurt, denke ich. -->
-
 <!-- TODO: MH hier fehlt irgendwie eine allgemeine Ein-/Überleitung, auch abhängig vom letzten Abschnitt vorher. Warum lesen wir Habermas? Welches Problem informiert den folgenden Abschnitt? -->
 
-# Habermas Protokoll
-<!-- TODO: MH die einzelnen Textursprünge können natürlich in der Doku so nicht vorkommen ... es muss eine organische Struktur ergeben -->
+# Habermas Sprechakttheorie
 Dass Schule und Demokratie eng mit Kooperation und Kommunikation verbunden ist, wird bereits anhand von beispielsweise Kleinberg und Mead deutlich.
 Jürgen Habermas postuliert nun in seinem 1998 erschienen Text "On the Pragmatics of Communication" einen Telos menschlichen Handelns und menschlicher Sprache und unterscheidet zwischen verschiedenen Handlungsformen.
 <!-- TODO: Bild Baumdiagramm mit handlungsarten einfügen--->
-<!-- TODO: MH, ja, gern auch als neues Magic Chart mit verschiedenen Farben, dann haben wir eine Formensprache. -->
-
 
 Dabei differenziert er zunächst zwischen Handlungen an Objekten in der fassbaren Realität und Handlungen in der sozialen Welt, also Sprechakten, die sich insbesondere in ihren Zielen unterscheiden.
 
@@ -23,6 +13,7 @@ Während die Ziele der Handlungen am Objekt laut Habermas kausal herbeigeführt 
 Denn der Sprechakt enthält, im Gegensatz zum Handeln am Objekt, ein sogenanntes illokutives Element, das dem Gesprächsparter die dem Sprechakt zugrundeliegende Absicht des Handelnden offenbart.
 Einmal ist deshalb die Annahme der Kausalität unmöglich, denn das Ziel der Verständigung erfordert die Kooperation mit einer zweiten Person und kann damit nicht den selben innerweltlichen Status haben, wie eine Handlung am Objekt.
 Außerdem ist auch die Trennung von Mittel und Zweck in der Sprache nicht möglich:
+
  > "the medium of natural language and the telos of reaching understanding interpret one another reciprocally, one cannot be explained without recourse to the other."
 > Habermas (S.218)
 
@@ -46,15 +37,13 @@ Dabei gibt es wiederum zwei Arten von strategischem Handeln:
 Latent strategisches Handeln und manifest strategisches Handeln.
 
 Das **latent strategische Handeln** zeichnet sich dadurch aus, dass der Sprechende zwar vorgibt illokutive Ziele zu verfolgen und einen anzweifelbaren Gültigkeitsanspruch aufzustellen, in Wirklichkeit aber perlokutive Ziele im Blick hat und somit von einer Kausalität ausgeht, die sein Gegenüber als Mittel zum Zweck missbraucht.
-Das **manifest stratgische Handeln** schließt eine Orientierung an Gültigkeitsansprüchen von vorneherein aus und ersetzt diese durch Machtansprüche. Ein klassisches Beispiel dessen, das Habermas in seinem Text anführt, ist das eines Bankräubers, der "Hände hoch!" ruft, während er eine Pistole auf den Kassierer richtet, dem er befiehlt ihm Geld zu geben (vgl. S.225).
+Das **manifest strategische Handeln** schließt eine Orientierung an Gültigkeitsansprüchen von vorneherein aus und ersetzt diese durch Machtansprüche. Ein klassisches Beispiel dessen, das Habermas in seinem Text anführt, ist das eines Bankräubers, der "Hände hoch!" ruft, während er eine Pistole auf den Kassierer richtet, dem er befiehlt ihm Geld zu geben (vgl. S.225).
 
 In einer solchen Situation sind die Bedingungen der normativen Gültigkeit außer Kraft gesetzt und werden durch Sanktionsbedingungen ersetzt.
 In beiden Fällen des strategischen Handelns spricht Habermas nicht von Verständigung.
 Diese ist als solche nur in Form des kommunikativen Handlens in einer intersubjektiv geteilten Lebenswelt möglich, bei der beide Parteien uneingeschränkt das Ziel der Verständigung verfolgen.
 
 Er geht davon aus, dass strategische Handlungen in Systemen und kommunikatives Handeln in intersubjektiven ~ (das heißt beiden Akteuren gleichermaßen zugänglichen) Lebenswelten stattfinden und kritisiert hier die Kolonialisierung der Lebenswelten welche durch die Instutionalisierung der Gesellschaft vom System kolonialisiert wird.
-<!-- TODO: MH toller oben stehender Abschnitt in den letzten paar Absätzen, toll formuliert, sehr treffsicher. BRauchen davon noch mehr und noch einen gesamten Boooogen -->
-
 
 ## Verbindungen -Stichpunkte:
 - Konstruktivismus (intersubjectively exchanged lifeworlds)
