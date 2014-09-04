@@ -1,4 +1,4 @@
-# Konstruktivismus [Siebert 2003]
+# Der völlig autonome Mensch
 > „Der Mensch hat keinen Zugriff auf die objektive Realität“
 > Heinz von Foester
 
@@ -7,20 +7,23 @@ Die zentrale Frage einer konstruktivistischen Lerntheorie lautet: Wie nimmt der 
 Bezieht man sich auf das einführende Zitat der Unmöglichkeit einer objektiven Wahrnehmung, so wird der Denkansatz des Konstruktivisten deutlich.
 
 Laut Sieberts Theorie des Konstruktivismus ist die Wahrnehmung "keine Abbildung der Außenwelt, sondern eine funktionale viable Konstruktion" (Siebert 2003, S. 6).
-Ausgehend von dieser Annahme stellt Siebert die Kernthese auf, dass "Menschen [...] autopoietische, selbstreferenzielle, operational geschlossene Systeme [sind]." (ebd. S. 5)
+Ausgehend von dieser Annahme stellt Siebert die Kernthese auf, dass "Menschen [...] autopoietische (Autopoiesis:
+Selbstorganisation lebender Wesen, die Fortpflanzung und Leben dienen.), selbstreferenzielle, operational geschlossene Systeme [sind]." (ebd. S. 5)
 
 Die Lebensauffassung ändert sich demnach permanent aufgrund von Erfahrungen und Ereignissen, die den Menschen betreffen.
+Der Konstruktivismus geht bei seiner Theorie von einem interpretativen *Paradigma* (*Sichtweise*) aus, das sich je nach persönlicher Situation daran orientiert, ob die momentan verfügbaren Informationen für den jeweiligen Menschen lebensdienlich (*viabel* ~) sind.
 Abhängig von den individuellen Determinationen, mit denen ein Mensch im Leben konfrontiert wird, verändert sich so seine Wahrnehmung der Umwelt.
 Der Mensch ist demnach strukturdeterminiert (vgl. ebd. S. 5).
 
 Aufbauend auf seinem individuell geprägten Menschenbild geht Siebert davon aus, dass ein Wechselverhältnis zwischen der Wahrnehmung des Menschen und der Umwelt existiert.
 Diese beruht jedoch auf der subjektiven Auslegung (z.B. bewertet nach Wichtigkeit der Information) jedes **einzelnen Menschen** (*Systems*) und demnach nicht als status quo anzusehen.
 
-Die individuelle Wahrnehmung wird von Viabilität und Rekursivität bestimmt, womit ein Ansatz zur Lerntheorie gefunden werden kann, der benötigt wird.
+Die individuelle Wahrnehmung wird von Viabilität (~) und Rekursivität (Rekursivität:
+Bedeutet sich auf Erfahrungen zurückzubeziehen) bestimmt, womit ein Ansatz zur Lerntheorie gefunden werden kann, der benötigt wird.
 Geht man allerdings von der vollkommenen Subjektivität eines Individuums aus, so ist das, auf allgemeine Lernmethoden beruhenden Schulsystem nicht in der Lage zu **lehren**.
 Demzufolge schlussfolgert Siebert, dass ein *"Bildungskanon"* (ebd. S.28) nicht der menschlichen Natur des Lernens entspricht.
 In einer pluralisierten Gesellschaft ist eine *"Pluralisierung des Bildungsbegriffs angemessen"*.
->In einer Gesellschaft die durch fortschreitende Individualisierung [...] gekennzeichnet ist, erscheint auch eine Pluralisierung des Bildungsbegriffs angemessen. (S.29)
+>In einer Gesellschaft die durch fortschreitende **Individualisierung** [...] gekennzeichnet ist, erscheint auch eine **Pluralisierung des Bildungsbegriffs** angemessen. (S.29)
 
 Wie Wissen am besten vermittelt wird und so der Lernerfolg maximiert werden kann, bleibt eine grundlegende Frage in der Schule - sowie der Lerntheorie.
 Siebert selbst geht auf diese Frage wie folgt ein:
@@ -31,7 +34,7 @@ Das Gehirn führt einen *„inneren Monolog“* (ebd. S.17), es kommuniziert mit
 Siebert beruft sich hier auf den Gehirnforscher *Wolf Singer*, der feststellte, dass 80% der kognitiven Aktivitäten beim Hören eines Vortrages dieser Innere Monolog waren. (vgl. ebd. S. 17 f.)
 Was gelernt wird, hängt also weniger von den Informationsinputs als von der „individuellen kognitiv-emotionalen Vorstrukturund der psycho-physischen Befindlichkeit“ ab, also davon, welche Assoziationen oder Erinnerungen die Inputs hervorrufen (ebd. S. 18).
 Des Weiteren hängt die Auswahl der Informationen, also was und ob gelernt wird, laut Siebert von der direkten Relevanz der Informationen für das Individuum ab.
-Lernen ist also in erster Linie ein eigenwilliger und eigensinniger Prozess und dient primär der Selbsterhaltung (*Autopoiese* ~).
+Lernen ist also in erster Linie ein eigenwilliger und eigensinniger Prozess und dient primär der Selbsterhaltung (*Autopoiese*).
 
 Aufgrund dieser Autopoiese entscheidet der Mensch (*"das System"*) autonom über die Verarbeitung der Inputs.
 Der Mensch kann maximal durch Perturbationen (*(An)Reize*) zum (Um)Denken angeregt werden.
