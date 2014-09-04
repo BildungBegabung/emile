@@ -1,16 +1,25 @@
 ## Symbolischer Interaktionismus: Mead
 
-Mead beschäftigte sich schon 1934 damit wie Menschen kooperieren. Er nennt seine Theorie den "Symbolischen Interaktionismus", also die Kommunikation zwischen Menschengruppen. Kooperation begegnet uns überall im Alltag, was den Text auch so interessant macht. Ein aktuelles Beispiel dafür wäre unser DSA-Kurs, der seit zwei Wochen durchgehend in Kooperation steht.
+Mead beschäftigte sich schon 1934 damit wie Menschen interagieren und kooperieren.
+Er nennt seine Theorie den "Symbolischen Interaktionismus", also die Kommunikation zwischen Menschengruppen.
+Kooperation begegnet uns überall im Alltag.
+Ein aktuelles Beispiel dafür wäre unser DSA-Kurs, der seit zwei Wochen durchgehend in Kooperation steht.
 Daraus lassen sich sowohl soziologische als auch pädagogische Rückschlüsse ziehen.
-Ein wichtiger Bestandteil Meads, auf den sich zum großen Teil seine Theorie bezieht, besteht aus den Komponenten **"I"**, **"Me"** und **"Self"**.
-Dabei werden Wünsche und Ziele beziehungsweise sinnliche und körperliche Bedürfnisse durch das "I" ausgedrückt, kurz der Egoismus eines Individuums.
-Das "I" wird auch impulsives Ich genannt, da es immer Neues und Schöpferisches in jede Situation bringt.
->"Das I liefert das Gefühl der Freiheit der Initiative" (Mead-1934, S. 221)
+Ein wichtiger Bestandteil Meads, auf den sich zum großen Teil seine Theorie bezieht, besteht aus den Komponenten **I**, **Me** und **Self**.
+Dabei werden Wünsche und Ziele beziehungsweise sinnliche und körperliche Bedürfnisse durch das I ausgedrückt, kurz der Egoismus eines Individuums.
+Das I wird auch impulsives Ich genannt, da es immer Neues und Schöpferisches in jede Situation bringt.
+So schreibt Mead,
+>"Das I liefert das Gefühl der Freiheit und Initiative" (Mead-1934, S. 221)
 
-Das "Me" steht dem gegenüber und ist die Vorstellung eines Menschen, wie er von der Außenwelt betrachtet wird.
+Das Me steht dem gegenüber und ist die Vorstellung eines Menschen, wie er von der Außenwelt betrachtet wird.
 Es ist somit das reflektierte Ich.
-Ein Beispiel dafür bietet der Fußball: *Am liebsten möchte ich alleine auf das Tor laufen und versuchen ein Tor zu schießen, das wäre das "I", der Egoismus. Doch ich weiß genau, wenn es scheif geht werden meine Mitspieler und mein Trainer sauer auf mich sein, das wäre das "Me", was meine Außenwelt wahrnimmt. Das "self" wägt dann ab, ob das "I" oder das "Me" mehr Einfluss auf mich hat und dementsprechend entscheide ich dann.*
-Des Weiteren ist das "Me" ständig in Bewegung, weil immer neue Ansichten, wie jemand von der Gesellschaft gesehen wird, im Verlauf des Lebens hinzukommen. Mead beschreibt den Zusammenhang zwischen "I" und "Me" so:
+Ein Beispiel dafür bietet der Fußball:
+*"Am liebsten möchte ich alleine auf das Tor laufen und versuchen ein Tor zu schießen."
+- Hier spricht das I, der Egoismus.
+"Doch ich weiß genau, wenn es schief geht, werden meine Mitspieler und mein Trainer sauer auf mich sein."
+- Diese Gedanken entsprächen dem Me, das die Außenwelt wahrnimmt.
+Das Self wägt zwischen beiden Komponenten ab und schafft bestenfalls eine Balance zwischen I und Me.*
+Des Weiteren ist das "Me" ständig in Bewegung, weil immer neue Ansichten, wie jemand von der Gesellschaft gesehen wird, im Verlauf des Lebens hinzukommen. Mead beschreibt den Zusammenhang zwischen I und Me wie folgt:
 
 >*"Das I ruft das Me nicht nur hervor, es reagiert auch darauf.
 > Zusammen bilden sie eine Persönlichkeit, wie sie in der gesellschaftlichen Erfahrungen erscheint."*
