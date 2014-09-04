@@ -34,12 +34,13 @@ Es ist allerdings problematisch, dass durch die Vernetzung, die GitHub bietet, e
 Für Freinet ist eine Gruppendynamik ähnlich der einer Familie sehr wichtig.
 Diese ist nicht mehr gegeben, sobald vernetztes Lernen beginnt, da es eine geographische Nähe entbehrlich macht.
 Darüberhinaus bietet das Internet als Plattform für GitHub dem Edukator praktische Unfehlbarkeit.
-<!-- TODO FB: Wie funktioniert das? -->
+<!-- TODO FB: Wie funktioniert die Unfehlbarkeit? -->
 Jedoch ist gerade die Fehlbarkeit des Lehrers entscheidend, denn hier kann er ehrlich zu seinen Schülern sein (vgl. Freinet-1946 S. 110).
+<!-- TODO FB: Was ist mit "hier" im oberen Satz gemeint? -->
 
-Trotz alle dem ist es fraglich ob eine vernetzte Arbeit mit Freinets Reformpädagogik verglichen werden kann, schließlich konnte Freinet in der Mitte des 20.Jahrhunderts die Entwicklung des Internets nicht vorhersagen.
+Trotz alle dem ist es fraglich, ob eine vernetzte Arbeit mit Freinets Reformpädagogik verglichen werden kann, schließlich konnte Freinet in der Mitte des 20.Jahrhunderts die Entwicklung des Internets nicht vorhersagen.
 
-Als Fazit lässt sich also sagen, dass Freinet unserem System wahrscheinlich nicht abgeneigt wäre. Aber seine contra-sozialen Folgen stark kritisieren würde.
+Letztendlich wäre Freinet unserem System wahrscheinlich nicht abgeneigt, würde aber seine contra-sozialen Folgen stark kritisieren würde.
 
 
 ## Was Illich zu unserer Zusammenarbeit auf GitHub sagen würde
