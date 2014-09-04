@@ -1,31 +1,29 @@
 # Der völlig autonome Mensch
 ### Konstruktivismus - Lernen als Konstruktion von Wirklichkeit
 
-Nach dem Menschenbild des Konstruktivismus prägt jeden Mensch eine eigene *Wahrnehmung* und somit  hat dieser *"[keinen] Zugriff auf die objektive Realität"* (Heinz von Foester)
+Nach dem Menschenbild des Konstruktivismus prägt jeden Mensch eine eigene *Wahrnehmung* und somit hat dieser *"[keinen] Zugriff auf die objektive Realität"* (Heinz von Foester)
 
 Woraus die zentrale Leitfrage des Konstruktivismus folgt:
 
 >"Wie nimmt der Mensch die Welt wahr und inwiefern prägen ihn dabei individuelle Erfahrungen?"
 
 
-
 Laut Sieberts Theorie des Konstruktivismus ist die Wahrnehmung "keine Abbildung der Außenwelt, sondern eine funktionale viable Konstruktion" (Siebert 2003, S. 6).
-Ausgehend von dieser Annahme stellt Siebert die Kernthese auf, dass "Menschen [...] autopoietische (Autopoiesis:
-Selbstorganisation lebender Wesen, die Fortpflanzung und Leben dienen.), selbstreferenzielle, operational geschlossene Systeme [sind]." (ebd. S. 5)
+Ausgehend von dieser Annahme stellt Siebert die Kernthese auf, dass "Menschen [...] autopoietische selbstreferenzielle, operational geschlossene Systeme [sind]." (ebd. S. 5)
+Der Begriff Autopoiesis beschreibt die Selbstorganisation lebender Wesen. (~)
 
 Die Lebensauffassung ändert sich demnach permanent aufgrund von Erfahrungen und Ereignissen, die den Menschen betreffen.
-Der Konstruktivismus geht bei seiner Theorie von einem interpretativen *Paradigma* (*Sichtweise*) aus, das sich je nach persönlicher Situation daran orientiert, ob die momentan verfügbaren Informationen für den jeweiligen Menschen lebensdienlich (*viabel* ~) sind.
+Der Konstruktivismus geht bei seiner Theorie von einem interpretativen *Paradigma*, der *Sichtweise* des Individuums aus.
+Lernen findet statt, wenn sich die verfügbaren Informationen für den jeweiligen Menschen als lebensdienlich (*viabel* ~) erweisen.
 Abhängig von den individuellen Determinationen, mit denen ein Mensch im Leben konfrontiert wird, verändert sich so seine Wahrnehmung der Umwelt.
 Der Mensch ist demnach strukturdeterminiert (vgl. ebd. S. 5).
-
 Aufbauend auf seinem individuell geprägten Menschenbild geht Siebert davon aus, dass ein Wechselverhältnis zwischen der Wahrnehmung des Menschen und der Umwelt existiert.
-Diese beruht jedoch auf der subjektiven Auslegung (z.B. bewertet nach Wichtigkeit der Information) jedes **einzelnen Menschen** (*Systems*) und demnach nicht als status quo anzusehen.
+Die individuelle Wahrnehmung wird von Viabilität (~) und Rekursivität (~) bestimmt, womit ein Ansatz zur Lerntheorie gefunden werden kann.
+
 
 ## Konstruktivismus in der Pädagogik
 
-Die individuelle Wahrnehmung wird von Viabilität (~) und Rekursivität (Rekursivität:
-Bedeutet sich auf Erfahrungen zurückzubeziehen) bestimmt, womit ein Ansatz zur Lerntheorie gefunden werden kann, der benötigt wird.
-Geht man allerdings von der vollkommenen Subjektivität eines Individuums aus, so ist das, auf allgemeine Lernmethoden beruhenden Schulsystem nicht in der Lage zu **lehren**.
+Geht man von der vollkommenen Subjektivität eines Individuums aus, so ist das auf allgemeine Lernmethoden beruhenden Schulsystem nicht in der Lage zu **lehren**.
 Demzufolge schlussfolgert Siebert, dass ein *"Bildungskanon"* (ebd. S.28) nicht der menschlichen Natur des Lernens entspricht.
 In einer pluralisierten Gesellschaft ist eine *"Pluralisierung des Bildungsbegriffs angemessen"*.
 >In einer Gesellschaft die durch fortschreitende **Individualisierung** [...] gekennzeichnet ist, erscheint auch eine **Pluralisierung des Bildungsbegriffs** angemessen. (S.29)
@@ -35,9 +33,8 @@ Siebert selbst geht auf diese Frage wie folgt ein:
 >"Menschen als selbstgesteuerte *„Systeme“* können von der Umwelt nicht determiniert, sondern allenfalls **perturbiert**, das heißt, **„gestört“** und **angeregt** werden." (ebd. S.5)
 
 Beim Lernen werden vorhandene Assoziationsfelder aktiviert und verknüpft.
-Das Gehirn führt einen *„inneren Monolog“* (ebd. S.17), es kommuniziert mit sich selbst, sucht bestätigende Beispiele oder auch Widersprüche
-Siebert beruft sich hier auf den Gehirnforscher *Wolf Singer*, der feststellte, dass 80% der kognitiven Aktivitäten beim Hören eines Vortrages dieser Innere Monolog waren. (vgl. ebd. S. 17 f.)
-Was gelernt wird, hängt also weniger von den Informationsinputs als von der „individuellen kognitiv-emotionalen Vorstrukturund der psycho-physischen Befindlichkeit“ ab, also davon, welche Assoziationen oder Erinnerungen die Inputs hervorrufen (ebd. S. 18).
+Das Gehirn führt einen „inneren Monolog“ (ebd. S.17), es kommuniziert mit sich selbst, sucht bestätigende Beispiele oder auch Widersprüche
+Was gelernt wird, hängt also weniger von den Informationsinputs als von der „individuellen kognitiv-emotionalen Vorstruktur und der psycho-physischen Befindlichkeit“ ab, also davon, welche Assoziationen oder Erinnerungen die Inputs hervorrufen (ebd. S. 18).
 Des Weiteren hängt die Auswahl der Informationen, also was und ob gelernt wird, laut Siebert von der direkten Relevanz der Informationen für das Individuum ab.
 Lernen ist also in erster Linie ein eigenwilliger und eigensinniger Prozess und dient primär der Selbsterhaltung (*Autopoiese*).
 
@@ -55,7 +52,6 @@ Um sich aus dieser aussichtlosen Lebensweise zu berfreien beginnt er bekannte Ge
 Demzufolge wurde der Stuhl zum Tisch oder das Bett zum Bild.
 > "Jetzt ändert es sich", rief er, und er sagte von nun an zu dem Bett "Bild".
 > [Peter Bichsel](http://www.univie.ac.at/ims/koeppl_lv/Mth_04/Bichsel_Tisch.htm)
-
 
 Die radikale Änderung seiner eigenen Wahrnehmung und Kommunikation verursachte eine vollkommene Abgrenzung von jeglichen gesellschaftlichen Verbindungen, die Bichsel wie folgt beschreibt:
 > "Viel schlimmer war, sie konnten ihn nicht mehr verstehen. Und deshalb sagte er nichts mehr. Er schwieg, sprach nur noch mit sich selbst, grüßte nicht einmal mehr."
