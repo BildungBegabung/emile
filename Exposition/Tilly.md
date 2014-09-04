@@ -16,7 +16,7 @@ Das Zusammenleben unterliegt einem Sozialdarwinismus, bei dem jeder gegen jeden 
 <!-- TODO MH: Zitat? Wo redet Tilly vom Machtwillen? Das ist nicht der Grund; der Grund ist vielmehr dass die Produktion von Gewalt im von vorneherein gegebene Wettbewerb (krieg von jedem gegen jeden) durch Technologie und org. Innovation positiven Skalenerträgen unterliegt. Deshalb gewinnt der größere. -->
 Dieses Handeln ist entscheidend für die Entwicklung eines Staates, denn sie zeigt, dass ein Staat nicht etwa infolge von friedlicher Zusammenarbeit der Menschen entsteht, sondern immer an Machtkämpfe, Ausbeutung und Krieg gebunden ist ("war making likewise led to state making" ebd. S.183).
 <!-- TODO MH: hier evtl. Darstellung von positiven Skalenerträgen einfügen? -->
-Durch seine Macht hat der Herrscher nun die Möglichkeit, sein Volk vor Schaden zu schützen und für diesen Schutz Tribute (Steuern) einzufordern ("governments are in the business of selling protection" ebd. S. 175).
+Durch seine Macht hat der Herrscher nun die Möglichkeit,  von seinem Volk  Tribute (Steuern) einzufordern und im Gegenzug "Sicherheit" anzubieten, allerdings funktioniert dies durch die Gewaltpräsenz und somit die Bedrohung des Herrschers auf seine Untergebenen. ("governments are in the business of selling protection" ebd. S. 175).
 <!-- TODO MH: Diese Doppeldeutigkeit der "protection" sollte schon vorher erklärt werden, weiter am Anfang; vielleicht auch wieder mit einem Beispiel -->
 Der gebotene Schutz kann laut Tilly zwei Formen annehmen:
 
