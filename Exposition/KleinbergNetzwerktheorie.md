@@ -66,9 +66,7 @@ Es entsteht ein "Fluss des Gebens und Nehmens" (Zimpel-2012; S. 125), bei dem, t
 
 Auch beim Hyperzyklus gibt es dementsprechend keine Clustergrenzen und somit keine Abgrenzung zwischen Schülern verschiedener Leistungsstärken.
 Das Prinzip kategorisiert nicht zwangsläufig in stark oder schwach, sondern diferneziert den Leistungsbegriff und berücksichtigt viele verschiedene Fähigkeiten und Begabungen.
-Somit kann jeder Schüler als Hilfe dienen und Hilfe empfangen.
-
-
+Somit kann jeder Schüler als Hilfe dienen und Hilfe empfangen.sss
 
 ### Power Law
 
