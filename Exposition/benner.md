@@ -19,6 +19,11 @@ Anders als nach Rousseau bedarf ein Mensch, laut Benner, pädagogischer~ Hilfe f
 Somit ist ein Mensch nicht unendlich erwachsen, sondern nur so lange, wie er sich auch so verhält (vgl. S. 91)
 Benner nennt es die *"Imperfektheit des Menschen" (S.78).*
 
+Die Bildsamkeit als Prinzip menschlichen Lebens und Interagierens ist entscheidend somit für die Frage nach persönlicher Autonomie und inherenter Gleichwertigkeit, da Bildsamkeit dem Menschen grundsätzliche ein großes Maß an Autonomie zugesteht.
+Obwohl nach Benner die Aufgabe der Erziehung auch weit über das Kindeslter hinaus geht, gesteht er jedem Individuum die Fähigkeit der Entscheidung zu, was er von seinem Leben will.
+Benner sieht jedoch ein, dass die Freiheit eines Menschen nicht unendlich ist, schließlich sind Dinge wie Beeinflussung durch Anlagen und die Umwelt durchaus auch entscheidend für das Verhalten eines Menschens.
+Daraus zeigt sich, dass das Prinzip der **Bildsamkeit das Kooperationsproblem im Sinne der Pädagogik hinreichend löst**.
+
 Bildsames Lernen basiert laut Benner auf vier Grundlagen, die nur dem Menschen  vorbehalten sind.
 Sie lauten: Leiblichkeit, Freiheit, Geschichtlichkeit und Sprachlichkeit.
 Benner ist der Auffassung:
