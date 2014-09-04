@@ -31,13 +31,19 @@ Wir arbeiten damit im Sinne des Kollektivs im Kurs, wobei aber trotzdem unsere a
 Es besteht dabei allerdings die Gefahr, dass durch die Vernetzung, die GitHub bietet, eine direkte emotionale Verbindung verloren geht, gerade weil GitHub anders als soziale Netzwerke eine Basis für gemeinsames Arbeiten darstellt, sodass ein Großteil der dokubezogenen Kommunikation hierüber einfacher zu leiten ist.
 Für Freinet ist eine Gruppendynamik ähnlich der einer Familie sehr wichtig.
 Diese ist nicht mehr gegeben, sobald vernetztes Lernen beginnt, da es eine geographische Nähe entbehrlich macht.
+<<<<<<< HEAD
 Darüberhinaus bietet das Internet als Plattform für GitHub dem Edukator praktische Unfehlbarkeit, da dieser praktisch uneingeschränkte Freiheiten mit der Arbeit der anderen hat und fast alles bearbeiten oder löschen kann.
 
+=======
 Jedoch ist gerade die Fehlbarkeit des Lehrers entscheidend, denn hier kann er ehrlich zu seinen Schülern sein (vgl. Freinet-1946 S. 110).
 
-Trotz alle dem ist es fraglich ob eine vernetzte Arbeit mit Freinets Reformpädagogik verglichen werden kann, schließlich konnte Freinet in der Mitte des 20.Jahrhunderts die Entwicklung des Internets nicht vorhersagen.
 
+Trotz alle dem ist es fraglich, ob eine vernetzte Arbeit mit Freinets Reformpädagogik verglichen werden kann, schließlich konnte Freinet in der Mitte des 20.Jahrhunderts die Entwicklung des Internets nicht vorhersagen.
+
+<<<<<<< HEAD
 Als Fazit lässt sich also sagen, dass Freinet unserem System wahrscheinlich nicht abgeneigt wäre, aber seine contra-sozialen Folgen stark kritisieren würde.
+=======
+
 
 
 ## Was Illich zu unserer Zusammenarbeit auf GitHub sagen würde
@@ -61,16 +67,21 @@ Die Gefahr, dass die direkte Kommunikation hinter 16 aufgeklappten Laptopbildsch
 
 ## Was Hayek zu unserer Zusammenarbeit auf GitHub sagen würde
 
-Ähnlich wie bei Illich ist es unklar wie Hayek zu modernen Kommunikationsmitteln stehen würde, einfach aus dem schlichten Grund, dass er vermutlich nie mit einem Computer gearbeitet hat.
-Doch kann man aufgrund seiner Aussagen, die er über Kooperation getätigt hat, im Jahre 1945, seine Ansätze übertragen auf ein Medium wie GitHub. Er äußert sich sehr negativ zu Institutionen, die Wissen und Informationen austauschen, da diese den Informations -und Wissensfluss verlangsamen und beeinträchtigen. Die einzige Institution die half und mit der etwas "getauscht" werden durfte war Geld.
+Ähnlich wie bei Illich ist es unklar wie Hayek zu modernen Kommunikationsmitteln stehen würde, da er vermutlich nie mit einem Computer gearbeitet hat.
+<!-- TODO FB: Hat er oder hat er nicht? :) -->
+Nichtsdestotrotz kann man seine Aussagen über Kooperation aus dem Jahre 1945 auf ein soziales Medium wie GitHub übertragen.
+Er äußert sich sehr negativ zu Institutionen, die Wissen und Informationen austauschen, da diese den Informations- und Wissensfluss verlangsamen und beeinträchtigen.
+Die einzige Institution die Vorteile einbrachte und mit der etwas "getauscht" werden durfte war Geld.
 >It is in this connection that what I have called the economic calculus proper helps us, at least by analogy, to see how this problem can be solved, and in fact is being solved, by the price system. (Hayek-1945 S. 525)
 
-Ein weiteres Problem für Hayek wäre vermutlich, dass er absolut der Meinung ist: Ein Individuum kann für sich selber die besten Entscheidungen treffen und nicht jemand anderes. Das würde mit dem Prinzip GitHubs kollidieren, da jeder über das Werk eines Anderen bestimmen kann, es herrscht also absoluter Pluralismus.
-Aufgrund dieser Tatsachen würde Hayek GitHub vermutlich stringend ablehnen und sich dagegen aussprechen, dass wir mit dieser Institution Wissen austauschen und kooperieren.
+Ein weiteres Problem für Hayek wäre vermutlich, dass er absolut der Meinung ist, ein Individuum könne allein für sich selbst die besten Entscheidungen treffen und nicht jemand anderes.
+Das würde mit dem Prinzip GitHubs kollidieren, da jeder über das Werk eines Anderen bestimmen kann und es beherrscht also absoluter Pluralismus.
+<!-- TODO FB: also Absoluter Pluralismus? Satzsetellung/sinn? -->
+Aufgrund dieser Tatsachen würde Hayek GitHub vermutlich streng ablehnen und sich gegen Wissensaustausch und Kooperation mit dieser Institution aussprechen.
 
 ## Was Habermas zu unserer Zusammenarbeit auf GitHub sagen würde
 
-Auch Jürgen Habermas dürfte, angesichts der Tatsache, dass er seine Texte bis heute auf einer Schreibmaschine schreibt, zunächst Bedenken haben, wenn er von unserer Zusammenarbeit auf GitHub hören würde.
+Würde Jürgen Habermas von unserer Zusammenarbeit auf GitHub hören, hätte er wahrscheinlich angesichts der Tatsache, dass er seine Texte bis heute auf einer Schreibmaschine schreibt, zunächst Bedenken haben,
 
 Das diese Arbeitsform allerdings im Kern von seinem Kommunikationsmodell gar nicht so weit entfernt ist, konnten wir im Laufe des Arbeitsprozesses feststellen.
 
