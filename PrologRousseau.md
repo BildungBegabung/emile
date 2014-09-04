@@ -46,35 +46,24 @@ Dieser Begriff geht davon aus, dass ein vom Individuum losgelöstes abstraktes I
 Und nur dieses Interesse, der volonté générale, kann absolute Freiheit und Gleichheit garantieren.
 Deswegen muss es die Grundlage und Rechtfertigung jeder staatlichen Gewalt sein.
 
-Gleichheit insofern, als dass jedes Individium und die Gesellschaft im Ganzen das Bestmögliche erhält;
-und Freiheit als freiwillige Unterwerfung unter die Allgemeinheit.
-Im Zweifelsfall muss der Mensch jedoch dazu gezwungen werden, diese Freiheit  wahrzunehmen.
+In einem so gelenkten Staat herrscht Gleichheit, da jedes Individuum und die Gesellschaft im Ganzen das Bestmögliche erhalten (Vgl. Rousseau-1762, Contrat Social, S. 7);
+und Freiheit, weil jedes Mitglied sich freiwllig der Gemeinschaft unterordnet.
+Im Zweifelsfall muss der Mensch jedoch dazu gezwungen werden, diese Freiheit wahrzunehmen.
 Als Fazit gilt also Gemeinwohl vor Eigenwohl.
-Daher kennt Rousseaus System keine Freiheitsrechte.
 
+Freiheitsrechte, wie sie etwa im Grundgesetz verankert sind, kennt Rousseaus System nicht.
+Im Gegenteil: Die Gewährung eines solchen Rechtes, z.B. des Rechtes auf Pressefreiheit, würde einen so starken Drang nach immer mehr Rechten auslösen, dass es laut Rousseau zu einem Krieg jeder gegen jeden kommen muss. (Vgl. ebd., S. 6)
+Damit wäre nicht nur der volonté général nicht mehr gültig, sondern auch der Staat, dessen Aufgabe es ist, das Zusammenleben zu regeln, hätte sich selbst abgeschafft.
 
-Hierzu skizziert er den Urzustand des Menschen, in dem dieser absolut autonom war.
-Es existierte keine Kooperation zwischen den Menschen und Beziehungen blieben auf biologische Notwendigkeit beschränkt.
-<!-- ODO: MH doch, es mag schon Kooperation existiert haben, aber diese war nicht *funktionell ausdifferenziert*, also es kooperierten *natürliche Menschen*, also etwa wie Freunde oder in der Familie, nicht in ihrer Funktion als xyz oder mediiert über Institutionen -->
-Indem der Mensch aber institutionelle Kooperation betreibt und Interdependence (gegenseitige Abhängigkeit) entsteht, irrt er von seiner Natur ab.
-<!-- TODO: MH genau, toller begriff! *institutionelle Kooperation* darauf kommt es an. Bei sowas wie interdependence einfach nur den deutschen begriff nehmen. -->
-Als Folge dieser Abhängigkeiten wird eine Regierung zur Regelung des Zusammenlebens notwendig.
-<!-- TODO: MH ja! genau, Zitat aus Rousseau vielleicht? -->
+Eine Instanz, die das Zusammenleben regelt, ist aber für uns absolut notwendig, da wir wechselseitig alle von einander abhängig sind.
+Unkontrollierte Abhängigkeiten aber führen zur Sklaverei. (Vgl. ebd., S. 3)
 
-<!-- TODO: MH ein Hinweis auf das Schubladendenken wäre hier hilfreich; etwa das Rousseau Republikaner ist, und es ihm folglich vor allem um die Soveränität der Polity (etwa: Politik-Körper) geht. Auch ein historischer Verweis auf andere Verfassungs- etc. Dokumente könnte hilfreich sein um die Innovation des VG zu klären -->
-Der volonté général gewährt bereits jedem die maximale Freiheit, Freiheitsrechte aber würden einen unbeherrschbaren Wunsch nach immer mehr Freiheiten verursachen und so zu einem Krieg jeder gegen jeden führen.
-<!-- TODO: MH hier brauchen wir ein Zitat von Rousseau, aus dem hervor geht, wie der VG maximal Freiheit gewährt, also wie Rousseau Autonomie und Gleichwertigkeit vereint. -->
+Diese Abhängigkeiten sind unnatürlich und entstehen durch institutionelle Kooperation.
+Also wenn der Weg der Kooperation durch Traditionen, Gesetze oder anderes vorgeschrieben ist, beziehungsweise wir nicht als natürlich Menschen, sondern z.B. als DSA-Teilnehmer zusammenarbeiten.
 
-Der erste Schritt zu einer solchen Gesellschaft muss darin bestehen, den volonté général zu erkennen und anzuerkennen.
-<!-- TODO: MH wo findet sich das in Rousseau? Bin mir nicht so sicher. -->
-Jedoch handelt es sich bei diesem um ein ideelles Konstrukt, das explizit nicht der Wille aller ist.
-<!-- TODO: MH oder jedenfalls nicht der Wille aller sein muss ... -->
-Selbst eine einstimmige Wahl in einer Basisdemokratie würde uns den volonté général nicht zeigen.
-Statt dessen wird er für jedes Individuum durch (natürliche) Erziehung sichtbar.
-<!-- TODO: MH der Zusammenhang zwischen erziehung und Politik könnte finde ich noch präziser sein ... was ist da der springende Punkt? -->
+Dies gab es in der Frühzeit des Menschen laut Rousseau nicht.
+Der Mensch lebte vollkommen autonom.
 
-Und genau hierin liegt das obige Problem der bürgerlichen Erziehung:
-<!-- TODO: MH schöne einleitung! -->
 
 Bei aller Kritik muss aber Rousseaus Intention bedacht werden:
 Seine Theorien sind nicht empirisch, sondern normativ gedacht.
