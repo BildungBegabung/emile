@@ -2,7 +2,7 @@
 
 ### Wahlen
 
-Wenn eine Gruppe von Menschen einen endichen Satz von verschiedenen möglichen Alternativen evaluiert und daraus eine Gruppenentscheidung mit einer Reihenfolge von der besten bis zur schlechtesten Alternative aggregieren möchte, dann ist ein Wahlsystem notwendig, dass die Meinung des Kollektivs widerspiegelt.(S.737)
+Wenn eine Gruppe von Menschen einen endlichen Satz von verschiedenen möglichen Alternativen evaluiert und daraus eine Gruppenentscheidung mit einer Reihenfolge von der besten bis zur schlechtesten Alternative aggregieren möchte, dann ist ein Wahlsystem notwendig, dass die Meinung des Kollektivs widerspiegelt.(S.737)
 Diese Wahlsysteme vertreten eine individualisierte Ontologie, es zählt die einzelne Stimme als kleinste Einheit.
 
 
