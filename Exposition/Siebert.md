@@ -1,10 +1,13 @@
 # Der völlig autonome Mensch
-> „Der Mensch hat keinen Zugriff auf die objektive Realität“
-> Heinz von Foester
+### Konstruktivismus - Lernen als Konstruktion von Wirklichkeit
 
-Die zentrale Frage einer konstruktivistischen Lerntheorie lautet: Wie nimmt der Mensch die Welt wahr und inwiefern prägen ihn dabei individuelle Erfahrungen?
+Nach dem Menschenbild des Konstruktivismus prägt jeden Mensch eine eigene *Wahrnehmung* und somit  hat dieser *"[keinen] Zugriff auf die objektive Realität"* (Heinz von Foester)
 
-Bezieht man sich auf das einführende Zitat der Unmöglichkeit einer objektiven Wahrnehmung, so wird der Denkansatz des Konstruktivisten deutlich.
+Woraus die zentrale Leitfrage des Konstruktivismus folgt:
+
+>"Wie nimmt der Mensch die Welt wahr und inwiefern prägen ihn dabei individuelle Erfahrungen?"
+
+
 
 Laut Sieberts Theorie des Konstruktivismus ist die Wahrnehmung "keine Abbildung der Außenwelt, sondern eine funktionale viable Konstruktion" (Siebert 2003, S. 6).
 Ausgehend von dieser Annahme stellt Siebert die Kernthese auf, dass "Menschen [...] autopoietische (Autopoiesis:
@@ -17,6 +20,8 @@ Der Mensch ist demnach strukturdeterminiert (vgl. ebd. S. 5).
 
 Aufbauend auf seinem individuell geprägten Menschenbild geht Siebert davon aus, dass ein Wechselverhältnis zwischen der Wahrnehmung des Menschen und der Umwelt existiert.
 Diese beruht jedoch auf der subjektiven Auslegung (z.B. bewertet nach Wichtigkeit der Information) jedes **einzelnen Menschen** (*Systems*) und demnach nicht als status quo anzusehen.
+
+## Konstruktivismus in der Pädagogik
 
 Die individuelle Wahrnehmung wird von Viabilität (~) und Rekursivität (Rekursivität:
 Bedeutet sich auf Erfahrungen zurückzubeziehen) bestimmt, womit ein Ansatz zur Lerntheorie gefunden werden kann, der benötigt wird.
@@ -39,6 +44,8 @@ Lernen ist also in erster Linie ein eigenwilliger und eigensinniger Prozess und 
 Aufgrund dieser Autopoiese entscheidet der Mensch (*"das System"*) autonom über die Verarbeitung der Inputs.
 Der Mensch kann maximal durch Perturbationen (*(An)Reize*) zum (Um)Denken angeregt werden.
 Diese Möglichkeit der Perturbation kann der Lehrende zur Vermittlung von Wissen nutzen und damit gegebenenfalls neue Sichtweisen für den Lernenden eröffnen.
+
+## **Radikaler** Konstruktivismus?
 
 Die Perturbation kann sowohl auf lerntheoretischen Ansätze angewandt werden, als auch auf soziologische Problematiken übertragen werden.
 Problematisch ist hierbei die vollkommene Isolierung des Einzelnen in der eigenen subjektiven Welt.
