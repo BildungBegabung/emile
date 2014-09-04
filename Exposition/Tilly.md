@@ -11,7 +11,7 @@ Kontrolle der physischen Gewalt                                                 
 Nach Tillys Modell ist die Entwicklung eines Staates immer mit kriegerischen und gewaltvollen Handlungen verbunden.
 Er geht sogar so weit zu behaupten, dass Gewalt notwendig für die Entwicklung eines Staates ist.
 Der Ausgangspunkt für die Entwicklung eines Staates, ist die Monopolisierung von Gewalt und Macht ("governments organize and, wherever possible, monopolize violence" ebd. S.171, Z.26).
-Es ist das Ziel einer kleinen Gruppe von Menschen oder auch einer einzigen Person sich gegen andere machtwillige Parteien als der Stärkste innerhalb eines geografischen Bereiches durchzusetzen (ebd. vgl. S.173 Z.65).
+Es ist das Ziel einer machtwilligen Gruppe von Menschen oder auch einer einzigen Person sich gegen andere machtwillige Parteien als der Stärkste innerhalb eines geografischen Bereiches durchzusetzen (ebd. vgl. S.173 Z.65).
 Der Weg zu dieser wichtigen Sonderstellung ist lang und immer verbunden mit Geschäften mit anderen Personen, die ebenfalls versuchen ihre Macht auszuweiten.
 Entscheidend ist für den zukünftigen Herrscher, dass er sich schließlich gegen alle Anderen durchsetzt und seine Gegner weitestgehend entmachtet.
 Durch seine Macht hat der Herrscher nun die Möglichkeit, sein Volk vor Schaden zu schützen und für diesen Schutz Tribute (Steuern) einzufordern ("governments are in the business of selling protection" ebd. S. 175, Z.21f).
