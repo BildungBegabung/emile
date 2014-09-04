@@ -14,8 +14,7 @@ Planwirtschaft benötigt eine zentrale Aggregation von Informationen.
 
 Es ist unwirtschaftlich Informationen zusammenzutragen, die in einer konkreten Situation jedoch nicht einmal zutreffen.
 Hayek zieht ein freiheitlicheres System der Marktwirtschaft aus Gründen der Effizienz vor.
-Hayeks Argument für freiheitlichen Markt besteht in seiner Annahme:
->"Der Kompetenteste bist du selbst!" (Hayek-1945, S. 519)
+Hayeks Argument für freiheitlichen Markt besteht in seiner Annahme, dass jeder der Kompetenteste für sich selber sei.
 
 Gleiches forderte Dahl auch nach seiner Annahme der persönliche Autonomie als Grundlage einer Demokratischen Gesellschaft, wenn er formuliert:
 >"Every adult is the best judge of his or herself interest" (Dahl-1989, S.100).
