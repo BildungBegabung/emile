@@ -26,6 +26,8 @@ Das Gesollte, die Pflicht.
 Strategie, die bei jeder Strategie des Gegners die jeweils höchste Auszahlung bringt.
 ### Ecological Pragmatism:
 Theorie von Griffin zu Mead, das Symbole sich entwickelt haben, aufgrund ihrer Effektivität menschlichen Handels in der Vergangenheit.
+### Economies of Scale:
+Abhängigkeit der Produktionsmenge von der Menge der eingesetzten Produktionsverfahren (Produktionstheorie der Betriebswirtschaftslehre & Mikroökonomie)
 ### Edge:
 Verbindung zwischen einzelnen nodges in der Netzwerktheorie.
 ### Effective participation:
@@ -63,6 +65,9 @@ Handeln ist gut, wenn das Ergebnis gut ist.
 Theorie, die feststellt, dass jede Person die Welt verschiedenerweise versteht und dass keiner Zugang zu der objektiven Realität hat.
 ### Kooperation:
 Die Zusammenarbeit von zwei oder mehreren Parteien.
+### Leviathan:
+Titel einer staatstheoretischen Schrift des Engländers Thomas Hobbes aus dem Jahr 1651.
+Eines der bedeutensten Werke der westlichen politischen Philosophie und eine der theoretischen Grundlagen neuzeitlicher Politikwissenschaft.
 ### Monopolist:
 Besitzer des absoluten Rechts oder der absoluten Kontrolle über die Produktion.
 ### Moral:
@@ -81,13 +86,19 @@ Beziehungsweise Unanimity ist nach dem Sozialwahlprinzip ein Kriterium, das laut
 Wenn alle Teilnehmer an einer Wahl in ihrer individuellen Rangliste eine Alternative (A) über eine andere (B) stellen, sollte die Rangfolge im Endergebnis diese Präferenz widerspiegeln, d.h. A sollte B vorgezogen werden. (vgl. S.749, Kleinberg)
 Allgemein kann man einen Prozess als eine Pareto-Verbesserung bezeichnen, wenn nach einer Veränderung alle Beteiligten besser oder zumindest gleich gut gestellt sind.
 ### Pädagogik:
-Die Wissenschaft, die sich mit dem Unterrichten und Erziehen beschäftigt:
+Die Wissenschaft, die sich mit dem Unterrichten und Erziehen beschäftigt
+### Peace of Westphalia:
+Reihe von unterzeichneten Friedensabkommen zwischen Mai und Oktober 1648 in Münser und Osnabrück.
 ### Perlokutiv:
 Teil des Sprechaktes, der eine Wirkung beim Hörer erzielt.
 ### Persönliche Autonomie:
 Die Fähigkeit des Menschen, sich selbst zu führen, ohne Hilfe oder Aufsicht von anderen.
 ### Positivsummenspiel:
 Situationen in der Spieltheorie bei denen die Summe der Gewinne und Verluste aller Spieler sich unterscheiden oder bei denen es keinen Gewinn oder Verlust gibt.
+### Racket:
+Service, der in betrügerischer Absicht angeboten wird.
+### Racketeering:
+Einen Racket durchführen zum Probleme lösen.
 ### Rekursivität:
 Bedeutet sich auf Erfahrungen zurückzubeziehen.
 ### Spieler/Player:
