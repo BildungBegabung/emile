@@ -15,11 +15,11 @@ Strategie, die bei einer gegebenen Strategie des Gegners die höchste Auszahlung
 ### Bildsamkeit:
 Die Fähigkeit des Individuums sich fortzubilden (Theorie Benner) durch Lernen und Bildung.
 ### Cascade:
-
+Ausbreitung und Diffundierung einer Neuerung (Idee/Technologie etc) durch ein Netzwerk.
 ### Cluster:
-
+Bereiche in einem Component, bei dem alle Knoten untereinander eng vernetzt sind, allerdings wenig Verbindungen zu Knoten außerhalb des Clusters bestehen. Stellen ein Hindernis für Cascades dar.
 ### Component:
-
+Isolierte Sequenz in einem Graphen, bei dem jeder Knoten 1) einen Pfad zu jedem anderen Knoten im Component besitzt und 2) mit keinem Knoten außerhalb des Components verbunden ist.
 ### Deontologie:
 Das Gesollte, die Pflicht.
 ### Dominante Strategie/Dominant Response:
