@@ -30,17 +30,6 @@ Jeder Mensch bedarf neben dem Kontakt zu anderen Gleichaltrigen auch Vorbilder, 
 Hierfür will er Netzwerke erstellen, in denen man Interessen formulieren kann und so lernorientierte Zusammenarbeit ermöglicht wird.
 In einer dieser Netzwerke bekäme ein Kind, das Gitarre spielen lernen will, einen Zeitraum, in dem es mit anderen gleichaltrigen Kindern spielen kann, jemanden, der ihn bei Problemen und Schwierigkeiten unterstützen kann und als ein Art Vorbild funktioniert und als letztes eine Gitarre und alle anderen möglichen Werkzeuge, die dazu führen werden, dass das Kind erfolgreich den Lernprozess bewältigt.
 
-Illichs Ziele für die "educational revolution" sind:
-
-1.-Abschaffung der Tatsache, dass Personen oder Institute auf Grund ihres Bildungsgrades Kontrolle über den Zugang zu Dingen ausüben.
-
-2.-Das Teilen/Gemeinsame Nutzung von Fertigkeiten ermöglichen, indem man die Freiheit unterrichtet und man ihr ausübt damit es  bei Bedarf sicher gestellt wird.
-
-3.-Freisetzung der kritischen und kreativen Ressourcen der Menschen, indem jedem Einzelnen die Möglichkeit zurückgegeben wird, Versammlungen einzuberufen und abzuhalten.
-
-4.-Befreiung des Individuums von der Verpflichtung, seine Aussichten nach der gebotenen Aufgabe irgendeiner Berufung zu formen – indem ihm die Möglichkeit bereitet wird, sich die Erfahrung seiner Fachkollegen zu Nutze machen zu können und sich dem Lehrer, Leiter, Berater oder Heiler seiner Wahl anzuvertrauen.
-(vgl alle S.109)
-
 Ein weiteres, wichtiges Streben Illichs ist die Reduzierung der Komplexität unserer Umwelt, so dass sie wieder zugänglich für den Alltagsmenschen wird.
 Dazu könnten unter anderem die riesigen Summen an Geld verwendet werden, die man durch eine Abschaffung der Schulpflicht einsparen würde.
 So könnten zum Beispiel Firmen subenzioniert werden, die ihre Autos wieder leichter verständlich konzipieren, so dass der durchschnitts Bürger in der Lage ist, allgemeine Reparationen selbstständig durchzuführen.
@@ -56,7 +45,6 @@ Illich beschreibt konkrete Vorschläge zur Umsetzung seiner "educational revolut
 
 So müssen beispielsweise nach der Theorie des Konstruktivismus Lerninhalte "viabel", das heißt für das lernende Individuum funktional und bedeutend, sein.
 Da "das psychische System entscheidet, was es verarbeiten kann und will" (Siebert, S.18), ergibt sich die Forderung nach einem selbstbestimmten Lernen.
-Das Ziel aller Vorschläge Illichs ist es, den Lernenden "Zugang zu vorhandenen Möglichkeiten [zu] gewähren" (Illich, S.84) statt sie ihnen durch einen Lehrplan vorzuschreiben, welchen Wissensstand sie in welcher Zeit zu erreichen haben.
 Jeder hat die Freiheit, eine Gelegenheit zum Lernen wahrzunehmen, oder sich dagegen zu entscheiden.
 Durch die so entstandene Auswahlmöglichkeit zwischen verschiedensten Lerninhalten wird gewährleistet, dass sich jedes Individuum dem beschäftigen kann, der für es am anschlussfähigsten ist.
 
@@ -82,8 +70,7 @@ Obwohl auch die Gruppierung von Gleichaltrigen nach Illich abgeschafft werden so
 Ein Beispiel dafür sind seine "Fertigkeitsbörsen".
 Dieser Vorgang lässt sich sehr gut mit dem Konzept des Hyperzyklus beschreiben, dessen Bedingung ist: "wer etwas weiß oder kann, teilt es mit den anderen" (Zimpel, S.123), was durch Illichs Vorschläge erfüllt wird.
 Dadurch, dass nicht mehr wie vorher "das Grundrecht auf Mitteilung des eigenen Wissens in das Privileg akademischer Freiheit [verkehrt wird], das nur den in einer Schule Beschäftigten verliehen wird" (Illich, S.97), ist jeder dazu befähigt, andere an seinem Wissen teilhaben zu lassen, während er wiederum von den Fähigkeiten anderer profitieren kann.
-Durch die große Vielfalt an Fähigkeiten, die durch die Fertigkeitsbörsen vermittelt werden können, erhalten so viele Menschen wie möglich die Gelegenheit, dort anderen gezielt helfen zu können und sich so als Teil eines Kreislaufs aus Geben und Nehmen zu verstehen.
-Der Prozess verläuft dort also nicht, wie in der Schule, einseitig zwischen Schüler und Lehrer, wordurch schwächere Schüler sich nicht als hilfreich für andere erleben können.
+Der Prozess des Helfens verläuft dort also nicht, wie in der Schule, einseitig zwischen Schüler und Lehrer, wordurch schwächere Schüler sich nicht als hilfreich für andere erleben können.
 Ein weiterer Unterschied zum schulischen Lehren liegt darin, dass das Spektrum an Fertigkeiten, die angeboten werden können, fast unbegrenzt ist.
 So werden beispielsweise auch Menschen mit einem künstlerischen Talent, das in der Schule oft nur geringe Anerkennung findet, benötigt.
 
@@ -112,14 +99,14 @@ Auch wenn beide als Träumer beäugt werden, solte uns klar sein, dass Rousseau 
 
 ### Gleichwerigkeit und Autonomie nach Illich
 
-Neben der Interpretation von Illichs Ansätzen als praktische Umsetzung von Theorien kann man sogar in Illichs Ideen eine Antwort auf die zentrale Frage unserers Kurses: Wie können unterschiedliche und unterschiedlich befähigte Menschen inhärent gleich berechtigt und persönlich autonom zusammenleben?, sieht.
-Ein zentraler Punkt, den er an der Institution Schule kritisiert,ist deren Recht zur Bewertung der Schüler durch Zertifikate.
-Diese schulischen Zertifikate werden in der gegenwärtigen Gesellschaft als einzig legitime Qualifikationen betrachtet und geben somit der Schule die Macht, über die Zulassung von Schülern zu weiteren Bildungseinrichtungen oder die Erlaubnis zur Ausübung eines Berufs zu entscheiden.
+Neben der Interpretation seiner Ansätze als praktische Umsetzung von Theorien kann man sogar in Illichs Ideen eine Antwort auf die zentrale Frage unserers Kurses: Wie können unterschiedliche und unterschiedlich befähigte Menschen inhärent gleich berechtigt und persönlich autonom zusammenleben?, sieht.
+Ein zentraler Punkt, den er an der Institution Schule kritisiert,ist deren Recht zur Bewertung der Schüler durch Zertifikate, die in der gegenwärtigen Gesellschaft als einzig legitime Qualifikationen betrachtet werden.
+Somit hat die Schule die Macht, über die Zulassung von Schülern zu weiteren Bildungseinrichtungen oder die Erlaubnis zur Ausübung eines Berufs zu entscheiden.
 Die Folgen dieses Symstems sind weitreichend, was Illich mit dem Satz "School initiates young people into a world where everything can be measured, including their imaginations, and, indeed, man himself. (Illich, S.19), veranschaulicht.
 
 Schule produziert also durch die Beeinflussung der Lernenden dahingehend, dass der Wert von allem, sogar von Menschen messbar sei: Ungleichheit.
 Das impliziert die unterschiedliche Wertigkeit von Menschen und führt somit dazu, dass Schüler nicht nur als ungleich betrachtet werden, sondern auch sich selber als unterschiedlich wertvoll ansehen.
-Illich schlägt nun vor, das Messen von Fähigkeiten stark einzuschränken und im Bezug auf den Zugang zu Bildungsmöglichkeiten ganz abzuschaffen.
+Illich schlägt nun vor, das Messen von Fähigkeiten im Bezug auf den Zugang zu Bildungsmöglichkeiten ganz abzuschaffen.
 So entsteht ein Menschenbild, dass von der Gleichwertigkeit Aller ausgeht, während die beschriebenen Freiheiten und Wahlmöglichkeiten ein Maximum an persönlicher Autonomie ermöglichen.
 
 
