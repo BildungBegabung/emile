@@ -71,4 +71,9 @@ In diesem Kontext kann man Hayek auch mit Illich assoziieren.
 Fraglich ist allerdings, ob Hayeks ökonomische Gedanken auf das Schulsystem übertragbar sind, vor allem, da Hayek sich explizit positiv zum Schulsystem geäußert hat.
 
 Hayek äußert sich zwar nicht direkt zum Schulsystem, doch spricht er sich dagegen aus, dass staatliche Institutionen gefördert werden sollten. Wendet man also seine Gedankengänge auf die Pädagogik an, so wäre seine Meinung wohl, dass Schule eine nutzlose Institution ist, die den Information -und Wissensaustausch lediglich verlangsamt oder ausbremst.
-Illich denkt ähnlich, denn er möchte das Schulsystem sogar ganz abschaffen, da er persönliche Autonomie und Gleichheit schaffen möchte. Ohne Schulpflicht müsse sich jeder selber darum kümmerm, wie er eigenes Wissen erlangt und von wem er dieses bekommt. Das würde einerseits Gleichheit schaffen, da alle die gleiche Ausgangssituation haben, aber auch persönliche Autonomie, weil jeder für seinen Informationsfluss selber zuständig wäre.
+Illich denkt ähnlich, denn er möchte das Schulsystem sogar ganz abschaffen, da er persönliche Autonomie und Gleichheit schaffen möchte. Ohne Schulpflicht müsse sich jeder selber darum kümmern, wie er eigenes Wissen erlangt und von wem er dieses bekommt. Das würde einerseits Gleichheit schaffen, da alle die gleiche Ausgangssituation haben, aber auch persönliche Autonomie, weil jeder für seinen Informationsfluss selber zuständig wäre.
+
+Ähnlich wie bei Illich kritisiert auch Dewey das Schulsystem und möchte es aufgrund dessen verändern. Deweys Standpunkt dazu ist, dass ein öffentliches Erziehungssystem geschaffen werden muss, was durchaus übertragbar ist auf Illich und Hayek, denn diese plädieren für ein unabhängiges, öffentliches Schulsystem, wie oben bereits beschrieben.
+
+
+Dewey und Hayek haben beide interessante Meinungen zum Schulsystem. Sie sind beide der Auffassung, dass das bestehende nicht das Richtige ist. Dewey möchte ein öffentliches Erziehungssytem schaffen, was man auf Hayek übertragen kann, der ein unabhängiges, öffentliches Schulsystem schaffen möchte.
