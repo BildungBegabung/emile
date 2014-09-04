@@ -99,7 +99,12 @@ Vgl. Mead symbolischen Interaktionismus
 
 Laut **Charles Tilly** ist die Geschichte der Staatenbildung eine Geschichte der Gewaltmonopole.
 <!-- FIXME: MH diese einleitung braucht es nicht mehr; Tilly wurde ja schon erklärt. Dafür braucht es eine hinführende, Sanduhrmäßige Einleitung: an welchem Punkt von Habermas bisher setzt das an? Warum juckt uns das? -->
-Die Art und Weise, auf die diese gebildet werden, lässt sich ansatzweise durch Habermas Konzept der *strategic speech acts* modellieren.
+Zu strategischischen Sprechakten zählen auch Drohungen, wie z.B. "Wenn du die Hausaufgaben nicht machst, bekommst du nachsitzen".
+Dazu zählen natürlich auch Gewaltandrohungen, wie sie durch 
+- demokratie ursprung
+-
+
+Ihre Entstehung lässt sich ansatzweise durch Habermas Konzept der *strategic speech acts* modellieren.
 <!-- FIXME: "Die Art und Weise" – schlechter Stil, füllwort, sowas meiden. -->
 <!-- FIXME: MH nöh, nicht modellieren; ihr meint: Gewaltandrohung oder allg. Staatsgenese durch wettstreitende Schutzgelderpresser impliziert strategische Sprechakte; Mitmenschen werden Mittel zum Zweck. -->
 Gewaltmonopole können durch Gruppen von Schutzgelderpressern unterschiedlich erreicht werden.
