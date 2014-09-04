@@ -9,10 +9,6 @@ Beispielsweise sollte in einer Demokratie ganz besonders darauf geachtet werden,
 Dafür stehen unteschiedliche Wahlsysteme, z.B. die Mehrheitswahl, Borda-Wahl oder  zur Verfügung.
 Die Spietheorie evaluiert diese Systeme mathematisch und stellt Vor- und Nachteile dar.
 
-Diese Wahlsysteme vertreten eine individualisierte Ontologie, es zählt die einzelne Stimme als kleinste Einheit.
-<!-- TODO MH: das steht so etwas alleine im Wald, und ich verstehe es auch nicht so ganz. Wahlsysteme vertreten keine Ontologie; Denkapparate wie Sozialwahltheorie tun das. Was ihr hier wohl meint ist eher in den Annahmen über Präferenzen zu finden, welche Sozialwahltheorie trifft (vollständig, etc.) – am besten diese Annahmen hier recht früh dokumentieren, und dann darauf hinweisen was die Ontologie ist: nämlich *gegebene* Präferenzen von Individuen (was wären alternativen zu beidem?) -->
-
-
 ## Arrow's Unmöglichkeitstheorem (S.748)
 
 Um zwischen verschiedenen Wahlsystemen zu entscheiden, schlägt Arrow folgende minimale Kriterien vor:
@@ -35,7 +31,9 @@ In den USA kann zum Beispiel durch die Festsetzung der Wahlbezirke indirekt ein 
 
 Einzig bei einer Entscheidung zwischen zwei Alternativen kann - beispielsweise durch das Mehrheitswahlsyem - ein Ergebnis agreggiert werden, welches sowohl IIA als auch die Pareto-Verbesserung gewährt und gleichzeitig eine Diktatur vermeidet.
 
-![Dreieckskonstellation](img/Kleinberg_Sozialwahltheorie_Abb1.jpg)
+Arrow formuliert diese Problematik durch sein Unmöglichkeitstheore, die mathematisch bewiesene Tatsache, dass die Prinzipien der Pareto-Verbesserung und der Unabhängigkeit von irrelevanten Alternativen (IIA) nicht vereinbart werden können, ohne eine "Diktatur" zu ermöglichen.
+
+![Dreieckskonstellation](img/Kleinberg_Sozialwahltheorie_Abb1.jpg "Höchstens zwei der drei Seiten können gleichzeitig erfüllt werden")
 
 ## Lösungsmöglichkeit
 
@@ -55,15 +53,10 @@ Um solches Wahlverhalten zu vermeiden,
 - müssen alle Teilnehmer m diese Verteilung aufgeklärt sein.
 
 
-Ist es überhaupt aus demokratischer Sicht vertretbar, eine allgemein gültige Ordung der Alternativen festzulegen?
-Laut XY ist "nobody (is) obviously more qualified than anypne else", folglich kann auch niemand allein befähigt sein Meinungen zu ordnen.
-Außerdem müssen alle bürger gut über die Wahlmöglichkeiten informiert sein, um single-peakedness zu erreichen.
-Dahl drückt sich als sehr liberaler Demokrat allerdings sehr wage aus und sieht das "enlightend understanding" nicht als bedingungslose Grundlage einer Demokratie, da
-Autonomie dadurch eingeschränkt würde.
-Denn gerade dieses Prinzip vielfältiger Meinungen (inklusive der "fehlinformierten") hat XY dazu bewegt, ein auf Wahlen beruhendes demokratisches System als bestes Staatssystem einzuführen.
-Kann eine Demokratie mit Wahlen dann überhaupt praktisch umgesetzt werden?
-Oder ist vielmehr Dewey im Recht, wenn er die Demokratie im Kontext ihrer Zeit sieht und behauptet, sie sei niemals vollendet? (---ZITAT!!!)
-
-Eine andere Möglichkeit wäre, Erziehung besser zu gestalten und den Bürgern wie Heini zu helfen eine gefestigtere Meinung zu entwickeln und "verwirrte Entscheidungen zu vermeiden. -> Benner
-<!-- FIXME: MH In den oberen Absätzen sind noch Fragmente, unübersetztes etc. drin. -->
-<!-- TODO: MH außerdem sollten die oberen Paragrafen mit den Lösungen der single-peakedness Probleme deutlich knapper ausfallen; das war ja eher so eine Randbemerkung. Für uns ist es Interessant hier auf die Notwendigkeit von Bildung sowie den Widerspruch zu liberalen Verschreibungen hinzuweisen. -->
+Die Frage ist, ob es überhaupt aus demokratischer Sicht vertretbar wäre, eine allgemein gültige Ordung der Alternativen festzulegen.
+Laut Dahl ist niemand offensichtlich besser qualifiiert als andere, folglich kann auch niemand allein befähigt sein für die Allgemeinheit Alternativen anhand selbstgewählter Kriterien zu ordnen.
+<!-- FIXME FB at MH: nobody (is) obviously more qualified than anyone else - Englisches Zitat behalten?  -->
+Als liberaler Demokrat beurteilt Dahl außerdem eine systematische Aufklärung (damit auch Aufklärung über die Verteilung der Alternativen) sehr kritisch, um die Autonomier der Bürger nicht einzuschränken.
+Allerding macht die Spieltheorie deutlich, dass Dysfunktinen in Wahlsystemen sehr viel öfter auftreten, wenn die Wählenden ungebildet sind.
+Menschen wie Benners Heini müssen gebildet werden, um eine funktionierende und rechtfertigbare Regierung wählen zu können.
+Demokratie kann nicht auf einer vollkommen Autonmie der Bürger aufbauen.
