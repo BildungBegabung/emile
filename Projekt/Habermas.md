@@ -96,44 +96,16 @@ Dem strategischen Handeln kann man aber nur durch den Wechseln in eine *lifeworl
 Also schlägt Dewey als Staat eine Demokratie in einer lifeworld vor, ein System in einer *lifeworld*.
 Von Habermas Standpunkt aus dürfte das sehr widersprüchlich sein, da ein Staat aufgrund seiner Größe Struktur braucht, zB das Regierungssystem, welche ohne das strategische Handeln kaum funktionieren würde.
 Möglicherweise würde Habermas stattdessen ein dem System unterliegendes Netz aus kleinen, verbundenen *lifeworlds*~ vorziehen, die neue Ideen dann nach ben an das System weitergeben.
-Vielleicht ist Deweys Idee aber in kleinem Umfeld umsetzbar, beispielsweise auf der DSA:
-- Kommunikation ist hier fast immer auf Verständigung ausgelegt: Es wird diskutiert, Regeln wie zB "Pünktlichkeit" werden erkärt und verständigung vporrausgesetz, da es keine Spratrafen gibt.
-- 
+Vielleicht ist Deweys Idee aber in kleinem Umfeld umsetzbar, beispielsweise auf der DSA; Kommunikation ist hier fast immer auf Verständigung ausgelegt:
+- Ständig wird über Gott und die Welt diskutiert ohne andere überzeugen zu wollen, sondern um neue Ideen kennenzulernen und zu verstehen und seine eigenen Ideale zu vertreten
+- Regeln wie zB "Pünktlichkeit" werden nicht mit Strafen und strategischem Handeln durchgesetzt "Wer zu spät kommt, muss Schokolade mitbringen", sondern werden einander verständlich gemacht mit der Intention, dass die TN's durch das Verstehen von sich aus die Regeln beachten
 
- <!-- 1) Unterricht, 2) Polit-Talkshows 3) DSA ... da spielt die Musik -->
-
-
-## Habermas - Spieltheorie: Menschen als kausale Objekte
-
-Möglicherweise ist die spieltheoretische Modellierung von Handlungen aus Habermas Sicht nicht immer angebracht, da sie davon ausgeht, dass Spieler immer nur  Strategien und nicht die andern Spieler als Mensch betrachten.
-Damit degradieren sie ihr Gegenüber zum Objekt und dadurch zu einem Teil der Umwelt mit dem sie kausal interagieren können.
-<!-- FIXME: MH hier steht schon wieder zunächst die Einschätzung, dann die Erklärung. Andersrum wäre besser. Die Einschätzung verengt das auch zu sehr. Klärt erstmal den ontologischen (?) Unterschied, und wie sich das durchdekliniert. -->
-Die Spieltheorie modelliert menschliches Handeln als kausale, vorhersagbare Ereignissketten, daher sind alle Handlungen in der Spieltheorie für Habermas *purposive*.
-<!-- FIXME: purposive ist nicht das Problem, das Habermas mit Spieltheorie hat, oder?  -->
-
-Es ist darum möglich zu überlegen, wie sich Spielverhalten ändern würde, wenn Spiele in kommunikativem Umfeld stattfinden.
-Ein Gefangenendilemma könnte dann möglicherweise auf ein soziales Wohlfahrtsoptimum hinauslaufen, wenn die Spieler Verständigung über die für beide beste Lösung erreichen.
-Kommunikatives Handeln, also effektive Kooperation scheint also tatsächlich auf Positivsummenerträge hinauszulaufen.
-<!-- TODO: MH Das ist - finde ich – ein ganz interessanter Teil; der braucht mehr Platz und sorgfältigere Arbeit, vieleicht mit Textstelle? -->
-
-
-## Habermas - Mead: Symbolischer Interaktionismus und Rekursivität der Sprache
-
-Habermas geht unter anderem auf die Ziele und Mittel von Sprechakten ein, die in einer wechselseitigen Beziehung stehen, wobei deutlich wird, welche Probleme mit diesen einhergehen.
-So besteht das Ziel von Sprache, genauer gesagt von kommunikativen Sprechakten, in der Verständigung untereinander.
-Allerdings besteht ein rekursiver Zusammenhang, der sich wie folgt beschreiben lassen könnte: Sprache ist Mittel zur Verständigung, ist Sprache, ist Mittel zur Verständigun, ist Sprache, etc...
-Ein Ausweg aus diesem Kreislauf scheint unmöglich.
-Will man beispielsweise das Phänomen der Sprache erklären, bedarf es der Verständigung mit dem gegenüber, dafür allerdings ist wiederum Sprache notwendig.
-Dies scheint eine Einschränkung der Kommunikation darzustellen.
-<!-- FIXME: MH totale Doppelung mit o.s. Teil; deshalb bitte lieber gleich in *einer* Datei mit Struktur arbeiten – das hier ist defakto ein manueller Merge Conflict. -->
-
-Hierbei bietet sich zur Klärung das Modell des symbolischen Interaktionismus von George Herbert Mead an.
-Nach diesem ist unser gesellschaftliches Zusammenleben durch gemeinsam geteilte Standards oder Institutionen geprägt, sogenannte Symbole.
-Diesen wird durch Menschen ein Sinn beziehungsweise eine objektive oder auch normative (?) Bedeutung zugesprochen.
-Diese ist in der Gesellschaft verankert, welche einen großen Konsens über die Bedeutung dieses Symbols hat.
-
-Der Mensch nach Meads Ansicht steht in einer wechselseitigen, rekursiven Beziehung mit diesen Symbolen:
-Zum einen haben sie einen ontologischen Status und beeinflussen so die Erfahrung und das Weltbild des Menschen, gleichzeitig bekommen sie durch den Mensch selbst ihre Bedeutung zugesprochen und werden permanent neu definiert.
-Diese Theorie bietet insofern eine Lösung in Habermas Modell, als dass feste Symbole eine Möglichkeit darstellen, aus dem Kreislauf von Sprache und Verständigung auszubrechen und Kommunikation möglich zu machen.
-Dies würde funktionieren, da über die bekannten Symbole eine gemeinsame Grundlage der Verständigung gegeben wäre.
-<!-- TODO: MH: Das muss viel kürzer, nicht Erklärung Mead doppeln. -->
+Vielleicht ist Deweys Idee aber in kleinem Umfeld umsetzbar, beispielsweise auf der DSA.
+Ein Beispiel dafür bietet die "Pünktlichkeitsregel".
+Sie wird nicht durch Androhung von Strafen - strategischem Handeln - durchgesetzt: "Wer zu spät kommt, muss Schokolade mitbringen"
+Im Gegenteil, die Regel wurde den TN's durch einen kommunikativen Sprechakt vermittelt.
+Dabei war die Intention, dafür zu sorgen, dass die TN's den Gültigkeitsanspruch erkennen und ein Verständnis für die Regel bilden und daher von sich aus die Regeln beachten.
+Würde die Plenum-Pünktlichkeitssituation mit einem Gefangenendilemma modelliert, würde der Spieltheoretiker selbst später kommen, da nach dem Nash-Equilibrium alle zu spät kommen würden.
+Aus spieltheoretischer Sicht ist Pünktlichkeit das soziales Wohlfahrtsoptimum, trotzdem wird es tagtäglich morgens um 8:30h von dem Großteil der TN's und KL's umgesetzt, ohne Androhung von Strafe.
+Kommunikatives Handeln erzeugt also tatsächlich eine Positivsumme für alle Teilhaber, wenn es gut umgesetzt wird.
+Bis zu einem bestimmten Grad ist es sogar in etwas größern lifeworlds umsetzbar.
