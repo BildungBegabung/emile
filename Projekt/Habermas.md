@@ -97,12 +97,15 @@ Vgl. Mead symbolischen Interaktionismus
 
 ## Habermas - Tilly : Gewaltandrohung als Strategisches Haneln
 
-Laut **Charles Tilly** ist die Geschichte der Staatenbildung eine Geschichte der Gewaltmonopole.
-<!-- FIXME: MH diese einleitung braucht es nicht mehr; Tilly wurde ja schon erklärt. Dafür braucht es eine hinführende, Sanduhrmäßige Einleitung: an welchem Punkt von Habermas bisher setzt das an? Warum juckt uns das? -->
+
 Zu strategischischen Sprechakten zählen auch Drohungen, wie z.B. "Wenn du die Hausaufgaben nicht machst, bekommst du nachsitzen".
-Dazu zählen natürlich auch Gewaltandrohungen, wie sie durch 
-- demokratie ursprung
--
+Das beinhaltet natürlich auch Gewaltandrohungen, wie sie durch Charles Tilly in der Staatsgenese impliziert werden.
+Ambivalente Äußerungen der Schutzgelderpresser "Ich schütze dich vor Gewalteinflüssen, wenn du mich bezahlst" geben vor einen Gültigkeitsanspruch, den Schutz, zu verständigen.
+Tatsächlich versucht aber Macht zu erlangen.
+Habermas würde hier von einem *latently strategic speech act* sprechen, da der Mensch als Mittel zum Zweck instrumentalisert wird.
+Direkte Gewaltandrohung hat noch nicht mal einen Gültigkeitsanspruch, sondern nur den Machanspruch iund ist somit ein *manifestly strategic speech act*  .
+
+DA TIlly Staat nur funktion wenn gewalt auch demokratie durch strategisches handeln, keine kommunikativ in demokratie
 
 Ihre Entstehung lässt sich ansatzweise durch Habermas Konzept der *strategic speech acts* modellieren.
 <!-- FIXME: "Die Art und Weise" – schlechter Stil, füllwort, sowas meiden. -->
@@ -111,7 +114,7 @@ Gewaltmonopole können durch Gruppen von Schutzgelderpressern unterschiedlich er
 
 Einerseits kann durch Schutzgelderpressung *"protection"* angeboten werden: "Ich schütze dich vor Gewalteinflüssen, wenn du mich bezahlst".
 Errstmal ist der Schutz *"comforting"*, aber da bei dieser Proposition gleichzeitig eine Androhung von Gewalt (durch den Schützenden selbst) impliziert wird, ist "portection" ebenfalls "ominous".
-Aufgrund dieses Aufbaus kann man bei einer Schutzgelderpressung von einem *latently strategic speech act* sprechen.
+Aufgrund dieses Aufbaus kann man bei einer Schutzgelderpressung .
 Das Ziel des Sprechens ist in dem Moment nicht illokutiv, sondern perlokutiv.
 Der Zweck ist Machterweiterung und Geldgewinn.
 Letzlich wird so der Mensch als Mittel zum Zweck genutzt.
