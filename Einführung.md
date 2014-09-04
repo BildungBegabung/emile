@@ -7,7 +7,8 @@ Was verbindet uns eigentlich als *Menschen* untereinander?
 Wie können wir alle gleich sein, wenn wir doch eigentlich frei in unseren Entscheidungen sind?
 Wir versuchen Antworten auf die grundsätzlichen Fragen von menschlichen Zusammenleben zu finden; oder besser:
 Wir versuchen eine Vorstellung von der Bedeutung dieser Fragen zu bekommen, auf die es keine eindeutige Antwort geben kann.
-In unserem Kurs "Schule der Demokratie" versuchen uns dem Thema von dem Blickwinkel der Sozialwissenscheaft sowie der Pädagogik zu nähern.
+In dem Kurs "Schule der Demokratie" versuchen uns dem Thema von dem Blickwinkel der Sozialwissenschaft sowie der Pädagogik zu nähern.
+Die Verbindung der beiden Disziplinen gehört nicht gerade zum klassischen Kursinventar von Universitäten und os ist unsere Herausforderung neue Brücken zu schlagen und zu erläutern.
 Was sind die Gegentände unserer sozialen Welt, in welchen Einheiten Denken wir?
 Um dann auf die Axiologie zu kommen:
 Wie sollte die Dinge sein?
