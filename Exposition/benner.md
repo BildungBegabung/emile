@@ -1,4 +1,4 @@
-# Protokoll: Benner-2012
+# Benner - Bildsamkeit als Mittelweg von Autonomie und Gleichheit?
 
 Benner setzt sich damit auseinander, **Grundsätze pädagogischen Denkens und Handelns** aufzuzeigen, die für die ganze Menschheit gültig sind.
 Er richtet sich dabei an die pädagogisch interessierte Leserschaft.
