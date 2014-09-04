@@ -15,16 +15,13 @@ Planwirtschaft benötigt eine zentrale Aggregation von Informationen.
 Es ist unwirtschaftlich Informationen zusammenzutragen, die in einer konkreten Situation jedoch nicht einmal zutreffen.
 Hayek zieht ein freiheitlicheres System der Marktwirtschaft aus Gründen der Effizienz vor.
 Hayeks Argument für freiheitlichen Markt besteht in seiner Annahme:
->"Der Kompetenteste bist du selbst!" (Dahl-1989, S. 519)
+>"Der Kompetenteste bist du selbst!" (Hayek-1945, S. 519)
 
 Gleiches forderte Dahl auch nach seiner Annahme der persönliche Autonomie als Grundlage einer Demokratischen Gesellschaft, wenn er formuliert:
->"every adult is the best judge of his or herself interest" (Dahl-1989, S.100).
-Für Dahl ergibt sich daraus eine politische Dimension, die Demokratie, in der jeder (z.B. durch Wahlen) für sich selbst entscheiden kann.
-Hayek sieht vorallem die wirtshaftliche dimension: "weniger Regierung" (ebd. 527-528) und kollektive Entscheidungen (w.z.B. Planwirtschaft) desto besser.
+>"Every adult is the best judge of his or herself interest" (Dahl-1989, S.100).
 
+Für Dahl ergibt sich daraus eine politische Dimension, die Demokratie, in der jeder, zum Beispiel durch Wahlen, für sich selbst entscheiden kann.
+Hayek sieht vor allem die wirtshaftliche Dimension: "weniger Regierung" (ebd. 527-528) und kollektive Entscheidungen, wie zum Beispiel Planwirtschaft, desto besser.
 Die Entscheidungsgewalt über ökonomische Handlungen sollte also so oft wie möglich bei den Individuen liegen.
 
-Wenn man versucht, das auf das Schulsystem zu beziehen, könnte man sagen, dass die Idee eines Bildungskanons, einer Informationsvermittlung auf objektiver Basis, verneint wird.
-<!-- TODO MH: overstatement; nicht verneint – aber vielleicht skepsis, oder begrenzte Autorität dieses Kanons ... -->
-In diesem Kontext kann man Hayek auch mit Illich assoziieren.
-<!-- TODO MH: das klingt unelegant, dass man das kann. ist eine Regieanweisung. zeigt uns einfach wie genau -->
+Wenn man versucht, das auf das Schulsystem zu beziehen, könnte man sagen, dass die Idee eines Bildungskanons, einer Informationsvermittlung auf objektiver Basis, skeptisch betrachtet wird.
