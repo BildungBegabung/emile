@@ -8,7 +8,7 @@ Wissen jedoch "never exists in concentrated or integrated form, but solely as th
 Erst durch das Vorhandensein von Wissen, weiß dass Individuum, was es möchte.
 Möchte ich beim morgendlichen Besuch in der Mensa der DSA lieber Kaffee oder Tee trinken? Das zu entscheiden ist eine Art von Wissen.
 Wissen besteht nämlich nicht nur aus "scientific knowledge", immanentem Faktenwissen - welches nach Hayek in der Gesellschaft viel zu stark gewichtet wird - ,  Wissen entsteht oft auch lokal, also erst wenn man sich in einer konkreten Situation befindet und Wissen ist individuell.
-Ob ich also lieber Kaffee oder Tee trinken möchte, entscheide ich spontan, ich bin im Vorhinein nicht in der Lage eine Entscheidung zu treffen. Vielleicht habe ich gerade ein Kratzen im Hals, dann fällt meine Wahl auf Tee, wenn ich zu wenig geschlafen habe, greife ich eher zur Kafeekanne.
+Ob ich also lieber Kaffee oder Tee trinken möchte, entscheide ich spontan, ich bin im Vorhinein nicht in der Lage eine Entscheidung zu treffen. Vielleicht habe ich gerade ein Kratzen im Hals, dann fällt meine Wahl auf Tee, wenn ich zu wenig geschlafen habe, greife ich eher zur Kaffeekanne.
 
 Genau das ist das Argument das Hayek einer Planwirtschaft entgegenstellt: Wir **können** gar nicht im Vorhinein planen. Planwirtschaft benötigt eine zentrale Aggregation von Informationen, in einer Planwirtschaft müssen alle dezentralen Informationen zentral zusammengetragen werden (at the disposal of a single central authority" (S.521)).
 Einen solchen Aufwand zu betreiben und Informationen zusammenzutragen, die in einer konkreten Situation jedoch nicht einmal zutreffen: das ist unwirtschaftlich.
