@@ -39,11 +39,10 @@ Als Fazit lässt sich also sagen, dass Freinet unserem System wahrscheinlich nic
 
 ## Illichs Einschätzung zu GitHub
 
-Illichs Beschreibung der learning webs decken sich grundsätzlich mit unserer Arbeit auf Github, angenommen, mehr Leute würden es nutzen und wir alle hätten uns ganz frei dazu entschieden, genau an diesem Thema teilzunehmen, und sind jederzeit in der Lage unsere Arbeit zu verweigern - wenn wir wollten.
+Illichs Beschreibung der "learning webs" decken sich grundsätzlich mit unserer Arbeit auf Github, angenommen, mehr Leute würden es nutzen und wir alle hätten uns ganz frei dazu entschieden, genau an diesem Thema teilzunehmen, und sind jederzeit in der Lage unsere Arbeit zu verweigern - wenn wir wollten.
 <!-- TODO: VK auch hier ein packenderer Einstieg? Schachtelsatz vermeiden  -->
 Angenommen PCs mit mindestens Windows7 würden als Lernobjekt nach Illichs Definition gelten, hätte jeder Zugang zu diesem Programm.
 Zudem würde er die Einarbeitung in die Technik als sehr positiv betrachten, da es uns dazu befähigt, neue Sachverhalte zu verstehen, und uns dazu bringt, uns mit neuen Themengebieten auseinanderzusetzen.
-<!-- TODO: VK Kann hier der Vergleich mit dem Auto reparieren angebracht werden? -->
 Wichtig ist dabei, dass wir dieses Wissen als bedeutend für uns wahrnehmen, da es einen direkten Wirklichkeitsbezug hat.
 Illich würde auf jeden Fall der Issue-Organisation zustimmen, in welcher jeder seine eigenen Interessen kundtun kann, und auch an der Ausarbeitung bereits formulierten Interessen teilnehmen kann.
 Teilnehmende, die zusammenarbeiten wollen, können sich darüber problemlos finden.
