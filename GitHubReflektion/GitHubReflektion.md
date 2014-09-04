@@ -13,7 +13,7 @@ Jeder hatte zu jedem Zeitpunkt die Möglichkeit auf alle geschrieben Texte zuzug
 Dadurch entstand eine völlig neue Form der sozialen Interaktion, die in Bezug auf die Ausgangsfrage nach persönlicher Autonomie und inhärenter Gleichheit zu analysieren ist.
 Hierfür lassen wir vier Autoren aus unserem Kurs sprechen und befragen sie postum, was sie zu diesem gewagten Unterfangen auf GitHub sagen würden.
 
-## Freinet zur Selbstreflektion unserer Arbeit auf GitHub:
+## Freinet zu GitHub:
 
 Vor fast 100 Jahren sprießte die Reformpädagogik, in einer Zeit ohne Computer, geschweigedenn Internet.
 Während wir fleißig Issues closen und merge conflicts lösen, hantierte Célestin Freinet mit Druckerpressen und Karteikarten - damals der letzte Schrei.
@@ -37,7 +37,7 @@ Trotz alle dem ist es fraglich ob eine vernetzte Arbeit mit Freinets Reformpäda
 Als Fazit lässt sich also sagen, dass Freinet unserem System wahrscheinlich nicht abgeneigt wäre. Aber seine contra-sozialen Folgen stark kritisieren würde.
 
 
-## Illichs Einschätzung zu GitHub
+## Illichs zu GitHub:
 
 Illichs Beschreibung der "learning webs" decken sich grundsätzlich mit unserer Arbeit auf Github, angenommen, mehr Leute würden es nutzen und wir alle hätten uns ganz frei dazu entschieden, genau an diesem Thema teilzunehmen, und sind jederzeit in der Lage unsere Arbeit zu verweigern - wenn wir wollten.
 <!-- TODO: VK auch hier ein packenderer Einstieg? Schachtelsatz vermeiden  -->
@@ -57,9 +57,28 @@ Die Gefahr, dass die direkte Kommunikation hinter 16 aufgeklappten Laptopbildsch
 
 <!-- TODO: VK Guter Abschnitt, fehlen nur 1-2 knackige Zitate aus Illich  -->
 
-## Hayeks Einschätzung zu GitHub
+## Hayeks zu GitHub
 
 Ähnlich wie bei Illich ist es unklar wie Hayek zu modernen Kommunikationsmitteln stehen würde, einfach aus dem schlichten Grund, dass er vermutlich nie mit einem Computer kommuniziert hat.
 Doch kann man aufgrund seiner Aussagen, die er über Kooperation getätigt hat, im Jahre 1945, seine Ansätze übertragen auf ein Medium wie GitHub. Er äußert sich sehr negativ auf Institutionen, die Wissen und Informationen austauschen. Die einzige Institution die half und mit der etwas "getauscht" werden durfte war Geld.
 >It is in this connection that what I have called the economic calculus proper helps us, at least by analogy, to see how this problem can be solved, and in fact is being solved, by the price system. (Hayek-1945 S. 525)
-Aufgrund dieser Tatsache würde Hayek GitHub vermutlich stringend ablehnen und sich dagegen aussprechen, dass wir mit dieser Institution Wissen austauschen und kooperieren. 
+Aufgrund dieser Tatsache würde Hayek GitHub vermutlich stringend ablehnen und sich dagegen aussprechen, dass wir mit dieser Institution Wissen austauschen und kooperieren.
+
+## Habermas zu Github:
+
+Auch Jürgen Habermas dürfte, angesichts der Tatsache, dass er seine Texte bis heute auf einer Schreibmaschine schreibt, zunächst Bedenken haben, wenn er von unserer Zusammenarbeit auf GitHub hören würde.
+
+Das diese Arbeitsform allerdings im Kern von seinem Kommunikationsmodell gar nicht so weit entfernt ist, konnten wir im Laufe des Arbeitsprozesses feststellen.
+
+Zum einen ist das Ziel, dass durch das Einsetzen des Programmes erreicht werden soll die Koordination der Kooperation - für Habermas der Grund, weshalb soziales Handeln überhaupt zu Stande kommt:
+In dem Moment, in dem mehrere Menschen ein Ziel verfolgen ist eine Absprache nötig um einzelne Handlungen zu so zu koordinieren, dass man sich nicht in die Quere kommt.
+Und genau diese Absprache treffen wir auf Github, indem wir versuchen unsere issues und commits hinzufügen und dabei immer den Anspruch haben den Anderen unsere Ziele verständlich zu machen.
+
+An dieser Stelle lässt sich die nächste Parallele zu Habermas ziehen, der die Verständigung als grundsätzlichen Telos von Sprache festlegt und hinter jeder Handlung ein Ziel sieht.
+Außerdem erachtet er die Infragestellung von Gültigkeitsansprüchen als essentiell für kommunikatives Handeln.
+Und auch wir stellen ja mit jedem issue und mit jedem neuen commit einen Gültigkeitsanspruch auf, der grundsätzlich von jedem angezweifelt und geändert werden kann, bis am Ende ein fertiger Dokubeitrag entsteht und setzen somit das Konzept von Habermas' kommunikativem Handeln doch zumindest in Ansätzen um.
+
+Und auch Habermas' Idee der Diskursethik lässt sich bei uns auf GitHub wiederfinden, indem wir beispielsweise versuchen, bei jedem issue den Titel möglichst kurz und präzise mit einem passenden Operator zu formulieren. @feeds.
+
+Was Habermas an unserer Arbeitsform allerdings kritisieren könnte, ist die Instutionalisierung des Arbeitsprozesses.
+Denn GitHub als Institution ersetzt in Teilen den direkten Austausch in intersubjektiven Lebenswelten durch ein System-ein Prozess, den Habermas in der modernen Gesellschaft stark problematisiert.
