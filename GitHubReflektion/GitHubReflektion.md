@@ -3,8 +3,8 @@
 Während unserer Kursarbeit haben unsere Kursleiter wohl oft mit Sorgenfalten in extremst irritierte Gesichter geblickt.
 Es hatte ja auch etwas heroisches an sich, die grundsätzlichsten Fragen der menschlichen Existenz im Sinne seiner Entwicklung und seiner soziologischen Gemeinschaft beantworten zu wollen.
 Der Eine oder Andere musste auf diesem Weg mehr als einmal seinen Blick auf die Welt ändern und besonders mit dem Begriff der Deontologie ringen.
-Da wir uns inhaltlich mit Fragen der menschlichen Kooperation (und manchmal auch der tierischen) beschäftigt haben, lag es nahe, auch unsere Kursarbeit kooperativ zu organisieren.
-Wie keiner vor uns, haben wir versuchst, einen sozialwissenschaftlich-pädagogischen Kurs und das Schreiben dieser Dokumentation auf der Open-Source-Plattform GitHub zu organisieren.
+Da wir uns inhaltlich mit Fragen der menschlichen Kooperation (manchmal auch der tierischen) beschäftigt haben, lag es nahe auch unsere Kursarbeit kooperativ zu organisieren.
+Wie keiner vor uns haben wir versucht, unseren sozialwissenschaftlich-pädagogischen Kurs und das Schreiben dieser Dokumentation auf der Open-Source-Plattform GitHub zu organisieren.
 Bei GitHub handelt es sich um ein Programm, das eigentlich dafür dient, Software innerhalb einer Gruppe zu entwickeln.
 Wir arbeiteten einerseits auf dem sozialen Netzwerk GitHub.com, wo wir uns bereits in der Vorbereitung auf den Kurs digital begegneten.
 Später verwendeten wir zudem das Quellkontrollverwaltungsprogramm Git und den Open-Source-Texteditor Atom.
