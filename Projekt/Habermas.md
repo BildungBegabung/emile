@@ -85,5 +85,5 @@ Dabei war die Intention, dafür zu sorgen, dass die TN's den Gültigkeitsanspruc
 Würde die Plenum-Pünktlichkeitssituation mit einem Gefangenendilemma modelliert, würde der Spieltheoretiker selbst später kommen, da nach dem Nash-Equilibrium alle zu spät kommen würden.
 Aus spieltheoretischer Sicht ist Pünktlichkeit das soziales Wohlfahrtsoptimum, trotzdem wird es tagtäglich morgens um 8:30h von dem Großteil der TN's und KL's umgesetzt, ohne Androhung von Strafe.
 Kommunikatives Handeln erzeugt also tatsächlich eine Positivsumme für alle Teilhaber, wenn es gut umgesetzt wird.
-Bis zu einem bestimmten Grad ist es sogar in etwas größern Lebenswelten umsetzbar.
-<!-- MH TODO: sehr gutes beispiel; eine naheliegende Aufbohrung wäre noch: vielleicht hilft ja gerade solches zivilgesellschaftliche (DSA)-Erfahren, das System, in das wir etwa als Wähler, Lehrer, Schüler, Konsumenten etc. zurück kehren irgendwie im Zaun zu halten ... oder ist das nur meine (maxs) übermüdete Utopie? -->
+Bis zu einem bestimmten Grad ist es also sogar in etwas größern Lebenswelten umsetzbar.
+Bestimmt nehmen wir DSAler etwas von diesen positiven Erahrungen mit KOmmunikativem Handeln in das jeweils wesentlich größere Schul-, Lehr oder Staatssytem mit, in dem wir uns im Alltag herumschlagen
