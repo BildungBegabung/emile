@@ -68,7 +68,10 @@ Die Gefahr, dass die direkte Kommunikation hinter 16 aufgeklappten Laptopbildsch
 ## Was Hayek zu unserer Zusammenarbeit auf GitHub sagen würde
 
 Ähnlich wie bei Illich ist es unklar wie Hayek zu modernen Kommunikationsmitteln stehen würde, da er vermutlich nie mit einem Computer gearbeitet hat.
-Doch kann man aufgrund seiner Aussagen, die er über Kooperation getätigt hat, im Jahre 1945, seine Ansätze übertragen auf ein Medium wie GitHub. Er äußert sich sehr negativ zu Institutionen, die Wissen und Informationen austauschen, da diese den Informations -und Wissensfluss verlangsamen und beeinträchtigen. Die einzige Institution die half und mit der etwas "getauscht" werden durfte war Geld.
+<!-- TODO FB: Hat er oder hat ernicht? :) -->
+Nichtsdestotrotz kann man seine Aussagen über Kooperation aus dem Jahre 1945 auf ein Medium wie GitHub übertragen.
+Er äußert sich sehr negativ zu Institutionen, die Wissen und Informationen austauschen, da diese den Informations- und Wissensfluss verlangsamen und beeinträchtigen.
+Die einzige Institution die Vorteile einbrachte und mit der etwas "getauscht" werden durfte war Geld.
 >It is in this connection that what I have called the economic calculus proper helps us, at least by analogy, to see how this problem can be solved, and in fact is being solved, by the price system. (Hayek-1945 S. 525)
 
 Ein weiteres Problem für Hayek wäre vermutlich, dass er absolut der Meinung ist: Ein Individuum kann für sich selber die besten Entscheidungen treffen und nicht jemand anderes. Das würde mit dem Prinzip GitHubs kollidieren, da jeder über das Werk eines Anderen bestimmen kann, es herrscht also absoluter Pluralismus.
