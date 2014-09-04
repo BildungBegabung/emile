@@ -1,11 +1,11 @@
-# Freinet - Neue Blickwinkel durch die Reformpädagogik eine Schule der        Dekoratie?
+# Freinet - Neue Blickwinkel durch die Reformpädagogik auf eine Schule der Demokoratie?
 
 ## Freinets didaktische Konzeption einer Schule als Lösung des Kooperationsproblems
 
 "Es geht darum, unser ganzes Erziehungssystem von der materiellen Basis her umzugestalten." (Freinet-1946 S. 99)
 Diese These Freinets scheint zunächst überraschend.
 Für gewöhnlich beginnt man eine solche Revolution mit einem theoretischen Konzept und nicht mit einer Handvoll Lernkarteien in einem umgeräumten Klassenzimmer.
-Vielleicht ist aber gerade dieser, auf den ersten Blick etwas unorthodoxe Blick auf die Pädagogik notwendig, um die Grundfrage zwischen persönlicher Autonomie und inherenter Gleichheit zu beantworten?
+Vielleicht ist aber gerade dieser, auf den ersten Blick etwas unorthodoxe Blick auf die Pädagogik notwendig, um die Grundfrage zwischen persönlicher Autonomie und inhärenter Gleichheit zu beantworten?
 
 Für Freinet ist es notwendig, zuerst gute und funktionstüchtige Werkzeuge zu haben, da ohne diese eine erfolgreiche Anwendung seiner reformpädagogischen Ideen nicht möglich wäre.
 Wenn der Lehrer nicht auf *ausgewähltes Material* zurückgreifen könnte, wären die Durchführung bestimmter Experimente gefährlich und "die Schüler würden infolge ihres technischen Unvermögens entmutigt" (Freinet-1946, S. 98).
@@ -26,10 +26,9 @@ zwar erkennt Freinet an, "dass es doch meistens nicht in ihrer Macht steht zu ei
 Vielmehr gibt er "behutsam einige Hinweise" (ebd. S. 103).
 Diese Lehrerrolle räumt dem Kind einen großen Rahmen der Selbstbestimmung ein.
 Freinet ist der Überzeugung, dass "zu einer Arbeit gezwungen zu werden [...] lähmt" (Freinet-1964 S. 495).
-Dies führt dazu, dass die **kindliche Partizipation** ein entscheidender Teil von Freinets diaktischer Konzeption ist und zeigt darüber hinaus das Freinet auf persönliche Autonomie einen sehr hohen Wert legt.
+Dies führt dazu, dass die **kindliche Partizipation** ein entscheidender Teil von Freinets didaktischer Konzeption ist und zeigt darüber hinaus, dass Freinet auf persönliche Autonomie einen sehr hohen Wert legt.
 Wenn Freinet schreibt, "dass zwar der Einzelne in Funktion der Gemeinschaft arbeitet, dass aber die Gemeinschaft Einzel-, Partner- und Gruppenleistungen unbedingt anzuerkennen hat" (Freinet-1946 S. 87) wird sein Verhältnis zu inherenter Gleichheit deutlich:
 Diese ist durchaus ein Teil seiner päagogischen Vorstellungen, aber sieht er es als viel entscheidender an, dass innerhalb einer solchen Gruppe gleichwertiger Menschen die persönliche Autonomie gewahrt bleibt.
-
 
 Darüber hinaus sieht Freinet auch keine Notwendigkeit eines verallgemeinernden Lehrplanes.
 Er ist sich sicher, "Was das Kind nicht heute lernt, nicht in dieser Woche, ja selbst nicht in diesem Jahre lernt, dass wird es sich später aneignen" (Freinet-1946 S. 105).
@@ -43,8 +42,9 @@ Freinet unterscheidet hierbei zwischen Interessenkomplexen und Interessenzentren
 Die **Interessenkomplexe (Complexe d'intérêts)** gehen vom Schüler bzw. von der Schülerin aus, d.h. er/sie hat gewisse Interessen, welche er/sie erarbeiten möchte.
 Ausgehend von diesen Interessenkomplexen strukturiert sich die gesamte pädagogische Arbeit.
 Für Freinet muss zu allererst der Schüler sein Interesse für einen bestimmten bereich zeigen, wovon anschließend der Lehrer behilflich sein kann, dass Wissen zu ordnen.
-Freinet schreibt, der Lehrer muss den Schülern und Schülerinnen "bei der manuellen, künstlerischen und geistigen Verwirklichung ihrer vorherrschenden Möglichkeiten" (ebd. S.90) helfen.
-Er nennt dies Hilfe bei der Ordung, die **Interessenzentren (Centres d'intérêts) der Lehrers**.
+<!-- TODO: VK Dopplungen mit den Eigeninteressen vermeiden -->
+Freinet schreibt, der Lehrer muss den Kindern "bei der manuellen, künstlerischen und geistigen Verwirklichung ihrer vorherrschenden Möglichkeiten" (ebd. S.90) helfen.
+Er nennt dies Hilfe bei der Ordnung, die **Interessenzentren (Centres d'intérêts) der Lehrers**.
 Freinet spricht daher von der "Überlegenheit des Interessenkomplexes [...] gegenüber den Interessenzentren" (ebd. S.89).
 Gerade diese Überlegenheit der Interessenkomplexe macht deutlich, dass persönliche Autonomie der Grundpfeiler der Freinetschule ist.
 Schließlich hat jedes Kind seine eigenen individuellen Interessenkomplexe, welche auch individuell betrachtet werden sollen.
