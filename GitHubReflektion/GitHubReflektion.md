@@ -22,8 +22,7 @@ Lässt sich unsere Arbeit auf GitHub trotzdem mit seinen reformpädagogischen Id
 Würden wir alle das Gleiche bearbeiten, entsteht für viele der DSA-Teilnehmer große Frustration.
 Für die einen geht es viel zu langsam, für die anderen viel zu schnell voran.
 >"Arbeit in der Gruppe [aber] bedeutet nicht zwangsläufig, daß jeder die gleiche Arbeit verrichtet. Der Einzelne muß dabei im Gegenteil ein Maximum von seiner Persönlichkeit bewahren, aber im Dienst der Gemeinschaft stehen." (S. ebd. 510)
-<!-- TODO: VK Bessere Anbindung oben -->
-Diese Problematik kann GitHub lösen.
+Dieses Problem löst Github aber so simpel wie genial.
 Jeder arbeitet dadurch unabhängig und autonom in seiner Geschwindigkeit an selbstgewählten Themen (vgl. S. 495 Wichtigkeit des Selberwählens aus gegebenen Alternativen).
 -Zugleich arbeiten wir kooperativ zusammen, denn durch die gegenseitige Kontrolle wird das Ergebnis besser, als es in Einzelarbeit wäre.
 Wir stellen uns auch in den Dienst der Gemeinschaft, wobei diese unsere autonomie Arbeit respektiert.
