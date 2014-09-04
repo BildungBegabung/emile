@@ -1,7 +1,7 @@
 # Prolog: Rousseau
 
 Wie kann man Sozialwissenschaften und Pädagogik zusammendenken?
-Wie persönliche Autonomie und inhärente Freiheit verbinden?
+Wie persönliche Autonomie und inhärente Gleichheit verbinden?
 Viele der Fragen, mit denen sich unserer Kurs beschäftigt, stellte sich Rousseau bereits im 18. Jahrhundert.
 Auch wenn uns die Antworten, die er im Contrat Sociale und Émile gibt, nicht unbedingt befriedigen können, so helfen sie doch zu präzesieren, wovon unser Kurs und dieser Text handeln.
 
@@ -10,25 +10,20 @@ Auch wenn uns die Antworten, die er im Contrat Sociale und Émile gibt, nicht un
 
 Rousseaus Gesellschaftsverständnis baut hierbei stark auf dem Menschenbild auf, das er in seinem Erziehungsroman Émile entwickelt:
 Noch vor der französischen Revolution oder der Unabhängigkeitserklärung der Vereinigten Staaten stellt er, Bürger eines absolutistischen Feudalsystems, die These auf, jeder Mensch sei frei, persönlich autonom und inhärent gleich.
-<!-- MH TODO: hier wäre doch das Original-Zitat schön, oder? Der mensch liegt ... oder als Losung ganz oben? (natürlich nicht die blöde Variante mit "chain stores", und  auf deutsch findet man bestimmt im internet)-->
-Um diese Eigenschaften nicht zu zerstören, muss der Mensch natürlich erzogen werden.
-<!-- MH TODO: hier fehlt erstmal noch der Urzustand glaube ich; von *natur* aus ist der Mensch ja frei und gleich... -->
-Als Beispiel, wie das aussehen soll, legt Rousseau die Erziehung seines fiktiven Zöglings Émile dar.
+Er schreibt: "Der Mensch wird frei geboren, und überall ist er in Banden." (Rousseau-1762, Contrat Social, S. 1)
+Doch wenn der Mensch nicht natürlich erzogen wird, werden diese Grundeigenschaften überdeckt.
+Als Beispiel, wie diese natürlich Erziehung aussehen soll, legt Rousseau die Erziehung seines fiktiven Zöglings Émile dar.
 
 In der Kindheit wird der Junge abgeschottet von der Gesellschaft negativ erzogen.
 Das heißt, das Kind lernt nichts über Moral, Religion, Ethik, ..., sondern es wird vor "Laster[n] und [...] Irrtümern bewahr[t]". (Rousseau-1762, Émile, S. 54)
 Und zwar in einer Art extremen Laissez-faire.
-<!-- MH TODO: zu legere Frage -->
 Wenn das Kind etwa von ihm benötigte Gegenstände zerstört,
 > "[b]eeilt euch nicht, ihm andere zu geben; laßt es empfinden, wie unangenehm es ist, sie nicht zu haben." (ebd., S. 54)
-<!-- MH TODO: tolle Zitatarbeit! -->
 
 Bis zum 12. Lebensjahr soll das Kind so einfach leben, stark und gesund werden.
 Ab dann beginnt man das Kind in Naturkunde zu unterrichten. (Vgl. ebd., S. 55)
 In diesem Unterricht aber hat der Lehrer/Erzieher nur die Aufgabe, Lernsituationen zu schaffen.
 Er soll nichts erklären, sondern den Zögling allein herausfinden und verstehen lassen. (Vgl. ebd., S. 56)
-Laut Rousseau ist das so erworbene Wissen, weil es verstanden
-wird, besser als auswendig gelerntes Wissen, und das Kind wird so darauf vorbereitet, neue Inhalte zu verstehen, sodass es später seine traditionell unterrichteten Gleichaltrigen schnell überflügeln wird.
 
 Erst wenn das Kind erwachsen wird, beginnt man mit der positiven Erziehung:
 Das Kind wird nicht mehr als Zögling, sondern als Freund behandelt und moralisch, gesellschaftlich und religiös unterwiesen.
@@ -43,13 +38,12 @@ Was passiert aber mit demjenigen, der nicht natürlich erzogen wird?
 Seine bürgerliche Erziehung zerteilt ihn in verschiedene Rollen und Identitäten, deren verschiedene Pflichten nicht miteinander zuvereinbaren sind.
 Er ist z.B. als Abgeordneter dem Fraktionszwang unterworfen, für etwa eine Steuer zustimmen, und als Angehöriger eines Berufsstandes muss er dagegen sein.
 Oder er muss als Teilnehmer der KüMu zu einer Probe und als Kursteilnehmer Protokoll schreiben ...
-<!-- MH das ist super, vielleicht noch ein kleines bisschen mehr (gern witzig) erklären, was Du meinst!  -->
-<!-- FIXME: MH der obere Abschnitt ist wirklich sehr, sehr gut – allerdings immer noch ein bisschen lang. Können wir von den Details über Emiles Erziehung etwas löschen? Davon ist nämlich einiges verzichtbar für unsere Zwecke -->
+Dadurch, dass er sich über verschiedene Aufgaben definiert, kann es also leicht zu inneren Rollenkonflikten kommen.
 
 
 ## Le Contrat Social
 
-Während der bürgerlich Erzogene in jeder seiner Rollen Partikularinteressen hat, kann ein natürlicher Mensch, der nur Mensch ist, das allgemeine menschliche Interesse des volonté générale erkennen kann.
+Während der bürgerlich Erzogene also in jeder seiner Rollen Partikularinteressen hat, kann ein natürlicher Mensch, der nur Mensch ist, das allgemeine menschliche Interesse des volonté générale erkennen kann.
 <!-- MH: Super! -->
 Der volonté générale, der Gemeinwille, geht davon aus, dass es ein vom Individuum losgelöstes abstraktes Interesse der Menschheit gibt.
 <!-- MH: Präzis! -->
