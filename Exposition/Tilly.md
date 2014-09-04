@@ -12,7 +12,7 @@ Staaten definiert er hierbei über die Kontrolle der physischen Gewalt in einem 
 Nach Tillys Modell ist die Entwicklung eines Staates immer mit kriegerischen und gewaltvollen Handlungen verbunden.
 Er geht sogar so weit zu behaupten, dass Gewalt notwendig für die Entwicklung eines Staates ist.
 Der Ausgangspunkt für die Entwicklung eines Staates, ist die Monopolisierung von Gewalt und Macht ("governments organize and, wherever possible, monopolize violence" ebd. S.171).
-Eine machtwilligen Person oder Gruppe versucht dabei sich gegen andere machtwillige Parteien als der Stärkste innerhalb eines geografischen Bereiches durchzusetzen (Vgl. ebd. S.173).
+Das Zusammenleben unterliegt einem Sozialdarwinismus, bei dem jeder gegen jeden Krieg führt. Jede Person oder Gruppe versucht dabei, ökonomisch gesehen, sich durch technische oder organisatoriche Innovationen einen Vorteil über die anderen Parteien zu verschaffen, um sich gegen andere Parteien als der Stärkste innerhalb eines geografischen Bereiches durchzusetzen und positive Skalenerträge zu erzielen.  (Vgl. ebd. S.173).
 <!-- TODO MH: Zitat? Wo redet Tilly vom Machtwillen? Das ist nicht der Grund; der Grund ist vielmehr dass die Produktion von Gewalt im von vorneherein gegebene Wettbewerb (krieg von jedem gegen jeden) durch Technologie und org. Innovation positiven Skalenerträgen unterliegt. Deshalb gewinnt der größere. -->
 Dieses Handeln ist entscheidend für die Entwicklung eines Staates, denn sie zeigt, dass ein Staat nicht etwa infolge von friedlicher Zusammenarbeit der Menschen entsteht, sondern immer an Machtkämpfe, Ausbeutung und Krieg gebunden ist ("war making likewise led to state making" ebd. S.183).
 <!-- TODO MH: hier evtl. Darstellung von positiven Skalenerträgen einfügen? -->
