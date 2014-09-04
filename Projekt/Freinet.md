@@ -1,5 +1,7 @@
 # Freinet - Neue Blickwinkel durch die Reformpädagogik auf eine Schule der Demokoratie?
 
+"Am Anfang jeder Eroberung steht nicht das abstrakte Wissen, sondern die Erfahrung, die Übung und die Arbeit" (Célestin Freinet)
+
 ## Freinets didaktische Konzeption einer Schule als Lösung des Kooperationsproblems
 
 "Es geht darum, unser ganzes Erziehungssystem von der materiellen Basis her umzugestalten." (Freinet-1946 S. 99)
