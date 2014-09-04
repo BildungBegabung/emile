@@ -24,9 +24,11 @@ Verhält sich der Machthaber als *legitimate protector* (legitimer Beschützer),
 Ist der Machthaber ein *racketeer* (Schutzgelderpresser), nutzt er sein Gewaltmonopol aus, indem er sein Volk unter Druck setzt.
 Tilly betont dabei den paradox scheinenden Kontrast: der Staat droht mit Gewalt und schützt gleichzeitig vor ihr.
 
-Wenn sich ein Machthaber wie ein Schutzgelderpresser verhält, also extrem hohe Tribute fordert, trotzdem das Geld nicht zum Wohle des Volkes nutzt sondern sich nur persönlich bereichert, spricht Tilly von Despotie.
-<!-- FIXME SF: müssen die Tribute extrem hoch sein? -->
+Wenn sich ein Machthaber wie ein Schutzgelderpresser verhält, also (hohe) Tribute fordert, trotzdem das Geld nicht zum Wohle des Volkes nutzt sondern sich nur persönlich bereichert, spricht Tilly von Despotie.
 Hätte das Volk aber als solches die Möglichkeit, Steuern zu regulieren und über ihre Verwendung zu entscheiden, läge eine Demokratie vor (ebd. S.176 18ff. und 24f).
+Krieg macht es dem Machthaber möglich, seine Macht nach außen zu expandieren und legitimiert innerhalb seines Einflussbereiches das Eintreiben von Steuern. Das Eintreiben von Steuern  wiederum macht es dem Machthaber möglich, Krieg nach außen zu führen. Durch diese wechselseitige Beziehung wird die Wirtschaft, besonders die Gewaltproduktion, angekurbelt.
+Das intensiviert den Kreislauf zusätzlich.
+
 <!-- TODO MH: der Kreislauf der in Tilly dargestellt wird ist hier noch etwas durcheinander; Wirtschaftswachstum lassen wir mal raus. Wichtiger wäre: Extraktion (Besteuerung) erlaubt (nach außen: Krieg) und erfordert (nach innen: Eintreibung der Steuern) Mittel der Gewaltproduktion. -->
 <!-- FIXME: brauchen wir den folgenden Teil überhaupt? Ist er wirklich wichtig? -->
 Händler können jedoch auch von diesem System profitieren:
