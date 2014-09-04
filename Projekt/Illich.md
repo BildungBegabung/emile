@@ -46,9 +46,8 @@ Durch die so entstandene Auswahlmöglichkeit zwischen verschiedensten Lerninhalt
 Damit sich dem Lernenden diese Wahlmöglichkeit eröffnet, benötigt er nach Illich Zugang zu den vier oben beschriebenen "Ressourcen". Der Pädagoge Dietrich Benner geht ebenfalls von gewissen Umständen, insbesondere Bezugspersonen, aus, die dem Zögling erst selbstbestimmtes Lernen ermöglichen.
 Allerdings "muss Erziehung stets dort an ihr Ende gekommen sein, wo pädagogische Fremdaufforderung zur Selbsttätigkeit in Selbstaufforderung übergehen kann."
 So könnte Benners Begriff der Bildsamkeit Illichs Kritik an einem einheitlichen Schulsystem untermauern, welche die Aufforderung zur Selbsttätigkeit auch ohne Bedarf forführt.
-Dennoch hält Benner den *Pädagogen* und die *Aufforderung* zur Selbsttätigkeit für notwendig; Illich wiederspräche dem. Aber hier wird auch ein Defizit in Illichs Schreiben deutlich, da er sich nur mit dem gesunden Individuum auseinandersetzt.
-
-
+Dennoch hält Benner den *Pädagogen* und die *Aufforderung* zur Selbsttätigkeit für notwendig; Illich wiederspräche dem.
+Aber hier wird auch ein Defizit in Illichs Schreiben deutlich, da er sich nur mit dem gesunden Individuum auseinandersetzt.
 
 Obwohl auch die Gruppierung von Gleichaltrigen nach Illich abgeschafft werden soll, findet sein Lernen häufig in sozialen Kontexten statt
 Ein Beispiel dafür sind seine "Fertigkeitsbörsen".
