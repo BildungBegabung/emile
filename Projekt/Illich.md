@@ -1,8 +1,9 @@
 In seiner ersten umfangreicheichen, gesellschaftkritischen Schrift "Deschooling Society"(1971) hinterfragt Ivan Illich die Stellung und Aufgabenfelder der Schule.
-Er stellt sich nicht gegen deren inhaltliche und pädagogische Konzeption, beschäftigt sich nicht mit idealen Methodiken;
-vielmehr kritisiert Illich eine Institution, welche uns glauben lassen soll, wir könnten Wertevorstellungen wie Bildung, eine Eigenschaft des Menschen, bestimmen, analysieren und schließlich messen.
+Illich eröffnet neue Perpektiven auf die zentrale Frage unseres Kurses nach Formen von Schule und menschlichem Zusammemleben, da er sich nicht, wie andere Autoren, mit einer Neuausrichtung der Pädagogik im Rahmen bestehender schulischer Verhältnisse, beschäftigt.
+Er kritisiert vielmehr grundsätzlich die Institution, welche uns glauben lassen soll, wir könnten Wertevorstellungen wie Bildung, eine Eigenschaft des Menschen, bestimmen, analysieren und schließlich messen.
 Illich begreift die Schule als ein Paradigma für die Natur von lebensbestimmenden Institutionen, fordert deren Abschaffung und plädiert für eine Gesellschaft, die sich für freie, und nicht durch Pflichten wie Berufe und Schulanwesenheit provozierte, zwischenmenschliche Interaktion ausspricht.
 
+#Kritik an der Institution Schule
 
 >"Many students, especially those who are poor, intuitively know what the schools do for them.
 They school them to confuse process and substance." (Illich S. 3)
