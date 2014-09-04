@@ -1,4 +1,4 @@
-## Symbolischer Interaktionismus: Mead
+## "Symbolischer Interaktionismus"
 
 Mead beschäftigte sich Anfang des 20. Jahrhunderts damit wie Menschen interagieren und kooperieren.
 Er nennt seine Theorie den "Symbolischen Interaktionismus", also die Kommunikation zwischen Menschengruppen.

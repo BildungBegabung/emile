@@ -1,5 +1,4 @@
-
-# Spieltheorie
+# Was ist deine Strategie?
 
 Die **Spieltheorie** (siehe: Kleinberg, "Networks,Crowds and Markets", S.153-274) modelliert menschliche Interaktion in Form von Spielen, dessen *Spielausgänge* von den gewählten *Spielstrategien* abhängen und in Form einer Auszahlungsmatrix analysiert und veranschaulicht werden können.
 

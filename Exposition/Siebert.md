@@ -1,6 +1,6 @@
 # Der völlig autonome Mensch
-### Konstruktivismus - Lernen als Konstruktion von Wirklichkeit
 
+### Konstruktivismus - Lernen als Konstruktion von Wirklichkeit
 
 > „Der Mensch hat keinen Zugriff auf die objektive Realität“
 > Heinz von Foester
