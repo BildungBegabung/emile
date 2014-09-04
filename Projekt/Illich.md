@@ -118,7 +118,24 @@ Das mag möglicherweise Grund für ein sehr unbeschwertes Bild einer *freien* Or
 Was uns aber zu denken geben sollte, ist dass Rousseau, damals kritisch beäugt, heute im Unterricht als Mitbegründer unserer Gesellschaft gesehen wird, während Illich heute einfach als realitätsfern kategorisiert wird.
 Auch wenn sie beides Träumer sind, fasziniert uns die Vorstellung eines *reinen* Menschen, frei von jeglicher Manipulation, und vielleicht lohnt es sich ja, an diesem Ideal festzuhalten, auch wenn die Verwirklichung eine Unmöglichkeit darstellt.
 
-Illichs Lebenswerk lässt sich 
+Illichs Lebenswerk lässt sich postmodern interpretieren und zugleich religiös begründen. Während seines Studiums im Vatikan wurde er geprägt von den Denken des nouvelle theologism, die den Weg für Vatikan II ebneten und nach einer Modernisierung der Kirche strebten.
+Illich ging noch einen Schritt weiter, in dem er moderne "Gewissheiten" hinterfragt und die Korruption verkündete.
+Sein Denken lässt sich unmöglich erklären ohne Berücksichtigung seines religiösen Hintergrunds.
+Er begriff postmodernes Denken als eine Möglichkeit auf vormoderne Verhältniss zurückzukehren.
+Sein Ziel war immer die freie Beziehung zu Gott und somit eine Befreiung des Evangeliums von jeglicher Institutionalisierung durch die moderne Gesellschaft.
+Die Schule perviert, in gleichem Maße wie die katholische Kirche, diese freie Interpretation, die sich in ungezwungener zwischenmenschicher Interaktion ausdrückt.
+>"If people are seriously to think about deschooling their life, and not just escape from the
+corrosive effects of compulsory schooling, they could do no better than to develop the habit of
+setting a mental question mark beside all discourse on young people’s ‘‘educational needs’’ or
+‘‘learning needs,’’ or about their need for a ‘‘preparation for life.’’
+I would like them to reflect
+on the historicity of these very ideas. Such reflection would take the new crop of deschoolers
+a step further from where the younger and somewhat na¨ıve Ivan was situated, back when talk
+of ‘‘deschooling’’ was born."
+
+Er distanziert sich in späteren Jahren wieder von seinen Reformvorschlägen, da er nach eigener Aussage noch der Fehleinschätzung unterlag, Lernen sei ein notwendiger Prozess in der menschlichen Entwicklung.
+Illich sieht sich mit zunehmenden Alter immer weniger gewilt, konkrete Reformvorschläge zu machen und wirft die Arme hoch:
+>‘‘I hope nobody takes what I said for answers’’
 
 <!--zum erinnern: education for all means education by all
 p.11 rechts-->
@@ -144,10 +161,3 @@ Rousseau auch nicht.
  - Inhaltlich für *Projektarbeit*,
  - keine Bestimmung des Inhalts durch andere (Bsp: unser Kurs statt Programm schreiben);
  - problematisch: kein direkter Kontakt untereinander, evtl. weniger Interaktion durch Effizienz-->
->"If people are seriously to think about deschooling their life, and not just escape from the
-corrosive effects of compulsory schooling, they could do no better than to develop the habit of
-setting a mental question mark beside all discourse on young people’s ‘‘educational needs’’ or
-‘‘learning needs,’’ or about their need for a ‘‘preparation for life.’’ I would like them to reflect
-on the historicity of these very ideas. Such reflection would take the new crop of deschoolers
-a step further from where the younger and somewhat na¨ıve Ivan was situated, back when talk
-of ‘‘deschooling’’ was born.""
