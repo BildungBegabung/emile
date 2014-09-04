@@ -20,27 +20,26 @@ Dieser sagt nämlich aus, dass wir eine Ethik inne haben, die durch den Horizont
 Wir sollen auf das Ende unseres Horizonts in 60 Jahren schauen, dann unsere Ethik dahin ausrichten, aber davon ausgehen, dass wir ihn ändern müssen.
 <!-- FIXME MH und MM: wessen Zitat ist das denn? Quelle? -->
 <!-- TODO: MH finden wir hier vielleicht insgesamt eine schöne Dewey-Losung oder was anderes, was die pragmatische Ethik gut auf den Punkt bringt? -->
-Rousseau geht zwar von ähnlichen Annahmen aus, allerdings gibt es einen großen Unterschied:
+
+### Deweys gesellschaftliches Ideal
+
 Dewey sieht den Fortschritt vom Naturzustand zur Demokratie als einen Suchprozess nach dem Ideal.
 Fortschritt kann weiterhin auch durch Angst bewirkt werden.
 Zum einen sieht Dewey Angst als Druckmittel der staatlichen Gewalt, zum anderen aber auch als Motivation, Aufgaben besser auszuführen.
 Daraus ist abzuleiten, dass Angst tendenziell nicht als schlecht angesehen wird.
-Sie wird allerdings häufig auf falsche Art und Weise institutionalisiert und verliert somit seinen möglicherweise positiven Effekt.
+Sie wird allerdings häufig auf falsche Art und Weise institutionalisiert und verliert somit ihren möglicherweise positiven Effekt.
 Im Sinne der Motivation kann mit Angst allerdings kann ein Problem auftreten, wenn z.B. die Arbeiter nicht wissen warum sie etwas machen, sondern nur in Erwartung von Belohnung bzw. Bestrafung agieren.
-Findet ein Mitarbeiter keine Form von Selbstverwirklichung in seinem Beruf, so findet sich nach Dewey legale Sklaverei.
+Findet eine Mitarbeiterin keine Form von Selbstverwirklichung in ihrem Beruf, so findet sich nach Dewey legale Sklaverei.
 <!-- TODO: MH genau -->
 Wie sich an der Kritik Deweys an Platos Klassengesellschaft erkennen lässt, ist der Individualismus dabei, laut Dewey, wichtig für die Chancengleichheit und den Meinungsaustausch in einer Demokratie, in welcher es die ständige Möglichkeit zur Neuausrichtung und Verbesserung geben muss:
 >"He never got any conception of the indefinite plurality of activities which may characterize an individual [...] ans consequently limited his view to a limited number of *classes*" (S.95) 
 "Hence education would soon reach a static limit in each class, for only diversity makes change and progress" (S.96)
 
-Des Weiteren ist die politische Mitwirkung jedes Einzelnen gewährleistet basierend auf Folgendem:
+Des Weiteren wird idealerweise die politische Mitwirkung jedes Einzelnen gewährleistet.
 Alle müssen gehört werden, denn sie könnten etwas sehen.
-Die Gesellschaft darf also nicht in zwei Klassen geteilt werden, zwischen welchen kein Austausch stattfindet und somit keine neuen Denkanstöße in die jeweilige Klasse eindringen können.
-Die obere Klasse sieht Dewey als die Klasse, welche eher nach Zufallshandlungen lebt, wohingegen die untere Klasse routiniert lebt.
-Dewey kritisiert diese Art der Gesellschaft, da der Mensch in der unteren Klasse als Maschine aufgrund der routinierten Handlungen gesehen wird.
+Die Gesellschaft darf also nicht in Klassen geteilt werden, zwischen welchen kein Austausch stattfindet und die somit verhindern, dass freie Interatkion zwischen ihren Mitgliedern stattfinden kann.
 
-Im Gegensatz zu diesen Annahmen präferiert Rousseau den Naturzustand im Vergleich mit der Demokratie.
-
+Hier findet sich ein deutlicher Unterschied zu Rousseau, der in keinster Weise Fortschritt als Ideal betrachtet, sondern einen Zustand, nämlich den Naturzustand des Menschen.
 
 ### Deweys Erziehungsideal
 
@@ -48,5 +47,5 @@ Dewey geht davon aus, dass das Subjekt durch die Erziehung und die Gesellschaft 
 Des Weiteren ist "die Demokratie [...] mehr als eine Regierungsform, sie ist in erster Linie eine Form des Zusammenlebens, der gemeinsamen und miteinander geteilten Erfahrung" (S.121).
 Die Demokratie ist für Dewey nämlich wichtig für seinen zentralen Erziehungsbegriff.
 Diese Demokratie muss allerdings auf einer dynamischen Gesellschaft basieren und als Aufgabe, Projekt oder auch Ziel von allen gesehen weden.
-Davon ausgehend lässt sich aus Deweys pädagogischen Theorien schlussfolgern, dass er gar keinen Konflikt zwischen persönlicher Autonomie und inherenter Gleichwertigkeit sieht.
+Davon ausgehend lässt sich aus Deweys pädagogischen Theorien schlussfolgern, dass er gar keinen Konflikt zwischen persönlicher Autonomie und inhärenter Gleichwertigkeit sieht.
 Beides ist für eine demokratische Erziehung nach Dewey notwendig, und ergänzt sich (vgl. ebd. S. 121).
