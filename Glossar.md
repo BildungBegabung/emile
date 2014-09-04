@@ -74,6 +74,8 @@ Titel einer staatstheoretischen Schrift des Engländers Thomas Hobbes aus dem Ja
 Eines der bedeutensten Werke der westlichen politischen Philosophie und eine der theoretischen Grundlagen neuzeitlicher Politikwissenschaft.
 ### Linguistic utterances
 Handlungen mit dem Ziel, Verständigung zwischen mind. zwei Personen zu erreichen
+### Menschliches Laster:
+Ist gesellschaftlichen Ursprungs und wird durch die natürliche Erziehung vorgebeugt, da die ersten Regungen der Kinder immer gut sind.
 ### Monopolist:
 Besitzer des absoluten Rechts oder der absoluten Kontrolle über die Produktion.
 ### Moral:
