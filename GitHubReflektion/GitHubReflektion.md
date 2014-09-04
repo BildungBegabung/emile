@@ -27,27 +27,25 @@ Für manche geht es viel zu langsam, für andere viel zu schnell voran.
 Dieses Problem löst Github durch allumfassende Berechtigungen für jeden TN so simpel wie genial.
 Jeder arbeitet dadurch unabhängig und autonom in seiner Geschwindigkeit an selbstgewählten Themen (vgl. S. 495 Wichtigkeit des Selberwählens aus gegebenen Alternativen).
 Zugleich arbeiten wir kooperativ zusammen, denn durch die zeitgleiche, gegenseitige Kontrolle  wird das Ergebnis besser, als es in Einzelarbeit sein könnte.
-Wir stellen uns damit in den Dienst der Gemeinschaft des Kurses, wobei diese unsere autonome Arbeit respektiert da jeder das Recht besitzt Zeilen zu verbessern oder einfach einen ganzen Absatz zu löschen.
-<!-- TODO Fb: Satz hier drüber neu formulieren -->
-Es ist allerdings problematisch, dass durch die Vernetzung, die GitHub bietet, eine direkt emotionale Verbindung verloren geht.
-<!-- TODO FB: WArum ist das auf Github so und nicht in Facebook - wie wärs mit einem teilweise ? ;9 -->
+Wir arbeiten damit im Sinne des Kollektivs im Kurs, wobei aber trotzdem unsere autonome Arbeit nicht eingeschränkt wird, da jeder das Recht besitzt Zeilen anderer zu verbessern oder einfach einen ganzen Absatz zu löschen.
+Es besteht dabei allerdings die Gefahr, dass durch die Vernetzung, die GitHub bietet, eine direkte emotionale Verbindung verloren geht, gerade weil GitHub anders als soziale Netzwerke eine Basis für gemeinsames Arbeiten darstellt, sodass ein Großteil der dokubezogenen Kommunikation hierüber einfacher zu leiten ist.
 Für Freinet ist eine Gruppendynamik ähnlich der einer Familie sehr wichtig.
 Diese ist nicht mehr gegeben, sobald vernetztes Lernen beginnt, da es eine geographische Nähe entbehrlich macht.
-Darüberhinaus bietet das Internet als Plattform für GitHub dem Edukator praktische Unfehlbarkeit.
-<!-- TODO FB: Wie funktioniert das? -->
+Darüberhinaus bietet das Internet als Plattform für GitHub dem Edukator praktische Unfehlbarkeit, da dieser praktisch uneingeschränkte Freiheiten mit der Arbeit der anderen hat und fast alles bearbeiten oder löschen kann.
+
 Jedoch ist gerade die Fehlbarkeit des Lehrers entscheidend, denn hier kann er ehrlich zu seinen Schülern sein (vgl. Freinet-1946 S. 110).
 
 Trotz alle dem ist es fraglich ob eine vernetzte Arbeit mit Freinets Reformpädagogik verglichen werden kann, schließlich konnte Freinet in der Mitte des 20.Jahrhunderts die Entwicklung des Internets nicht vorhersagen.
 
-Als Fazit lässt sich also sagen, dass Freinet unserem System wahrscheinlich nicht abgeneigt wäre. Aber seine contra-sozialen Folgen stark kritisieren würde.
+Als Fazit lässt sich also sagen, dass Freinet unserem System wahrscheinlich nicht abgeneigt wäre, aber seine contra-sozialen Folgen stark kritisieren würde.
 
 
 ## Was Illich zu unserer Zusammenarbeit auf GitHub sagen würde
 
 Würde Illich unsere Verwendung von Github zum gemeinsamen Arbeiten an dieser Dokumentation und zur Vorbereitung unserers Kurses befürworten?
 
-Illichs Beschreibung der "learning webs" decken sich grundsätzlich mit unserer Arbeit auf Github, angenommen, mehr Leute würden es nutzen und wir alle hätten uns ganz frei dazu entschieden, genau an diesem Thema teilzunehmen, und sind jederzeit in der Lage unsere Arbeit zu verweigern - wenn wir wollten.
-<!-- TODO: VK auch hier ein packenderer Einstieg? Schachtelsatz vermeiden  -->
+Illichs Beschreibung der "learning webs" decken sich grundsätzlich mit unserer Arbeit auf Github. Viele Methoden und Grundsätze von Illichs Ansätzen sind hier wiederzufinden, wenn auch leicht eingeschränkt und im kleinen Rahmen unseres Kurses.
+
 Angenommen PCs mit mindestens Windows7 würden als Lernobjekt nach Illichs Definition gelten, hätte jeder Zugang zu diesem Programm.
 Zudem würde er die Einarbeitung in die Technik als sehr positiv betrachten, da es uns dazu befähigt, neue Sachverhalte zu verstehen, und uns dazu bringt, uns mit neuen Themengebieten auseinanderzusetzen.
 Wichtig ist dabei, dass wir dieses Wissen als bedeutend für uns wahrnehmen, da es einen direkten Wirklichkeitsbezug hat.
@@ -55,14 +53,11 @@ Illich würde auf jeden Fall der Issue-Organisation zustimmen, in welcher jeder 
 Teilnehmende, die zusammenarbeiten wollen, können sich darüber problemlos finden.
 Wir arbeiten mit Gleichaltrigen, bzw. von ähnlichen Interessen Getriebenen, zusammen und können darauf vertrauen, dass wir Einfluss auf das Endergebnis haben.
 Wir sind dadurch in der Lage, unsere eigenen Meinungen so zu äußern, dass sie auch wahrgenommen werden.
-Dabei haben wir aber auch zu jedem Zeitpunkt die Möglichkeit, professionelle Hilfe zu bekommen, wobei diese uns nicht das eigentliche Wissen vermitteln, sondern ihnen lediglich eine beratende Stellung zukommt und uns vor allem in organisatorischen, bzw. technischen Fragen weiterhelfen.
+Dabei haben wir aber auch zu jedem Zeitpunkt die Möglichkeit, professionelle Hilfe zu bekommen, wobei diese uns nicht das eigentliche Wissen vermitteln, sondern ihnen lediglich eine beratende Stellung zukommt und uns vor allem in organisatorischen, bzw. technischen Fragen weiterhelfen ("He may invite the learner to participate in his own research"; Illich 1971, S. 43)
 Als erster Kritikpunkt fällt natürlich die Vorauswahl der Teilnehmenden ins Auge.
-Jedoch stellen auch unter Negierung dieser Tatsache weitere Probleme in den Weg:
-<!-- FIXME: VK Formulierung wirkt etwas hochgestochen -->
-Schränkte man unser Projekt allein auf die Ausarbeitung auf Github ein, würde sich unser Kontakt ebenfalls wieder auf eine rein effizienzorientierte Ebene reduzieren, vor der Illich warnt
+Jedoch stellen sich abgesehen von dieser Tatsache weitere Probleme in den Weg:
+Schränkte man unser Projekt allein auf die Ausarbeitung auf Github ein, würde sich unser Kontakt ebenfalls wieder auf eine rein effizienzorientierte Ebene reduzieren ("to reinforce the competitive nature of schools"; Illich 1971, S. 35 ), vor der Illich warnt.
 Die Gefahr, dass die direkte Kommunikation hinter 16 aufgeklappten Laptopbildschirmen zu kurz kommt, ist nicht zu unterschätzen.
-
-<!-- TODO: VK Guter Abschnitt, fehlen nur 1-2 knackige Zitate aus Illich  -->
 
 ## Was Hayek zu unserer Zusammenarbeit auf GitHub sagen würde
 
