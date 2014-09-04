@@ -1,9 +1,3 @@
-### 1. Allgemeines
-
-#### Illichs Kritik an Schule
-(#114, #116 und aus Präsentation “Institutionalisierung-Problem”)
-
-
 In seiner ersten umfangreicheichen, gesellschaftkritischen Schrift "Deschooling Society"(1971) hinterfragt Ivan Illich die Stellung und Aufgabenfelder der Schule.
 Er stellt sich nicht gegen deren inhaltliche und pädagogische Konzeption, beschäftigt sich nicht mit idealen Methodiken;
 vielmehr kritisiert Illich eine Institution, welche uns glauben lassen soll, wir könnten Wertevorstellungen wie Bildung, eine Eigenschaft des Menschen, bestimmen, analysieren und schließlich messen.
@@ -17,9 +11,6 @@ Wir verwechseln Prozess und Wert, und werden so zu der Annahme verleitet, Lehren
 Diese Annahme lässt sich ebenso auf das Gesundheitssystem anwenden, welchem die Annahme vorausgeht, medizinische Versorgung lasse sich mit Bekämpfung von Krankheiten gleichsetzen, oder auf Polizeipräsenz, welcher Sicherheit automatisch folgen sollte.
 Es mag möglich sein, dass Polizei zur Sicherheit eines Wohnviertels beitragen kann, aber der Umkehrschluss, dass Sicherheit nur durch Polizeipräsenz erreicht werden kann, bzw. dass Polizeipräsenz *unausweichlich* zu mehr Sicherheit führt, verleitet zu falschen Konsequenzen.
 Aus diesem Zusammenhang würde sich die Möglichkeit ergeben, die Werte, d.h. Sicherheit, Lernerfolg, etc., zu messen; und zwar am Umfang des Prozesses (Polizeipräsenz, Schulanwesenheit).
-<!-- TODO: Ich verstehe, was ihr meint, aber könntet ihr diesen Zusammenhang nochmal klarer formulieren?
-Liegt das Problem nicht darin, dass von den Mitteln auf die Folge (der Wert) geschlossen wird?
-Schulen, Polizeipräsenz und das Gesundheitswesen sind nach Illich hinreichende, aber nicht notwendige Bedingungen für Lernen, Sicherheit und Gesundheit. -->
 Den Mythos der messbaren Werte beziehen wir schließlich auch auf unsere "imaginations, and, indeed, man himself" (ebd. S. 19)
 >„In a schooled world the road to happiness is paved with a consumer's index“ (S. 19).
 
@@ -52,15 +43,16 @@ Illichs Ziele für die "educational revolution" sind:
 
 Ein weiteres, wichtiges Streben Illichs ist die Reduzierung der Komplexität unserer Umwelt, so dass sie wieder zugänglich für den Alltagsmenschen wird.
 Dazu könnten unter anderem die riesigen Summen an Geld verwendet werden, die man durch eine Abschaffung der Schulpflicht einsparen würde.
-So könnten zum Beispiel Firmen subvenzioniert werden, die ihre Autos leichter verständlich konzipieren, so dass der durchschnitts Bürger vefähigt wird, allgemeine Reparationen selbstständig durchzuführen.
+So könnten zum Beispiel Firmen subenzioniert werden, die ihre Autos wieder leichter verständlich konzipieren, so dass der durchschnitts Bürger in der Lage ist, allgemeine Reparationen selbstständig durchzuführen.
 Auf diese Weise würden Menschen von alleine dazu motiviert werden zu lernen.
+Dies würde den Lernprozess fördern sowie unverbindliche, nachbarschafliche Interaktion.
 
 
  <!-- mead (Interaktion notwendig)-->
 
 <!-- TODO: Vielleicht auch SoWi-Texte? Mal Max ansprechen -->
 
-Durch sein Konzept eines selbstbestimmten und selbstorganisierten Lernens können viele der Anforderungen, welche die in der Exposition behandelten Texte an den Prozess des Lernens und an das menschliche Zusammenleben stellen, erfüllt werden und Widersprüche gelöst werden.
+Durch dieses Konzept eines selbstbestimmten und selbstorganisierten Lernens können viele der Anforderungen, welche die in der Exposition behandelten Texte an den Prozess des Lernens (?und an das menschliche Zusammenleben?) stellen, erfüllt werden
 So müssen nach der Theorie des Konstruktivismus Lerninhalte "viabel", das heißt für das lernende Individuum funktional und bedeutend, sein.
 Da "das psychische System entscheidet, was es verarbeiten kann und will" (Siebert, S.18), ergibt sich die Forderung nach einem selbstbestimmten Lernen.
 Das Ziel aller Vorschläge Illichs ist es, den Lernenden "Zugang zu vorhandenen Möglichkeiten [zu] gewähren" (Illich, S.84) statt sie ihnen durch einen Lehrplan vorzuschreiben, welchen Wissensstand sie in welcher Zeit zu erreichen haben.
@@ -89,7 +81,7 @@ Illich begreift jedoch den Menschen an sich als Ziel, während Dewey seine pragm
 Illichs Wirken und Denken deckt sich in großen Teilen mit dem von Rousseau.
 Beide begreifen das jeweils gegenwärtige Gesellschaftssystem als eine Form der Unterdrückung des eigentlichen Menschseins.
 >‘‘‘I’ precisely because of you, by allowing me to love you, give me the possibility to be co-relative to you, to be dysymmetrically proportionate to you. I see, therefore, in love, hope, and charity the crowning of the proportional nature
-of creation in the full, old sense of that term’’ (https://www.youtube.com/watch?v=vQLWAafp020).
+of creation in the full, old sense of that term’’ (https://www.youtube.com/watch?v=vQLWAafp020)
 
 Beide romantisieren den vormodernen Menschen.
 Beide haben den Menschen an sich als Ziel und sehen immodernen Staat eine Pervertierung seiner Fähigkeiten.
@@ -104,12 +96,14 @@ Auch wenn sie beides Träumer sind, fasziniert uns die Vorstellung eines *reinen
 
 >"The child grows up in a world, surrounded by people who serve as models for skills and values (...), peers (...) to coorporate and understand, and if he is lucky, he is exposed to criticism by an experienced elders who really cares."
 <!-- FIXME: Seitenangabe -->
+
 Jedem Menschen, so Illich, sollte der Zugang zu diesen "Ressourcen" gewährleistet sein für eine freie Entfaltung. Dies trifft sich mit Benner, der auch sehr klar die Notwendigkeit einer Bezugs- und erziehenden Persönlichkeit formuliert.
 Nach Benner benötgt der Zögling den Beistand eines Älteren, der ihn in seinem Reifungsprozess fördert bis dieser in der Lage ist, selbsttätig zu handeln.
 Dieses Ziel kann nur durch permanente Aufforderungen erreicht werden.
 Allerdings darf diese Einwirkung nur stattfinden, solange sie nötig ist:
 >"Im Sinne dieser Dialektik ist pädagogisches Handeln nur dort erlaubt, wo der Zu-Erziehende der Fremdaufforderung zur Selbsttätigkeit bedarf, und muss Erziehung stets don an ihr Ende gekommen sein, wo pädagogische Fremdaufforderung zur Selbsttätigkeit in Selbstaufforderung übergehen kann."
 <!-- FIXME: Seitenangabe -->
+
 So überschreitet die Schule die Grenzen der Pädagogik, da sie den Heranwachsenden auch noch dann versucht zu erziehen, wenn er schon in der Lage ist, selbsttätig zu handeln.
 Indem Benner keine weiteren Angaben dazu macht, ab welchem Alter dies in der Regel zutrifft, macht er deutlich, dass eine allgemeine Einstufung von Kindern als unselbstständig, wie sie in der Schule geschieht, nicht angemessen ist, da es einerseits Schüler gibt, die sehr früh unabhängig in ihren Entscheidungen sind, andererseits auch viele Erwachsene, die wieder der Pädagogik bedürfen.
 Genauso beschreibt Illich Kindheit als eine moderne Erfindung und behauptet, einem Kind wurde bis zur Postmoderne moralisches Urteilsvermögen mit 7 Jahren zugeschrieben.
@@ -127,13 +121,9 @@ So entsteht ein Menschenbild, dass von der Gleichwertigkeit Aller ausgeht, währ
 
 
 
-education for all means education by all
-p.11 rechts
+<!--zum erinnern: education for all means education by all
+p.11 rechts-->
 
-
-Verbindung zu Arbeiten mit Github
-(Github als Lernnetzwerk?)
-vorläufige Ideen:
 
 Illichs Beschreibung der learning webs decken sich grundsätzlich mit unserer Arbeit auf Github, angenommen, mehr Leute würden es nutzen und wir alle haben uns ganz frei dazu entschieden, genau an diesem Thema teilzunehmen, und sind jederzeit in der Lage unsere Arbeit zu verweigern - wenn wir wollten.
 
@@ -149,9 +139,9 @@ Schränkte man unser Projekt allein auf die Ausarbeitung auf github ein, würde 
 Illich hat sich nicht mit merge-conflicts auseinandergesetzt, bzw. auch allgemein nicht mit kooperationsproblemen,
 Rousseau auch nicht.
 
-evtl. passendes Zitat, das unseren Arbeitsprozess ganz gut veranschaulicht: (Illich über "Ältere"): "Sie können einen auf die richtigen Fragen hinweisen, die man mit Gleichaltrigen anschneiden soll, und auf die Unzulänglichkeit der Antworten, die man dort findet." (S.86)
+<!--evtl. passendes Zitat, das unseren Arbeitsprozess ganz gut veranschaulicht: (Illich über "Ältere"): "Sie können einen auf die richtigen Fragen hinweisen, die man mit Gleichaltrigen anschneiden soll, und auf die Unzulänglichkeit der Antworten, die man dort findet." (S.86)
 
  - Peer-Aspekt (Kommentare auf Issues ->Diskussion),
  - Inhaltlich für *Projektarbeit*,
  - keine Bestimmung des Inhalts durch andere (Bsp: unser Kurs statt Programm schreiben);
- - problematisch: kein direkter Kontakt untereinander, evtl. weniger Interaktion durch Effizienz
+ - problematisch: kein direkter Kontakt untereinander, evtl. weniger Interaktion durch Effizienz-->
