@@ -43,11 +43,13 @@ Dadurch, dass sie sich über verschiedene Aufgaben definiert, kann es also leich
 
 ## Le Contrat Social
 
-Während der bürgerlich Erzogene also in jeder seiner Rollen Partikularinteressen hat, kann ein natürlicher Mensch, der nur Mensch ist, das allgemeine menschliche Interesse des volonté générale erkennen kann.
-<!-- MH: Super! -->
+Während die bürgerlich Erzogene also in jeder ihrer Rollen Partikularinteressen hat, kann ein natürlicher Mensch, der nur Mensch ist, das allgemeine menschliche Interesse des volonté générale erkennen kann.
 Der volonté générale, der Gemeinwille, geht davon aus, dass es ein vom Individuum losgelöstes abstraktes Interesse der Menschheit gibt.
-<!-- MH: Präzis! -->
-Und nur dieses Interesse kann absolute Freiheit und Gleichheit garantieren.
+Und nur dieses Interesse kann in einem staatlichen System absolute Freiheit und Gleichheit garantieren.
+Im Urzustand der Menschheit hingegen war die Frage der Vereinbarbarkeit von Freiheit und Gleichheit völlig nebensächlich, da es keine institutionelle Kooperation gab.
+Das heißt, dass der Weg der Kooperation durch Traditionen, Gesetze oder anderes vorgeschrieben ist, beziehungsweise wir nicht als natürlich Menschen, sondern z.B. als DSA-Teilnehmerinnen zusammenarbeiten.
+Für Rousseau ist der Urzustand zwar das absolute 
+
 Deswegen muss es die Grundlage und Rechtfertigung jeder staatlichen Gewalt sein.
 
 In einem so gelenkten Staat herrscht Gleichheit, da jedes Individuum und die Gesellschaft im Ganzen das Bestmögliche erhalten (Vgl. Rousseau-1762, Contrat Social, S. 7);
@@ -63,15 +65,12 @@ Damit würde nicht nur der volonté général ungültig, sondern auch der Staat,
 <!-- TODO: MH: Zusammenhang zwischen oben und unten stehendem Absatz verstehe ich nicht; hier geht es doch darum dass die (institutionalisierte) Kooperation einen Staat erforderT (was Rousseau eigentlich nicht so gut findet im Vgl zum Naturzustand) und nun muss also dieser Staat irgendwie an die republikanische Kandarre genommen--->
 
 Eine Instanz, die das Zusammenleben regelt, ist aber für uns absolut notwendig, da wir wechselseitig alle von einander abhängig sind.
-Und **unkontrollierte** Abhängigkeiten führen zur Sklaverei. (Vgl. ebd., S. 3)
 <!-- TODO: MH sehr guter Hinweis; aber die o.g. 3 Absätze oder so können etwas knapper ausfallen, zusammenfassen -->
 
 Diese Abhängigkeiten sind unnatürlich und entstehen durch institutionelle Kooperation.
 <!-- MH: BINGO Das hier ist der springende Punkt; um diesen Punkt herum sollte noch besser organisiert und reduziuert werden -->
-Also wenn der Weg der Kooperation durch Traditionen, Gesetze oder anderes vorgeschrieben ist, beziehungsweise wir nicht als natürlich Menschen, sondern z.B. als DSA-Teilnehmer zusammenarbeiten.
 
-Diese Art der Kooperation gab es in der Frühzeit des Menschen laut Rousseau nicht.
-Der Mensch lebte vollkommen autonom ohne Beziehungen zu Menschen zu haben (somit waren auch alle gleich!), die über die biologische Notwendigkeit hinausgingen. (Vgl. ebd., S. 1)
+
 <!-- FIXME MH: close, but no cigar. 1) Rousseau's urzustand ist ein Gedankenexp., also der sagt nix Positives über die Frühzeit 2) es geht nicht so sehr um vollkommene Autonomie aber vor allem um die Abwesenheit von institutionalisierter/ausdifferenzierter Kooperation (Polizist etc) – DIE ist das Problem! -->
 
 Da dieser Zustand aber nicht wieder zu erreichen ist, schlägt Rousseau den Weg über den volonté générale als Lösung vor.
