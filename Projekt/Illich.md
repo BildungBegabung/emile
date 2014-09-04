@@ -3,7 +3,7 @@ Illich eröffnet neue Perpektiven auf die zentrale Frage unseres Kurses nach For
 Er kritisiert vielmehr grundsätzlich die Institution, welche uns glauben lassen soll, wir könnten Wertevorstellungen wie Bildung, eine Eigenschaft des Menschen, bestimmen, analysieren und schließlich messen.
 Illich begreift die Schule als ein Paradigma für die Natur von lebensbestimmenden Institutionen, fordert deren Abschaffung und plädiert für eine Gesellschaft, die sich für freie, und nicht durch Pflichten wie Berufe und Schulanwesenheit provozierte, zwischenmenschliche Interaktion ausspricht.
 
-#Kritik an der Institution Schule
+#### Kritik an der Institution Schule
 
 >"Many students, especially those who are poor, intuitively know what the schools do for them.
 They school them to confuse process and substance." (Illich S. 3)
@@ -22,13 +22,14 @@ Sobald die Schule uns beigebracht hat, dass Wissensvermittlung zwangsläufig Ler
 Die Schule lehrt: Je mehr Schule, desto mehr Lernerfolg, weshalb wir zur Schule gehen.
 Im Gegensatz dazu schreibt Illich:
 >"Most learning is not the result of instruction: It is rather the result of unhampered participation in a meaningful setting." (p.18)
+Aus dieser Überlegung heraus errichtet er ein neues Konzept des Lernens in einer entschulten Gesellschaft.
 
-##### Illichs Ziele für die "educational revolution" sind:
+##### Lernen ohne Schule
 
 Für Bildung erachtet Illich vier Aspekte als notwendig.
-Jeder Mensch bedarf neben dem Kontakt zu anderen Gleichaltrigen auch Vorbilder, von denen er unbewusst lernen kann (Sprechen, Laufen, etc.), und bei komplexeren Sachverhalten benötigt es professionelle Hilfe sowie den Zugang zu Lernobjekten.
-Hierfür will er Netzwerke erstellen, in denen man Interessen formulieren und so lernorientierte Zusammenarbeit ermöglicht wird.
-In einer dieser Netzwerke bekäme ein Kind, das Guitarre spielen lernen will, einen Zeitraum in dem es mit anderen gleichaltrigen Kindern spielen kann, jemanden, der ihn bei Problemen und Schwierigkeiten unterstützen kann und als ein Art Vorbild funktioniert und als letztes eine Gitarre und alle anderen möglichen Werkzeuge, die dazu führen werden, dass das Kind erfolgreich den Lernprozess bewältigt.
+Jeder Mensch bedarf neben dem Kontakt zu anderen Gleichaltrigen auch Vorbilder, von denen er unbewusst lernen kann (Sprechen, Laufen, etc.), und bei komplexeren Sachverhalten benötigt er professionelle Hilfe sowie den Zugang zu Lernobjekten.
+Hierfür will er Netzwerke erstellen, in denen man Interessen formulieren kann und so lernorientierte Zusammenarbeit ermöglicht wird.
+In einer dieser Netzwerke bekäme ein Kind, das Gitarre spielen lernen will, einen Zeitraum, in dem es mit anderen gleichaltrigen Kindern spielen kann, jemanden, der ihn bei Problemen und Schwierigkeiten unterstützen kann und als ein Art Vorbild funktioniert und als letztes eine Gitarre und alle anderen möglichen Werkzeuge, die dazu führen werden, dass das Kind erfolgreich den Lernprozess bewältigt.
 
 Illichs Ziele für die "educational revolution" sind:
 
@@ -51,6 +52,8 @@ Dies würde den Lernprozess fördern sowie unverbindliche, nachbarschafliche Int
 <!-- mead (Interaktion notwendig) -->
 
 <!-- TODO: Vielleicht auch SoWi-Texte? Mal Max ansprechen -->
+
+#### ...
 
 Durch dieses Konzept eines selbstbestimmten und selbstorganisierten Lernens können viele der Anforderungen, welche die in der Exposition behandelten Texte an den Prozess des Lernens (?und an das menschliche Zusammenleben?) stellen, erfüllt werden
 So müssen nach der Theorie des Konstruktivismus Lerninhalte "viabel", das heißt für das lernende Individuum funktional und bedeutend, sein.
@@ -78,6 +81,22 @@ Dewey lässt sich in diesem Fall vielleicht als eine Art Vordenker für Illich s
 Er stellt das Ideal auf, während Illich dessen Umsetzung in der heutigen Gesellschaft durch das Schulsystem hinterfragt und sich mit der Errichtung einer demokratischen Gesellschaft (vrgl. S.121), im eigentlichen dewyschen Sinne, als mehr als nur eine Staatsform, beschäftigt.
 Illich begreift jedoch den Menschen an sich als Ziel, während Dewey seine pragmatische Ethik auf dem Fortschrittsgedanken basiert. (P.23)
 
+Illichs Wirken und Denken deckt sich in großen Teilen mit dem von Rousseau.
+Beide begreifen das jeweils gegenwärtige Gesellschaftssystem als eine Form der Unterdrückung des eigentlichen Menschseins.
+>‘‘‘I’ precisely because of you, by allowing me to love you, give me the possibility to be co-relative to you, to be dysymmetrically proportionate to you. I see, therefore, in love, hope, and charity the crowning of the proportional nature
+of creation in the full, old sense of that term’’ (https://www.youtube.com/watch?v=vQLWAafp020)
+
+Beide romantisieren den vormodernen Menschen.
+Beide haben den Menschen an sich als Ziel und sehen immodernen Staat eine Pervertierung seiner Fähigkeiten.
+Rousseau will den Menschen aus seiner Idendifikation durch Berufe befreien, während sich Illich stark gegen eine gesellschaftliche Rolle ausspricht.
+Beide plädieren für eine unabhängige Erziehung, die sie nicht auf eine spätere Funktion vorbereiten soll.
+Und Beide berufen sich auf einen Akt der Schöpfung.
+Dem fast verschwörungstheoretischen Charakter bei der Gegenwartsbeschreibung und der Idealisierung einer grundauf freien Gesellschaft liegt ein sehr positives Bild des transzendental freien Menschen vor.
+Mit Kooperationsproblemen und Interessenkonflikten setzten sich beide nur wenig auseinander.
+Das mag möglicherweise Grund für ein sehr unbeschwertes Bild einer *freien* Organisation des Zusammenlebens sein, und auch weswegen beide schnell als Träumer eingestuft wurden und werden.
+Was uns aber zu denken geben sollte, ist dass Rousseau, damals kritisch beäugt, heute im Unterricht als Mitbegründer unserer Gesellschaft gesehen wird, während Illich heute einfach als realitätsfern kategorisiert wird.
+Auch wenn sie beides Träumer sind, fasziniert uns die Vorstellung eines *reinen* Menschen, frei von jeglicher Manipulation, und vielleicht lohnt es sich ja, an diesem Ideal festzuhalten, auch wenn die Verwirklichung eine Unmöglichkeit darstellt.
+
 
 >"The child grows up in a world, surrounded by people who serve as models for skills and values (...), peers (...) to coorporate and understand, and if he is lucky, he is exposed to criticism by an experienced elders who really cares." (S.33)
 
@@ -102,21 +121,6 @@ Das impliziert die unterschiedliche Wertigkeit von Menschen und führt somit daz
 Illich schlägt nun vor, das Messen von Fähigkeiten stark einzuschränken und im Bezug auf den Zugang zu Bildungsmöglichkeiten ganz abzuschaffen.
 So entsteht ein Menschenbild, dass von der Gleichwertigkeit Aller ausgeht, während die beschriebenen Freiheiten und Wahlmöglichkeiten ein Maximum an persönlicher Autonomie ermöglichen.
 
-Illichs Wirken und Denken deckt sich in großen Teilen mit dem von Rousseau.
-Beide begreifen das jeweils gegenwärtige Gesellschaftssystem als eine Form der Unterdrückung des eigentlichen Menschseins.
->‘‘‘I’ precisely because of you, by allowing me to love you, give me the possibility to be co-relative to you, to be dysymmetrically proportionate to you. I see, therefore, in love, hope, and charity the crowning of the proportional nature
-of creation in the full, old sense of that term’’ (https://www.youtube.com/watch?v=vQLWAafp020)
-
-Beide romantisieren den vormodernen Menschen.
-Beide haben den Menschen an sich als Ziel und sehen immodernen Staat eine Pervertierung seiner Fähigkeiten.
-Rousseau will den Menschen aus seiner Idendifikation durch Berufe befreien, während sich Illich stark gegen eine gesellschaftliche Rolle ausspricht.
-Beide plädieren für eine unabhängige Erziehung, die sie nicht auf eine spätere Funktion vorbereiten soll.
-Und Beide berufen sich auf einen Akt der Schöpfung.
-Dem fast verschwörungstheoretischen Charakter bei der Gegenwartsbeschreibung und der Idealisierung einer grundauf freien Gesellschaft liegt ein sehr positives Bild des transzendental freien Menschen vor.
-Mit Kooperationsproblemen und Interessenkonflikten setzten sich beide nur wenig auseinander.
-Das mag möglicherweise Grund für ein sehr unbeschwertes Bild einer *freien* Organisation des Zusammenlebens sein, und auch weswegen beide schnell als Träumer eingestuft wurden und werden.
-Was uns aber zu denken geben sollte, ist dass Rousseau, damals kritisch beäugt, heute im Unterricht als Mitbegründer unserer Gesellschaft gesehen wird, während Illich heute einfach als realitätsfern kategorisiert wird.
-Auch wenn sie beides Träumer sind, fasziniert uns die Vorstellung eines *reinen* Menschen, frei von jeglicher Manipulation, und vielleicht lohnt es sich ja, an diesem Ideal festzuhalten, auch wenn die Verwirklichung eine Unmöglichkeit darstellt.
 
 Illichs Lebenswerk lässt sich postmodern interpretieren und zugleich religiös begründen. Während seines Studiums im Vatikan wurde er geprägt von den Denken des nouvelle theologism, die den Weg für Vatikan II ebneten und nach einer Modernisierung der Kirche strebten.
 Illich ging noch einen Schritt weiter, in dem er moderne "Gewissheiten" hinterfragt und die Korruption verkündete.
@@ -136,6 +140,7 @@ of ‘‘deschooling’’ was born."
 Er distanziert sich in späteren Jahren wieder von seinen Reformvorschlägen, da er nach eigener Aussage noch der Fehleinschätzung unterlag, Lernen sei ein notwendiger Prozess in der menschlichen Entwicklung.
 Illich sieht sich mit zunehmenden Alter immer weniger gewilt, konkrete Reformvorschläge zu machen und wirft die Arme hoch:
 >‘‘I hope nobody takes what I said for answers’’
+
 
 <!--zum erinnern: education for all means education by all
 p.11 rechts-->
