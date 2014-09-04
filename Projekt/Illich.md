@@ -125,7 +125,7 @@ Ein zentraler Punkt, den er an der Institution Schule kritisiert,ist deren Recht
 Diese schulischen Zertifikate werden in der gegenwärtigen Gesellschaft als einzig legitime Qualifikationen betrachtet und geben somit der Schule die Macht, über die Zulassung von Schülern zu weiteren Bildungseinrichtungen oder die Erlaubnis zur Ausübung eines Berufs zu entscheiden.
 Die Folgen dieses Symstems sind weitreichend, was Illich mit dem Satz "School initiates young people into a world where everything can be measured, including their imaginations, and, indeed, man himself. (Illich, S.19), veranschaulicht.
 
-Schule produziert also durch die Beeinflussung der Lernenden dahingehend, dass der Wert von allem, sogar von Menschen messbar sei, Ungleichheit.
+Schule produziert also durch die Beeinflussung der Lernenden dahingehend, dass der Wert von allem, sogar von Menschen messbar sei: Ungleichheit.
 Das impliziert die unterschiedliche Wertigkeit von Menschen und führt somit dazu, dass Schüler nicht nur als ungleich betrachtet werden, sondern auch sich selber als unterschiedlich wertvoll ansehen.
 Illich schlägt nun vor, das Messen von Fähigkeiten stark einzuschränken und im Bezug auf den Zugang zu Bildungsmöglichkeiten ganz abzuschaffen.
 So entsteht ein Menschenbild, dass von der Gleichwertigkeit Aller ausgeht, während die beschriebenen Freiheiten und Wahlmöglichkeiten ein Maximum an persönlicher Autonomie ermöglichen.
@@ -143,15 +143,3 @@ of ‘‘deschooling’’ was born."
 Er distanziert sich in späteren Jahren wieder von seinen Reformvorschlägen, da er nach eigener Aussage noch der Fehleinschätzung unterlag, Lernen sei ein notwendiger Prozess in der menschlichen Entwicklung.
 Illich sieht sich mit zunehmenden Alter immer weniger gewilt, konkrete Reformvorschläge zu machen und wirft die Arme hoch:
 >‘‘I hope nobody takes what I said for answers’’
-
-
-<!--zum erinnern: education for all means education by all
-p.11 rechts-->
-
-
-<!--evtl. passendes Zitat, das unseren Arbeitsprozess ganz gut veranschaulicht: (Illich über "Ältere"): "Sie können einen auf die richtigen Fragen hinweisen, die man mit Gleichaltrigen anschneiden soll, und auf die Unzulänglichkeit der Antworten, die man dort findet." (S.86)
-
- - Peer-Aspekt (Kommentare auf Issues ->Diskussion),
- - Inhaltlich für *Projektarbeit*,
- - keine Bestimmung des Inhalts durch andere (Bsp: unser Kurs statt Programm schreiben);
- - problematisch: kein direkter Kontakt untereinander, evtl. weniger Interaktion durch Effizienz-->
