@@ -1,32 +1,29 @@
-# Protokoll Charles Tilly - War Making and State Making as Organized Crime
+# Charles Tilly - War Making and State Making as Organized Crime
+Ganz anders als Siebert, der Theorien über das Lernen aufstellt, beschäftigt den Historiker Charles Tilly
+der sich hauptsächlich mit der Entstehung der europäischen Nationalstaaten beschäftigt hatte, die Frage nach der Entstehung eines Staates.
+Nach Tillys Modell ist die Entwicklung eines Staates immer mit kriegerischen und gewaltvollen Handlungen verbunden.
+Er geht sogar so weit zu behaupten, dass Gewalt notwendig für die Entwicklung eines Staates ist.
+Der Ausgangspunkt für die Entwicklung eines Staates, ist die Monopolisierung von Gewalt und Macht.
+Es ist das Ziel einer kleinen Gruppe von Menschen oder auch einer einzigen Person sich gegen andere machtwillige Parteien als der Stärkste innerhalb eines geografischen Bereiches durchzusetzen (vgl. S.173 Z.65).
+Der Weg zu dieser wichtigen Sonderstellung ist lang und immer verbunden mit Geschäften mit anderen Personen, die ebenfalls versuchen ihre Macht auszuweiten.
+Entscheidend ist für den zukünftigen Herrscher, dass er sich schließlich gegen alle Anderen durchsetzt und seine Gegner weitestgehend entmachtet.
+Durch seine Macht hat der Herrscher nun die Möglichkeit, sein Volk vor Schaden zu schützen und für diesen Schutz Tribute (heute sagt man Steuern) einzufordern.
+Der gegebene Schutz kann laut Tilly zwei Formen annehmen:
 
-Tilly, der sich hauptsächlich mit der Entstehung der europäischen Nationalstaaten beschäftigt hatte, beschäftigt sich in diesem Text mit der Frage nach der Entstehung eines Staates.
+Verhält sich der Machthaber als *legitimate protector* so schützt er sein Volk gegen externe Angriffe.
+Ist der Machthaber ein *racketeer* nutzt er sein Gewaltmonopol aus, indem er sein Volk unter Druck setzt (Bsp. Ludwig XIV hat von seinen Bürgern für den Bau des Schlosses Verssailles extrem hohe Tribute eingefordert. Konnte jemand nicht bezahlen, drohte ihm großer Ärger.)
+Diese Handlung ist entscheidend für die Entwicklung eines Staates, denn sie zeigt, dass ein Staat nicht etwa die Folge von friedlicher Zusammenarbeit von Menschen ist, sondern immer gebunden ist an Machtkämpfe, Ausbeutung und Krieg.
 
-Bevor es an einem Ort einen Staat gibt, gibt es dort laut Tilly kein Gewaltmonopol: die Gewalt ist auf viele Parteien verteilt.
-Tilly beginnt den Vorgang der Staatenbildung zu erklären: laut Hobbes ist der "homo hominis lupus", also der Mensch des Menschen Wolf.
-Der Grund, der vom ersten Zustand der staatlosen Umgebung zum zweiten der staatlichen Umgebung führt, ist laut Tilly der Machtwille.
-Um die Macht zu erreichen und ein Gewaltmonopol zu etablieren, muss der Machtwillige Gewalt anwenden; also beginnt er einen Krieg gegen die Menschen, die er unterwerfen will.
-Aber wie kommt es nun zum Staat?  Jede der machtwilligen Parteien strebt danach ihre Macht auszudehnen, indem sie Rivalen ausschaltet. Dieser Kriegszustand führt final zur Errichtung eines Gewaltmonopols.
-Der Inhaber des Gewaltmonopols kann nun Abgaben von der unterworfenen Bevölkerung verlangen.
-Aber wieso sollten die Bürger eines Staates Steuern bezahlen?
-Der Schlüssel dazu ist "protection". Der Staat bietet also den Bürgern Schutz.
-Wenn es also Steuern gibt, muss es auch eine staatliche Organisation geben, die die Steuern einnimmt.
-Eine andere Möglichkeit zur Geldbeschaffung ist die Förderung von Wirtschaftswachstum. Da sich simultan dazu die Einkommen erhöhen, erhält auch der Staat höhere Einnahmen.
+Wenn sich ein Machthaber wie ein Schutzgelderpresser (racketeer) verhält, also extrem hohe Tribute fordert, trotzdem das Geld nicht zum Wohle des Volkes nutzt sondern sich nur persönlich bereichert, spricht Tilly von Despotie.
+Hätte das Volk aber als solches die Möglichkeit, Steuern zu regulieren und über ihre Verwendung zu entscheiden, liege eine Demokratie vor.
+Händler können jedoch auch von diesem System profitieren.
+Wenn ein Händler an seinen Herrscher weniger Steuern zahlen muss als ein Konkurrent, so gewinnt er durch diese Differenz einen Vorteil und kann sein Kapital besser vermehren.
+Letztendlich profitiert auch der Herrscher, denn er erhält so auch mehr Tribute, die er benötigt um sein Reich zu stabilisieren oder gar zu expandieren.
+Durch welche Handlungen definiert sich aber nun ein Staat?
+Nachdem der Staat durch ***Unterwerfung*** entstanden ist, *definiert* er sich nur durch das sogenannte *Gewaltmonopol*.
+In Tillys Verständnis kann man dies als das Alleinrecht auf Sicherheit und Ordnung auf einem bestimmten Gebiet verstehen.
+Andere Leistungen wie z.B. eine Krankenversicherung oder ein Mindestlohn sind nicht Teil von Tillys Staatsverständnis.
 
-Laut Tilly definiert sich ein Staat durch die von ihm gebotene Infrastruktur, dem bereits erlärten Gewaltmonopol und der gebotenen *protection*.
-
-Diese *protection* kann *comforting* (beruhigend) oder *ominous* (bedrohlich) sein.
-Der Anbieter einer *ominous protection* wird von Tilly *racketeer*(Gangster) genannt, da er Schutzgeld verlangt.
-Er wird mit einer Gang verglichen.
-Offensichtlich ist die *comforting protection* legitim und die *ominous protection* illegitim.
-
-Eine der wichtigen Fragen, denen Tilly sich dann stellt, ist: Was macht ein Staat?
-Er fragt genauer, durch welche Handlungen sich ein Staat definiert.
-Dabei kommt er zu dem Schluss, dass sich ein Staat durch ein auf ein Gebiet beschränktes Gewaltmonopol definiert.
-Tillys Gewaltmonopol lässt sich als Alleinrecht auf Sicherheit und Ordnung verstehen.
-
-Weiter beantwortet er die Frage nach dem normativen Zweck eines Staates.
-Ein Staat solle **nur** Sicherheit bieten. Dabei ist die Sicherheit nicht nur die Basis, sondern auch das einzige, was der Staat bieten soll.
-
-Auf die entscheidende Frage, wie ein Staat denn nun geboren wird, antwortet er: Unterwerfung.
-Das Gewaltmonopol könne nämlich nur durch Unterwerfung installiert werden, damit der Machtinhaber keine konkurrierenden gewaltausübenden Vereinigungen zu bekämpfen hat die das Gewaltmonopol zerschlagen könnten.
+Der Bezug zum eigentlichen Thema dieser Arbeit mag erst schleierhaft scheinen.
+Doch Tilly begründet die Herkunft des Gewaltmonopols eines Staates, das auch die Basis für die Durchsetzung der Schulpflicht ist.
+Nach diesem Exkurs in die Staatstheorie handelt der nächste Text von gegenseitigem Helfen in der Schule.
