@@ -1,20 +1,21 @@
 # Der völlig autonome Mensch
 ### Konstruktivismus - Lernen als Konstruktion von Wirklichkeit
 
-Nach dem Menschenbild des Konstruktivismus prägt jeden Mensch eine eigene *Wahrnehmung* und somit hat dieser *"[keinen] Zugriff auf die objektive Realität"* (Heinz von Foester)
 
-Woraus die zentrale Leitfrage des Konstruktivismus folgt:
+> „Der Mensch hat keinen Zugriff auf die objektive Realität“
+> Heinz von Foester
 
->"Wie nimmt der Mensch die Welt wahr und inwiefern prägen ihn dabei individuelle Erfahrungen?"
+Die zentrale Frage einer konstruktivistischen Lerntheorie lautet: Wie nimmt der Mensch die Welt wahr und inwiefern prägen ihn dabei individuelle Erfahrungen?
 
+Bezieht man sich auf das einführende Zitat der Unmöglichkeit einer objektiven Wahrnehmung, so wird der Denkansatz des Konstruktivisten deutlich.
 
 Laut Sieberts Theorie des Konstruktivismus ist die Wahrnehmung "keine Abbildung der Außenwelt, sondern eine funktionale viable Konstruktion" (Siebert 2003, S. 6).
 Ausgehend von dieser Annahme stellt Siebert die Kernthese auf, dass "Menschen [...] autopoietische selbstreferenzielle, operational geschlossene Systeme [sind]." (ebd. S. 5)
-Der Begriff Autopoiesis beschreibt die Selbstorganisation lebender Wesen. (~)
+Damit geht Siebert von einen automen Menschen aus, der sich durch Selbstorganisation auszeichnet (*"Autopoesie"*).
 
 Die Lebensauffassung ändert sich demnach permanent aufgrund von Erfahrungen und Ereignissen, die den Menschen betreffen.
 Der Konstruktivismus geht bei seiner Theorie von einem interpretativen *Paradigma*, der *Sichtweise* des Individuums aus.
-Lernen findet statt, wenn sich die verfügbaren Informationen für den jeweiligen Menschen als lebensdienlich (*viabel* ~) erweisen.
+Der Mensch entscheidet als *geschlossenes System*, ob die verfügbaren Informationen für ihn lebensdienlich (*viabel*) sind.
 Abhängig von den individuellen Determinationen, mit denen ein Mensch im Leben konfrontiert wird, verändert sich so seine Wahrnehmung der Umwelt.
 Der Mensch ist demnach strukturdeterminiert (vgl. ebd. S. 5).
 Aufbauend auf seinem individuell geprägten Menschenbild geht Siebert davon aus, dass ein Wechselverhältnis zwischen der Wahrnehmung des Menschen und der Umwelt existiert.
@@ -32,20 +33,15 @@ Wie Wissen am besten vermittelt wird und so der Lernerfolg maximiert werden kann
 Siebert selbst geht auf diese Frage wie folgt ein:
 >"Menschen als selbstgesteuerte *„Systeme“* können von der Umwelt nicht determiniert, sondern allenfalls **perturbiert**, das heißt, **„gestört“** und **angeregt** werden." (ebd. S.5)
 
-Beim Lernen werden vorhandene Assoziationsfelder aktiviert und verknüpft.
-Das Gehirn führt einen „inneren Monolog“ (ebd. S.17), es kommuniziert mit sich selbst, sucht bestätigende Beispiele oder auch Widersprüche
-Was gelernt wird, hängt also weniger von den Informationsinputs als von der „individuellen kognitiv-emotionalen Vorstruktur und der psycho-physischen Befindlichkeit“ ab, also davon, welche Assoziationen oder Erinnerungen die Inputs hervorrufen (ebd. S. 18).
 Des Weiteren hängt die Auswahl der Informationen, also was und ob gelernt wird, laut Siebert von der direkten Relevanz der Informationen für das Individuum ab.
 Lernen ist also in erster Linie ein eigenwilliger und eigensinniger Prozess und dient primär der Selbsterhaltung (*Autopoiese*).
 
-Aufgrund dieser Autopoiese entscheidet der Mensch (*"das System"*) autonom über die Verarbeitung der Inputs.
+Aufgrund dieser Autopoiese entscheidet der Mensch (*"das System"*) **autonom** über die Verarbeitung der Inputs.
 Der Mensch kann maximal durch Perturbationen (*(An)Reize*) zum (Um)Denken angeregt werden.
 Diese Möglichkeit der Perturbation kann der Lehrende zur Vermittlung von Wissen nutzen und damit gegebenenfalls neue Sichtweisen für den Lernenden eröffnen.
 
-## **Radikaler** Konstruktivismus?
-
 Die Perturbation kann sowohl auf lerntheoretischen Ansätze angewandt werden, als auch auf soziologische Problematiken übertragen werden.
-Problematisch ist hierbei die vollkommene Isolierung des Einzelnen in der eigenen subjektiven Welt.
+Problematisch ist hierbei die vollkommene Isolierung des Einzelnen in der eigenen subjektiven Welt - die völlige Autonomie.
 Diese angesprochene Isolation, besonders im radikalen Konstruktivismus, ist besonders gut an der Geschichte von *Peter Bichsel* *"Ein Tisch ist ein Tisch"* veranschaulicht.
 Hierbei wird die Situation eines Mannes beschrieben, der in Unzufriedenheit lebt.
 Um sich aus dieser aussichtlosen Lebensweise zu berfreien beginnt er bekannte Gegenstände mit anderen Namen zu versehen.
@@ -57,12 +53,8 @@ Die radikale Änderung seiner eigenen Wahrnehmung und Kommunikation verursachte 
 > "Viel schlimmer war, sie konnten ihn nicht mehr verstehen. Und deshalb sagte er nichts mehr. Er schwieg, sprach nur noch mit sich selbst, grüßte nicht einmal mehr."
 > [Peter Bichsel](Ein Tisch ist ein Tisch)
 
-Der Verlust der Kooperation mit der Umwelt durch die Isolierung in der Subjektivität und damit auch die fehlende Beziehung mit Menschen, zeigt die Grenzen des radikalen Ansatzes der konstruktivistischen Theorie auf.
+Der Verlust der Kooperation mit der Umwelt durch die Isolierung in der Subjektivität und damit auch die fehlende Beziehung mit Menschen, zeigt die Grenzen des (radikalen) Ansatzes der konstruktivistischen Theorie auf.
 Diese Tatsache impliziert ein Kooperationsproblem zwischen koexistierenden *"Individuen"*, da jene *"Realitäten"* sich ausgehend vom Menschen unterscheiden.
-Sieberts Vorschlag der Perturbation impliziert einen Lösungsansatz für jenes Kooperationsproblem zwischen koexistierenden, voneinander isolierten *"Lebensrealitäten"*.
-
-Durch diese *"Störungen"* [Sprachmacht, Gesellschaftsmacht, Glaubensmacht [Siebert] (vgl. S.11)] kann eine allgemeingültige Leitkultur (**Makrosoziologie**) unter verschieden Individuen entstehen und eine gemeinsame Kooperationsgrundlage geschaffen werden.
-Der Mensch wird nach Siebert demzufolge auch *"[...] durch politischökonomischen Verhältnissen, die durch Macht, Hierarchien, Partizipationschancen, Eigentum, Massenmedien und Ähnliches gekennzeichnet sind"*, (ebd.) beeinflusst.
-<!-- NE:Soll ich diesen Teil drin lassen? Weiß nicht ob wir ihn als Abschluss des Textes nutzen können.   -->
-
-> "Die Grenze ist nicht eine räumlich Tatsache mit soziologischen Wirkungen, sondern eine soziologische Tatsache, die sich räumlich formt." [Georg Simmel]
+Völlige Autonomie und damit die Abgrenzung von derjeglichen Richtlich
+Inwiefern ein Mensch
+Der Mensch ist laut Sieberts Theorie ein völlig **automes** Wesen, das selbst über individuelle Wahrnehmung sowie Wichtigkeit der Informationen entscheidet und lediglich nur durch subtilen *Perturbationen* beeinflusst werden kann.
