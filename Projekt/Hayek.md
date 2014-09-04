@@ -1,5 +1,9 @@
 # Welche Infos lohnt es sich zu vermitteln?
 
+In der Schule werden Informationen vermittelt, welche Informationen lohnt es sich zu vermittelt?
+In der Demokratie müssen wir kollektivverbindliche Entscheidungen treffen, indem wir Information zusammentragen.
+Doch wie sehen diese Informationen aus? Welche Arten von Infos gibt es?
+
 Wissen ist Hayek zufolge der Beweggrund wirtschaftlichen Handlens.
 In seinem Buch "The use of knowledge in society" behandelt er die Frage wie ein wirtschaftliches System aussehen sollte.
 Informationen spielen dabei eine große Rolle, da diese für Kollektiventscheidungen unerlässlich sind, um demokratische Entscheidungen fällen zu können.  
