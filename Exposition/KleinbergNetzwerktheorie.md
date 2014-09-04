@@ -7,17 +7,14 @@
 
 Um Netzwerke, Systeme von Verbindungen zwischen Entitäten, theoretisch betrachten und analysieren zu können, gibt es die Möglichkeit sie als Graph darzustellen.
 Dabei gibt es Kanten und Knotenpunkte.
-Knotenpunkte können untereinander durch Kanten verbunden werden, die soziale Verbindung, Bekanntschaft, gemeinsame Arbeiten etc. darstellen
-
-<!-- TODO: MH Beispiel für Netzwerk einführen, eines das mit unserem Kurs zu tun hat -->
+Knotenpunkte können untereinander durch Kanten verbunden werden, die soziale Verbindung, Bekanntschaft, gemeinsame Arbeiten etc. darstellen.
+Ein Beispiel für Netzwerke, die mit Graphen dargestellt werden können, sind beispielsweise die Deutsche Schülerakademie, bei der jeder Knoten einen Teilnehmer reprüsentiert, der mit verschiedenen anderen in Beziehung steht (dargestellt durch Kanten). Genauso kann man auch Betziehungen in einer Lerngruppe wie einer Schulklasse oder andere Netzwerke graphisch darstellen.
 
 <!-- FIXME: Bild von Graphs einfügen  -->
 
 Innerhalb der Struktur des Graphs kann es Besonderheiten, wie z.B. Komponente geben, einzelne Netzwerke, welche nicht über einen Pfad mit jedem anderen Knoten im Graph verbunden sind.
 
 <!-- FIXME: Bild von Component einfügen  -->
-<!-- FIXME: Ludwig Fragen über Richtigkeit-->
-
 
 ### Schlussfolgerungen
 
@@ -81,7 +78,10 @@ Somit kann jeder Schüler als Hilfe dienen und Hilfe empfangen.
 ### Power Law
 
 Wie sich bereits mithilfe der Graphen- und Netzwerktheorie erklären ließ, hat jeder Mensch innerhalb eines Netzwerks einen bestimmten klar definierten Bekanntenkreis aller mit ihm verbundenen Nachbarn.
-<!-- TODO: MH wdh, lieber direkt an oben stehenden Abschnitt anschließen; die Resultate von Kaskaden- und Netzwerkeffekten sind ja die Verbindung zwischen Netzwerktheorie und Power Laws -->
+<!-- TODO: MH wdh, lieber direkt an oben stehenden Abschnitt anschließen; die
+Resultate von Kaskaden- und Netzwerkeffekten sind ja die Verbindung zwischen
+Netzwerktheorie und Power Laws -->
+  <!-- Durch den Einschub von Zimpel passt das wieder und ist eigentlich keine wdh mehr finde ich...:)  -->
 Dieser ist in der Realität in den meisten Fällen zahlenmäßig überschaubar, allerdings gibt es Ausnahmen von prominenten Personen, deren Bekanntheit über ihren direkten Bekanntenkreis hinausgeht, in manchen Fällen (*z.B. Barack Obama*) kommt es sogar zu globaler Bekanntheit.
 Das selbe Phänomen erkennen wir bei anderen Medien, die Popularität erlangen können, wie Musik, Bücher, etc.
 Daraus ergibt sich für Kleinberg die grundlegende Fragestellung:
