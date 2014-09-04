@@ -46,6 +46,7 @@ Außerdem ist Autonomie in einer Demokratie nicht wegzudenken, weil diese quasi 
 Dahls Verständnis von **Demokratie** stützt sich auf die **Kombination aus intrinsischer Gleichwertigkeit und persönlicher Autonomie**.
 Intrinsische Gleichheit bedeutet, dass die Interessen eines jeden Menschen grundsätzlich gleichwertig sind und daher bei jeder Entscheidung auch gleichmäßig in Betracht gezogen werden müssen.
 Persönliche Autonomie beschreibt die Entscheidungsfreiheit, damit  jeder kann die Entscheidung treffen kann, die für ihn am besten ist, denn "every adult is the best judge of his or her own interest" (S.100).
+Zwischen diesen beiden Aunschauungen erstellt sich ein Zusammenhang, da niemand so ausserordentlich qualifiziert ist, dass er/sie alle Entscheidungen einer bestimmten Gruppe von Personen treffen kann. Im gegensatz sind alle Mitgliedern der Gruppe fähig, um sich abzufinden. 
 
 
 ### politische Einordnung
