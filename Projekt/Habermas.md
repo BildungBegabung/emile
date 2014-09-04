@@ -35,8 +35,10 @@ Das Telos der illokutiven Verständigung als universelles Ziel menschlicher Spra
 Grundsätzlich geht Habermas, wie Searle und Austin, davon aus, dass mit jedem Sprechakt wird automatisch ein Gültigkeitsanspruch auf das Gesagte erhoben wird, allerdings grenzt er sich von deren Vorstellung ab, die von Sprechakten aufgestellten Gültigkeitsansprüche würden nur aus Aussagenlogik bestehen.
 Er sieht diese stattdessen nur als einen Teil der Gültigkeitsansprüche, die an Sprechakte gestellt werden müssen.
 
-<!-- TODO: MH hier brauchen wir wieder ein Beispiel ... -->
-Hier differenziert er zwischen strategischem und kommunikativem Handeln, wobei er letzteres für erstrebenswerter hält.
+Sagt Mihai beispielsweise "Wir sollten dem Küchenpersonal etwas vorsingen, weil es jeden Tag unser Essen zubereitet" kann nach Habermas zwar sowohl auf die objektive Wahrheit (Bereitet das Küchenpersonal wirklich unser Essen zu?) aber eben auch auf die normative Richtigkeit (Ist Vorsingen eine angemessene Dankesgeste), die subjektive Authenzithät (Ist das Gesagte auch so gemeint oder wird Mihai von Kerstin gezwungen diesen Vorschlag zu machen?) und die sprachliche Verständlichkeit überprüft werden.
+Für Habermas muss jeder einzelne dieser Gültigkeitsansprüche anfechtbar sein um kommunikatives Handeln zu ermöglichen.
+
+Generell differenziert er zwischen strategischem und kommunikativem Handeln, wobei er letzteres für erstrebenswerter hält.
 Zwar steht für Habermas grundsätzlich hinter jeder Handlung ein "action plan",  also ein Ziel.
 Allerdings geht er auch davon aus, dass für eine erfolgreiche Kommunikation die Beilegung dieses "action plans" nötig ist, um ausschließlich illokutive Ziele zu verfolgen.
 Wird dies nicht getan, spricht Habermas von strategischem Handeln, welches perlokutive ~ Ziele, in den Vordergrund stellt, also eine bestimmte Wirkung beim Gegenüber erreichen möchte.
