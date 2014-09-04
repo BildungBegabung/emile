@@ -29,11 +29,6 @@ Hätte das Volk aber als solches die Möglichkeit, Steuern zu regulieren und üb
 Krieg macht es dem Machthaber möglich, seine Macht nach außen zu expandieren und legitimiert innerhalb seines Einflussbereiches das Eintreiben von Steuern. Das Eintreiben von Steuern  wiederum macht es dem Machthaber möglich, Krieg nach außen zu führen. Durch diese wechselseitige Beziehung wird die Wirtschaft, besonders die Gewaltproduktion, angekurbelt.
 Das intensiviert den Kreislauf zusätzlich.
 
-<!-- TODO MH: der Kreislauf der in Tilly dargestellt wird ist hier noch etwas durcheinander; Wirtschaftswachstum lassen wir mal raus. Wichtiger wäre: Extraktion (Besteuerung) erlaubt (nach außen: Krieg) und erfordert (nach innen: Eintreibung der Steuern) Mittel der Gewaltproduktion. -->
-<!-- FIXME: brauchen wir den folgenden Teil überhaupt? Ist er wirklich wichtig? -->
-Händler können jedoch auch von diesem System profitieren:
-Wenn ein Händler weniger Steuern an seinen Herrscher zahlen muss als ein Konkurrent, so gewinnt er durch diese Differenz einen Vorteil und kann sein Kapital besser vermehren.
-Letztendlich profitiert auch der Herrscher, denn er erhält so auch mehr Tribute, die er benötigt um sein Reich zu stabilisieren oder gar zu expandieren.
 
 ## Durch welche Handlungen definiert sich ein Staat?
 Nachdem der Staat durch ***Unterwerfung*** das Machtmonopol installiert hat (ebd. S.175 Z.7f), *definiert* er sich durch das sogenannte *Gewaltmonopol* ("the authority's monopoly of force" ebd. S.172, Z.1).
