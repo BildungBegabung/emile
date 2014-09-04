@@ -28,7 +28,7 @@ Händler können jedoch auch von diesem System profitieren:
 Wenn ein Händler weniger Steuern an seinen Herrscher zahlen muss als ein Konkurrent, so gewinnt er durch diese Differenz einen Vorteil und kann sein Kapital besser vermehren.
 Letztendlich profitiert auch der Herrscher, denn er erhält so auch mehr Tribute, die er benötigt um sein Reich zu stabilisieren oder gar zu expandieren.
 
-## Durch welche Handlungen definiert sich aber nun ein Staat?
+## Durch welche Handlungen definiert sich ein Staat?
 Nachdem der Staat durch ***Unterwerfung*** das Machtmonopol installiert hat (ebd. S.175 Z.7f), *definiert* er sich durch das sogenannte *Gewaltmonopol* ("the authority's monopoly of force" ebd. S.172, Z.1).
 In Tillys Verständnis kann man dies als das Alleinrecht auf Sicherheit und Ordnung auf einem bestimmten Gebiet verstehen("governments claim to provide protection" ebd. S.172, Z.2).
 Andere Leistungen wie z.B. eine Krankenversicherung oder die Deutsche Schülerakademie sind nicht Teil von Tillys Staatsverständnis (ist nicht enthalten in: "What Do States Do?" ebd. S. 181).
