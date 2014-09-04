@@ -81,7 +81,7 @@ Aufgrund dieser Tatsachen würde Hayek GitHub vermutlich streng ablehnen und sic
 
 ## Was Habermas zu unserer Zusammenarbeit auf GitHub sagen würde
 
-Auch Jürgen Habermas dürfte, angesichts der Tatsache, dass er seine Texte bis heute auf einer Schreibmaschine schreibt, zunächst Bedenken haben, wenn er von unserer Zusammenarbeit auf GitHub hören würde.
+Würde Jürgen Habermas von unserer Zusammenarbeit auf GitHub hören, hätte er wahrscheinlich angesichts der Tatsache, dass er seine Texte bis heute auf einer Schreibmaschine schreibt, zunächst Bedenken haben,
 
 Das diese Arbeitsform allerdings im Kern von seinem Kommunikationsmodell gar nicht so weit entfernt ist, konnten wir im Laufe des Arbeitsprozesses feststellen.
 
