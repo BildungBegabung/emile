@@ -11,63 +11,35 @@
 
 # Habermas Protokoll
 <!-- TODO: MH die einzelnen Textursprünge können natürlich in der Doku so nicht vorkommen ... es muss eine organische Struktur ergeben -->
-
-Jürgen Habermas beschäftigt sich in seinem Text "On the Pragmatics of Communication" mit verschiedenen Handlungen und deren Auswirkungen.
-<!-- TODO: MH zu allgemein -->
-Dabei unterscheidet er zunächst zwischen Handlungen an Objekten in der fassbaren Realität und Handlungen in der sozialen Welt.
-<!-- TODO: MH jahreszahl -->
-
-Hierbei definiert er Handlungen an Objekten als Handlungen, die im alltäglichen, praktischen Leben mit einer bestimmten Zielsetzung ausgeführt werden und Handlungen in der sozialen Welt als Sprechakte, die immer das Ziel der Verständigung haben.
-Er unterscheidet diese Handlungsformen anhand von zwei Gesichtspunkten:
-<!-- TODO: MH dieser Abschnitt ähnelt einer Inhaltsangabe des von uns gelesenen Textes, aber keiner eigenständigen wiss. Arbeit. Das brauchen wir aber. Der Doku-abschnitt sollte für sich stehen, und nicht so eng an Habermas-Struktur hängen. Der Leser will wissen a) warum wir Habermas lesen b) was von Habermas wichtig ist c) was das für unseren Betrachungsgegenstand bedeutet. SANDUHR bedenken! -->
-
-Die Beobachtung und das Telos (Ziel), die durch die Handlungen erreicht werden können.
-<!-- TODO: MH das hier wäre zum Beispiel ein denkbarer Aufhänger; etwa: Bei Schule und Demokratie geht es um Kommunikation, wie etwa anhand von ... (aus Exposition) deutlich wird. Habermas postuliert nun einen Telos menschlicher Sprache (etc.) -->
-Handlungen an Objekten können zwar identifiziert werden, als beispielsweise schnelles Laufen oder Hinsetzen, aber durch reine Beobachtung von einer außenstehenden Person können sie nie ausreichend beschrieben werden, da das Ziel hinter der Handlung nicht ersichtlich ist.
-<!-- FIXME: MH: ist der Teil so wichtig für uns? -->
-Der Sprechakt hingegen offenbart dem Gesprächspartner die dem Sprechakt zugrundeliegende Absicht des Sprechers durch das enthaltene illokutive ~ Element und erklärt sich somit selbst.
-<!-- TODO: MH trotz Glossar sollte so ein Fachbegriff bei der ersten Verwendung wie hier direkt erläutert werden. -->
-<!-- FIXME: MH nein! da erklärt sich nichts von selbst nach Habermas; auch für ihn bleibt Kommunikation problematisch; Habermas spricht hier von implizierten Gültigkeits*ansprüchen*, nicht von automatisch realisierter Verständigung! -->
-Allerdings nur dem Gesprächspartner, der
-
-1. die selbe Sprache spricht wie der Sprechende,
-2. die Perspektive des Beobachters aufgibt, um die des Partizipierenden einzunehmen und
-3. eine intersubjektive Lebenswelt ~ mit dem Sprechenden teilt.
-
-<!-- TODO: MH bitte auf richtige Markdown-Formatierung achten! -->
-<!-- TODO: MH intersubjektive Lebenswelt erklären. -->
-<!-- FIXME: MH woher kommt diese Aufzählung? Wie wichtig ist etwa der Hinweis auf dieselbe Sprache (trivial?) ? -->
-
-Die beiden Handlungsformen unterscheiden sich aber nicht nur in Bezug auf den selbstreflektierenden Faktor sondern auch, was den Weg zum Erreichen der Ziele angeht.
-<!-- TODO: MH Was genau wäre dieser selbstreflektierende (sic!) Faktor? Dafür brauchen wir ein Beispiel, sonst versteht das keiner. -->
-Während die Ziele der Handlungen am Objekt laut Habermas kausal herbeigeführt werden können und die Mittel unabhängig vom Zwecks stehen, können die Ziele eines Sprechaktes nicht unter diesen Kategorien zusammengefasst werden.
-
-Da Verständigung als das Ziel von Sprache bei Habermas deontologisch feststeht, ist außerdem ist die Trennung von Zweck und Mittel bei einem Sprechakt nicht möglich, da sich Sprache und Verständigung reziprok erschließen.
-<!-- FIXME: MH streng genommen nicht nur deontologisch, sondern vor allem teleologisch, also es Verständigung wird als inhärentes Ziel von Sprache angenommen. *DARAUS* ergibt sich dieser infinite regress des Argumentierens, das immer wieder in sich selbst den Telos der Verständigung annimmt, und so weiter. -->
-
-> "the one cannot be explained without recourse to the other."
-> Habermas (S.218)
-
-<!-- TODO: MH das Zitat ist etwas kurz und aus dem Kontext; längeres Zitat wählen und anhand eines (idealerweise eigenen, DSA/EMile-Bezogenen Beispiels durchdeklinieren). -->
-
-Außerdem kann das Ziel eines Sprechaktes nicht kausal herbeigeführt werden, da es nicht selben innerweltlichen Status hat, wie eine Handlung am Objekt.
-<!-- TODO: MH das wiederholt sich mit dem oben stehenden -->
-Mit jedem Sprechakt wird automatisch ein Gültigkeitsanspruch aufgestellt und sobald illokutive Ziele verfolgt werden, wird der Handlungsbereich des Sprechenden verlassen und dieser ist auf die Kooperation und Einwilligung des Gespächspartners angewiesen, um sein Ziel zu erreichen.
-<!-- TODO: MH, mmh, ja, aber das ist nun wirklich zirkulär; Krams ist illokutionär, wenn Krams illokutionär ist ... -->
-
+Dass Schule und Demokratie eng mit Kooperation und Kommunikation verbunden ist, wird bereits anhand von beispielsweise Kleinberg und Mead deutlich.
+Jürgen Habermas postuliert nun in seinem 1998 erschienen Text "On the Pragmatics of Communication" einen Telos menschlichen Handelns und menschlicher Sprache und unterscheidet zwischen verschiedenen Handlungsformen.
 <!-- TODO: Bild Baumdiagramm mit handlungsarten einfügen--->
 <!-- TODO: MH, ja, gern auch als neues Magic Chart mit verschiedenen Farben, dann haben wir eine Formensprache. -->
 
-Durch diese Notwendigkeit der Kooperation entstehen allerdings auch Konflikte, weshalb sich Habermas im weiteren Textverlauf fast ausschließlich mit den sozialen Handlungen befasst.
-<!-- TODO: MH Zusammenhang zwischen 1. und 2. Satzteil ist mir unklar. Näher am Text arbeiten. -->
-Seine Sprachakttheorie lehnt er hierbei an die des amerikanischen Philosophen John Rogers Searle und seines britischen Kollegen John Langshaw Austin an.
-Allerdings grenzt er sich von deren Vorstellung ab, die von Sprechakten aufgestellten Gültigkeitsansprüche würden nur aus Aussagenlogik bestehen, sondern sieht diese nur als einen Teil der Gültigkeitsansprüche, die an Sprechakte gestellt werden müssen.
+
+Dabei differenziert er zunächst zwischen Handlungen an Objekten in der fassbaren Realität und Handlungen in der sozialen Welt, also Sprechakten, die sich insbesondere in ihren Zielen unterscheiden.
+
+Während die Ziele der Handlungen am Objekt laut Habermas kausal herbeigeführt werden können und die Mittel unabhängig vom Zwecks stehen, können die Ziele eines Sprechaktes nicht unter diesen Kategorien zusammengefasst werden.
+Denn der Sprechakt enthält, im Gegensatz zum Handeln am Objekt, ein sogenanntes illokutives Element, das dem Gesprächsparter die dem Sprechakt zugrundeliegende Absicht des Handelnden offenbart.
+Einmal ist deshalb die Annahme der Kausalität unmöglich, denn das Ziel der Verständigung erfordert die Kooperation mit einer zweiten Person und kann damit nicht den selben innerweltlichen Status haben, wie eine Handlung am Objekt.
+Außerdem ist auch die Trennung von Mittel und Zweck in der Sprache nicht möglich:
+ > "the medium of natural language and the telos of reaching understanding interpret one another reciprocally, one cannot be explained without recourse to the other."
+> Habermas (S.218)
+
+Wenn Kerstin im Plenum beispielsweise darauf hinweist, dass das pünktliche Erscheinen wichtig ist und wir als Telos die Verständigung annehmen, muss sie, um ihr Ziel deutlich zu machen auf Sprache zurückgreifen, welche wiederum Verständigung erfordert.
+Führen wir diesen Gedanken weiter geraten wir schnell in einen Kreislauf, der die Rekursivität zwischen Sprache und dem Ziel der Verständigung deutlich macht.
+
+
+Das Telos der illokutiven Verständigung als universelles Ziel menschlicher Sprache steht für Habermas teleologisch fest und ist der Ausgangspunkt seiner an die des amerikanischen Philosophen John Rogers Searle und seines britischen Kollegen John Langshaw Austin angelehnten Sprechakttheorie.
+
+Grundsätzlich geht Habermas, wie Searle und Austin, davon aus, dass mit jedem Sprechakt wird automatisch ein Gültigkeitsanspruch auf das Gesagte erhoben wird, allerdings grenzt er sich von deren Vorstellung ab, die von Sprechakten aufgestellten Gültigkeitsansprüche würden nur aus Aussagenlogik bestehen.
+Er sieht diese stattdessen nur als einen Teil der Gültigkeitsansprüche, die an Sprechakte gestellt werden müssen.
+
 <!-- TODO: MH hier brauchen wir wieder ein Beispiel ... -->
 Hier differenziert er zwischen strategischem und kommunikativem Handeln, wobei er letzteres für erstrebenswerter hält.
 Zwar steht für Habermas grundsätzlich hinter jeder Handlung ein "action plan",  also ein Ziel.
 Allerdings geht er auch davon aus, dass für eine erfolgreiche Kommunikation die Beilegung dieses "action plans" nötig ist, um ausschließlich illokutive Ziele zu verfolgen.
-Wird mehr als ein illokutives Ziel verfolgt, spricht Habermas von strategischem Handeln, welches perlokutive ~ Ziele in den Vordergrund stellt.
-<!-- FIXME: MH MEHR als ein illokutives Ziel? Wohl eher weniger ... oder andere formulierung. -->
+Wird dies nicht getan, spricht Habermas von strategischem Handeln, welches perlokutive ~ Ziele, in den Vordergrund stellt, also eine bestimmte Wirkung beim Gegenüber erreichen möchte.
 Dabei gibt es wiederum zwei Arten von strategischem Handeln:
 Latent strategisches Handeln und manifest strategisches Handeln.
 
@@ -78,7 +50,7 @@ In einer solchen Situation sind die Bedingungen der normativen Gültigkeit auße
 In beiden Fällen des strategischen Handelns spricht Habermas nicht von Verständigung.
 Diese ist als solche nur in Form des kommunikativen Handlens in einer intersubjektiv geteilten Lebenswelt möglich, bei der beide Parteien uneingeschränkt das Ziel der Verständigung verfolgen.
 
-Er geht davon aus, dass strategische Handlungen in Systemen und kommunikatives Handeln in intersubjektiven Lebenswelten stattfinden und kritisiert hier die Kolonialisierung der Lebenswelten welche durch die Instutionalisierung der Gesellschaft vom System kolonialisiert wird.
+Er geht davon aus, dass strategische Handlungen in Systemen und kommunikatives Handeln in intersubjektiven ~ (das heißt beiden Akteuren gleichermaßen zugänglichen) Lebenswelten stattfinden und kritisiert hier die Kolonialisierung der Lebenswelten welche durch die Instutionalisierung der Gesellschaft vom System kolonialisiert wird.
 <!-- TODO: MH toller oben stehender Abschnitt in den letzten paar Absätzen, toll formuliert, sehr treffsicher. BRauchen davon noch mehr und noch einen gesamten Boooogen -->
 
 
