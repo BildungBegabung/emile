@@ -1,5 +1,7 @@
 # Protokoll: Benner-2012
 
+<!-- TODO: VK Wie steht Benner im Zusammenhang mit dem Kurstehema? -->
+
 Benner setzt sich damit auseinander, **Grundsätze pädagogischen Denkens und Handelns** aufzuzeigen, die für die ganze Menschheit gültig sind.
 Er richtet sich dabei an die pädagogisch interessierte Leserschaft.
 
