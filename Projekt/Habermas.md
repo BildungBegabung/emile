@@ -1,9 +1,7 @@
-# Projekt: Habermas
+# Habermas: Kommunikatives Handeln
 
-<!-- TODO: MH hier fehlt irgendwie eine allgemeine Ein-/Überleitung, auch abhängig vom letzten Abschnitt vorher. Warum lesen wir Habermas? Welches Problem informiert den folgenden Abschnitt? -->
-
-# Habermas Sprechakttheorie
 Dass Schule und Demokratie eng mit Kooperation und Kommunikation verbunden ist, wird bereits anhand von beispielsweise Kleinberg und Mead deutlich.
+<!-- TODO MH: das ist eine gute einleitung; erklären anstelle von hinweis auf kleinberg und mead wäre noch etwas schöner -->
 Jürgen Habermas postuliert nun in seinem 1998 erschienen Text "On the Pragmatics of Communication" einen Telos menschlichen Handelns und menschlicher Sprache und unterscheidet zwischen verschiedenen Handlungsformen.
 <!-- TODO: Bild Baumdiagramm mit handlungsarten einfügen--->
 
@@ -17,20 +15,22 @@ Außerdem ist auch die Trennung von Mittel und Zweck in der Sprache nicht mögli
  > "the medium of natural language and the telos of reaching understanding interpret one another reciprocally, one cannot be explained without recourse to the other."
 > Habermas (S.218)
 
-Wenn Hanna im Plenum beispielsweise darauf hinweist, dass das Hilfe bei T-Shirt drucken wichtig für das Gelingen des Projekts ist und wir als Telos die Verständigung annehmen, muss sie, um ihr Ziel deutlich zu machen auf Sprache zurückgreifen, welche wiederum Verständigung erfordert.
+Wenn Hanna, Assistentin der Akademieleitung, im Plenum beispielsweise darauf hinweist, dass die Hilfe beim Drucken der Akademie-T-Shirt wichtig für das Gelingen des Projekts ist, muss Sie, um eben diese Verständigung zu erreichen auf Sprache zurück greifen, welche wiederrum einen Verständigungs-Telos impliziert.
 Führen wir diesen Gedanken weiter geraten wir schnell in einen Kreislauf, der die Rekursivität zwischen Sprache und dem Ziel der Verständigung deutlich macht.
-
+<!-- MH super beispiel, toll gelungen -->
 
 Das Telos der illokutiven Verständigung als universelles Ziel menschlicher Sprache steht für Habermas teleologisch fest und ist der Ausgangspunkt seiner an die des amerikanischen Philosophen John Rogers Searle und seines britischen Kollegen John Langshaw Austin angelehnten Sprechakttheorie.
 
-Grundsätzlich geht Habermas, wie Searle und Austin, davon aus, dass mit jedem Sprechakt wird automatisch ein Gültigkeitsanspruch auf das Gesagte erhoben wird, allerdings grenzt er sich von deren Vorstellung ab, die von Sprechakten aufgestellten Gültigkeitsansprüche würden nur aus Aussagenlogik bestehen.
+Grundsätzlich geht Habermas, wie Searle und Austin, davon aus, dass mit jedem Sprechakt automatisch ein Gültigkeitsanspruch auf das Gesagte erhoben wird.
+Er grenzt sich allerdings von deren Vorstellung ab, die von Sprechakten aufgestellten Gültigkeitsansprüche würden nur aus Aussagenlogik bestehen.
 Er sieht diese stattdessen nur als einen Teil der Gültigkeitsansprüche, die an Sprechakte gestellt werden müssen.
 
-Sagt Mihai beispielsweise "Wir sollten dem Küchenpersonal etwas vorsingen, weil es jeden Tag unser Essen zubereitet" kann nach Habermas zwar sowohl auf die objektive Wahrheit (Bereitet das Küchenpersonal wirklich unser Essen zu?) aber eben auch auf die normative Richtigkeit (Ist Vorsingen eine angemessene Dankesgeste), die subjektive Authenzithät (Ist das Gesagte auch so gemeint oder wird Mihai von Kerstin gezwungen diesen Vorschlag zu machen?) und die sprachliche Verständlichkeit überprüft werden.
+Sagt Mihai, Assistent der Akademieleitung, beispielsweise "Wir sollten dem Küchenpersonal etwas vorsingen, weil es jeden Tag unser Essen zubereitet" kann nach Habermas zwar sowohl auf die objektive Wahrheit (Bereitet das Küchenpersonal wirklich unser Essen zu?) aber eben auch auf die normative Richtigkeit (Ist Vorsingen eine angemessene Dankesgeste), die subjektive Authenzithät (Ist das Gesagte auch so gemeint oder wird Mihai von Kerstin gezwungen diesen Vorschlag zu machen?) und die sprachliche Verständlichkeit überprüft werden.
 Für Habermas muss jeder einzelne dieser Gültigkeitsansprüche anfechtbar sein um kommunikatives Handeln zu ermöglichen.
+<!-- MH: sehr gut gelungen, wirklich ein eingängiges bsp -->
 
 Generell differenziert er zwischen strategischem und kommunikativem Handeln, wobei er letzteres für erstrebenswerter hält.
-Zwar steht für Habermas grundsätzlich hinter jeder Handlung ein "action plan",  also ein Ziel, allerdings geht er auch davon aus, dass für eine erfolgreiche Kommunikation die Beilegung dieses "action plans" nötig ist, um ausschließlich illokutive Ziele zu verfolgen.
+Zwar steht für Habermas grundsätzlich hinter jeder Handlung ein "action plan", also ein Ziel, allerdings geht er auch davon aus, dass für eine erfolgreiche Kommunikation die Beilegung dieses "action plans" nötig ist, um ausschließlich illokutive Ziele zu verfolgen.
 Wird dies nicht getan, spricht Habermas von strategischem Handeln, welches perlokutive ~ Ziele, in den Vordergrund stellt, also eine bestimmte Wirkung beim Gegenüber erreichen möchte.
 Dabei gibt es wiederum zwei Arten von strategischem Handeln:
 Latent strategisches Handeln und manifest strategisches Handeln.
@@ -42,27 +42,30 @@ In einer solchen Situation sind die Bedingungen der normativen Gültigkeit auße
 In beiden Fällen des strategischen Handelns spricht Habermas nicht von Verständigung.
 Diese ist als solche nur in Form des kommunikativen Handlens in einer intersubjektiv geteilten Lebenswelt möglich, bei der beide Parteien uneingeschränkt das Ziel der Verständigung verfolgen.
 
-Er geht davon aus, dass strategische Handlungen in Systemen und kommunikatives Handeln in intersubjektiven ~ (das heißt beiden Akteuren gleichermaßen zugänglichen) Lebenswelten stattfinden und kritisiert hier die Kolonialisierung der Lebenswelten welche durch die Instutionalisierung der Gesellschaft vom System kolonialisiert wird.
+Er geht davon aus, dass strategische Handlungen in Systemen und kommunikatives Handeln in intersubjektiven ~ (das heißt beiden Akteuren gleichermaßen zugänglichen) Lebenswelten stattfinden und kritisiert hier die Kolonialisierung der Lebenswelten welche durch die Institutionalisierung der Gesellschaft vom System kolonialisiert wird.
+
 
 ## Habermas - Dewey - Tilly : Kommunikatives und Strategisches Handeln im Kontext von Staatenbildung und -entwicklung
 <!-- Autoren zur Übersicht bitte erstmal stehen lassen! FB-->
 
 John Dewey ist wie Habermas ein Vertreter des Pragmatismus und seine Ideen von der ständgen Weiterentwicklung einer Demokratie bedingen Austausch über Ideen.
 Er geht davon aus, dass das dynamische, wandelbare Ideal im Kontext seiner Zeit immer wieder neu definiert werden muss.
-Das muss über möglichst effektive undvoreingenommene Verständigung zwischen den vielfältigen Ideen bewerkstelligt werden.
+Das muss über möglichst effektive und unvoreingenommene Verständigung zwischen den vielfältigen Ideen bewerkstelligt werden.
 Dabei sollte die Gültigkeit des aktuellen Ideals ständig überprüft werden.
 Da für Habermas nur das *kommunikative Handeln* diese Bedingungen erfüllt, wäre Fortschritt im pragmatischen Sinne nur durch genau diese Art Sprechakt möglich.
 
 Im Gegensatz dazu steht die Theorie der Staatsgenese von Tilly, was besonders dadurch deutlich wird, dass sie strategische Sprechakte beinhaltet.
-Zu strategischischen Sprechakten zählen Drohungen, wie z.B. "Wenn du die Hausaufgaben nicht machst, bekommst du nachsitzen".
+Zu strategischen Sprechakten zählen Drohungen, wie z.B. "Wenn du die Hausaufgaben nicht machst, musst du nachsitzen".
 Das umfasst natürlich auch Gewaltandrohungen, wie sie durch Charles Tilly in der Staatsgenese impliziert werden.
 Ambivalente Äußerungen der Schutzgelderpresser "Ich schütze dich vor Gewalteinflüssen, wenn du mich bezahlst" geben vor einen Gültigkeitsanspruch, den Schutz, zu verständigen.
 Tatsächlich versucht der Erpresser aber Macht zu erlangen.
 Habermas würde hier von einem *latently strategic speech act* sprechen, da der Mensch als Mittel zum Zweck instrumentalisert wird.
-Direkte Gewaltandrohung "Gib mir das Geld, oder ich knall dich ab" hat noch nicht mal einen Gültigkeitsanspruch, ist also nicht illokutiv sondern nur perlokutiv, sondern erhebt nur den Machanspruch über das Geld des Bedrohten.
+Direkte Gewaltandrohung "Gib mir das Geld, oder ich knall dich ab" hat noch nicht mal einen Gültigkeitsanspruch, ist also nicht illokutiv aufgeladen, sondern nur perlokutiv, sondern erhebt nur den Machanspruch über das Geld des Bedrohten.
 Somit ist dies sogar ein *manifestly strategic speech act*.
+<!-- TODO: MH am besten manifest/latent direkt auf deutsch übersetzen, das geht auf deutsch. Manifest strategische und latent strategische sprechakte -->
 
 Habermas würde diesen Unterschied wahrscheinlich damit begründen, dass Tilly und Dewey einmal über eine *lifeworld*~ und einmal über ein *system* nachdenkt.
+<!-- TODO MH: deutsch Lebenswelt und System -->
 Tilly beschreibt das System, bei ihm ist nur strategisches Handeln möglich.
 EIn aktuelles Beispiel wäre dafür eine Wahlkampange, die z.B. Steuersenkungen verspricht.
 Auf den ersten Blick soll vielleicht eine Idee verständigt werden, tatsächlich aber wird dem Wähler unterschwellig mit "Steuererhöungen" gedroht, mit dem Ziel Stimmen, als Macht zu gewinnen.
@@ -70,13 +73,13 @@ Das ist aber nur ein Beispiel für strategisches Handeln in Systemen, laut Hande
 Dewey beschreibt den großen Nachteil dieser Systeme als die Motivation durch Belohnung/Bestrafung (vergleichbar mit Drohungen), welche er als legale Sklaverei kritisiert.
 Dem strategischen Handeln kann man aber nur durch den Wechseln in eine *lifeworld*~ entfliehen, dem einzigen Kontext in dem Kommunikatives Handeln stattfinden kann.
 Also schlägt Dewey als Staat eine Demokratie in einer lifeworld vor, ein System in einer *lifeworld*.
+<!-- MH tolle schlussfolgerung, sehr treffend -->
 Von Habermas Standpunkt aus dürfte das sehr widersprüchlich sein, da ein Staat aufgrund seiner Größe Struktur braucht, zB das Regierungssystem, welche ohne das strategische Handeln kaum funktionieren würde.
+<!-- FIXME MH: Das ist nicht so klar; Habermas ist tatsächlich – wie gesagt – eher ein kritischer Begleiter liberaler Demokratien als irgendwas anderes. Er glaubt durchaus, das mehr oder weniger kommunikatives Handeln innerhalb einer repräsentativen Demokratie möglich ist; etwa durch eine Lebendige Zivilgesellschaft (DSA), oder gute Medien, in denen lebensweltlich kommuniziert wird und soz. die Lebenswelt dadurch dann das System kolonialisieren kann. -->
 Möglicherweise würde Habermas stattdessen ein dem System unterliegendes Netz aus kleinen, verbundenen *lifeworlds*~ vorziehen, die neue Ideen dann nach ben an das System weitergeben.
+<!-- FIXME MH: nöp, nicht das ich wüsste, falls ja bräuchten wir da eine Quelle. -->
 Vielleicht ist Deweys Idee aber in kleinem Umfeld umsetzbar, beispielsweise auf der DSA; Kommunikation ist hier fast immer auf Verständigung ausgelegt:
-- Ständig wird über Gott und die Welt diskutiert ohne andere überzeugen zu wollen, sondern um neue Ideen kennenzulernen und zu verstehen und seine eigenen Ideale zu vertreten
-- Regeln wie zB "Pünktlichkeit" werden nicht mit Strafen und strategischem Handeln durchgesetzt "Wer zu spät kommt, muss Schokolade mitbringen", sondern werden einander verständlich gemacht mit der Intention, dass die TN's durch das Verstehen von sich aus die Regeln beachten
 
-Vielleicht ist Deweys Idee aber in kleinem Umfeld umsetzbar, beispielsweise auf der DSA.
 Ein Beispiel dafür bietet die "Pünktlichkeitsregel".
 Sie wird nicht durch Androhung von Strafen - strategischem Handeln - durchgesetzt: "Wer zu spät kommt, muss Schokolade mitbringen"
 Im Gegenteil, die Regel wurde den TN's durch einen kommunikativen Sprechakt vermittelt.
@@ -85,3 +88,4 @@ Würde die Plenum-Pünktlichkeitssituation mit einem Gefangenendilemma modellier
 Aus spieltheoretischer Sicht ist Pünktlichkeit das soziales Wohlfahrtsoptimum, trotzdem wird es tagtäglich morgens um 8:30h von dem Großteil der TN's und KL's umgesetzt, ohne Androhung von Strafe.
 Kommunikatives Handeln erzeugt also tatsächlich eine Positivsumme für alle Teilhaber, wenn es gut umgesetzt wird.
 Bis zu einem bestimmten Grad ist es sogar in etwas größern lifeworlds umsetzbar.
+<!-- MH TODO: sehr gutes beispiel; eine naheliegende Aufbohrung wäre noch: vielleicht hilft ja gerade solches zivilgesellschaftliche (DSA)-Erfahren, das System, in das wir etwa als Wähler, Lehrer, Schüler, Konsumenten etc. zurück kehren irgendwie im Zaun zu halten ... oder ist das nur meine (maxs) übermüdete Utopie? -->
