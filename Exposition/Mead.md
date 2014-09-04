@@ -33,23 +33,13 @@ Unser Kursthema wird hier also durch eine tiefgreifende interaktionistische Pers
 Das Self ist ein dynamisches Konstrukt.
 Dynamisch ist es deshalb, weil Me und I durch die Interaktion mit Anderen in ständiger und ein Leben lang Bewegung sind.
 
-Die Interaktion zwischen zwei Individuen und deren Identitätsaufbau kann als Kreislauf zwischen Individuation und Sozialisation beschrieben werden.
-Individuen einigen sich in ihrer Kommunikation ständig auf Symbole, also wechselzeitig verständliche Zeichen.
-Beide haben Einfluss auf diese und erzeugen so vorläufige, kontingente Lösungen für soziale Probleme.
-Genauer ist Sozialisation die Anpassung an gesellschaftliche Denk- und Gefühlsmuster durch Internalisierung von sozialen Werte und Normen.
-Bei Mead übernimmt das Me die Aufgabe der Sozialisation, weil es für die Werte und Normen steht, welche ein Individuum während seines Lebens vermittelt bekommen hat.
-Individuation meint die Entfaltung der eigenen Möglichkeiten, Anlagen und Fähigkeiten.
-Diese Aufgabe wird bei Mead dem I zugeordnet, denn dieses steht für die sinnlichen und körperlichen Bedürfnisse, welche bei jedem Menschen individuell sind.
-
-<!-- TODO: VK ab hier bis unten noch kürzen -->
-Individuation und Sozialisation sind auch die Basis zur Beantwortung folgender Frage:
-Wie kann der Mensch eine individuelle, persönliche Identität aufbauen, wenn dieser Prozess von anderen Menschen abhängig ist?
-Obwohl die Gesellschaft Erwartungen an jedes Individuum stellt, ist immer noch das I vorhanden, welches vollkommen individuell ist und auf welches die Gesellschaft keinen Einfluss nehmen kann. Des Weiteren sind die Erwartungen der Gesellschaft nicht bei jedem Menschen gleich, sondern auch in ihnen ist eine gewisse Individualität vorhanden. Dies ist damit zu begründen, dass nicht an jeden Menschen in einer Gesellschaft die gleichen Erwartungen gestellt werden. Die Werte und Normen, die ein Mensch im Verlauf seines Lebens, also während der Sozialisation, vermittelt bekommt, sind auch nicht bei jedem gleich; somit auch ein wenig individuell. Natürlich darf man nicht vergessen, dass dieser kleine Aspekt der Individualität, welcher im Me enthalten, kaum Einfluss auf die eigentliche Individualität, welche ein jeder Mensch aufbaut. Der Großteil der Individualität wird nämlich immer noch durch das I hervorgerufen.
+Wie kann der Mensch nun eine individuelle, persönliche Identität aufbauen, wenn dieser Prozess von anderen Menschen durch das "Me" abhängig ist?
+Obwohl die Gesellschaft Erwartungen an jedes Individuum stellt, ist immer noch das I vorhanden, welches vollkommen individuell ist und auf welches die Gesellschaft keinen Einfluss nehmen kann.
+Des Weiteren sind die Erwartungen der Gesellschaft nicht bei jedem Menschen gleich, sondern auch in ihnen ist eine gewisse Individualität vorhanden.
+Dies ist damit zu begründen, dass nicht an jeden Menschen in einer Gesellschaft die gleichen Erwartungen gestellt werden.
+Die Werte und Normen, die ein Mensch im Verlauf seines Lebens, also während der Sozialisation, vermittelt bekommt, sind auch nicht bei jedem gleich; somit auch ein wenig individuell. 
+Natürlich darf man nicht vergessen, dass dieser kleine Aspekt der Individualität, welcher im Me enthalten, kaum Einfluss auf die eigentliche Individualität, welche ein jeder Mensch aufbaut.
+Der Großteil der Individualität wird nämlich immer noch durch das I hervorgerufen.
 Jeder Mensch ist zusätzlich dazu noch individuell darin, wie er sich in den jeweiligen Situationen entscheidet: Für das I oder für das Me. Auch dieses wird in einer identischen Situation nicht von jedem Menschen gleich beantwortet. Das hängt wiederum mit den zuvor in der Sozialisation erworbenen Werten und Normen zusammen.
-An diesem Punkt ist zu bemerken, dass die Gesellschaft und das Individuum nicht zu trennen sind, genauso wie das I und das Me. Beides gehört zu einer Person und die genaue Individualität wird dadurch erreicht, was diese Person mit der eigenen Individualität und den Normen und Werten der Gesellschaft macht.
-
-Besonders rückblickend auf die Symbole lassen sich drei Schlussfolgerungen ziehen, die aus dieser Theorie entstehen:
-Zum einen die von Michel Faucault, die besagt, dass einflussreiche Personen Symbole konstruiert haben und somit als Macht benutzt haben.
-Zum anderen die von Griffin, die beinhaltet, dass der "Ecological Pragmatism", wie er es nennt, schon in unser Historie die Verhaltensweisen der Menschen beschreibt.
-Die dritte Schlussfolgerung ist die "Integrationspädagogik", die besagt, dass aufgrund des Kreislaufes Behinderte nicht nur körperlich, sondern auch symbolisch eingeschränkt sind, sie also an gewissen gesellschaftlichen Aktionen nicht teilnehmen können.
-Diese Schranken aufzuheben, um soziale Integration von Menschen mit Behinderung zu fördern, versucht die Integrationspädagogik in der Schule zu etablieren.
+An diesem Punkt ist zu bemerken, dass die Gesellschaft und das Individuum nicht zu trennen sind, genauso wie das I und das Me.
+Beides gehört zu einer Person und die genaue Individualität wird dadurch erreicht, was diese Person mit der eigenen Individualität und den Normen und Werten der Gesellschaft macht.
