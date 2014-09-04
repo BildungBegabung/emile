@@ -1,19 +1,28 @@
-## "Mind, self, and society: From the standpoint of a social behaviorist"
+## Symbolischer Interaktionismus: Mead
 
 Meads Text wurde 1934 veröffentlicht unter dem Namen "Symbolischer Interaktionismus".
+<!-- TODO: MH schlechte einleitung; hier fehlt Sanduhr! Waaaaarum sollte ein leser das lesen? -->
 Symbolisch heißt soviel wie bildhaft oder sprachlich und Interaktionismus ist die Kommunikation zwischen Individuengruppen.
+<!-- FIXME MH symbolisch ist shcon klar, muss nicht definiert werden. Was sind Individuengruppen? -->
 Zusammengefasst heißt das also, dass Mead sich mit der sprachlichen, bildlichen Beziehung zwischen Menschen beschäftigt.
+<!-- FIXME MH: übel zirkulär -->
 Daraus lassen sich sowohl soziologische als auch pädagogische Rückschlüsse ziehen.
 
 Der Hauptbestandteil Meads, auf den sich seine ganze Theorie stützt, besteht aus den Komponenten **"I"**, **"Me"** und **"Self"**.
+<!-- FIXME: MH Ich hoffe wirklich, dass I, ME and Self nicht der Hauptbestandteil von Mead sind ... der Typ ist doch schon total kompostiert! -->
+<!-- FIXME: MH die Reihenfolge ist strange; lieber den symbolischen interaktionismus erst noch knapp aber präzise erklären (zusammen werden Symbole geschafen, die dann wiederrum) - dann auf i/ me / self zurück kommen, dafür aber auch nochmal VK fragen, die kennt sich da besser aus -->
 Dabei werden Wünsche und Ziele beziehungsweise sinnliche und körperliche Bedürfnisse durch das "I" ausgedrückt, kurz der Egoismus eines Individuums.
 Das "I" wird auch impulsives Ich genannt, da es immer Neues und Schöpferisches in jede Situation bringt.
 >"Das I liefert das Gefühl der Freiheit der Initiative" (Mead-1934, S. 221)
 
 Das "Me" steht dem gegenüber und ist die Vorstellung eines Menschen, wie er von der Außenwelt betrachtet wird.
 Es ist somit das reflektierte Ich.
+<!-- TODO: MH wir brauchen hier ein Beispiel, um I/ME/SELF zu verstehen. Vielleicht eines was auf den Kursinhalt passt? -->
 Des Weiteren ist das "Me" ständig in Bewegung, weil immer neue Ansichten, wie jemand von der Gesellschaft gesehen wird, im Verlauf des Lebens hinzukommen. Mead beschreibt den Zusammenhang zwischen "I" und "Me" so:
->*"Das I ruft das Me nicht nur hervor, es reagiert auch darauf. Zusammen bilden sie eine Persönlichkeit, wie sie in der gesellschaftlichen Erfahrungen erscheint."* (Mead-1934, S. 221)
+
+>*"Das I ruft das Me nicht nur hervor, es reagiert auch darauf.
+> Zusammen bilden sie eine Persönlichkeit, wie sie in der gesellschaftlichen Erfahrungen erscheint."*
+> (Mead-1934, S. 221)
 
 Die Bildung des "Me" ist also nie wirklich abgeschlossen.
 Aufgrund dessen, dass das "Me" die Moralität beinhaltet und den Pluralismus der Gesellschaft umfasst, ist es der ständige Gegenspieler des "I".
@@ -21,9 +30,12 @@ Der dritte Komponent ist die Entscheidungskraft, beziehungsweise das Ergebnis au
 Dieses ist quasi die Identität, welche aus der ständigen Vermittlung zwischen "I" und "Me" entsteht.
 Eine gelungene Identität ist erreicht, wenn "I" und "Me" in einer gleichgewichtigen Spannung zueinander stehen.
 Wichtig sind diese Komponenten für die Selbstreflexion eines Individuums, auch looking-glass-effect gennant.
+<!-- MH TODO: nach Möglichkeit nur deutsche Übersetzungen verwenden -->
 Dieser Spiegelbildeffekt hilft dem Menschen sich aufgrund von Reaktionen des Gegenübers selber wahrzunehmen und mitzubekommen, wie andere auf das eigene Verhalten reagieren.
 Dies funktioniert, indem das "Me" die Umwelt wahrnimmt und das "I" diese Eindrücke subjektiv entgegennimmt und spontan reagiert, sich also dadurch auch verändern, vielleicht sogar verbessern kann.
->"Das Me ist die organsisierte Gruppe von Haltungen anderer, die man selbst einnimmt." (Mead-1934, S. 218)
+
+>"Das Me ist die organsisierte Gruppe von Haltungen anderer, die man selbst einnimmt."
+> (Mead-1934, S. 218)
 
 Diese drei Komponenten fasst man zusammen als ein dynamisches Konstrukt, was bedeutet, dass ein Leben lang das Wechselspiel dieser Drei nicht zu Ende gehen kann.
 Dynamisch ist es deshalb, weil "Me" und "I" durch die Interaktion mit Anderen in ständiger Bewegung sind, was bedeutet, dass bei jeder Entscheidung im Alltag entweder das "Me" oder das "I" überwiegen kann.
