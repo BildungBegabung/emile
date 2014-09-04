@@ -93,13 +93,3 @@ Schule produziert also durch die Beeinflussung der Lernenden dahingehend, dass d
 Das impliziert die unterschiedliche Wertigkeit von Menschen und führt somit dazu, dass Schüler nicht nur als ungleich betrachtet werden, sondern auch sich selber als unterschiedlich wertvoll ansehen.
 Illich schlägt nun vor, das Messen von Fähigkeiten im Bezug auf den Zugang zu Bildungsmöglichkeiten ganz abzuschaffen.
 So entsteht ein Menschenbild, dass von der Gleichwertigkeit Aller ausgeht, während die beschriebenen Freiheiten und Wahlmöglichkeiten ein Maximum an persönlicher Autonomie ermöglichen.
-
-
-<!-->"If people are seriously to think about deschooling their life, and not just escape from the
-corrosive effects of compulsory schooling, they could do no better than to develop the habit of
-setting a mental question mark beside all discourse on young people’s ‘‘educational needs’’ or
-‘‘learning needs,’’ or about their need for a ‘‘preparation for life.’’
-
-Er distanziert sich in späteren Jahren wieder von seinen Reformvorschlägen, da er nach eigener Aussage noch der Fehleinschätzung unterlag, Lernen sei ein notwendiger Prozess in der menschlichen Entwicklung.
-Illich sieht sich mit zunehmenden Alter immer weniger gewilt, konkrete Reformvorschläge zu machen und wirft die Arme hoch:
->‘‘I hope nobody takes what I said for answers’’
