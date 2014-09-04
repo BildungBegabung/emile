@@ -1,6 +1,6 @@
 # Kooperation im Selbstexperiment - Reflektion über unsere Kursarbeit auf GitHub
 <!-- TODO FB: Beim ersten auftauchen unserer Lieblingsbegriffe wie merge, issue etc pp diese erklären! -->
-Während unserer Kursarbeit haben unsere Kursleiter wohl oft mit Sorgenfalten in extremst irritierte Gesichter geblickt.
+Während unserer Kursarbeit haben unsere Kursleiter wohl oft mit Sorgenfalten in irritierte Gesichter geblickt.
 Es hatte ja auch etwas heroisches an sich, die grundsätzlichsten Fragen der menschlichen Existenz im Sinne seiner Entwicklung und seiner soziologischen Gemeinschaft beantworten zu wollen.
 Der Eine oder Andere musste auf diesem Weg mehr als einmal seinen Blick auf die Welt ändern und besonders mit dem Begriff der Deontologie ringen.
 Da wir uns inhaltlich mit Fragen der menschlichen Kooperation (manchmal auch der tierischen) beschäftigt haben, lag es nahe auch unsere Kursarbeit kooperativ zu organisieren.
