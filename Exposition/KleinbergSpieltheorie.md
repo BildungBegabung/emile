@@ -8,7 +8,7 @@ Bei einem **Spiel** handelt es sich um eine Entscheidungsfindung von Spielern, i
 
 ![Pay-Off Matrix](img\Kleinber_Spieltheorie_martrix.jpg "Auswahlmatrix")
 
-Ein Fallbeispiel für ein Spiel nach der Spieltheorie liefert das **Gefangenen Dilemma**.
+Ein Fallbesipiel für ein Spiel der Spieltheorie liefert das **Gefangenen Dilemma**.
 Die Abbildung oben stellt eine Auswahlmatrix dar.
 Hier werden die Spielstrategien der SPieler Dargestellt und die Summenanzahlen der Zellen in den jeweiligen Entscheidungen.
 Verdeutlicht wird hier auch die wechselseitige Abhängigkeit beider Spieler: Wenn sich der Spieler (A/Marvin) für eine Spielstrategie entscheidet, so betrifft das auch Spieler (B/Susanna) und den Output beider Spieler.
@@ -34,13 +34,13 @@ Das *soziale Wohlfahrtsoptimum* ist die Zellenkombination mit der höchsten Summ
 
 Der Erfolg einer Person im Spiel liegt somit nicht nur in seinen eigenen Entscheidungen, sondern darin welche Spielentscheidungen von allen anderen getroffen werden (Kleinberg; Networks, Crowds and Markets, S.156).
 
-### Die Axiome der Spieltheorie
+## Die Axiome der Spieltheorie
 
 Nach Annahme der Axiome der "Spieltheorie" entscheidet sich der Mensch in seinem Handeln stets streng ökonomisch, das heißt, er verfolgt die Strategie mit dem größtmöglichen Gewinn (vgl. ebd. S.159).
 Außerdem wird angenommen, dass jeder den "Spielplan" (vgl. ebd. S.159) kennt und somit auch alle Spielstrategien und Mitspieler.
 Die letzte Annahme basiert auf der rationalen, indivduellen Nutzenmaximierung (vgl. ebd., S.156).
 
-### Die Spielvarianten
+## Die Spielvarianten
 
 Es ergeben sich auf diese Weise zwei möglich Spielausgänge von Positivsummenspielen:
 
@@ -55,7 +55,8 @@ Die Annahme *totaler Harmonie* im Handel würde auch Adam Smith unterstützen:
 Ein Beispiel wäre das der Nationalen Co2 Emissionen. Entscheidet sich ein Land weniger Umweltschutzmaßnahmen zu treffen so profitiert es davon nur, solange die anderen Ländern nicht die gleiche Strategie wählen.
 
 Beide Spielausgänge lassen sich in einem Baumdiagramm darstellen:
-![AlternativText](img/%EUERBILD%.jpg "Bildunterschrift")
+
+![Baumdiagramm](img\Kleinberg_Spieltheorie_Summenspiele.jpg "Summenspiele")
 
 ## Das Gefangenendilemma lösen
 
