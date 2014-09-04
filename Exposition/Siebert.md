@@ -1,11 +1,14 @@
 # Konstruktivismus [Siebert 2003]
 
+
+
 > „Der Mensch hat keinen Zugriff auf die objektive Realität“
 > Heinz von Foester
 
 Die zentrale Frage einer konstruktivistischen Lerntheorie lautet: Wie nimmt der Mensch die Welt wahr und inwiefern prägen ihn dabei individuelle Erfahrungen?
 
 Bezieht man sich auf das einführende Zitat der Unmöglichkeit einer objektiven Wahrnehmung, so wird der Denkansatz des Konstruktivisten deutlich.
+Dieser [Denkansatz] beschäftigt sich mit den Menschen als Individuum und kann im Hinblick auf Dahls Theorie der Verbindung zwischen persönlicher Autonomie und intrinsische Gleichheit eine Disskrepanz aufzeigen.
 
 Laut Sieberts Theorie einer konstruktivistischen Pädagogik ist die Wahrnehmung "keine Abbildung der Außenwelt, sondern eine funktionale viable Konstruktion" (Siebert 2003, S. 6).
 Ausgehend von dieser Annahme stellt Siebert die Kernthese auf, dass "Menschen [...] autopoietische, selbstreferenzielle, operational geschlossene Systeme [sind]." (ebd. S. 5)
