@@ -35,17 +35,14 @@ In den USA kann zum Beispiel durch die Festsetzung der Wahlbezirke indirekt ein 
 
 Einzig bei einer Entscheidung zwischen zwei Alternativen kann - beispielsweise durch das Mehrheitswahlsyem - ein Ergebnis agreggiert werden, welches sowohl IIA als auch die Pareto-Verbesserung gewährt und gleichzeitig eine Diktatur vermeidet.
 
-//DREIECK// --> Es sind immer nur 2/3 Elementen umsetzbar.
-<!-- TODO MH: hier fehlt noch das Bild; am besten schonmal in auskommentierten Markdown-Bild verweis umbauen (siehe Issue wie das geht, oder einfach googlen nach der syntax) -->
+![Dreieckskonstellation](img/Kleinberg_Sozialwahltheorie_Abb1.jpg)
 
+## Lösungsmöglichkeit
 
-### Lösungsmöglichkeit
+Um die Entstehung nicht-transitiver Ergebnislisten zu vermeiden müssen alle ordinal sortierten Präferenzlisten der Wählenden in einer für alle gleichen  Ordnung der Optionen nur ein einziges Globales Maximum aufweisen (*single-peakedness*).
+<!-- TODO MH: single peaked übersetzen, internet fragen // FB Intenet hat keine Antwort -> TODO entfernen wenn "Globales Maximum" ausreicht -->
+![Dreieckskonstellation](img/Kleinberg_Sozialwahltheorie_Abb2.jpg)
 
-Die Entstehung nicht-transitiver Gruppenlisten zu vermeiden ist die einzige Lösungsmöglichkeit für Arrows Impossibility Theorem.
-Das ist nur umsetzbar, wenn alle Präferenzlisten der Wähler *single-peaked* sind, das bedeutet konsistent mit einem einzigen globalen Maximum in der sortierten Ordnung der Alternativen.
-<!-- TODO MH: das müssen wir noch etwas genauer klären: gemeint ist: es gibt *eine* Ordnung über alle Wählerinnen der ordinal sortierten Optionen (!), bei der dann die Präferenzlisten jeder einzelnen Wählerin single-peaked sind. -->
-<!-- TODO MH: single peaked übersetzen, internet fragen -->
-<!-- ----Bild?----- -->
 In der Politik könnte man zum Beispiel Parteien graduell nach politischer Orientierung (rechts/links) sortieren.
 Single-peaked Wahllisten sind dann solche, in denen die "Zweitwünsche" auf der Skala nahe am "Topfavorit" liegen.
 <!-- TODO MH: gemäß von mir o.g. ergänzung Bsp anpassen -->
