@@ -1,6 +1,4 @@
-# Netzwerktheorie Kleinberg
-
-### Terminologie
+# Menschliches Zusammenleben - eine Welt voller Verbindungen
 
 Um Netzwerke, Systeme von Verbindungen zwischen Entitäten, theoretisch betrachten und analysieren zu können, gibt es die Möglichkeit sie als Graph darzustellen.
 Dabei gibt es Kanten und Knotenpunkte.
