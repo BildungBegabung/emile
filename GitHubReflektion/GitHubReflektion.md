@@ -82,3 +82,9 @@ Werden dazu noch *labels* vertagged, ist auch der Gültigkeitsbereich klar defin
 
 Was Habermas an unserer Arbeitsform allerdings kritisieren könnte, ist die Instutionalisierung des Arbeitsprozesses.
 Denn GitHub als Institution ersetzt in Teilen den direkten Austausch in intersubjektiven Lebenswelten durch ein systematischen Prozess, den Habermas in der modernen Gesellschaft stark problematisiert.
+
+
+## Fazit
+
+Auch wenn die meisten der von uns behandelten Autoren vor der Zeit des Internet veröffentlicht hatten und ein Vergleich zu Github somit im Großteil der Fälle auf Spekulationen und Vermutungen beruht, lässt sich doch sagen, dass unsere Zusammenarbeit über Github in einigen Bereichen den Idealvorstellungen mehrerer Autoren bereits sehr nahekommt, besonders was die Kommmunikation und die fast uneingeschränkte Freiheit jedes einzelnen angeht, die für eine so bislang unbekannte Qualität der Kooperation und Abstimmung untereinander sorgt.
+Allerdings ist auch Github natürlich nicht nicht das Blaue vom Himmel, so dass bei längerer Arbeit Fehler ans Tageslicht treten, wie zum Beispiel die akute Gefahr, dass durch die Arbeit auf GitHub die persönliche Kommunikation eingeschränkt und im schlimmsten Fall komplett durch die virtuelle ersetzt wird.
