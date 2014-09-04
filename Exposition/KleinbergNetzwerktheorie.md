@@ -6,7 +6,7 @@
 ### Terminologie
 
 Um Netzwerke, Systeme von Verbindungen zwischen Entitäten, theoretisch betrachten und analysieren zu können, gibt es die Möglichkeit sie als Graph darzustellen.
-Dabei gibt es **Edges** (Kanten) und **Nodes** (Knotenpunkte).
+Dabei gibt es Kanten und Knotenpunkte.
 Nodes können untereinander durch Edges verbunden werden, die soziale Verbindung, Bekanntschaft, gemeinsame Arbeiten etc. darstellen
 <!-- FIXME: MH nur deutsche Begriffe verwenden -->
 <!-- TODO: MH Beispiel für Netzwerk einführen, eines das mit unserem Kurs zu tun hat -->
@@ -35,11 +35,33 @@ Hierbei geht man von einer bestimmten Anzahl von Subjekten (also Knoten) aus, di
 Ihre Nachbarn werden dann nacheinander entscheiden, ob sie diese übernehmen möchten oder nicht, dies wird entschieden durch einen  **Treshold** (Grenze), die angibt, welcher Anteil von Nachbarn die Neuerung mindestens benutzen müssen, damit man diese auch übernimmt.
 Dementsprechend findet eine Ausbreitung durch das Netzwerk, eine Kaskade, statt.
 Diese wird in einigen Fällen gestoppt, endet also, ohne das gesamte Netzwerk übernommen zu haben.
-<!-- TODO: MH genauer erklären; wie unten auch gemacht: es kommt zu Ausbreitungsstops, wenn der Threshold nicht erfüllt wird, am besten an einem Beispiel erklären. Die anderen Sätze sind eher verwirrend, zu wage "kommt es leicht zu ..."; nicht leicht, an Clustergrenzen terminiert die Kaskade per Definition.  -->
-Grund dafür sind **Cluster**, also Bereiche des Netzwerks mit eng untereinander verbundene Knoten, die allerdings nur wenige Verbindungen zu Knoten außerhalb des Clusters haben.
-An den Grenzen dieser Cluster kommt es leicht zum Ausbreitungsstopp der Neuerung, da der Treshold für Außenstehende nicht erfüllt wird.  
-Eine eng verbundene Gruppe innerhalb eines Netzwerks sorgt also sowohl für einen Vorteil der Mitglieder innerhalb der Gruppe als auch für eine Abgrenzung von Außenstehenden, da diese keine Möglichkeit haben, Neuerungen der Gruppe zu übernehmen.
-<!-- TODO: MH das ist zu eng gefasst; Ungleichheits-Dynamiken sind nur *eine* Möglichkeit der Dynamiken, die auf Graphen operieren können. Es könnte sich auch um ganz andere Dinge halten, etwa die Genese von "Memes" wie sprachlichen Eigenheiten "KüA" benutzt man auch nur, wenn viele der Leute mit denen man spricht es auch benutzen, sonst unsinnig. Präziser müsste man sagen (wie ja auch folgt), dass durch Kaskaden und Netzwerkeffekte die Graphenverteilung einem Power Law folgen *kann*. -->
+Liegt das Treshold für eine NEuerung beispielsweise bei 0,4 , müssen also mindestens 2/5 der Nachbarn von Knoten *X* diese Neuerung benutzen, damit sie übernommen wird.
+Wenn *X* aber vier Nachbarn hat, von denen nur einer die Neuerung hat, ist eine Veränderung für *X* nicht attraktiv genug, es sei denn, ein anderer Nachbar entscheidet sich auch um.
+Gehen wir aber davon aus, dass alle anderen Nacbarn von *X* nur untereinander verbunden sind und einen eigenen Abschnitt des Netzwerks bilden und somit nur über *X* ein Pfad zu anderen besteht, gibt es keine Möglichkeit für *X*, das Treshold zu erreichen, es kommt zum Ausbreitungsstopp.
+Diese Abschnitte innerhalb von Netzwerken bezeichnet man als **Cluster**, also Bereiche des Netzwerks mit eng untereinander verbundenen Knoten, die allerdings nur wenige Verbindungen zu Knoten außerhalb des Clusters haben.
+An den Grenzen dieser Cluster terminiert die Kaskade einer Neuerung, da der Treshold für Außenstehende nicht erfüllt werden kann.  
+Eine eng verbundene Gruppe innerhalb eines Netzwerks sorgt also für eine "Isolation" einer Neuerung von anderen Teilen des Netzwerks.
+Besonders deutlich wird dies beispielsweise beim Sprachgebrauch und Vokabular innerhalb der Schülerakademie;
+So gehören Begriffe wie *KüA* oder *AKL* in der DSA zum normalen Sprachgebrauch und sind bei allen Teilnehmern etabliert, sie werden sich allerdings kaum darüber hinaus in den Wortschatz ausbreiten, da die DSA einen eigenen, von anderen Bereichen isolierten Kontext darstellt.
+Die Netzwerktheorie macht somit deutlich, weshalb bestimmte gemeinsam geteilte Angewohnheiten oder Neuerungen sich nur in einem bestimmten Cluster etablieren und somit große Netzwerke in kleinere Abschnitte unterteilen, die wiederum in ihren Eigenschaften mehr oder weniger unabhängig und isoliert voneinander bestehen.
+Diese relative "Isolation" kann in bestimmten Fällen sowohl einen Vorteil der Mitglieder innerhalb der Gruppe als auch eine Abgrenzung von Außenstehenden zur Folge haben, da diese keine Möglichkeit haben, Neuerungen der Gruppe zu übernehmen.
+### Zimpel
+
+Eine Anwendung in der Pädagogik bietet Andre Frank Zimpel, der in seinem Text als ein ein zentrales Problem des Lehrens in der Schule die Heterogenität in einer Lerngruppe beschreibt, durch die ein Konflikt zwischen der Möglichkeit einer individuellen Förderung und dem Ziel eines gemeinsamen Lernens, das jeden Schüler in gleicher Weise berücksichtigt, besteht.
+Die Lehrenden müssen sich also der Frage stellen, welches der beiden Ziele, Individualität oder Gemeinschaft, auf Kosten des anderen stärker verfolgt werden soll
+Zimpel stellt dabei drei Konzepte vor.
+Ein Prinzip, bei dem die Individualität des Einzelnen in den Vordergrund gestellt wird, ist **das Matthäusprinzip**. Sein Grundsatz sagt aus: "„Wer viel hat, dem wird viel gegeben; wer wenig hat, dem wird genommen“ (Zimpel, S.105).
+Man kann es damit erklären, dass Menschen mit "mehr" (zum Beispiel Begabung oder Geld) bessere Vorraussetzungen haben und automatisch leichter *noch mehr* erreichen als andere mit "weniger", wodurch sich die Unterschiede verstärken.
+Oft findet dies auch bewusst in Form von gezielter Förderung und speziellen Programmen für leistungsstarke Schüler wie beispielsweise der DSA statt.
+Diese leistungsstarken Schüler bilden dann in der Gesamtschülerschaft ein eigenes Cluster, durch das sie sich von den anderen leistungsschwächeren Schülern abgrenzen. Sie bekommen so Zugang zu speziellen Inhalten, Methoden oder auch wichtigen Kontakten und Möglichkeiten, von denen sie untereinander profitieren, zu dene schwächere Schüler aber keinen Zugang finden können.
+Zum einen enstehen dadurch größere gesellschaftliche und schulische Disparitäten, andererseits bietet sich aufgrund der verschiedenen Fähigkeitsstufen eine Wettbewerbssituation, die als Motivation für schwächere dienen kann.
+
+**Das Normalisierungsprinzip** kann als Gegenstück des Matthäusprinzips betrachtet werden: "Wer wenig hat, bekommt. Wer viel hat, gibt.“ (S.12)
+Durch verschiedene Maßnahmen wird also ein Ausgleich angestrebt.
+Die Anzahl der Schüler, die dem Mittelmaß zugeordnet werden können, steige demnach an, extreme Abweichungen nehmen entsprechend ab.
+Besonders in der Sonderpädagogik wird dieses System häufig angewendet, um benachteiligten Schülern gleiche Chancen einzuräumen.
+Als Netzwerk dargestellt gäbe es beim Normalisierungsprinzip keine Cluster oder Abgrenzungen, da jeder Schwache mit starken Schülern in Kontakt steht. Das Ideal wäre eine Lerngruppe, in der ein homogener Bildungsstandard herrscht. In der Netzwerktheorie stößt das Prinzip allerdings schon an seine Grenzen, wenn man Personen am Rand des Netzwerks betrachtet, die zwangsläufig weniger Kontakte als andere haben.
+
 
 
 ### Power Law
