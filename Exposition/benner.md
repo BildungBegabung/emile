@@ -1,7 +1,5 @@
 # Protokoll: Benner-2012
 
-<!-- TODO: VK Wie steht Benner im Zusammenhang mit dem Kurstehema? -->
-
 Benner setzt sich damit auseinander, **Grundsätze pädagogischen Denkens und Handelns** aufzuzeigen, die für die ganze Menschheit gültig sind.
 Er richtet sich dabei an die pädagogisch interessierte Leserschaft.
 
@@ -17,11 +15,15 @@ Benner behauptet, Bildsamkeit liege grundsätzlich in der Natur der Kommunikatio
 Allerdings ist die Bildsamkeit mehr ein Potenzial und daher muss der Edukator dem Edukanten bei der Herausbildung der Bildsamkeit helfen: **Der Mensch muss zur Selbsttätigkeit aufgefordert werden.**
 Dies geschieht nach Benner intersubjektiv in einem Erziehungsprozess.
 Der Erziehungsprozess ist nach dem Prinzip der unbestimmten Bildsamkeit im Sinne der autoritativen Erziehung als Interaktion zwischen dem Erzieher und dem Zu-Erziehenden zu sehen.
-
 Grundsätzlich sieht Benner für diesen Erziehungsprozess kein Ende.
 Sobald der Zu-Erziehende nicht mehr dazu in der Lage ist, bildsam zu handeln, benötigt er für Benner wieder pädagogische Hilfe.
 Sobald dieses Problem allerdings gelöst ist, ist ein Eingreifen des Edukators nicht mehr erforderlich und die "Finalität der pädagogischen Praxis" (S. 91) ist erreicht.
 Benner nennt es die *"Imperfektheit des Menschen" (S. 78).*
+
+Die Bildsamkeit als Prinzip menschlichen Lebens und Interagierens ist entscheidend somit für die Frage nach persönlicher Autonomie und inherenter Gleichwertigkeit, da Bildsamkeit dem Menschen grundsätzliche ein großes Maß an Autonomie zugesteht.
+Obwohl nach Benner die Aufgabe der Erziehung auch weit über das Kindeslter hinaus geht, gesteht er jedem Individuum die Fähigkeit der Entscheidung zu, was er von seinem Leben will.
+Benner sieht jedoch ein, dass die Freiheit eines Menschen nicht unendlich ist, schließlich sind Dinge wie Beeinflussung durch Anlagen und die Umwelt durchaus auch entscheidend für das Verhalten eines Menschens.
+Daraus zeigt sich, dass das Prinzip der **Bildsamkeit das Kooperationsproblem im Sinne der Pädagogik hinreichend löst**.
 
 Bildsamkeit und Selbsttätigkeit drücken sich laut Benner auf vier Ebenen aus, die nur dem Menschen vorbehalten sind.
 Sie lauten: Leiblichkeit, Freiheit, Geschichtlichkeit und Sprachlichkeit.
