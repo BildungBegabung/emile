@@ -4,6 +4,7 @@ Friedrich Hayeks beschäftigt sich in seinem Buch "The Use of Knowledge in Socie
 Uns soll vorallem seine Vorstellung vom Individuum mit einzigartigem Wissen interessieren, und wie diese in einem System zusammenleben können.
 Hayeks betrachtet das Individuum ontologisch als kleinste Einheit, und fragt davon ausgehend, wie ein wirtschaftliches System  ausgerichtet sein sollte.
 Wissen ("knowledge") ist der Beweggrund, der wirtschaftlichem Handeln zugrundeliegt.
+
 Wissen jedoch "never exists in concentrated or integrated form, but solely as the dispersed bits of incomplete and frequently contradicitionary knowlegde which all the seperate individuals possess" (Hayek-1945 S. 520).
 Erst durch das Vorhandensein von Wissen, weiß das Individuum, was es möchte.
 Möchte ich beim morgendlichen Besuch in der Mensa der DSA lieber Kaffee oder Tee trinken?
@@ -15,6 +16,7 @@ Vielleicht habe ich gerade ein Kratzen im Hals, dann fällt meine Wahl auf Tee, 
 Genau das ist das Argument das Hayek einer Planwirtschaft entgegenstellt: Wir **können** gar nicht im Vorhinein planen.
 Planwirtschaft benötigt eine zentrale Aggregation von Informationen, in einer Planwirtschaft müssen alle Informationen zentral zusammengetragen werden (at the disposal of a single central authority" (ebd. S. 521)).
 Einen solchen Aufwand zu betreiben und Informationen zusammenzutragen, die in einer konkreten Situation nicht einmal zutreffen: das ist unwirtschaftlich.
+
 In einer freien Marktwirtschaft werden ebenfalls Informationen aggregiert, jedoch dezentral, zusammengefasst durch den Mechanismus des Preises.  
 Hayek sieht es als **Errungenschaft** der Moderne, dass menschliche Kommunikation und der Austausch von Informationen fortan nur noch durch den "Preis" bestimmt wird und somit stark vereinfacht ist.
 Der Käufer eines Produktes braucht nicht zu wissen, mit welchem Schiff ein Produkt in den Laden verschifft wurde - es beeinflusst ihn schlicht nicht in seiner Kaufentscheidung.
