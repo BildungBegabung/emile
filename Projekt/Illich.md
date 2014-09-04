@@ -52,7 +52,6 @@ Diese Lernen in sozialen Kontexten beschreibt auch Zimpel mit seiner Forderung:
 
 So würde der Hyperzyklus von Zimpel diese Lücke in Illcihs Lernkonzept füllen, denn hierdurch würden sich auch schwächer eingestufte Kinder als hilfreich für andere erleben, wie z.B. durch jetzt thematisierte Lückenbegabungen, die heutzutage oft untergehen.
 
-
 Der Ansatz des sozialen Lernens lässt sich auch auf Dewey beziehen. Illich und Dewey stellen sich beide gegen einen aktiven Lehrprozess und sehen Lernen eher als eine natürliche Eigenschaft des Menschen.
 Dewey beschreibt seinen ungezwungenen Erfahrungsaustausch als wichtigste Eigenschaft einer forstschrittlichen Gesellschaft.
 Die von Illich beschriebene Kategorisierung baut auf Dewey Ideal auf von einer errichtung einer Demokratie als mehr als nur einer Staatsform
