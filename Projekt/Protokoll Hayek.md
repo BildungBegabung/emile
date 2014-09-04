@@ -1,24 +1,18 @@
-# Protokoll Hayek
+# Hayek
 
-Hayek beschäftigt sich mit der Frage, wie ein gutes wirtschaftliches System aussieht (economic order (S.519)).
-Er geht davon aus, dass wirtschaftliches Verhalten abhängig von dem Wissen (knowledge) ist, welches dem Individuum zur Verfügung steht.
-Dieses Wissen,
+Friedrich Hayeks beschäftigt sich in seinem Buch "The Use of Knowledge in Society" vorallem mit der Frage, wie ein wirtschaftliches System aussehen sollte.
+Uns soll vorallem seine Vorstellung vom Individuum mit einzigartigem Wissen interessieren, und wie diese in einem System zusammenleben können.
+Hayeks betrachtet das Individuum ontologisch als kleinste Einheit, und fragt davon ausgehend wie ein wirtschaftliches System  ausgerichtet sein sollte.
+Wissen ("knowledge") ist der Beweggrund, der wirtschaftlichem Handeln zugrundeliegt.
+Wissen jedoch "never exists in concentrated or integrated form, but solely as the dispersed bits of incomplete and frequently contradicitionary knowlegde which all the seperate individuals possess" (S.520).
+Erst durch das Vorhandensein von Wissen , weiß dass Individuum, was es möchte.
+Möchte ich beim morgendlichen Besuch in der Mensa der DSA lieber Kaffee oder Tee trinken? Das zu entscheiden ist eine Art von Wissen.
+Wissen besteht nämlich nicht nur aus "scientific knowledge", imanentem Faktenwissen - welches nach Hayek in der Gesellschaft viel zu stark gewichtet wird - ,  Wissen entsteht oft auch lokal, also erst wenn man sich in einer konkreten Situation befindet und ist individuell.
+Ob ich also lieber Kaffee oder Tee trinken möchte, entscheide ich spontan, ich bin im Vorhinein nicht in der Lage eine Entscheidung zu treffen. Vielleicht habe ich gerade ein Kratzen im Hals, dann fällt meine Wahl auf Tee, wenn ich zu wenig geschlafen habe, greife ich eher zur Kafeekanne.
 
->"never exists in concentrated or integrated form, but solely as the dispersed bits of incomplete and frequently contradicitionary knowlegde which all the seperate individuals possess" (S.520).
-
-Hayek legt besonderen Wert auf eine Differenzierung zwischen Faktenwissen (scientific knowledge(S.522))
-Um wirtschaftliches Handeln zu fördern ist also die Anhäufung von Wissen nötig, indem individuelles Wissen transferiert wird: Kommunikation.
-
-Hayek stellt ein dezentralisiertes System von "Competition" (S.3), das von vielen Personen "geplant" wird über ein System von zentralisiertem
-
->"at the disposal of a single central authority" (S.3)
-
-"planning".
-
-Das Kriterium dafür ist der Grad an Ausnutzung des vorhandenen Wissens ("which of them we can expect fuller use will be made of the existing knowledge"(S.3)).
-Ein dezentralisiertes System erfüllt dieses Kriterium in höherem Maße, weil Hayek davon ausgeht, dass "[...] every individual has some advantage over all the others in that he posseses unique information of which beneficial use can be made only if the decisions depending on it are left to him or are made with his active cooperation".
-
-Hayek meint außerdem, das in einer Planwirtschaft [äpfel-birnen-preis?] nicht genug Informationen über das Produkt vermitteln werden. [........]
+Genau das ist das Argument das Hayek einer Planwirtschaft entgegenstellt: Wir **können** gar nicht im Vorhinein planen. Des Weiteren sieht Hayek das Problem der Weitergabe von Knowledge. In einer Planwirtschaft müssen alle dezentralen Informationen zentral zusammengetragen werden (at the disposal of a single central authority" (S.3)).
+Einen solchen Aufwand zu betreiben und Informationen zusammenzutragen, die in einer konkreten Situation jedoch nicht einmal zutreffen: das ist unwirtschaftlicher Aufwand.
+Hayek zieht ein freiheitlicheres System der Marktwirtschaft also nicht aus ideologischen Gründen vor, sondern löst dieses Problem ("purely one of logic"(S.519)) von einem praktischen, wirtschaftlichen, logischen  Standpunkt aus.
 
 Mit der Idee von einzigartigem (individuellen) Wissen, das jede Person mehr innehat als alle anderen, erinnert Hayek an einen radikalen Dahl, der dessen Formulierung: "Every adult is the best judge of his/her self interest" verschärft, indem Hayek sagt, dass Informationen nur lokal existieren und wenn die Person frei in Marktaustausch eintritt.
 
@@ -30,8 +24,6 @@ Hayek beschäftigt jedoch weniger die Frage nach der Möglichkeit der Kommunikat
 Brauchen wir Kommunikation, brauchen wir gemeinsame Symbole, um den Bogen zu Mead zu schlagen?  (: : : : : : : : : : : : : : : : : : : :)
 
 Das einzige "Symbol" , das wir brauchen , die einzige objektive Instanz und die einzige ist der Preis. Im Preis sind alle Informationen über ein Produkt enthalten, welche den Konsumenten interessieren müssen.  
-
-Für die Wirtschaft gibt Hayek also ein klares Plädoyee für freie Marktwirtschaft, mit wenigen zentralisierten Elementen.
 
 Im sozialen und gesellschaftlichen Kontext bedeutet das, dass Instituionen und staatliche Instanzen nur einen Umweg, eine Verkomplizierung in der Informationsvermittlung bedeuten, und die Interessen der Einzelnen nicht fassen können.
 
