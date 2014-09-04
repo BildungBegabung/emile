@@ -19,8 +19,7 @@ Der Mensch entscheidet als *geschlossenes System*, ob die verfügbaren Informati
 Abhängig von den individuellen Determinationen, mit denen ein Mensch im Leben konfrontiert wird, verändert sich so seine Wahrnehmung der Umwelt.
 Der Mensch ist demnach strukturdeterminiert (vgl. ebd. S. 5).
 Aufbauend auf seinem individuell geprägten Menschenbild geht Siebert davon aus, dass ein Wechselverhältnis zwischen der Wahrnehmung des Menschen und der Umwelt existiert.
-Die individuelle Wahrnehmung wird von Viabilität (~) und Rekursivität (~)
-bestimmt, womit ein Ansatz zur Lerntheorie gefunden werden kann.
+Die individuelle Wahrnehmung wird von Viabilität und Rekursivität bestimmt, womit ein Ansatz zur Lerntheorie gefunden werden kann.
 
 
 ## Konstruktivismus in der Pädagogik
@@ -56,4 +55,5 @@ Die radikale Änderung seiner eigenen Wahrnehmung und Kommunikation verursachte 
 
 Der Verlust der Kooperation mit der Umwelt durch die Isolierung in der Subjektivität und damit auch die fehlende Beziehung mit Menschen, zeigt die Grenzen des (radikalen) Ansatzes der konstruktivistischen Theorie auf.
 Diese Tatsache impliziert ein Kooperationsproblem zwischen koexistierenden *"Individuen"*, da jene *"Realitäten"* sich ausgehend vom Menschen unterscheiden.
-Völlige Autonomie und damit die Abgrenzung von jeglichen Richtlinien ist somit ein essentielles Problem des Zusammenlebens.
+
+**Völlige Autonomie und damit die Abgrenzung von jeglichen Richtlinien ist somit ein essentielles Problem des Zusammenlebens.**
