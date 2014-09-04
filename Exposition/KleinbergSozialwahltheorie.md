@@ -1,4 +1,4 @@
-# Sozialwahltheorie
+# Die unmögliche Perfektion der Demokratie
 
 > "Those who vote count for nothing.
 > Those who count the vote count for everything."
