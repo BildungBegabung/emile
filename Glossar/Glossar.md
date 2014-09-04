@@ -1,23 +1,42 @@
 # Fremdwörter und Definitionen
 
+### Aufforderung zur Selbsttätigkeit:
+Beschreibt den Vorgang, dass ein Lehrender z.B ein Pädagoge den "Zu-Lehrenden" auffordert oder dazu bringt autonom zu sein.
+### Auszahlung/Payoff:
+Gewinn des Spielers, dessen Höhe von den Entscheidungen der verschiedenen Spieler abhängt.
 ### Autopoiesis:
 Selbstorganisation lebender Wesen, die Fortpflanzung und Leben dienen.
 ### Axiologie:
 Normatives, wie Dinge sein sollten.
+### Behaviorismus:
+Die Wissenschaft des menschlichen Verhaltens.
+### Beste Antwort/Best Response:
+Strategie, die bei einer gegebenen Strategie des Gegners die höchste Auszahlung bringt.
 ### Bildsamkeit:
 Die Fähigkeit des Individuums sich fortzubilden (Theorie Benner) durch Lernen und Bildung.
+### Cascade:
+Ausbreitung und Diffundierung einer Neuerung (Idee/Technologie etc) durch ein Netzwerk.
+### Cluster:
+Bereiche in einem Component, bei dem alle Knoten untereinander eng vernetzt sind, allerdings wenig Verbindungen zu Knoten außerhalb des Clusters bestehen. Stellen ein Hindernis für Cascades dar.
+### Component:
+Isolierte Sequenz in einem Graphen, bei dem jeder Knoten 1) einen Pfad zu jedem anderen Knoten im Component besitzt und 2) mit keinem Knoten außerhalb des Components verbunden ist.
 ### Deontologie:
-Das Gesollte, die Pflicht
+Das Gesollte, die Pflicht.
+### Dominante Strategie/Dominant Response:
+Strategie, die bei jeder Strategie des Gegners die jeweils höchste Auszahlung bringt.
 ### Ecological Pragmatism:
 Theorie von Griffin zu Mead, das Symbole sich entwickelt haben, aufgrund ihrer Effektivität menschlichen Handels in der Vergangenheit.
 ### Effective participation:
 Bei einer Wahl muss die Stimme eines Individuums genauso viel Wert besitzen, wie die jedes anderen Individuums.
 ### Enlightened understanding:
 Stammt aus der Theorie Dahls und heißt übersetzt: "aufgeklärtes Verständnis"
+### Epistemologisch:
+Beantwortet die Frage nach der Vorraussetzung für Erkenntnis, dem Zustandekommen von Wissen und anderen Formen von Überzeugungen.
+Außerdem wird untersucht, was Gewissheit und Rechtfertigung ausmacht und welche Art von Zweifel an welcher Art von Überzeugung objektiv bestehen kann.
 ### Equal voting:
 Jede Stimme eines Individuums zählt genauso viel wie die eines anderen Individuums.
 ### Ethik/Pragmatische Ethik:
-Pflichten, die ein Mensch von sich aus hat, also a priori
+Pflichten, die ein Mensch von sich aus hat, also a priori.
 ### Fortschritt:
 Die ständige Verbesserung und Weiterentwicklung der WIssenschaft, der Technik und der Lebensqualität.
 ### Freiheit:
@@ -36,6 +55,10 @@ Beschreibt den Abschnitt unter dem Graph in der Produktionsmöglichkeitenkurve.
 Wechselseitige Beziehung, aufeinander bezogenes Handeln, gegenseitige Beeinflussung.
 ### Intersubjektiv:
 Mehreren Personen gleichermaßen zugänglich.
+### Kanten:
+Verbindungen zwischen einzelnen Knotenpunkten in der Netzwerktheorie.
+### Knotenpunkte:
+Knotenpunkt in einem Netzwerk, z.B. eine Person.
 ### Konsequentialismus:
 Handeln ist gut, wenn das Ergebnis gut ist.
 ### Konstruktivismus:
@@ -59,8 +82,6 @@ Wenn alle Teilnehmer an einer Wahl in ihrer individuellen Rangliste eine Alterna
 Allgemein kann man einen Prozess als eine Pareto-Verbesserung bezeichnen, wenn nach einer Veränderung alle Beteiligten besser oder zumindest gleich gut gestellt sind.
 ### Pädagogik:
 Die Wissenschaft, die sich mit dem Unterrichten und Erziehen beschäftigt:
-### Behaviorismus:
-Die Wissenschaft des menschlichen Verhaltens.
 ### Perlokutiv:
 Teil des Sprechaktes, der eine Wirkung beim Hörer erzielt.
 ### Persönliche Autonomie:
@@ -69,8 +90,10 @@ Die Fähigkeit des Menschen, sich selbst zu führen, ohne Hilfe oder Aufsicht vo
 Situationen in der Spieltheorie bei denen die Summe der Gewinne und Verluste aller Spieler sich unterscheiden oder bei denen es keinen Gewinn oder Verlust gibt.
 ### Rekursivität:
 Bedeutet sich auf Erfahrungen zurückzubeziehen.
-### Aufforderung zur Selbsttätigkeit:
-Beschreibt den Vorgang, dass ein Lehrender z.B ein Pädagoge den "Zu-Lehrenden" auffordert oder dazu bringt autonom zu sein.
+### Spieler/Player:
+Handelnder im Spiel, der Entscheidungen trifft. Der Spieler muss nicht unbedingt eine Person, er kann auch etwa ein Unternehmen sein.
+### Strategie/Strategy:
+Handlungsmöglichkeit für den Spieler, Aufgabe des Spielers ist es sich für eine Aufgabe zu entscheiden.
 ### Symbolischer Interaktionismus:
 Symbolisch heißt soviel wie bildhaft oder sprachlich und Interaktionismus ist die Kommunikation zwischen Individuengruppen.
 Zusammengefasst heißt das also, dass Mead sich mit der sprachlichen, bildlichen Beziehung zwischen Menschen beschäftigt.
