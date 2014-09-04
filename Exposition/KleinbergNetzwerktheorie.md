@@ -28,4 +28,21 @@ Dementsprechend findet eine Ausbreitung durch das Netzwerk, eine Kaskade, statt.
 Diese wird in einigen Fällen gestoppt, endet also, ohne das gesamte Netzwerk übernommen zu haben.
 Grund dafür sind **Cluster**, also Bereiche des Netzwerks mit eng untereinander verbundene Knoten, die allerdings nur wenige Verbindungen zu Knoten außerhalb des Clusters haben.
 An den Grenzen dieser Cluster kommt es leicht zum Ausbreitungsstopp der Neuerung, da der Treshold für Außenstehende nicht erfüllt wird.  
- :squirrel: :up: :cookie: :banana:
+Eine eng verbundene Gruppe innerhalb eines Netzwerks sorgt also sowohl für einen Vorteil der Mitglieder innerhalb der Gruppe als auch für eine Abgrenzung von Außenstehenden, da diese keine Möglichkeit haben, Neuerungen der Gruppe zu übernehmen.
+
+### Power Law
+
+
+Wie sich bereits mithilfe der Graphen- und Netzwerktheorie erklären ließ, hat jeder Mensch innerhalb eines Netzwerks einen bestimmten klar definierten Bekanntenkreis aller mit  ihm verbundenen Nachbarn.
+Dieser ist in der Realität in den meisten Fällen zahlenmäßig überschaubar, allerdings gibt es Ausnahmen von prominenten Personen, deren Bekanntheit über ihren direkten Bekanntenkreis hinausgeht, in manchen Fällen (*z.B. Barack Obama*) kommt es sogar zu globaler Bekanntheit.
+Das selbe Phänomen erkennen wir bei anderen Medien, die Popularität erlangen können, wie Musik, Bücher, etc.
+Daraus ergibt sich für Kleinberg die grundlegende Fragestellung:
+Wenn jeder Mensch einen messbaren Bekanntheitsgrad *k* besitzt, wie lässt sich die Verteilung der verschiedenen *k* in der Gesamtbevölkerung als Funktion modellieren?
+Einen naheliegenden Ansatz stellt die Normalverteilung dar, welche bei vielen Phänomenen in der Natur Anwendung findet. Hierbei scharen sich die Anteile um einen Mittelwert und sinken für größere und kleinere *k* exponentiell ab.
+Ein anderer Ansatz ist das **Power Law**.
+Kleinberg bringt heirbei das Beispiel von Internetseiten, modelliert man für diese die Verteilung der Bekanntheiten, ergibt sich eine hyperbelförmige Kurve mit der Funktion *1/k²*.
+ Wertet man die Daten mehrerer Verteilungen aus, so zeigt sich, dass das Power Law im Großteil der Fälle überwiegt, wenn auch die Funktionen sich in ihren Parametern leicht unterscheiden (So zum Beispiel *1/k³* bei Romanen).
+Allerdings gilt für alle die allgemeine Gleichung des Power Law:
+*f(k) = a/(k^c)*
+Der Vorteil dieses Modells und der UNterschie zur Normalverteilung besteht im Verhalten des Graphen für große *k*:
+Während die Anteile bei exponentieller Abnahme mit steigendem *k* gegen Null streben, sinkt die Kurve beim Power Law deutlich langsamer, was bedeutet, dass die Werte für hohe *k* deutlich größer sind und dass auch höhere Werte für *k* erreicht werden können. In der Praxis erklärt dieses Modell damit gut das Zustandekommen von Prominenz und Berühmtheit sowie das Auftreten in extremer Ausprägung, bei der einzelneMenschen fast uneingeschränkte globale Popularität erlangen können.
