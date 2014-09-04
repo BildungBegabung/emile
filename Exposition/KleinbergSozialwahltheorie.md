@@ -23,25 +23,15 @@ Um zwischen verschiedenen Wahlsystemen zu entscheiden, schlägt Arrow folgende m
 (Arrow formuliert durch sein Unmöglichkeitstheorem die mathematisch bewiesene Tatsache, dass die Prinzipien der Pareto-Verbesserung und der Unabhängigkeit von irrelevanten Alternativen (IIA) nicht vereinbart werden können, ohne eine "Diktatur" zu ermöglichen.)
 <!-- TODO MH: Dieser Satz hat eher Charakter einer Schlussfolgerung als eines Einleitungssatzes; vielleicht erstmal sagen:vor: ... -->
 
-Dabei bedeutet die Pareto-Verbesserung, dass sich bei Stimmänderung eines Individuums im Gegensatz zum vorherigen Wahlgang das Wahlergebnis schlimmstenfalls *nicht* oder andernfalls *in dessen Richtung* wendet.
-<!-- TODO MH: Dafür muss hier auch noch Pareto Erklärt werden. -->
-IIA bedingt, dass eine relative Gruppenpräferenz zwischen zwei Alternativen sich nicht verändert, wenn eine dritte Alternative hinzugefügt wird.
-<!-- TODO MH: gute knappe formulieren! -->
+**Pareto-Verbesserung** bedeutet, dass sich bei Stimmänderung eines Individuums im Gegensatz zum vorherigen Wahlgang das Wahlergebnis schlimmstenfalls *nicht* oder andernfalls *in dessen Richtung* wendet.
 
-Werden diese beiden Bedingungen erfüllt, kann immernoch eine nicht-transitive Liste entstehen.
-<!-- TODO MH: nicht-transitiv (a la Condorcet) wäre tatsächlich nur eine der möglichen Diktatur-Dysfunktionen; alternativ ist auch denkbar das eine Wählerin mit ihrer Wahl das Ergebnis bestimmen kann. -->
-Ist dem so, wird das Ergebnis des Wahlgangs durch das Wahlsystem determiniert.
-Wer also das Wahlsystem bestimmt, hat die Macht das Ergebnis nach eigenen Maßstäben festzulegen, ist also Diktator.
-Ebenso wird in den USA durch die Festsetzung der Wahlbezirke indirekt ein starker Einfluss auf den Ausgang der Wahl geübt.
-<!-- FIXME MH: "Ebenso" ist vielleicht etwas hart ausgedrückt ... -->
+**IIA** bedingt, dass eine relative Gruppenpräferenz zwischen zwei Alternativen sich nicht verändert, wenn eine dritte Alternative hinzugefügt wird.
 
-> "Those who vote count for nothing.
-> Those who count the vote count for everything."
-> *Joseph Stalin*
+Sind die beiden obigen Bedinungen erfüllt kann beispielsweise durch eine nicht-transitive Präferenzenliste oder die strategische Wahl eines Individuums immernoch eine **Diktatur** im Wahlsystem entstehen.
+Tritt einer der Fälle auf, wird das Ergebnis des Wahlgangs durch das Wahlsystem determiniert.
+Wer also das Wahlsystem bestimmt, hat die Macht das Ergebnis nach eigenen Maßstäben festzulegen, ist demnach Diktator.
 
-Ein Wahlsystem mit einer beliebigen Hürde (z.B. 5%) würde IIA verletzten, da die Positionen und Mehrheitsanteile der Alternativen davon abhängen, welche anderen Alternativen die Hürde übertreten oder nicht.
-So ist strategisches Wählen ermöglicht und das Wahsystem kann nicht mehr beanspruchen, die Meinung aller Wähler zu agreggieren.
-<!-- TODO MH: Ist das so wichtig? Das könnte vielleicht gekürzt werden... -->
+In den USA kann zum Beispiel durch die Festsetzung der Wahlbezirke indirekt ein minimaler Einfluss auf den Ausgang der Wahl geübt werden.
 
 Einzig bei einer Entscheidung zwischen zwei Alternativen kann - beispielsweise durch das Mehrheitswahlsyem - ein Ergebnis agreggiert werden, welches sowohl IIA als auch die Pareto-Verbesserung gewährt und gleichzeitig eine Diktatur vermeidet.
 
