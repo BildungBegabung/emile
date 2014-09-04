@@ -14,14 +14,15 @@ Der Ausgangspunkt für die Entwicklung eines Staates, ist die Monopolisierung vo
 Es ist das Ziel einer machtwilligen Gruppe von Menschen oder auch einer einzigen Person sich gegen andere machtwillige Parteien als der Stärkste innerhalb eines geografischen Bereiches durchzusetzen (ebd. vgl. S.173 Z.65).
 Der Weg zu dieser wichtigen Sonderstellung ist lang und immer verbunden mit Geschäften mit anderen Personen, die ebenfalls versuchen ihre Macht auszuweiten.
 Entscheidend ist für den zukünftigen Herrscher, dass er sich schließlich gegen alle Anderen durchsetzt und seine Gegner weitestgehend entmachtet.
+Dieses Handeln ist entscheidend für die Entwicklung eines Staates, denn sie zeigt, dass ein Staat nicht etwa infolge von friedlicher Zusammenarbeit der Menschen entsteht, sondern immer an Machtkämpfe, Ausbeutung und Krieg gebunden ist ("war making likewise led to state making" ebd. S.183, Z.10f).
 Durch seine Macht hat der Herrscher nun die Möglichkeit, sein Volk vor Schaden zu schützen und für diesen Schutz Tribute (Steuern) einzufordern ("governments are in the business of selling protection" ebd. S. 175, Z.21f).
 Der gebotene Schutz kann laut Tilly zwei Formen annehmen:
 
-Verhält sich der Machthaber als *legitimate protector* so schützt er sein Volk gegen externe Angriffe.
-Ist der Machthaber ein *racketeer* nutzt er sein Gewaltmonopol aus, indem er sein Volk unter Druck setzt (Bsp. Ludwig XIV hat von seinen Bürgern für den Bau des Schlosses Verssailles extrem hohe Tribute eingefordert. Konnte jemand nicht bezahlen, drohte Ärger).
-Diese Handlung ist entscheidend für die Entwicklung eines Staates, denn sie zeigt, dass ein Staat nicht etwa infolge von friedlicher Zusammenarbeit der Menschen entsteht, sondern immer gebunden ist an Machtkämpfe, Ausbeutung und Krieg ("war making likewise led to state making" ebd. S.183, Z.10f).
+Verhält sich der Machthaber als *legitimate protector* so schützt er sein Volk vor externen Angriffen.
+Ist der Machthaber ein *racketeer* nutzt er sein Gewaltmonopol aus, indem er sein Volk unter Druck setzt.
+Tilly betont dabei den paradox scheinenden Kontrast: der Staat droht mit Gewalt und schützt gleichzeitig vor ihr.
 
-Wenn sich ein Machthaber wie ein Schutzgelderpresser (racketeer) verhält, also extrem hohe Tribute fordert, trotzdem das Geld nicht zum Wohle des Volkes nutzt sondern sich nur persönlich bereichert, spricht Tilly von Despotie.
+Wenn sich ein Machthaber wie ein Schutzgelderpresser (*racketeer*) verhält, also extrem hohe Tribute fordert, trotzdem das Geld nicht zum Wohle des Volkes nutzt sondern sich nur persönlich bereichert, spricht Tilly von Despotie.
 Hätte das Volk aber als solches die Möglichkeit, Steuern zu regulieren und über ihre Verwendung zu entscheiden, läge eine Demokratie vor (ebd. S.176 18ff. und 24f).
 Händler können jedoch auch von diesem System profitieren:
 Wenn ein Händler weniger Steuern an seinen Herrscher zahlen muss als ein Konkurrent, so gewinnt er durch diese Differenz einen Vorteil und kann sein Kapital besser vermehren.
