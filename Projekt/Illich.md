@@ -37,7 +37,7 @@ Im Gegensatz dazu schreibt Illich:
 Für die Bildung eines Kindes erachtet Illich vier Aspekte als notwendig.
 Jedes Kind bedarf neben dem Kontakt zu anderen Gleichaltrigen auch Vorbilder, von denen es unbewusst lernen kann (Sprechen, Laufen, etc.), und bei komplexeren Sachverhalten benötigt es professionelle Hilfe sowie den Zugang zu Lernobjekten.
 Hierfür will er Netzwerke erstellen, in denen man Interessen formulieren und jeweils nach Gleichaltrigen und Hilfsangeboten suchen kann.
-In einer dieser Netzwerke bräuchte ein Kind, das Guitarre spielen lernen will, einen Zeitraum in dem es mit anderen gleichaltrigen Kindern spielen kann, jemanden, der ihn bei Problemen und Schwierigkeiten unterstützen kann und als ein Art Vorbild funktioniert  und als letztes eine Guitarre und alle anderen möglichen Werkzeuge, die dazu führen werden, dass das Kind erfolgreich den Lernprozess bewältigt.
+In einer dieser Netzwerke bräuchte ein Kind, das Guitarre spielen lernen will, einen Zeitraum in dem es mit anderen gleichaltrigen Kindern spielen kann, jemanden, der ihn bei Problemen und Schwierigkeiten unterstützen kann und als ein Art Vorbild funktioniert und als letztes eine Guitarre und alle anderen möglichen Werkzeuge, die dazu führen werden, dass das Kind erfolgreich den Lernprozess bewältigt.
 All dies sollte auf freiwilliger Basis geschehen.
 
 Illichs Ziele für die "educational revolution" sind:
@@ -53,9 +53,8 @@ Illichs Ziele für die "educational revolution" sind:
 
 Ein weiteres, wichtiges Streben Illichs ist die Reduzierung der Komplexität unserer Umwelt, so dass sie wieder zugänglich für den Alltagsmenschen wird.
 Dazu könnten unter anderem die riesigen Summen an Geld verwendet werden, die man durch eine Abschaffung der Schulpflicht einsparen würde.
-So könnten zum Beispiel Firmen subenzioniert werden, die ihre Autos wieder leichter verständlich konzipieren, so dass der durchschnitts Bürger in der Lage ist, allgemeine Reparationen selbstständig durchzuführen.
+So könnten zum Beispiel Firmen subvenzioniert werden, die ihre Autos leichter verständlich konzipieren, so dass der durchschnitts Bürger vefähigt wird, allgemeine Reparationen selbstständig durchzuführen.
 Auf diese Weise würden Menschen von alleine dazu motiviert werden zu lernen.
-Dies würde den Lernprozess fördern sowie unverbindliche, nachbarschafliche Interaktion.
 
 
  <!-- mead (Interaktion notwendig)-->
