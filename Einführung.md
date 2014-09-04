@@ -14,7 +14,10 @@ Jede Form von Regel, die versucht gleiche Chancen für alle zu garantieren, zwä
 Wer darf nun diese Regeln festlegen?
 Es ergibt sich ein ständiges Spannungsverhälnis zwischen persönicher Autnomie und inhärenter Gleichheit.
 Eine Autonomie, die jedes Individuum berücksichtigen will, und eine Gleichheit, die sich nicht auf Fähigkeiten beruft, sondern jedem Menschen durch seine bloße Existenz Rechte zuschreibt.
-Wenn unsere heutige Gesellschaft gegen den Anspruch auf eine allgemeine Antwort auf diese Fragen ausspricht, und die Imperfektheit des Menschen anerkennt, nach welchen Maßstäben sollten wir dann den Menschen erziehen.
+Doch wir leben weder in völliger Abhängigkeit von- und in Harmonie miteinander, also in absoluter Gleichheit wie etwa Bienen, noch ordnen wir uns als vollständig auf uns allein gestellte Wesen ein, wie etwa Spinnen.
+Auch eine klare Einteilung des Lebens in verschiedene Phasen, wie bei einem jungen Wolf,der das Rudel verlässt, gibt es bei uns Menschen nicht, und doch lassen sich Ansätze von allen drei Kategorien finden.
+Es mag Menschen geben, die sich sehr klar einer Ansicht zuordnen, aber eine sinnvolle Antwort, die sich auf alle bezeihen lässt, wird keiner geben können.
+Aber wenn unsere heutige Gesellschaft sich gegen den Anspruch auf eine allgemeine Antwort auf diese Fragen ausspricht, und die Imperfektheit des Menschen anerkennt, nach welchen Maßstäben sollten wir dann den Menschen erziehen.
 Oder: Müssen wir eigentlich erziehen?
 
 Mit unserer Arbeit versuchen wir diese großen Fragen von den Standpunkten der Sozialwissenschaft sowie von den Theorien der Pädagogik aus zu beleuchten.
