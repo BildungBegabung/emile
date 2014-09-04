@@ -1,23 +1,15 @@
 ## Symbolischer Interaktionismus: Mead
 
-Meads Text wurde 1934 veröffentlicht unter dem Namen "Symbolischer Interaktionismus".
-<!-- TODO: MH schlechte einleitung; hier fehlt Sanduhr! Waaaaarum sollte ein leser das lesen? -->
-Symbolisch heißt soviel wie bildhaft oder sprachlich und Interaktionismus ist die Kommunikation zwischen Individuengruppen.
-<!-- FIXME MH symbolisch ist shcon klar, muss nicht definiert werden. Was sind Individuengruppen? -->
-Zusammengefasst heißt das also, dass Mead sich mit der sprachlichen, bildlichen Beziehung zwischen Menschen beschäftigt.
-<!-- FIXME MH: übel zirkulär -->
+Mead beschäftigte sich schon 1934 damit wie Menschen kooperieren. Er nennt seine Theorie den "Symbolischen Interaktionismus", also die Kommunikation zwischen Menschengruppen. Kooperation begegnet uns überall im Alltag, was den Text auch so interessant macht. Ein aktuelles Beispiel dafür wäre unser DSA-Kurs, der seit zwei Wochen durchgehend in Kooperation steht
 Daraus lassen sich sowohl soziologische als auch pädagogische Rückschlüsse ziehen.
-
-Der Hauptbestandteil Meads, auf den sich seine ganze Theorie stützt, besteht aus den Komponenten **"I"**, **"Me"** und **"Self"**.
-<!-- FIXME: MH Ich hoffe wirklich, dass I, ME and Self nicht der Hauptbestandteil von Mead sind ... der Typ ist doch schon total kompostiert! -->
-<!-- FIXME: MH die Reihenfolge ist strange; lieber den symbolischen interaktionismus erst noch knapp aber präzise erklären (zusammen werden Symbole geschafen, die dann wiederrum) - dann auf i/ me / self zurück kommen, dafür aber auch nochmal VK fragen, die kennt sich da besser aus -->
+Ein wichtiger Bestandteil Meads, auf den sich zum großen Teil seine Theorie bezieht, besteht aus den Komponenten **"I"**, **"Me"** und **"Self"**.
 Dabei werden Wünsche und Ziele beziehungsweise sinnliche und körperliche Bedürfnisse durch das "I" ausgedrückt, kurz der Egoismus eines Individuums.
 Das "I" wird auch impulsives Ich genannt, da es immer Neues und Schöpferisches in jede Situation bringt.
 >"Das I liefert das Gefühl der Freiheit der Initiative" (Mead-1934, S. 221)
 
 Das "Me" steht dem gegenüber und ist die Vorstellung eines Menschen, wie er von der Außenwelt betrachtet wird.
 Es ist somit das reflektierte Ich.
-<!-- TODO: MH wir brauchen hier ein Beispiel, um I/ME/SELF zu verstehen. Vielleicht eines was auf den Kursinhalt passt? -->
+Ein Beispiel dafür bietet der Fußball: *Am liebsten möchte ich alleine auf das Tor laufen und versuchen ein Tor zu schießen, das wäre das "I", der Egoismus. Doch ich weiß genau, wenn es scheif geht werden meine Mitspieler und mein Trainer sauer auf mich sein, das wäre das "Me", was meine Außenwelt wahrnimmt. Das "self" wägt dann ab, ob das "I" oder das "Me" mehr Einfluss auf mich hat und dementsprechend entscheide ich dann.*
 Des Weiteren ist das "Me" ständig in Bewegung, weil immer neue Ansichten, wie jemand von der Gesellschaft gesehen wird, im Verlauf des Lebens hinzukommen. Mead beschreibt den Zusammenhang zwischen "I" und "Me" so:
 
 >*"Das I ruft das Me nicht nur hervor, es reagiert auch darauf.
@@ -29,8 +21,7 @@ Aufgrund dessen, dass das "Me" die Moralität beinhaltet und den Pluralismus der
 Der dritte Komponent ist die Entscheidungskraft, beziehungsweise das Ergebnis aus den ersten beiden Komponenten, das "Self".
 Dieses ist quasi die Identität, welche aus der ständigen Vermittlung zwischen "I" und "Me" entsteht.
 Eine gelungene Identität ist erreicht, wenn "I" und "Me" in einer gleichgewichtigen Spannung zueinander stehen.
-Wichtig sind diese Komponenten für die Selbstreflexion eines Individuums, auch looking-glass-effect gennant.
-<!-- MH TODO: nach Möglichkeit nur deutsche Übersetzungen verwenden -->
+Wichtig sind diese Komponenten für die Selbstreflexion eines Individuums, auch Spiegelbildeffekt gennant.
 Dieser Spiegelbildeffekt hilft dem Menschen sich aufgrund von Reaktionen des Gegenübers selber wahrzunehmen und mitzubekommen, wie andere auf das eigene Verhalten reagieren.
 Dies funktioniert, indem das "Me" die Umwelt wahrnimmt und das "I" diese Eindrücke subjektiv entgegennimmt und spontan reagiert, sich also dadurch auch verändern, vielleicht sogar verbessern kann.
 
