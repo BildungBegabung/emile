@@ -5,6 +5,7 @@
 <!-- FIXME: VK stärkerer Bezug zum Kursthema, Vorschlag: Freinets didaktische Konzeption einer Schule als Lösung des Kooperationsproblems -->
 
 <!-- TODO: VK zum gesamten Text: finde ich wirklich gut geschrieben, aber stärkeren Bezug zum Autonomie/Gleichheitsproblem, Freinet steht ja in unserem Kurs als möglicher Lösungsansatz für das Kooperationsproblem (oder eben auch nicht)-->
+<!-- TODO: VK Hier deutlich machen, worauf der Text hinauslaufen soll! -->
 "Es geht darum, unser ganzes Erziehungssystem von der materiellen Basis her umzugestalten." (Freinet-1946 S. 99)
 Diese These Freinets scheint zunächst überraschend.
 Für gewöhnlich beginnt man eine solche Revolution mit einem theoretischen Konzept und nicht mit einer Handvoll Lernkarteien in einem umgeräumten Klassenzimmer.
@@ -49,11 +50,11 @@ Somit müssen die Lehrer bzw. die Lehrerinnen es sich zur Aufgabe machen, diese 
 Dies müssen sie nicht nur in Bezug auf die "nur [...] durch den täglichen Text geoffenbarten Interessen" (ebd. S.89), sondern auch in Bezug auf "alle übrigen Interessen, die fern oder nah mit dem Ausgangsinteresse in Verbindung stehen" (ebd. S.90).
 <!-- TODO: VK Ich würde den gesamten Abschnitt über Interessenkomplexe/-zentren nur drin lassen, wenn es als ein Argument für Autonomie und/oder Gleichheit eingesetzt werden kann, so steht es unverbunden -->
 
-Dies verlangt von den Schülern und Schülerinnen, ihre Interessen zu kennen, damit die Lehrer den Schülern und Schülerinnen bei dem Erlangen von Informationen über dieses Interesse helfen zu können.  
+Dies verlangt von den Schülern und Schülerinnen, ihre Interessen zu kennen, damit die Lehrer den Schülern und Schülerinnen bei dem Erlangen von Informationen über dieses Interesse helfen können.  
 
 ## Bezüge durch Freinet zur Hauptfrage:
-
-Wenn man Freinets Reformpädagogik versteht, stellt sich im Sinne dieser Dokumentation sofort die Frage, wie Freinet zu der Frage nach persönlicher Autonomie und inherenter Gleichwertigkeit beantworten würde.
+<!-- TODO: VK jetzt, wo ich es lese, würde ich diesen Abschnitt nicht vom Rest des Textes trennen, sondern es mit den Ausführungen oben direkt verknüpfen, sonst fragt man sich beim Lesen, warum am Anfang erstmal so weit ausgeholt wurde. -->
+Wenn man Freinets Reformpädagogik versteht, stellt sich im Sinne dieser Dokumentation sofort die Frage, wie Freinet zu der Frage nach persönlicher Autonomie und inheränter Gleichwertigkeit beantworten würde.
 Der Schüler bei Freinet ist also sehr autonom.
 Wie diese Autonomie mit der inhärenter Gleichwertigkeit von Schülern und Lehrern, die er ebenfalls fordert (vgl. Freinet-1964 S. 489), zusammenpasst, ist für Freinet erstmal nebensächlich.
 Er beschäftigt sich mit der didaktischen Konzeption von Schule und wie diese dem Edukanten hilft, seine Individualität auszubilden.
