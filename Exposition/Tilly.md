@@ -1,51 +1,48 @@
 # Staatsgenese als organisiertes Verbrechen: Charles Tilly
 
-<!-- TODO MH: Hier brauchen wir glaube ich erstmal einen einleitenden Satz; warum sollte uns das in unserem Kurs interessieren? (Tip: weil wir es mit Demokratie zu tun haben, und Demokratie das treffen von Kollektiv verbindlichen Entscheidungen betrifft, dafür also einen Staat braucht.) -->
-Tilly, der sich hauptsächlich mit der Entstehung der europäischen Nationalstaaten beschäftigt hatte, beschäftigt sich in diesem Text mit der Frage nach der Entstehung eines Staates.
+Bei genauerem Hinschauen erkennt man, dass das Kursthema voraussetzt, dass Demokratie überhaupt erstrebenswert ist.
+Da kollektiv verbindliche Entscheidungen einer Demokratie inhärent sind, braucht man einen Staat, der diese unter Zwang durchsetzt.
+Die Entstehung von Staaten ist das Thema Charles Tillys.
+Staaten definiert er hierbei über die Kontrolle der physischen Gewalt über ein Volk auf einem zusammenhängenden Territorium:
 
-Tilly beginnt den Vorgang der Staatenbildung zu erklären: laut Hobbes ist der "homo hominis lupus", also der Mensch des Menschen Wolf.
-<!-- TODO MH: andersrum probieren. Etwa: "Tillys Theorie der Staatsgenese beginnt im Hobbeschen (Quelle) Urzustand: Der Krieg von jedem gegen jeden." -->
-Bevor es an einem Ort einen Staat gibt, gibt es dort laut Tilly kein Gewaltmonopol:
-die Gewalt ist auf viele Parteien verteilt.
-Der Grund, der vom ersten Zustand der staatenlosen Umgebung zum zweiten der staatlichen Umgebung führt, ist laut Tilly der Machtwille.
-<!-- TODO MH: Zitat? Wo redet Tilly vom Machtwillen? Das ist nicht der Grund; der Grund ist vielmehr dass die Produktion von Gewalt im von vorneherein gegebene Wettbewerb (krieg von jedem gegen jeden) durch Technologie und org. Innovation positiven Skalenerträgen unterliegt. Deshalb gewinnt der größere. -->
-<!-- TODO MH: hier evtl. Darstellung von positiven Skalenerträgen einfügen? -->
-Um die Macht zu erreichen und ein Gewaltmonopol zu etablieren, muss der Machtwillige Gewalt anwenden; also beginnt er einen Krieg gegen die Menschen, die er unterwerfen will.
-Aber wie kommt es nun zum Staat?
-Jede der machtwilligen Parteien strebt danach ihre Macht auszudehnen, indem sie Rivalen ausschaltet.
-Dieser Kriegszustand führt final zur Errichtung eines Gewaltmonopols.
-<!-- FIXME MH: Wortwahl "final"? Außerdem fehlen hier wieder die skalenerträge -->
-Der Inhaber des Gewaltmonopols kann nun Abgaben von der unterworfenen Bevölkerung verlangen.
-Aber wieso sollten die Bürger eines Staates Steuern bezahlen?
-Der Schlüssel dazu ist Schutz.
-<!-- TODO MH: deutsche Begriffe verwenden (auch unten stehend) für protection etc. -->
-Der Staat bietet also den Bürgern Schutz.
-Wenn es also Steuern gibt, muss es auch eine staatliche Organisation geben, die die Steuern einnimmt.
-Eine andere Möglichkeit zur Geldbeschaffung ist die Förderung von Wirtschaftswachstum.
-Da sich simultan dazu die Einkommen erhöhen, erhält auch der Staat höhere Einnahmen.
-<!-- TODO MH: der Kreislauf der in Tilly dargestellt wird ist hier noch etwas durcheinander; Wirtschaftswachstum lassen wir mal raus. Wichtiger wäre: Extraktion (Besteuerung) erlaubt (nach außen: Krieg) und erfordert (nach innen: Eintreibung der Steuern) Mittel der Gewaltproduktion. -->
+>"national states: relatively centralized, differentiated organizations the officials of which more or less successfully claim control over the chief concentrated means of violence within a population inhabiting a large, contiguous territory." (Tilly-1985 S.170)
 
-Laut Tilly definiert sich ein Staat durch die von ihm gebotene Infrastruktur, dem bereits erklärten Gewaltmonopol und der gebotenen *protection*.
-<!-- TODO MH: redundant? -->
+## Wie entsteht ein Staat?
+Nach Tillys Modell ist die Entwicklung eines Staates immer mit kriegerischen und gewaltvollen Handlungen verbunden.
+Er geht sogar so weit zu behaupten, dass Gewalt notwendig für die Entwicklung eines Staates ist.
+Der Ausgangspunkt für die Entwicklung eines Staates, ist die Monopolisierung von Gewalt und Macht ("governments organize and, wherever possible, monopolize violence" ebd. S.171).
+Tilly sagt, dass in der vor-staatlichen Zeit mehrere gewaltausübende Parteien konkurrieren.
+Die Beziehungen derer untereinander unterliegen dem Sozialdarwinismus, da jede Partei gegen jede Krieg führt und diejenige besteht, die  siegreich aus dem Konflikt hervorgeht. Jede Person oder Gruppe versucht dabei, ökonomisch gesehen, positive Skalenerträge zu erzielen und sich so durch technische oder organisatoriche Innovationen einen Vorteil über die anderen Parteien zu verschaffen, um sich gegen die anderen als der Stärkste innerhalb eines geografischen Bereiches durchzusetzen.  (Vgl. ebd. S.173).
+Dieses Handeln ist entscheidend für die Entwicklung eines Staates, denn es zeigt, dass ein Staat nicht etwa infolge von friedlicher Zusammenarbeit der Menschen entsteht, sondern immer an Machtkämpfe, Ausbeutung und Krieg gebunden ist ("war making likewise led to state making" ebd. S.183).
 
-Diese *protection* kann *comforting* (beruhigend) oder *ominous* (bedrohlich) sein.
-Der Anbieter einer *ominous protection* wird von Tilly *racketeer*(Gangster) genannt, da er Schutzgeld verlangt.
-Er wird mit einer Gang verglichen.
-Offensichtlich ist die *comforting protection* legitim und die *ominous protection* illegitim.
-<!-- TODO MH: deutsche Begriffe, auch eigene Übersetzungen wählen – oder, wenn ganz prägnant, dann ein Zitat im Original verwenden. -->
-<!-- TODO MH: Diese Doppeldeutigkeit der "protection" sollte schon vorher erklärt werden, weiter am Anfang; vielleicht auch wieder mit einem Beispiel -->
+Positive Skalenerträge bedeuten, dass die Gesamtkosten für die Herstellung eines Produktes mit steigender  Anzahl an hergestellten Gütern sinken (vgl. Grafik).
+Für die herrschende Partei ist das insofern ein Vorteil, dass sie mit geringeren Kosten effizienter Gewalt "produzieren" kann. Positive Skalenerträge kommen vor allem durch technische und organisatorische Innovationen zustande.
+So ist beispielsweise bei niedrig entwickelten Waffen wie Keulen kaum ein solcher Vorteil erkennbar, es kostet einen bestimmten Geldbetrag, eine Keule herzustellen, die  eine Person ausschalten kann, dieser Betrag bleibt aber auch bei den nächsten tausend produzierten Keulen ungefähr gleich, es ergibt sich dadurch kein großer Vorteil.
+Anders bei höher entwickelten Waffen wie der Wasserstoffbombe.
+Hat diese bei einem Ertrag von mehreren Millionen Menschen, die auf einmal ausgeschaltet werden können, bei der ersten Herstellung noch extrem große Produktionskosten, so werden diese bei den nächsten produzierten Bomben deutlich kleiner.
+Für die herrschende Partei stellt dies einen militärischen Vorteil dar, er kann mit höherer Produktion deutlich höhere Erträge bei gleichen Kosten erzielen und so die Konkurrenten ausschalten.
 
-Eine der wichtigen Fragen, denen Tilly sich dann stellt, ist: Was macht ein Staat?
-Er fragt genauer, durch welche Handlungen sich ein Staat definiert.
-Dabei kommt er zu dem Schluss, dass sich ein Staat durch ein auf ein Gebiet beschränktes Gewaltmonopol definiert.
-Tillys Gewaltmonopol lässt sich als Alleinrecht auf Sicherheit und Ordnung verstehen.
+![Positive Skalenerträge](\img\Skalenerträge.png)
 
-Weiter beantwortet er die Frage nach dem normativen Zweck eines Staates.
-Ein Staat solle **nur** Sicherheit bieten.
-Dabei ist die Sicherheit nicht nur die Basis, sondern auch das einzige, was der Staat bieten soll.
-<!-- FIXME MH: eigentlich sagt Tilly zu dem o.s. 2 paragraphen nichts; er erklärt nur wie ein Staat entsteht. -->
 
-Auf die entscheidende Frage, wie ein Staat denn nun geboren wird, antwortet er: Unterwerfung.
-<!-- TODO MH: schöne Zuspitzung, aber etwas sprachlich komisch. Er antwortet ja nicht direkt ... lieber: "Für Tilly wird ein Start geboren aus ..." ö.ä. -->
-Das Gewaltmonopol könne nämlich nur durch Unterwerfung installiert werden, damit der Machtinhaber keine konkurrierenden gewaltausübenden Vereinigungen zu bekämpfen hat die das Gewaltmonopol zerschlagen könnten.
-<!-- TODO MH: Hier fehlt jetzt schon noch ein bisschen eine Einschätzung/Überleitung zum Kursthema. Was bedeutet das also für unseren Kursthema (vielleicht das Staaten sehr mächtig, aber auch sehr gefährlich sind?) Und was für Bildung? (wenn überhaupt etwas ... vielleicht vgl. Schulpflicht, Regelschule?) -->
+Durch seine Macht hat die herrschende Partei nun die Möglichkeit, von seinem Volk  Tribute (Steuern) einzufordern und im Gegenzug "Sicherheit" anzubieten, allerdings funktioniert dies nur durch die Gewaltpräsenz und somit die Bedrohung des Herrschers auf seine Untergebenen. ("governments are in the business of selling protection" ebd. S. 175).
+Der gebotene Schutz kann laut Tilly zwei Formen annehmen:
+
+Verhält sich die herrschende Partei als *legitimate protector* (legitimer Beschützer), so schützt sie das unterworfene Volk vor externen Angriffen ().
+Ist der Machthaber ein *racketeer* (Schutzgelderpresser), nutzt er sein Gewaltmonopol aus, indem er sein Volk unter Druck setzt.
+Tilly betont dabei den paradox scheinenden Kontrast: der Staat droht mit Gewalt und schützt gleichzeitig vor ihr.
+
+Wenn sich ein Staat wie ein Schutzgelderpresser verhält, also (hohe) Tribute fordert, das Geld aber nicht zum Wohle des Volkes nutzt sondern sich nur persönlich bereichert, spricht Tilly von Despotie.
+Hätte das Volk aber als solches die Möglichkeit, Steuern zu regulieren und über ihre Verwendung zu entscheiden, läge eine Demokratie vor (ebd. S.176 18ff. und 24f).
+Krieg macht es dem Staat möglich, seine Macht nach außen zu expandieren und legitimiert innerhalb seines Einflussbereiches das Eintreiben von Steuern. Das Eintreiben von Steuern  wiederum macht es dem Staat möglich, Krieg nach außen zu führen. Durch diese wechselseitige Beziehung wird die Wirtschaft, besonders die Gewaltproduktion, angekurbelt.
+Das intensiviert den Kreislauf zusätzlich.
+
+## Durch welche Handlungen definiert sich ein Staat?
+Nachdem der Staat durch ***Unterwerfung*** das Machtmonopol installiert hat (ebd. S.175 Z.7f), *definiert* er sich durch das sogenannte *Gewaltmonopol* ("the authority's monopoly of force" ebd. S.172, Z.1).
+In Tillys Verständnis kann man dies als das Alleinrecht auf Sicherheit und Ordnung auf einem bestimmten Gebiet verstehen("governments claim to provide protection" ebd. S.172, Z.2).
+Andere Leistungen wie z.B. eine Krankenversicherung oder die Deutsche Schülerakademie sind nicht Teil von Tillys Staatsverständnis (ist nicht enthalten in: "What Do States Do?" ebd. S. 181).
+
+## Gewaltmonopol und Schule
+Der Bezug zum eigentlichen Thema dieser Arbeit mag erst schleierhaft erscheinen.
+Doch Tilly begründet die Herkunft des Gewaltmonopols eines Staates, das auch die Basis für die Durchsetzung der Schulpflicht ist.
+Nach diesem Exkurs in die Staatstheorie handelt der nächste Text von gegenseitigem Helfen in der Schule.
