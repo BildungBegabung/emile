@@ -1,6 +1,6 @@
 ## Symbolischer Interaktionismus: Mead
 
-Mead beschäftigte sich schon 1934 damit wie Menschen kooperieren. Er nennt seine Theorie den "Symbolischen Interaktionismus", also die Kommunikation zwischen Menschengruppen. Kooperation begegnet uns überall im Alltag, was den Text auch so interessant macht. Ein aktuelles Beispiel dafür wäre unser DSA-Kurs, der seit zwei Wochen durchgehend in Kooperation steht
+Mead beschäftigte sich schon 1934 damit wie Menschen kooperieren. Er nennt seine Theorie den "Symbolischen Interaktionismus", also die Kommunikation zwischen Menschengruppen. Kooperation begegnet uns überall im Alltag, was den Text auch so interessant macht. Ein aktuelles Beispiel dafür wäre unser DSA-Kurs, der seit zwei Wochen durchgehend in Kooperation steht.
 Daraus lassen sich sowohl soziologische als auch pädagogische Rückschlüsse ziehen.
 Ein wichtiger Bestandteil Meads, auf den sich zum großen Teil seine Theorie bezieht, besteht aus den Komponenten **"I"**, **"Me"** und **"Self"**.
 Dabei werden Wünsche und Ziele beziehungsweise sinnliche und körperliche Bedürfnisse durch das "I" ausgedrückt, kurz der Egoismus eines Individuums.
