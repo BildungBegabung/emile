@@ -135,13 +135,7 @@ Illich schlägt nun vor, das Messen von Fähigkeiten stark einzuschränken und i
 So entsteht ein Menschenbild, dass von der Gleichwertigkeit Aller ausgeht, während die beschriebenen Freiheiten und Wahlmöglichkeiten ein Maximum an persönlicher Autonomie ermöglichen.
 
 
-Illichs Lebenswerk lässt sich postmodern interpretieren und zugleich religiös begründen. Während seines Studiums im Vatikan wurde er geprägt von den Denken des nouvelle theologism, die den Weg für Vatikan II ebneten und nach einer Modernisierung der Kirche strebten.
-Illich ging noch einen Schritt weiter, in dem er moderne "Gewissheiten" hinterfragt und die Korruption verkündete.
-Sein Denken lässt sich unmöglich erklären ohne Berücksichtigung seines religiösen Hintergrunds.
-Er begriff postmodernes Denken als eine Möglichkeit auf vormoderne Verhältniss zurückzukehren.
-Sein Ziel war immer die freie Beziehung zu Gott und somit eine Befreiung des Evangeliums von jeglicher Institutionalisierung durch die moderne Gesellschaft.
-Die Schule perviert, in gleichem Maße wie die katholische Kirche, diese freie Interpretation, die sich in ungezwungener zwischenmenschicher Interaktion ausdrückt.
->"If people are seriously to think about deschooling their life, and not just escape from the
+<!-->"If people are seriously to think about deschooling their life, and not just escape from the
 corrosive effects of compulsory schooling, they could do no better than to develop the habit of
 setting a mental question mark beside all discourse on young people’s ‘‘educational needs’’ or
 ‘‘learning needs,’’ or about their need for a ‘‘preparation for life.’’
@@ -157,7 +151,7 @@ Illich sieht sich mit zunehmenden Alter immer weniger gewilt, konkrete Reformvor
 
 <!--zum erinnern: education for all means education by all
 p.11 rechts-->
-
+### Reflektion - Github aus Illichs Sicht
 
 Illichs Beschreibung der learning webs decken sich grundsätzlich mit unserer Arbeit auf Github, angenommen, mehr Leute würden es nutzen und wir alle haben uns ganz frei dazu entschieden, genau an diesem Thema teilzunehmen, und sind jederzeit in der Lage unsere Arbeit zu verweigern - wenn wir wollten.
 
@@ -170,7 +164,7 @@ Dabei haben wir aber auch zu jedem Zeitpunkt die Möglichkeit, professionelle Hi
 und uns vor allem in organisatorischen, bzw. technischen Fragen weiterhelfen.
 Als erster Kritikpnkt fällt natürlich die Vorauswahl der TNs ins Auge, jedoch stellen auch unter Negierung dieser Tatsache weitere Probleme in den Weg.
 Schränkte man unser Projekt allein auf die Ausarbeitung auf github ein, würde sich unser Kontakt ebenfalls wieder auf eine rein effizienzorientierte Ebene reduzieren und das eigentliche Identifizierungsprozess mit der anderen Perönlichkeit gerät in den Hintergrund.
-Illich hat sich nicht mit merge-conflicts auseinandergesetzt, bzw. auch allgemein nicht mit kooperationsproblemen,
+Illich hat sich nicht mit merge-conflicts auseinandergesetzt, bzw. auch allgemein nicht mit Kooperationsproblemen,
 Rousseau auch nicht.
 
 <!--evtl. passendes Zitat, das unseren Arbeitsprozess ganz gut veranschaulicht: (Illich über "Ältere"): "Sie können einen auf die richtigen Fragen hinweisen, die man mit Gleichaltrigen anschneiden soll, und auf die Unzulänglichkeit der Antworten, die man dort findet." (S.86)
