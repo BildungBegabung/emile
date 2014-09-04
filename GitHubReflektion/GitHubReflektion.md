@@ -44,20 +44,21 @@ Als Fazit lässt sich also sagen, dass Freinet unserem System wahrscheinlich nic
 
 Würde Illich unsere Verwendung von Github zum gemeinsamen Arbeiten an dieser Dokumentation und zur Vorbereitung unserers Kurses befürworten?
 
-Illichs Beschreibung der "learning webs" decken sich grundsätzlich mit unserer Arbeit auf Github. Viele Methoden und Grundsätze von Illichs Ansätzen sind hier wiederzufinden, wenn auch leicht eingeschränkt und im kleinen Rahmen unseres Kurses.
+Illich formuliert sogar schon in den siebziger Jahren ein sehr konkretes Bild von computergesteuerten Lernnetzwerken.
+Seine "learning webs" sollten aber vor allem Menschen mit ähnlichen Interessen helfen zusammenzukommen.
+Die eigentliche Organisation der Zusammenarbeit ist für Illich von zweiter Bedeutung, weshalb Github eigentlich kein Diskussionsthema in Bezug auf sein Werk "Deschooliing Society" darstellt.
+Als erster Kritikpunkt fällt hierbei natürlich die Vorauswahl der Teilnehmenden ins Auge.
+GitHub würde für Illich dann an Bedeutung gewinnen, wenn es sich hin zu einer allgemeinen Lernplattform ausweiten würde, zu der jeder Zugang hätte und in der jeder seine Ideen frei äußern kann.
+Angewand auf seine "learning webs" müsste dann GitHub als Lernobjekt kategorisiert werden, so dass jedem Individuum der Zugang zu PCs mit mindestens Windows7 ermöglicht wird.
+>"education for all means education by all"(S.17)
 
-Angenommen PCs mit mindestens Windows7 würden als Lernobjekt nach Illichs Definition gelten, hätte jeder Zugang zu diesem Programm.
-Zudem würde er die Einarbeitung in die Technik als sehr positiv betrachten, da es uns dazu befähigt, neue Sachverhalte zu verstehen, und uns dazu bringt, uns mit neuen Themengebieten auseinanderzusetzen.
-Wichtig ist dabei, dass wir dieses Wissen als bedeutend für uns wahrnehmen, da es einen direkten Wirklichkeitsbezug hat.
-Illich würde auf jeden Fall der Issue-Organisation zustimmen, in welcher jeder seine eigenen Interessen kundtun kann, und auch an der Ausarbeitung bereits formulierten Interessen teilnehmen kann.
-Teilnehmende, die zusammenarbeiten wollen, können sich darüber problemlos finden.
-Wir arbeiten mit Gleichaltrigen, bzw. von ähnlichen Interessen Getriebenen, zusammen und können darauf vertrauen, dass wir Einfluss auf das Endergebnis haben.
-Wir sind dadurch in der Lage, unsere eigenen Meinungen so zu äußern, dass sie auch wahrgenommen werden.
-Dabei haben wir aber auch zu jedem Zeitpunkt die Möglichkeit, professionelle Hilfe zu bekommen, wobei diese uns nicht das eigentliche Wissen vermitteln, sondern ihnen lediglich eine beratende Stellung zukommt und uns vor allem in organisatorischen, bzw. technischen Fragen weiterhelfen ("He may invite the learner to participate in his own research"; Illich 1971, S. 43)
-Als erster Kritikpunkt fällt natürlich die Vorauswahl der Teilnehmenden ins Auge.
-Jedoch stellen sich abgesehen von dieser Tatsache weitere Probleme in den Weg:
+Aber der wahrscheinlicher wichtigere Aspekt in Bezug auf unsere Arbeit ist die Auseinandersetzung mit der Technik.
+Wir werden dazu motiviert, uns mit neuen Themengebieten auseinanderzusetzen, da es einen direkten Bezug auf unsere Arbeit hat und wir es als bedeutend wahrnehmen.
+Dadurch wird der Kontakt zu anderen Teilnehmern gefördert, mit denen wir zusammen versuchen, die Technik zu verstehen und zu den KLs, wodurch wir zu jedem Zeitpunkt die Möglichkeit haben , professionelle Hilfe zu bekommen. Diesen fällt eben keine pädagogisch belehrende Rolle zu und sie vermittlen uns nicht das eigentliche Wissen,
+sondern sie nehmen eine beratende Stellung ein und helfen uns vor allem in organisatorischen, bzw. technischen Fragen weiter ("He may invite the learner to participate in his own research"; Illich 1971, S. 43).
+Jedoch stellen sich dennoch weitere Probleme in den Weg:
 Schränkte man unser Projekt allein auf die Ausarbeitung auf Github ein, würde sich unser Kontakt ebenfalls wieder auf eine rein effizienzorientierte Ebene reduzieren ("to reinforce the competitive nature of schools"; Illich 1971, S. 35 ), vor der Illich warnt.
-Die Gefahr, dass die direkte Kommunikation hinter 16 aufgeklappten Laptopbildschirmen zu kurz kommt, ist nicht zu unterschätzen.
+
 
 ## Was Hayek zu unserer Zusammenarbeit auf GitHub sagen würde
 
