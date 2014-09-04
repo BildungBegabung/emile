@@ -10,7 +10,7 @@ Bei einem **Spiel** handelt es sich um eine Entscheidungsfindung von Spielern, i
 
 Ein Fallbeispiel für ein Spiel nach der Spieltheorie liefert das **Gefangenen Dilemma**.
 Die Abbildung oben stellt eine Auswahlmatrix dar.
-Hier werden die Auswahlmöglichkeiten der SPieler Dargestellt und die Summenanzahlen der Zellen in den jeweiligen Entscheidungen.
+Hier werden die Spielstrategien der SPieler Dargestellt und die Summenanzahlen der Zellen in den jeweiligen Entscheidungen.
 Verdeutlicht wird hier auch die wechselseitige Abhängigkeit beider Spieler: Wenn sich der Spieler (A/Marvin) für eine Spielstrategie entscheidet, so betrifft das auch Spieler (B/Susanna) und den Output beider Spieler.
 
 Zum einem kann es **Nullsummenspiele** geben.
