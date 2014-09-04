@@ -1,5 +1,7 @@
 # "Die Einführung in die allgemeine Pädagogik"
 
+>"Hilf mir, es selbst zu tun" (Maria Montessori)
+
 Benner setzt sich damit auseinander, die **Grundsätze pädagogischen Handelns** aufzuzeigen, die für die ganze Menschheit gültig sind.
 Er richtet sich dabei an die pädagogisch~ interessierte Leserschaft.
 Dazu definiert er zwei grundsätzliche große Extrema der Verhaltensbestimmung: Den **Determinismus und die transzendentale Freiheit~**.
