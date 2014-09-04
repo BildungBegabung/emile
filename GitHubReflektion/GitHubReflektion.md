@@ -1,4 +1,4 @@
-# Kooperation im Selbstexperiment - Reflektion über unsere Kursarbeit auf GitHub
+ # Kooperation im Selbstexperiment - Reflektion über unsere Kursarbeit auf GitHub
 <!-- TODO FB: Beim ersten auftauchen unserer Lieblingsbegriffe wie merge, issue etc pp diese erklären! -->
 Während unserer Kursarbeit haben unsere Kursleiter wohl oft mit Sorgenfalten in irritierte Gesichter geblickt.
 Es hatte ja auch etwas heroisches an sich, die grundsätzlichsten Fragen der menschlichen Existenz im Sinne seiner Entwicklung und seiner soziologischen Gemeinschaft beantworten zu wollen.
@@ -68,10 +68,7 @@ Er äußert sich sehr negativ zu Institutionen, die Wissen und Informationen aus
 Die einzige Institution die Vorteile einbrachte und mit der etwas "getauscht" werden durfte war Geld.
 >It is in this connection that what I have called the economic calculus proper helps us, at least by analogy, to see how this problem can be solved, and in fact is being solved, by the price system. (Hayek-1945 S. 525)
 
-Ein weiteres Problem für Hayek wäre vermutlich, dass er absolut der Meinung ist, ein Individuum könne allein für sich selbst die besten Entscheidungen treffen und nicht jemand anderes.
-Das würde mit dem Prinzip GitHubs kollidieren, da jeder über das Werk eines Anderen bestimmen kann und es beherrscht also absoluter Pluralismus.
-<!-- TODO FB: also Absoluter Pluralismus? Satzsetellung/sinn? -->
-Aufgrund dieser Tatsachen würde Hayek GitHub vermutlich streng ablehnen und sich gegen Wissensaustausch und Kooperation mit dieser Institution aussprechen.
+
 
 ## Was Habermas zu unserer Zusammenarbeit auf GitHub sagen würde
 
@@ -92,7 +89,7 @@ Werden dazu noch *labels* vertagged, ist auch der Gültigkeitsbereich klar defin
 Was Habermas an unserer Arbeitsform allerdings kritisieren könnte, ist die Instutionalisierung des Arbeitsprozesses.
 Denn GitHub als Institution ersetzt in Teilen den direkten Austausch in intersubjektiven Lebenswelten durch ein systematischen Prozess, den Habermas in der modernen Gesellschaft stark problematisiert.
 
-Auch wenn die meisten der von uns behandelten Autoren vor der Zeit des Internet veröffentlicht hatten und ein Vergleich somit im Großteil der Fälle auf Spekulationen und Vermutungen beruht, lässt sich doch sagen, dass unsere Zusammenarbeit über Github in einigen Bereichen den Idealvorstellungen mehrerer Autoren bereits sehr nahekommt, besonders was die Kommmunikation und die fast uneingeschränkte Freiheit jedes einzelnen angeht, die für eine so bislang unbekannte Qualität der Kooperation und Abstimmung unt...(line truncated)...
-Allerdings ist auch Github natürlich nicht nicht das Blaue vom Himmel, so dass auch  Fehler ans Tageslicht treten, wie zum Beispiel die akute Gefahr, dass durch die Arbeit auf GitHub die persönliche Kommunikation eingeschränkt und im schlimmsten Fall kompett durch die virtuelle ersetzt wird.
+## Fazit
 
-<!-- TODO FB: wir brauchen noch was schönes zum aufhören! -->
+Auch wenn die meisten der von uns behandelten Autoren vor der Zeit des Internet veröffentlicht hatten und ein Vergleich zu Github somit im Großteil der Fälle auf Spekulationen und Vermutungen beruht, lässt sich doch sagen, dass unsere Zusammenarbeit über Github in einigen Bereichen den Idealvorstellungen mehrerer Autoren bereits sehr nahekommt, besonders was die Kommmunikation und die fast uneingeschränkte Freiheit jedes einzelnen angeht, die für eine so bislang unbekannte Qualität der Kooperation und Abstimmung untereinander sorgt.
+Allerdings ist auch Github natürlich nicht nicht das Blaue vom Himmel, so dass bei längerer Arbeit Fehler ans Tageslicht treten, wie zum Beispiel die akute Gefahr, dass durch die Arbeit auf GitHub die persönliche Kommunikation eingeschränkt und im schlimmsten Fall komplett durch die virtuelle ersetzt wird.
