@@ -58,15 +58,12 @@ Auch die Wiedereinflussnahme aus Meads symbolischem Interaktionismus deckt sich 
 Außerdem ergänzt sich der Wettbewerbsgedanke Hayeks mit der Idee des *Ecological Pragmatism*, welches aus Mead *Symbolischem Interaktionismus* hervorgeht:
 Ein Tisch dessen Nutzen sich nicht mit dessen Preis deckt, wird auf Dauer nicht Wettbewerbsfähig sein.
 <!-- FIXME: MH: nein, das ergänzt sich garnicht, das widerspricht sich! Wie sollte sich das ergänzen? -->
-Das einzige "Symbol" , das wir brauchen , die einzige objektive Instanz und die einzige ist der Preis.
+Das einzige "Symbol", das für alle gleich ist, also die einzige objektive Instanz, ist der Preis.
 Im Preis sind alle Informationen über ein Produkt enthalten, welche den Konsumenten interessieren müssen.  
 
-<!-- TODO: Sagt er das wirklich? Textnachweis -->
+<!-- TODON: Sagt er das wirklich? Textnachweis -->
 
 Hayek plädiert für einen puren Kapitalismus mit keinen zentralisierten Elementen.
-Der Staat soll den Rahmen für die freie Ausübung der marktwirtschaftlichen Praxis bieten - aber möglichst wenig Autorität ausüben.
-<!-- TODO: MH übertreibung, ohne quellenangabe -->
-
 Im sozialen und gesellschaftlichen Kontext bedeutet das, dass Institutionen und staatliche Instanzen nur einen Umweg, eine Verkomplizierung in der Informationsvermittlung bedeuten, und die Interessen der Einzelnen nicht fassen können. Die Entscheidungsgewalt über ökonomische Handlungen sollte also so oft wie möglich bei den Individuen liegen.
 
 Wenn man versucht, das auf das Schulsystem zu beziehen, könnte man sagen, dass die Idee eines Bildungskanons, einer Informationsvermittlung auf objektiver Basis, verneint wird.
