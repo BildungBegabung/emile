@@ -57,11 +57,10 @@ Eine soziale Struktur, die eine gewisse Stabilität hat. Im weiteren Sinne besch
 Beschreibt den Abschnitt unter dem Graph in der Produktionsmöglichkeitenkurve.
 ### Interaktion:
 Wechselseitige Beziehung, aufeinander bezogenes Handeln, gegenseitige Beeinflussung.
+### Intersubjectively
+Sachverhalt für mehrere Betrachter gleichermaßen erkennbar und nachvollziehbar
 ### Intersubjectively shared lifeworld
-intersubjectively - Sachverhalt für mehrere Betrachter gleichermaßen erkennbar und nachvollziehbar
-shared - geteilt
-lifeworld - a universe of what is self-evident or given, a world that subjects may experience together
--> zwei Subjekte sind sich darüber einig, wie sie ihre gemeinsam erlebte Umgebung sehen und wahrnehmen
+zwei Subjekte sind sich darüber einig, wie sie ihre gemeinsam erlebte Umgebung sehen und wahrnehmen
 ### Intersubjektiv:
 Mehreren Personen gleichermaßen zugänglich.
 ### Konsequentialismus:
