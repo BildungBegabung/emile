@@ -7,7 +7,7 @@ Er geht davon aus, dass wirtschaftliches Verhalten abhängig von der Information
 
 >"[This knowldedge] never exists in concentrated or integrated form, but solely as the dispersed bits of incomplete and frequently contradicitionary knowlegde which all the seperate individuals possess" (S.520).
 
-Ein zentraler Begriff Hayeks ist also das *knowledge* (Wissen bzw. Information).
+Zentraler Begriffe Hayeks sind also Wissen beziehungsweise Information
 <!-- FIXME MH: kein grund hier englisch zu verwenden -->
 Um wirtschaftliches Handeln zu fördern ist die Anhäufung von *knowledge* nötig, indem individuelles Wissen durch Kommunikation transferiert wird.
 <!-- FIXME MH: trivial/zirkulär. Lieber anhand eines Beispiels erklären, welche Art von wissen *aggregiert* werden muss -->
