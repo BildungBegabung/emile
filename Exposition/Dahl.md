@@ -9,27 +9,7 @@ Dahl meint, dass es wichtig ist, dass wir uns mit seinem Verständnis von Demokr
 Damit will Dahl sagen, dass Demokratie nicht einfach naturgegeben ist, sondern dass wir alle daran arbeiten müssen.
 <!-- TODO: Würde hier nicht die Tageslosung gut passen? s. magic chart -->
 
-Um die Demokratie zu sichern, zeigt Dahl vier Kriterien auf:
-- "effectice participation" (jedes vollwertige Mitglied der Demokratie muss Einfluss auf die Entscheidung haben)
-- "equal voting" (alle Stimmen sind gleichwertig)
-- "enlightened understanding" (Bildung ist für die Demokratie notwendig, jedoch darf ein Mitglied nicht zur Bildung gezwungen werden)
-<!-- TODO: ZITAT und die Erläuterungen in Klammern ausformulieren -->
-- "control of the agenda" (Es ist wichtig, dass die Individuen darüber entscheiden, über welche Probleme entschieden werden muss)
-
-
-Nach Dahl ist es wichtig, sich mit der Demokratie auseinanderzusetzen, da diese ansonsten zerfallen würde.
-Diese Auseinandersetzung mit der Demokratie trägt dazu bei, stetig an ihr zu arbeiten, damit sie bewahrt wird, denn Demokratie ist nicht naturgegeben.
-<!-- FIXME: Wiederholung zu Zeile 9 -->
-
-
-## Intrinsische Gleichheit & persönliche Autonomie
-
-Dahls Verständnis von **Demokratie** stützt sich auf die **Kombination aus intrinsischer Gleichwertigkeit und persönlicher Autonomie**.
-Intrinsische Gleichheit bedeutet, dass die Interessen aller Mitglieder der Gemeinschaft zu beachten werden.
-Persönliche Autonomie beschreibt die Entscheidungsfreiheit, damit jeder die Entscheidung treffen kann, die für ihn am besten ist, denn "every adult is the best judge of his or her own interest" (Dahl S. 100).
-
-
-## Kriterien für eine funktionierende Demokratie
+### Kriterien für eine funktionierende Demokratie
 
 Um die Demokratie zu sichern, setzt Dahl **vier Kriterien** voraus:
 
@@ -40,10 +20,11 @@ Die Aussage, dass alle Stimmen gleich gewichtet werden, wird mit dem zweiten Kri
 **"Enlightened understanding"**, das dritte Kriterium, bezieht sich auf die Notwendigkeit von Bildung für die Demokratie:
 "But to know what it wants, the people must be enlightened, at least at some degree." (ebd. S. 111)
 Allerdings darf ein Mitglied der Gemeinschaft nicht zur Bildung gezwungen werden, obwohl ein gewisses Interesse über politische Prozessen aufgeklärt zu bleiben vorausgesetzt wird.
+
 Das vierte Kriterium heißt **"control of the agenda"** und sagt aus, dass es wichtig ist die Individuen entscheiden zu lassen, welche Probleme behandelt werden bzw. über welche Probleme entschieden wird.
 
 
-## Rechtfertigung der Demokratie
+### Rechtfertigung der Demokratie
 
 Die Demokratie rechtfertigt Dahl auf Grundlage der **drei zentralen Dimensionen menschlichen Interesses**:
 
@@ -65,10 +46,26 @@ Deswegen respektiert wird auch die Autonomie größtmöglich akzeptiert.
 Außerdem ist Autonomie in einer Demokratie nicht wegzudenken, weil diese quasi durch die Bürger selbst regiert wird, denn "to be morally autonomous is to be self-governing in the domain of morally relevant choices" (S.91).
 
 
-## politische Einordnung
+### intrinsische Gleichheit & persönliche Autonomie
+Es ist wichtig zu sehen, dass der Grundsatz der Gleichheit, der Freiheit und der persönlichen Autonomie unsere Gesellschaft in den letzten Jahrhunderten am Besten Stabilisiert hat. Es gibt keinen Zweifel daran, dass Demokratie der Sinnvollste und beste Weg ist das Leben aller zu gestalten.
+Dahls Verständnis von **Demokratie** stützt sich auf die **Kombination aus intrinsischer Gleichwertigkeit und persönlicher Autonomie**.
+Intrinsische Gleichheit bedeutet, dass die Interessen eines jeden Menschen grundsätzlich gleichwertig sind und daher bei jeder Entscheidung auch gleichmäßig in Betracht gezogen werden müssen.
+Persönliche Autonomie beschreibt die Entscheidungsfreiheit, damit  jeder kann die Entscheidung treffen kann, die für ihn am besten ist, denn "every adult is the best judge of his or her own interest" (S.100).
+Zwischen diesen beiden Aunschauungen erstellt sich ein Zusammenhang, da niemand so ausserordentlich qualifiziert ist, dass er/sie alle Entscheidungen einer bestimmten Gruppe von Personen treffen kann. Im gegensatz sind alle Mitgliedern der Gruppe fähig, um sich abzufinden.
+Trotzdem sind einige Aspekte zu finden, die wir nicht 100% bestätigen können.
+In Dahls Definition der intrinsischen Gleichheit sollen möglichst alle Menschen von einer Entscheidung profitieren, daher sind Entscheidungen die zwar die Gemeinschaft fördern aber einzelnen Individuen schaden nicht vorgesehen.
+Dahls Definition beschränkt sich auf die Beachtung der Wünsche aller Personen, jedoch kann nicht nur Demokratie dies erreichen. Würde eine Gruppe überlegener Menschen dazu in der Lage sein, die Wünsche aller Menschen besser Verstehen als sie selbst, wäre es ihr nach intrinsischer Gleichheit erlaubt zu herrschen.
+Im Bereich der persönlichen Autonomie, könnten wir uns die Frage stellen, ob zum Beispiel das Volk, das die Regierung wähñt, durch mediale Einwirkungen in eine bestimmte ideologische Richtung gedrägt werden kann. Ein anderes Argument, das dagegen spricht, ist die Tatsache, dass die Entscheidungsfindung immer sehr Langwierig ist, da die Interessen aller berücksichtigt werden sollen.
 
-Dahl ist in den **Liberalismus** einzuordnen, da er Vorschläge aufzeigt, wie Demokratie seiner Meinung nach am besten funktionieren würde.
-Allerdings zwingt er niemanden diese Vorschläge durchzuführen, sondern lässt die Freiheit sich dafür zu entscheiden oder nicht.
+
+
+
+
+### politische Einordnung
+
+Dahl zwigt niemanden diese Vorschläge durchzuf¨hren, sonder lässt die Freiheit sich dafür zu entscheiden oder nicht.
+Er ist in den **Liberalismus** einzuordnen, da er Vorschläge aufzeigt, wie Demokratie seiner Meinung nach am besten funktionieren würde.
+
 In Bezug zur Freiheit zeigt Dahl keine positiven Freiheiten auf (einer Freiheit *zu* etwas), sondern negative Freiheiten (einer Freiheit *von* etwas).
 Er gibt also nicht die Freiheit sich über die Demokratie bzw. Politik zu zu informieren.
 Stattdessen ist für Dahl Freiheit, sich von der Information über Demokratie bzw. Politik zu entziehen.
