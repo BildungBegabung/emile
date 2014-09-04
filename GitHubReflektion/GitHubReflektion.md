@@ -7,8 +7,8 @@ Da wir uns inhaltlich mit Fragen der menschlichen Kooperation (manchmal auch der
 Wie keiner vor uns haben wir versucht, unseren sozialwissenschaftlich-pädagogischen Kurs und das Schreiben dieser Dokumentation auf der Open-Source-Plattform GitHub zu organisieren.
 GitHub ist ein Programm, das ursprünglich zum Zweck der Koordination von Softwareentwicklung entstanden ist.
 Als Vorbereitung für den Kurs arbeiteten wir bereits vor Akademiebeginn gemeinsam auf GitHub.com, der sozialen Komponente des Versionierungstools Git.
-Später verwendeten wir zudem das Quellkontrollverwaltungsprogramm Git und den Open-Source-Texteditor Atom.
-Durch diese drei Komponenten versuchten wir unsere Arbeit so effizient wie möglich zu gestalten.
+Später verwendeten eben Git um die Dokumentation zu schreiben, im Kombination mit dem Open-Source-Texteditor Atom.
+Diese drei Komponenten sollten unsere Arbeit so effizient wie möglich gestalten.
 
 Jeder hatte zu jedem Zeitpunkt die Möglichkeit auf alle geschrieben Texte zuzugreifen, diese zu kommentieren und selbst zu bearbeiten.
 Dadurch entstand eine völlig neue Form der sozialen Interaktion, die in Bezug auf die Ausgangsfrage nach persönlicher Autonomie und inhärenter Gleichheit zu analysieren ist.
