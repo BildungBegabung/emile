@@ -103,11 +103,11 @@ Illich begreift jedoch den Menschen an sich als Ziel, während Dewey seine pragm
 
 Illichs Wirken und Denken deckt sich in großen Teilen ebenfalls mit dem von Rousseau.
 Beide begreifen das jeweils gegenwärtige Gesellschaftssystem als eine Form der Unterdrückung des eigentlichen Menschseins.
->‘‘‘I’ precisely because of you, by allowing me to love you, give me the possibility to be co-relative to you, to be dysymmetrically proportionate to you. I see, therefore, in love, hope, and charity the crowning of the proportional nature
+>‘‘I see, therefore, in love, hope, and charity the crowning of the proportional nature
 of creation in the full, old sense of that term’’ (https://www.youtube.com/watch?v=vQLWAafp020)
 
 Beide romantisieren den vormodernen Menschen.
-Beide haben den Menschen an sich als Ziel und sehen immodernen Staat eine Pervertierung seiner Fähigkeiten.
+Beide haben den Menschen an sich als Ziel und sehen im modernen Staat eine Pervertierung seiner Fähigkeiten.
 Rousseau will den Menschen aus seiner Idendifikation durch Berufe befreien, während sich Illich stark gegen eine gesellschaftliche Rolle ausspricht.
 Beide plädieren für eine unabhängige Erziehung, die sie nicht auf eine spätere Funktion vorbereiten soll.
 Und Beide berufen sich auf einen Akt der Schöpfung.
