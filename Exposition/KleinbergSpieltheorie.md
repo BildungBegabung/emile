@@ -1,34 +1,58 @@
-# Spieltheorie Kleinberg
+# Kleinberg [Spieltheorie]
 
-Nach Kleinberg liegt der Erfolg einer Person am Spielausgang nicht darin für was er sich selbst entscheidet, sondern welche "Spiel"-Entscheidungen von allen getroffen werden (vgl. Kleinberg; Networks, Crowds and Markets, S.156).Großer Teil dieser Spieltheorie ist das "Gefangenendilemma", auf das ich mich später noch genauer beziehen werde.
+Die **Spieltheorie** (siehe: Kleinberg, "Networks,Crowds and Markets", S.153-274) modulliert menschliche Interaktion in Form von Spielen, dessen *Spielausgänge* von den gewählten *Spielstrategien* abhängen und in Form einer Playoff Matrix analysiert und veranschaulicht werden können.
 
-Nach Annahme der Axiome der "Spieltheorie" entscheidet sich der Mensch in seinem Handeln stets streng ökonomisch, dass heißt er trifft die Wahl mit der größtmöglichen Summenanzahl für sich selbst (ebd.S159).
-Außerdem wird angenommen das jeder den "Spielplan" (vgl. ebd.S159) kennt und somit auch alle Spielstrategien und Mitspieler.
-Die letzte Annahme geht aus dem Prinzip der "Raionalität" aus und vereint zwei Annahmen: Zum einen die des "Homo-ökonomicus" und zum anderen die Annahme, dass jeder Spieler die beste "Spielstrategie" wählt (ebd.).
-Dies wäre Vergleichbar mit Adam Smiths Annahme:
+### Die Spielstrategien
 
->"Wer sein eigenes Interesse verfolgt, befördert das Wohl der Gesamtgesellschaft häufig wirkungsvoller, als wenn er wirklich beabsichtigt, es zu fördern. Ich habe nie erlebt, dass viel Gutes von denen erreicht wurde, die vorgaben, für das öffentliche Wohl zu handeln." (Adam Smith; „Theorie der ethischen Gefühle)
+Die **Streng Dominante**, die Strategie, in der der Spieler  stets nach Eigeninteresse spielt und stets die, unabhängig von den Mitspielern, beste Spielentscheidung für ihn selbst trifft. (vgl. ebd. S.164).
+Das **best response**, die Strategie, die zu der Strategie eines anderen Spielers am besten passt, d.h. die eigene Auszahlung ist am höchsten.
+Hier sind mehrere beste Antworten möglich, wenn die Auszahlungen bei mehreren “Antwort-Strategien” gleich sind. (vgl. ebd. S.163)
 
-Das Gefangenen Dilemma
+### Spielausgänge
 
-
-Am 28.08.14 befassten wir uns am Vormittag mit dem Autor Kleinberg und seiner Spieltheorie.
-Großer Teil dieser Spieltheorie ist das "gefangenen Dilemma".
-Nach Annahme der Axiome des Gefangenen Dilemmas entscheidet sich der Mensch in seinem Handeln stets streng ökonomisch, dass heißt er trifft die wahl mit der größtmöglichen Summenanzahl.
-In dem Gefangenen Dilemma gibt es zwei Spielausgänge.
-
-Zum einem kann es "Nullsummenspiele" geben.
-Somit haben alle Spielausgänge die gleiche Summenanzahl.
-Zum anderen kann es "Nicht-Nullsummenspiele" geben.
-Ein "Nicht-Nullsummenspiel" enthällt unterschiedliche Summenanzahlen in unterschiedlichen Spielausgängen.
-Da, nach Annahme der Axiome der "Spieltheorie" der Mensch, stets danach strebt den höchst möglichen Gewinn zu erzielen, und eine höhere Gewinnmaximierung nur bei "Nicht-Nullsummespielen" gegeben ist, stellt das "Nicht-Nullsummenspiel" die Grundage menschlicher Kooperation.
-Demnach geben "Nullsummenspiele" keine Aussage über menschliche Kooperation, da die Summenanzahl bei jedem Spielausgang gleich bleibt und kein "Reiz" für ein "Spiel" besteht.
-Es ergeben sich auf diese Weise zwei möglich Spielausgänge von "Nicht-Nullsummenspielen":
-
-1. Soziales Wohlfahrtsoptimum (Siehe Glossar) und "Nash-Equilibrium" (siehe Glossar) fallen zusammen.
-Auf diese Weise haben alle mehr vom "Kuchen", egal zu welchem Spielausgang es kommt.
-
-2. Soziales Wohlfahrtsoptimum und "Nash-Equilibrium" fallen nicht zusammen.
+Das *Nash-Gleichgewicht* entsteht,wenn die die beiden Spieler Strategien gewählt haben, die jeweils die beste Antworten aufeinander sind.
+Das  *soziale Wohlfahrtsoptimum* ist die Zellenkombination mit der höchsten Summe.
 
 
-Außer durch den Einfluss eines Gewaltmonopolists oder einer Änderung der Axiome (z.B. nach der EInführung des "Gemeinwohls"-vgl. Rousseau), kann das Gefangenen Dilemma nicht gelöst werden, da die Konzeption dem Menschenbild des homo okönomicus unterliegt und davon ausgeht, dass jeder nur aus Eigeninteresse handelt und das Optimum, da die dritte Annahme (siehe Z.8) unzutreffend ist, nur per Zufall erreicht wird.
+Der Erfolg einer Person im Spiel liegt somit nicht nur in seinen eigenen Entscheidungen, sondern darin welche Spielentscheidungen von allen anderen getroffen werden:
+
+>„Game theory is concerned with situations in which decision-makers interact with one another, and in which the happiness of each participant with the outcome depends not just on his or her own decisions but on the decisions made by everyone." (Kleinberg; Networks, Crowds and Markets, S.156)
+
+### Die Axiome der Spieltheorie
+
+Nach Annahme der Axiome der "Spieltheorie" entscheidet sich der Mensch in seinem Handeln stets streng ökonomisch, das heißt, er verfolgt die Strategie mit dem größtmöglichen Gewinn (vgl. ebd. S.159).
+Außerdem wird angenommen, dass jeder den "Spielplan" (vgl. ebd. S.159) kennt und somit auch alle Spielstrategien und Mitspieler.
+Die letzte Annahme geht aus dem Prinzip der "Raionalität" hervor und vereint zwei Annahmen: Zum einen die des "Homo ökonomikus" und zum anderen die Annahme, dass jeder Spieler die beste "Spielstrategie" wählt (vgl. ebd., S.156).
+
+
+Die Axiome sind vergleichbar mit folgender Annahme von Adam Smith:
+
+>"Wer sein eigenes Interesse verfolgt, befördert das Wohl der Gesamtgesellschaft häufig wirkungsvoller, als wenn er wirklich beabsichtigt, es zu fördern. Ich habe nie erlebt, dass viel Gutes von denen erreicht wurde, die vorgaben, für das öffentliche Wohl zu handeln." (Adam Smith; „Wealth of Nations"(S.?))
+
+
+### Die Spielvarianten
+
+Zum einem kann es **Nullsummenspiele** geben.
+Dabei haben alle Spielausgänge die gleiche Summenanzahl.
+Zum anderen kann es **Positivsummenspiele** geben.
+Ein Nichtnullsummenspiel enthällt unterschiedliche Summenanzahlen in unterschiedlichen Spielausgängen.
+Da der Mensch nach Annahme der Axiome der "Spieltheorie" stets danach strebt den höchstmöglichen Gewinn zu erzielen, und eine höhere Gewinnmaximierung nur bei Nichtnullsummespielen gegeben ist, lassen sich nur nach Positivsummenspielen Aussagen über menschliche Kooperation treffen.
+Demnach geben Nullsummenspiele keine Aussage über menschliche Kooperation, da die Summenanzahl bei jedem Spielausgang gleich bleibt.
+
+
+Es ergeben sich auf diese Weise zwei möglich Spielausgänge von Positivsummenspielen:
+
+1. Spiele **totaler Harmonie**: Summenanzahlen von Nash-Gleichgewicht und Wohlfahrtsoptimum fallen zusammen.
+Beispielweise zeigt sich dieser Spielausgang im Handel oder in der Kinderaufzucht, da es auch im Interesse der Eltern ist ihre Gene fortzutragen.
+
+2. Spiele mit **Kooperationsproblemen**: Summenanzahl von Wohlfahrtsoptimum und Nash Gleichgewicht unterscheiden sich.
+Ein Beispiel wäre das der Nationalen Co2 Emissionen. Entscheidet sich ein Land weniger Umweltschutzmaßnahmen zu treffen so profitiert es davon nur, solange die anderen Ländern nicht die gleiche Strategie wählen.
+
+
+## Das Gefangenendilemma lösen
+
+>"Gentlemen, Adam Smith needs revision" (John Nash)
+
+Außer durch den Einfluss eines Gewaltmonopolists oder einer Änderung der Axiome, kann das Gefangenen Dilemma nicht gelöst werden, da die Konzeption dem Menschenbild des homo ökonomicus unterliegt und davon ausgeht, dass jeder nur aus Eigeninteresse handelt und das Optimum, da die dritte Annahme (siehe oben) unzutreffend ist und ggf. nur per Zufall erreicht wird.
+
+Adam Smith lag somit mit seiner Annahme, dass die *streng dominate* Spielstrategie stets auch am besten zum Allgemeinwohl beiträgt falsch, da man nicht grundsätzlich von Spielen *totaler Harmonie* ausgehen kann und es dementsprechend, wie aufgezeigt, auch zu Kooperationsproblemen in menschlicher Interaktion kommen kann.
