@@ -1,17 +1,17 @@
 # Kleinberg [Spieltheorie]
 
-Die **Spieltheorie** modulliert menschliche Interaktion in Form von Spielen, dessen *Spielausgänge* von den gewählten *Spielstrategien* abhängen und in Form einer Playoff Matrix anaysiert und veranschaulicht werden können.
+Die **Spieltheorie** (siehe: Kleinberg, "Networks,Crowds and Markets", S.153-274) modulliert menschliche Interaktion in Form von Spielen, dessen *Spielausgänge* von den gewählten *Spielstrategien* abhängen und in Form einer Playoff Matrix anaysiert und veranschaulicht werden können.
 
 ### Die Spielstrategien
 
-Die **Streng Dominante**, die Strategie, in der der Spieler  stets nach Eigeninteresse spielt und stets die, unabhängig von den Mitspieler, beste Spielentscheidung trifft. (vgl. ebd.S.164).
-Das **best response**, die Strategie, die zu einer gegebenen Strategie eines anderen Spielers am besten passt, d.h. die eigene Auszahlung ist am höchsten
-mehrere beste Antworten sind möglich, wenn die Auszahlungen bei mehreren “Antwort-Strategien” gleich sind.
+Die **Streng Dominante**, die Strategie, in der der Spieler  stets nach Eigeninteresse spielt und stets die, unabhängig von den Mitspieler, beste Spielentscheidung trifft. (vgl. ebd. S.164).
+Das **best response**, die Strategie, die zu der Strategie eines anderen Spielers am besten passt, d.h. die eigene Auszahlung ist am höchsten
+mehrere beste Antworten sind möglich, wenn die Auszahlungen bei mehreren “Antwort-Strategien” gleich sind. (vgl. ebd. S.163)
 
 ### Spielausgänge
 
-Das **Nash-Gleichgewicht** entsteht,wenn die die beiden Spieler Strategien gewählt haben, die jeweils die beste Antworten aufeinander sind.
-Das  soziale **Wohlfahrtsoptimum** ist die Zellenkombination mit der höchsten Summe.
+Das *Nash-Gleichgewicht* entsteht,wenn die die beiden Spieler Strategien gewählt haben, die jeweils die beste Antworten aufeinander sind.
+Das  *soziale Wohlfahrtsoptimum* ist die Zellenkombination mit der höchsten Summe.
 
 
 Der Erfolg einer Person im Spiel liegt somit nicht nur in seinen eigenen Entscheidungen, sondern darin welche Spielentscheidungen von allen anderen getroffen werden:
@@ -54,4 +54,5 @@ Ein Beispiel wäre das der Nationalen Co2 Emissionen. Entscheidet sich ein Land 
 >"Gentlemen, Adam Smith needs revision" (John Nash)
 
 Außer durch den Einfluss eines Gewaltmonopolists oder einer Änderung der Axiome, kann das Gefangenen Dilemma nicht gelöst werden, da die Konzeption dem Menschenbild des homo ökonomicus unterliegt und davon ausgeht, dass jeder nur aus Eigeninteresse handelt und das Optimum, da die dritte Annahme (siehe oben) unzutreffend ist und ggf. nur per Zufall erreicht wird.
-Adam Smith lag somit mit seiner Annahme, dass die **streng dominate** Spielstrategie stets den größtmöglich Ertrag bringt falsch, da man nicht grundsätzlich von Spielen *totaler Harmonie* ausgehene kann.
+
+Adam Smith lag somit mit seiner Annahme, dass die *streng dominate* Spielstrategie stets auch am besten zum Allgemeinwohl beiträgt falsch, da man nicht grundsätzlich von Spielen *totaler Harmonie* ausgehen kann und es dementsprechend, wie aufgezeigt, auch zu Kooperationsproblemen in menschlicher Interaktion kommen kann.
