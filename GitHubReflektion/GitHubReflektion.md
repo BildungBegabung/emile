@@ -1,5 +1,5 @@
 # Kooperation im Selbstexperiment - Reflektion über unsere Kursarbeit auf GitHub
-<!-- TODO FB: Beim ersten auftauchen unserer Lieblingsbegriffe wie merge, issue etc pp diese erklären! -->
+
 Während unserer Kursarbeit haben unsere Kursleiter wohl oft mit Sorgenfalten in extremst irritierte Gesichter geblickt.
 Es hatte ja auch etwas heroisches an sich, die grundsätzlichsten Fragen der menschlichen Existenz im Sinne seiner Entwicklung und seiner soziologischen Gemeinschaft beantworten zu wollen.
 Der Eine oder Andere musste auf diesem Weg mehr als einmal seinen Blick auf die Welt ändern und besonders mit dem Begriff der Deontologie ringen.
@@ -17,7 +17,7 @@ Hierfür lassen wir vier Autoren aus unserem Kurs sprechen und befragen sie post
 ## Was Freinet zu unserer Zusammenarbeit auf GitHub sagen würde
 
 Vor fast 100 Jahren enstand die Reformpädagogik, in einer Zeit ohne Computer, geschweige denn Internet.
-Während wir gerade fleißig Issues *closen* und *merge conflicts* lösen, hantierte Célestin Freinet mit Druckerpressen und Karteikarten - damals der letzte Schrei.
+Während wir gerade fleißig Issues *closen* (also Augaben als erledigt abhaken) und *merge conflicts* (ein typisches Problem bei GitHub, bei dem mehrere Personen au der gleichen Zeile arbeiten) lösen, hantierte Célestin Freinet mit Druckerpressen und Karteikarten - damals der letzte Schrei.
 Lässt sich unsere Arbeit auf GitHub trotzdem mit seinen reformpädagogischen Ideen vereinen?
 
 Würden wir alle das Gleiche bearbeiten, würden für viele der DSA-Teilnehmer große Frustration erleben.
@@ -32,7 +32,7 @@ Es besteht dabei allerdings die Gefahr, dass durch die Vernetzung, die GitHub bi
 Für Freinet ist eine Gruppendynamik ähnlich der einer Familie sehr wichtig.
 Diese ist nicht mehr gegeben, sobald vernetztes Lernen beginnt, da es eine geographische Nähe entbehrlich macht.
 <<<<<<< HEAD
-Darüberhinaus bietet das Internet als Plattform für GitHub dem Edukator praktische Unfehlbarkeit, da dieser praktisch uneingeschränkte Freiheiten mit der Arbeit der anderen hat und fast alles bearbeiten oder löschen kann.
+Darüber hinaus bietet das Internet als Plattform für GitHub dem Edukator praktische Unfehlbarkeit, da dieser praktisch uneingeschränkte Freiheiten mit der Arbeit der anderen hat und fast alles bearbeiten oder löschen kann.
 
 =======
 Jedoch ist gerade die Fehlbarkeit des Lehrers entscheidend, denn hier kann er ehrlich zu seinen Schülern sein (vgl. Freinet-1946 S. 110).
@@ -68,16 +68,13 @@ Die Gefahr, dass die direkte Kommunikation hinter 16 aufgeklappten Laptopbildsch
 ## Was Hayek zu unserer Zusammenarbeit auf GitHub sagen würde
 
 Ähnlich wie bei Illich ist es unklar wie Hayek zu modernen Kommunikationsmitteln stehen würde, da er vermutlich nie mit einem Computer gearbeitet hat.
-<!-- TODO FB: Hat er oder hat er nicht? :) -->
+
 Nichtsdestotrotz kann man seine Aussagen über Kooperation aus dem Jahre 1945 auf ein soziales Medium wie GitHub übertragen.
 Er äußert sich sehr negativ zu Institutionen, die Wissen und Informationen austauschen, da diese den Informations- und Wissensfluss verlangsamen und beeinträchtigen.
 Die einzige Institution die Vorteile einbrachte und mit der etwas "getauscht" werden durfte war Geld.
 >It is in this connection that what I have called the economic calculus proper helps us, at least by analogy, to see how this problem can be solved, and in fact is being solved, by the price system. (Hayek-1945 S. 525)
 
-Ein weiteres Problem für Hayek wäre vermutlich, dass er absolut der Meinung ist, ein Individuum könne allein für sich selbst die besten Entscheidungen treffen und nicht jemand anderes.
-Das würde mit dem Prinzip GitHubs kollidieren, da jeder über das Werk eines Anderen bestimmen kann und es beherrscht also absoluter Pluralismus.
-<!-- TODO FB: also Absoluter Pluralismus? Satzsetellung/sinn? -->
-Aufgrund dieser Tatsachen würde Hayek GitHub vermutlich streng ablehnen und sich gegen Wissensaustausch und Kooperation mit dieser Institution aussprechen.
+
 
 ## Was Habermas zu unserer Zusammenarbeit auf GitHub sagen würde
 
@@ -87,7 +84,7 @@ Diese Arbeitsform ist im Kern allerdings von seinem Kommunikationsmodell gar nic
 
 Zum einen ist das Ziel, dass durch das Einsetzen des Programmes erreicht werden soll die Koordination der Kooperation - für Habermas der Grund, weshalb soziales Handeln überhaupt zu Stande kommt:
 In dem Moment, in dem mehrere Menschen ein Ziel verfolgen ist eine Absprache nötig um einzelne Handlungen so zu koordinieren, dass man sich nicht in die Quere kommt.
-Und genau diese Absprachen treffen wir immer wieder auf Github, indem wir versuchen unsere *Issues* und *Commits* hinzufügen und dabei immer den Anspruch haben den Anderen unsere Ziele verständlich zu machen.
+Und genau diese Absprachen treffen wir immer wieder auf Github, indem wir versuchen unsere *Issues* und *Commits* (Veröffentlichungen von geändertem Material) hinzufügen und dabei immer den Anspruch haben den Anderen unsere Ziele verständlich zu machen.
 
 Außerdem sind ständige Infragestellung von Gültigkeitsansprüchen essentiell für kommunikatives Handeln, das wir durch ständiges kommentieren, anzweifeln und ändern von Isssues und Dokumentationsbeiträgen in die Praxis umsetzen bis (möglichst) alle zufrieden sind.
 
@@ -97,6 +94,9 @@ Werden dazu noch *labels* vertagged, ist auch der Gültigkeitsbereich klar defin
 
 Was Habermas an unserer Arbeitsform allerdings kritisieren könnte, ist die Instutionalisierung des Arbeitsprozesses.
 Denn GitHub als Institution ersetzt in Teilen den direkten Austausch in intersubjektiven Lebenswelten durch ein systematischen Prozess, den Habermas in der modernen Gesellschaft stark problematisiert.
+
+Auch wenn die meisten der von uns behandelten Autoren vor der Zeit des Internet verüöffentlicht hatten und ein Vergleich somit im Großteil der Fälle auf Spekulationen und Vermutungen beruht, lässt sich doch sagen, dass unsere Zusammenarbeit über Github in einigen Bereichen den Idealvorstellungen mehrerer Autoren bereits sehr nahekommt, besonders was die Kommmunikation und die fast uneingeschränkte Freiheit jedes einzelnen angeht, die für eine so bislang unbekannte Qualität der Kooperation und Abstimmung untereinander sorgte.
+Allerdings ist auch Github natürlich nicht nicht das Blaue vom Himmel, so dass auch  Fehler ans Tageslicht treten, wie zum Beispiel die akute Gefahr, dass durch die Arbeit auf GitHub die persönliche Kommunikation eingeschränkt und im schlimmsten Fall kompett durch die virtuelle ersetzt wird.
 
 
 <!-- TODO FB: wir brauchen noch was schönes zum aufhören! -->
