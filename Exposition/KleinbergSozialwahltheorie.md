@@ -1,21 +1,29 @@
 # Sozialwahltheorie
 
-<!-- TODO MH: Losung Stalin vielleicht hier hin? -->
+> "Those who vote count for nothing.
+> Those who count the vote count for everything."
+> *Joseph Stalin*
 
 Wenn eine Gruppe von Menschen einen endlichen Satz von verschiedenen möglichen Alternativen evaluiert und daraus eine Gruppenentscheidung mit einer Reihenfolge von der besten bis zur schlechtesten Alternative aggregieren möchte, dann ist ein Wahlsystem notwendig, dass die Meinung des Kollektivs widerspiegelt. (S.737)
-<!-- TODO MH: Hier brauchen wir noch ein klitzekleines bisschen mehr Sanduhr und abholen; warum lesen wir das hier? Weil wir es mit dem finden von kollektiv verbindlichen Entscheidungen zu tun haben ... und Sozialwahltheorie betrachtet systematisch die mathematischen Möglichkeiten zur Aggregation. Erstmal müssen wir hier erklären, dass es da tatsächlich mehrere gibt; das ist vielen Lesern vielleicht erstmal nicht so klar. -->
+Beispielsweise sollte in einer Demokratie ganz besonders darauf geachtet werden, dass alle Meinungen gleichberechtigt in das Endergebnis einfließen, da für das Kollektiv *verbindliche* Entscheidungen getroffen werden.
+Dafür stehen unteschiedliche Wahlsysteme, z.B. die Mehrheitswahl, Borda-Wahl oder  zur Verfügung.
+Die Spietheorie evaluiert diese Systeme mathematisch und stellt Vor- und Nachteile dar.
+
 Diese Wahlsysteme vertreten eine individualisierte Ontologie, es zählt die einzelne Stimme als kleinste Einheit.
 <!-- TODO MH: das steht so etwas alleine im Wald, und ich verstehe es auch nicht so ganz. Wahlsysteme vertreten keine Ontologie; Denkapparate wie Sozialwahltheorie tun das. Was ihr hier wohl meint ist eher in den Annahmen über Präferenzen zu finden, welche Sozialwahltheorie trifft (vollständig, etc.) – am besten diese Annahmen hier recht früh dokumentieren, und dann darauf hinweisen was die Ontologie ist: nämlich *gegebene* Präferenzen von Individuen (was wären alternativen zu beidem?) -->
 
 
 ## Arrow's Unmöglichkeitstheorem (S.748)
 
-Arrow formuliert durch sein Unmöglichkeitstheorem die mathematisch bewiesene Tatsache, dass die Prinzipien der Pareto-Verbesserung und der "Independence of Irrelevant Alternatives" (IIA) nicht vereinbart werden können, ohne eine "Diktatur" zu ermöglichen.
-<!-- TODO MH: bitte immer deutsche Begriffe verwenden; sind für diesen Krams vorhanden – einfach mal bei Wikipedia schauen -->
-<!-- TODO MH: Dieser Satz hat eher Charakter einer Schlussfolgerung als eines Einleitungssatzes; vielleicht erstmal sagen: Um zwischen verschiedenen Wahlsystemen zu entscheiden, schlägt Arrow folgende minimale Kriterien vor: ... -->
+Um zwischen verschiedenen Wahlsystemen zu entscheiden, schlägt Arrow folgende minimale Kriterien vor:
+- Einhaltung der Pareto-Verbesserung
+- Unabhängigkeit von irrelevanten Alternativen (IIA)
+- Vermeidung einer Diktatur
 
-Dabei bedeutet die Pareto-Verbesserung, dass nach einer Meinungsänderung eines Individuums im Gegensatz zum vorherigen Wahlgang alle Meinungen mindestens so gut wie vorher in der Gruppenagreggation zu vertreten sind oder dass das Ergebnis sich im Sinne der veränderten Präferenz gewendet hat.
-<!-- TODO MH: kleines bisschen zu ungenau; nicht alle Meinungen sind "gleich gut vertreten" – Minderheiten etwa u.U. gar nicht. es geht darum, dass sollte eine Wählerin ihre Stimme ändern, dass dann das Wahlergebnis *schlimmstenfalls* gleich bleibt; anderenfalls in ihre richtung sich ändert. -->
+(Arrow formuliert durch sein Unmöglichkeitstheorem die mathematisch bewiesene Tatsache, dass die Prinzipien der Pareto-Verbesserung und der Unabhängigkeit von irrelevanten Alternativen (IIA) nicht vereinbart werden können, ohne eine "Diktatur" zu ermöglichen.)
+<!-- TODO MH: Dieser Satz hat eher Charakter einer Schlussfolgerung als eines Einleitungssatzes; vielleicht erstmal sagen:vor: ... -->
+
+Dabei bedeutet die Pareto-Verbesserung, dass sich bei Stimmänderung eines Individuums im Gegensatz zum vorherigen Wahlgang das Wahlergebnis schlimmstenfalls *nicht* oder andernfalls *in dessen Richtung* wendet.
 <!-- TODO MH: Dafür muss hier auch noch Pareto Erklärt werden. -->
 IIA bedingt, dass eine relative Gruppenpräferenz zwischen zwei Alternativen sich nicht verändert, wenn eine dritte Alternative hinzugefügt wird.
 <!-- TODO MH: gute knappe formulieren! -->
