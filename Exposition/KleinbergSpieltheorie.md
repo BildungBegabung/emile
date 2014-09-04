@@ -1,3 +1,4 @@
+
 # Spieltheorie
 
 Die **Spieltheorie** (siehe: Kleinberg, "Networks,Crowds and Markets", S.153-274) modelliert menschliche Interaktion in Form von Spielen, dessen *Spielausgänge* von den gewählten *Spielstrategien* abhängen und in Form einer Auszahlungsmatrix analysiert und veranschaulicht werden können.
@@ -19,6 +20,7 @@ Zum anderen kann es **Positivsummenspiele** (wie oben dargestellt) geben.
 Ein *Positivsummenspiel* enthällt unterschiedliche Summenanzahlen in unterschiedlichen Spielausgängen.
 Da der Mensch nach Annahme der Axiome der "Spieltheorie" stets danach strebt den höchstmöglichen Gewinn zu erzielen, und eine höhere Gewinnmaximierung nur bei *Positivsummenspiel* gegeben ist, lassen sich nur nach Positivsummenspielen Aussagen über menschliche Kooperation treffen.
 Demnach geben Nullsummenspiele keine Aussage über menschliche Kooperation, da die Summenanzahl bei jedem Spielausgang gleich bleibt.
+
 
 ## Die Spielstrategien
 
