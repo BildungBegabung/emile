@@ -9,23 +9,24 @@ Er stellt sich nicht gegen deren inhaltliche und pädagogische Konzeption, besch
 vielmehr kritisiert Illich eine Institution, welche uns glauben lassen soll, wir könnten Wertevorstellungen wie Bildung, eine Eigenschaft des Menschen, bestimmen, analysieren und schließlich messen.
 Illich begreift die Schule als ein Paradigma für die Natur von lebensbestimmenden Institutionen, fordert deren Abschaffung und plädiert für eine Gesellschaft, die sich für freie, und nicht durch Pflichten wie Berufe und Schulanwesenheit provozierte, zwischenmenschliche Interaktion ausspricht.
 
+
 >"Many students, especially those who are poor, intuitively know what the schools do for them.
-They school them to confuse process and substance."(Illich- P.3)
+They school them to confuse process and substance." (Illich S. 3)
 
 Wir verwechseln Prozess und Wert, und werden so zu der Annahme verleitet, Lehren würde zwangsweise Lernerfolg bewirken.
-Diese Annahme lässt sich ebenso auf das Gesundheitssystem anwenden, welchem die Annahme vorrausgeht, medizinische Versorgung lasse sich mit Bekämpfung von Krankheiten gleichsetzen, oder auf Polizeipräsenz, welcher Sicherheit automatisch folgen sollte.
+Diese Annahme lässt sich ebenso auf das Gesundheitssystem anwenden, welchem die Annahme vorausgeht, medizinische Versorgung lasse sich mit Bekämpfung von Krankheiten gleichsetzen, oder auf Polizeipräsenz, welcher Sicherheit automatisch folgen sollte.
 Es mag möglich sein, dass Polizei zur Sicherheit eines Wohnviertels beitragen kann, aber der Umkehrschluss, dass Sicherheit nur durch Polizeipräsenz erreicht werden kann, bzw. dass Polizeipräsenz *unausweichlich* zu mehr Sicherheit führt, verleitet zu falschen Konsequenzen.
 Aus diesem Zusammenhang würde sich die Möglichkeit ergeben, die Werte, d.h. Sicherheit, Lernerfolg, etc., zu messen; und zwar am Umfang des Prozesses (Polizeipräsenz, Schulanwesenheit).
 <!-- TODO: Ich verstehe, was ihr meint, aber könntet ihr diesen Zusammenhang nochmal klarer formulieren?
 Liegt das Problem nicht darin, dass von den Mitteln auf die Folge (der Wert) geschlossen wird?
 Schulen, Polizeipräsenz und das Gesundheitswesen sind nach Illich hinreichende, aber nicht notwendige Bedingungen für Lernen, Sicherheit und Gesundheit. -->
-Den Mythos der messbaren Werte beziehen wir schließlich auch auf unsere "imaginations, and, indeed, man himself"(p.19)
->„In a schooled world the road to happiness is paved with a consumer's index“(P.19).
+Den Mythos der messbaren Werte beziehen wir schließlich auch auf unsere "imaginations, and, indeed, man himself" (ebd. S. 19)
+>„In a schooled world the road to happiness is paved with a consumer's index“ (S. 19).
 
 Diese Werte beginnen einen allgemein verbindlichen Charakter zu entwickeln, weswegen wir unser "Wissen" an die nächste Generation weitergeben wollen, und somit versuchen deren Lernprozess ebenfalls zu kontrollieren.
 Wir gehen davon aus, das Urteil einer Person sollte entscheiden, was ein anderer Mensch wann lernt.
 Die einzige mögliche Konsequenz auf diese Fehleinschätzungen ist Eskalation.
-Sobald die Schule uns beigebracht hat, dass Wissensvermittlung zwangsläufig Lernen hervorruft und nur durch aktive Wissensvermittlung der notwendige Wissenshorizont erreicht werden kann, ist die uns logische erscheinende Antwort, auf alle Bildungprobleme mit Eskalation zu reagieren.
+Sobald die Schule uns beigebracht hat, dass Wissensvermittlung zwangsläufig Lernen hervorruft und nur durch aktive Wissensvermittlung der notwendige Wissenshorizont erreicht werden kann, ist die uns logische erscheinende Antwort, auf alle Bildungsprobleme mit Eskalation zu reagieren.
 Die Schule lehrt: Je mehr Schule, desto mehr Lernerfolg, weshalb wir zur Schule gehen.
 Im Gegensatz dazu schreibt Illich:
 >"Most learning is not the result of instruction: It is rather the result of unhampered participation in a meaningful setting." (p.18)
@@ -111,23 +112,23 @@ Was uns aber zu denken geben sollte, ist dass Rousseau, damals kritisch beäugt,
 Auch wenn sie beides Träumer sind, fasziniert uns die Vorstellung eines *reinen* Menschen, frei von jeglicher Manipulation, und vielleicht lohnt es sich ja, an diesem Ideal festzuhalten, auch wenn die Verwirklichung eine Unmöglichkeit darstellt.
 
 >"The child grows up in a world, surrounded by people who serve as models for skills and values (...), peers (...) to coorporate and understand, and if he is lucky, he is exposed to criticism by an experienced elders who really cares."
-
+<!-- FIXME: Seitenangabe -->
 Jedem Menschen, so Illich, sollte der Zugang zu diesen "Ressourcen" gewährleistet sein für eine freie Entfaltung. Dies trifft sich mit Benner, der auch sehr klar die Notwendigkeit einer Bezugs- und erziehenden Persönlichkeit formuliert.
 Nach Benner benötgt der Zögling den Beistand eines Älteren, der ihn in seinem Reifungsprozess fördert bis dieser in der Lage ist, selbsttätig zu handeln.
 Dieses Ziel kann nur durch permanente Aufforderungen erreicht werden.
 Allerdings darf diese Einwirkung nur stattfinden, solange sie nötig ist:
 >"Im Sinne dieser Dialektik ist pädagogisches Handeln nur dort erlaubt, wo der Zu-Erziehende der Fremdaufforderung zur Selbsttätigkeit bedarf, und muss Erziehung stets don an ihr Ende gekommen sein, wo pädagogische Fremdaufforderung zur Selbsttätigkeit in Selbstaufforderung übergehen kann."
-
+<!-- FIXME: Seitenangabe -->
 So überschreitet die Schule die Grenzen der Pädagogik, da sie den Heranwachsenden auch noch dann versucht zu erziehen, wenn er schon in der Lage ist, selbsttätig zu handeln.
-Indem Benner keine weiteren Angaben dazu macht, ab welchem Alter dies in der Regel zutrifft,, macht er deutlich, dass eine allgemeine Einstufung von Kindern als unselbstständig, wie sie in der Schule geschieht, nicht angemessen ist, da es einerseits Schüler gibt, die sehr früh unabhängig in ihren Entscheidungen sind, andererseits auch viele Erwachsene, die wieder der Pädagogik bedürfen.
+Indem Benner keine weiteren Angaben dazu macht, ab welchem Alter dies in der Regel zutrifft, macht er deutlich, dass eine allgemeine Einstufung von Kindern als unselbstständig, wie sie in der Schule geschieht, nicht angemessen ist, da es einerseits Schüler gibt, die sehr früh unabhängig in ihren Entscheidungen sind, andererseits auch viele Erwachsene, die wieder der Pädagogik bedürfen.
 Genauso beschreibt Illich Kindheit als eine moderne Erfindung und behauptet, einem Kind wurde bis zur Postmoderne moralisches Urteilsvermögen mit 7 Jahren zugeschrieben.
 Diese Tatsachen können als Begründungen für Illichs Abschaffung der Schule dienen, indem sie auf deren Mängel hinweisen.
 
-
-Man kann sogar noch einen Schritt weiter gehen, indem man in Illichs Ideen eine Antwort auf eine der zentralen Fragen unserers Kurses, "Wie können unterschiedliche und unterschiedlich befähigte Menschen inhärent gleich berechtigt und persönlich autonom zusammenleben?", sieht.
+Man kann sogar noch einen Schritt weiter gehen, indem man in Illichs Ideen eine Antwort auf eine der zentralen Fragen unserers Kurses: Wie können unterschiedliche und unterschiedlich befähigte Menschen inhärent gleich berechtigt und persönlich autonom zusammenleben?, sieht.
 Ein zentraler Punkt, den er an der Institution Schule kritisiert,ist deren Recht zur Bewertung der Schüler durch Zertifikate.
 Diese schulischen Zertifikate werden in der gegenwärtigen Gesellschaft als einzig legitime Qualifikationen betrachtet und geben somit der Schule die Macht, über die Zulassung von Schülern zu weiteren Bildungseinrichtungen oder die Erlaubnis zur Ausübung eines Berufs zu entscheiden.
 Die Folgen dieses Symstems sind weitreichend, was Illich mit dem Satz "School initiates young people into a world where everything can be measured, including their imaginations, and, indeed, man himself. (Illich, e, S.19), veranschaulicht.
+<!-- FIXME: Seitenangabe -->
 Schule produziert also durch die Beeinflussung der Lernenden dahingehend, dass der Wert von allem, sogar von Menschen messbar sei, Ungleichheit.
 Das impliziert die unterschiedliche Wertigkeit von Menschen und führt somit dazu, dass Schüler nicht nur als ungleich betrachtet werden, sondern auch sich selber als unterschiedlich wertvoll ansehen.
 Illich schlägt nun vor, das Messen von Fähigkeiten stark einzuschränken und im Bezug auf den Zugang zu Bildungsmöglichkeiten ganz abzuschaffen.
@@ -151,7 +152,6 @@ Wichtig ist dabei, dass wir dieses Wissen als bedeutend für uns wahrnehmen, da 
 Illich würde auf jeden Fall der Issue-Organisation zustimmen, in welcher jeder seine eigenen Interessen kundtun kann, und auch an der Ausarbeitung bereits formulierten Interessen teilnehmen kann.
 Wir arbeiten mit Gleichaltrigen, bzw. von ähnlichen Interessen Getriebenen, zusammen und können darauf Vertrauen, dass wir Einfluss auf das Endergebnis haben, und das wir in der Lage sind, unsere eigene Meinung so zu äußer, dass sie auch wahrgenommen wird.
 Dabei haben wir aber auch zu jedem Zeitpunkt die Möglichkeit, professionelle Hilfe zu bekommen, wobei diese uns nicht das eigentliche Wissen vermitteln, sondern ihnen lediglich eine beratende Stellung zukommt
-<!-- (Lob an Max und Verena an dieser Stelle!!) Habe es mal "unsichtbar" gemacht ;-) Danke!!! -->
 und uns vor allem in organisatorischen, bzw. technischen Fragen weiterhelfen.
 Als erster Kritikpnkt fällt natürlich die Vorauswahl der TNs ins Auge, jedoch stellen auch unter Negierung dieser Tatsache weitere Probleme in den Weg.
 Schränkte man unser Projekt allein auf die Ausarbeitung auf github ein, würde sich unser Kontakt ebenfalls wieder auf eine rein effizienzorientierte Ebene reduzieren und das eigentliche Identifizierungsprozess mit der anderen Perönlichkeit gerät in den Hintergrund.
