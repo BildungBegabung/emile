@@ -1,8 +1,8 @@
 # Freinet - Neue Blickwinkel durch die Reformpädagogik?
-
+<!-- FIXME: VK gut, aber neue Blickwinkel worauf? -->
 
 ## Grundzüge Freinets didaktischer Konzeption einer Schule
-
+<!-- FIXME: VK stärkerer Bezug zum Kursthema, Vorschlag: Freinets didaktische Konzeption einer Schule als Lösung des Kooperationsproblems -->
 "Es geht darum, unser ganzes Erziehungssystem von der materiellen Basis her umzugestalten." (Freinet-1946 S. 99)
 Diese These Freinets scheint zunächst überraschend.
 Für gewöhnlich beginnt man eine solche Revolution mit einem theoretischen Konzept und nicht mit einer Handvoll Lernkarteien in einem umgeräumten Klassenzimmer.
