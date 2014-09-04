@@ -16,7 +16,6 @@ Innerhalb der Struktur des Graphs kann es Besonderheiten, wie z.B. Komponente ge
 ### Schlussfolgerungen
 
 Aus dieser Ausgangssituation kann man je nach Betrachtungsweise verschiedene Schlussfolgerungen ziehen.
-
 Beispielsweise kann man den Informationsfluss in Netzwerken analysieren.
 
 ### Kaskaden und Cluster
