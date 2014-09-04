@@ -7,13 +7,13 @@
 
 Um Netzwerke, Systeme von Verbindungen zwischen Entitäten, theoretisch betrachten und analysieren zu können, gibt es die Möglichkeit sie als Graph darzustellen.
 Dabei gibt es Kanten und Knotenpunkte.
-Nodes können untereinander durch Edges verbunden werden, die soziale Verbindung, Bekanntschaft, gemeinsame Arbeiten etc. darstellen
-<!-- FIXME: MH nur deutsche Begriffe verwenden -->
+Knotenpunkte können untereinander durch Kanten verbunden werden, die soziale Verbindung, Bekanntschaft, gemeinsame Arbeiten etc. darstellen
+
 <!-- TODO: MH Beispiel für Netzwerk einführen, eines das mit unserem Kurs zu tun hat -->
 
 <!-- FIXME: Bild von Graphs einfügen  -->
 
-Innerhalb der Struktur des Graphs kann es Besonderheiten, wie z.B. **Components** (Komponente) geben, einzelne Netzwerke, welche nicht über einen **Path** (Pfad) mit jedem anderen Knoten im Graph verbunden sind.
+Innerhalb der Struktur des Graphs kann es Besonderheiten, wie z.B. Komponente geben, einzelne Netzwerke, welche nicht über einen Pfad mit jedem anderen Knoten im Graph verbunden sind.
 
 <!-- FIXME: Bild von Component einfügen  -->
 <!-- FIXME: Ludwig Fragen über Richtigkeit-->
@@ -61,6 +61,13 @@ Durch verschiedene Maßnahmen wird also ein Ausgleich angestrebt.
 Die Anzahl der Schüler, die dem Mittelmaß zugeordnet werden können, steige demnach an, extreme Abweichungen nehmen entsprechend ab.
 Besonders in der Sonderpädagogik wird dieses System häufig angewendet, um benachteiligten Schülern gleiche Chancen einzuräumen.
 Als Netzwerk dargestellt gäbe es beim Normalisierungsprinzip keine Cluster oder Abgrenzungen, da jeder Schwache mit starken Schülern in Kontakt steht. Das Ideal wäre eine Lerngruppe, in der ein homogener Bildungsstandard herrscht. In der Netzwerktheorie stößt das Prinzip allerdings schon an seine Grenzen, wenn man Personen am Rand des Netzwerks betrachtet, die zwangsläufig weniger Kontakte als andere haben.
+
+Da diese beiden Prinzipien, werden sie als jeweils als einziges und vollständig angewendet, gravierende Nachteile mit sich bringen, stellt Zimpel eine dritte Möglichkeit vor, den **Hyperzyklus**.
+Am Beispiel eines Schülerin mit einer geistigen Behinderung erläutert er, wie Integration als Balance zwischen der Anerkennung der Individualität und der Gleichwertigkeit der Schüler gelingen kann.
+Dieses Konzept beruht darauf, dass sich alle Schüler als hilfreich für andere erleben können. So entsteht ein rekursives, zirkuläres System von gegenseitiger Hilfestellung (Rot hilft Gelb, Gelb hilft Grün, Grün hilft Rot, etc.).
+Es ensteht ein "Fluss des Gebens und Nehmens", bei dem, trotz der unterschiedlichen Vorraussetzungen der Schüler, alle in den Lernprozess eingebunden werden konnten.
+Auch beim Hyperzyklus gibt es dementsprechend keine Clustergrenzen und somit keine Abgrenzung zwischen Schülern verschiedener Leistungsstärken.
+Vielmehr kategorisiert nicht zwangsläufig in stark oder schwach, sondern diferneziert den Leistungsbegriff und berücksichtigt viele verschiedene Fähigkeiten und Begabungen. Somit kann jeder Schüler als Hilfe dienen und Hilfe empfangen.
 
 
 
