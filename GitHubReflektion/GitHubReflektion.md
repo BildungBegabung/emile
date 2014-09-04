@@ -2,7 +2,7 @@
 
 Es hat schon etwas mystisches.
 Während unserer Kursarbeit müssten unsere Kursleiter wohl oft mit Sorgenfalten in aufs extremste irritierte Gesichter geblickt haben.
-Es hatte ja auch etwas heroisches an sich, die grundsätzlichsten Fragen der menschlichen Existenz im Sinner seiner psychologischen Funktion und seiner soziologischen Gemeinschaft beantworten zu wollen.
+Es hatte ja auch etwas heroisches an sich, die grundsätzlichsten Fragen der menschlichen Existenz im Sinne seiner psychologischen Funktion und seiner soziologischen Gemeinschaft beantworten zu wollen.
 Der Ein oder Andere hat auf diesem Weg mehr Mals seinen Blick auf die Welt andern müssen und besonders mit dem Begriff der Deontologie gerungen.
 Es liegt daher nahe unsere Ergebnisse und Ideen auch auf unsere Zusammenarbeit auf der Open-Source-Plattform GitHub anzuwenden.
 
@@ -38,14 +38,16 @@ Als Fazit lässt sich also sagen, dass Freinet unserem System wahrscheinlich nic
 
 ## Illichs Einschätzung zu GitHub
 
-Illichs Beschreibung der learning webs decken sich grundsätzlich mit unserer Arbeit auf Github, angenommen, mehr Leute würden es nutzen und wir alle haben uns ganz frei dazu entschieden, genau an diesem Thema teilzunehmen, und sind jederzeit in der Lage unsere Arbeit zu verweigern - wenn wir wollten.
+Würde Illich unsere Verwendung von Github zum gemeinsamen Arbeiten an dieser Dokumentation und zur Vorbereitung unserers Kurses befürworten?
 
-Angenommen PCs mit mindestens windows7 würden als Lernobjekt nach Illichs Definition gelten, hätte jeder Zugang zu diesem Programm.
+Illichs Beschreibung der "learning webs" deckt sich grundsätzlich mit unserer Arbeit auf Github. Die Tatsache, dass wir als eine Gruppe von Lernenden uns frei dazu entschieden haben, genau an diesem Thema teilzunehmen und theoretisch jederzeit in der Lage unsere Arbeit zu verweigern, erfüllt Illichs Anspruch der Freiwilligkeit von Lernmöglichkeiten.
+
+In dem Fall, dass PCs als Lernobjekt nach Illichs Definition gelten würden, hätte jeder Zugang zu diesem Programm.
 Zudem würde er die Einarbeitung in die Technik als sehr positiv betrachten, da es uns dazu befähigt, neue Sachverhalte zu verstehen, und uns dazu bringt, uns mit neuen Themengebieten auseinanderzusetzen.
 Wichtig ist dabei, dass wir dieses Wissen als bedeutend für uns wahrnehmen, da es einen direkten Wirklichkeitsbezug hat.
 Illich würde auf jeden Fall der Issue-Organisation zustimmen, in welcher jeder seine eigenen Interessen kundtun kann, und auch an der Ausarbeitung bereits formulierten Interessen teilnehmen kann.
-Wir arbeiten mit Gleichaltrigen, bzw. von ähnlichen Interessen Getriebenen, zusammen und können darauf Vertrauen, dass wir Einfluss auf das Endergebnis haben, und das wir in der Lage sind, unsere eigene Meinung so zu äußer, dass sie auch wahrgenommen wird.
-Dabei haben wir aber auch zu jedem Zeitpunkt die Möglichkeit, professionelle Hilfe zu bekommen, wobei diese uns nicht das eigentliche Wissen vermitteln, sondern ihnen lediglich eine beratende Stellung zukommt
-und uns vor allem in organisatorischen, bzw. technischen Fragen weiterhelfen.
-Als erster Kritikpnkt fällt natürlich die Vorauswahl der TNs ins Auge, jedoch stellen auch unter Negierung dieser Tatsache weitere Probleme in den Weg.
-Schränkte man unser Projekt allein auf die Ausarbeitung auf github ein, würde sich unser Kontakt ebenfalls wieder auf eine rein effizienzorientierte Ebene reduzieren und das eigentliche Identifizierungsprozess mit der anderen Perönlichkeit gerät in den Hintergrund.
+Wir arbeiten mit Gleichaltrigen, bzw. von ähnlichen Interessen moivierten, zusammen und können darauf vertrauen, dass wir Einfluss auf das Endergebnis haben, und das wir in der Lage sind, unsere eigene Meinung so zu äußern, dass sie auch wahrgenommen wird.
+Dabei haben wir aber auch zu jedem Zeitpunkt die Möglichkeit, professionelle Hilfe zu bekommen, wobei diese uns nicht das eigentliche Wissen vermitteln, sondern ihnen lediglich eine beratende Stellung zukommt und uns vor allem in organisatorischen, bzw. technischen Fragen weiterhelfen.
+Als erster Kritikpnkt fällt natürlich die Vorauswahl der Teilnehmer ins Auge, jedoch stellen auch unter Negierung dieser Tatsache weitere Probleme in den Weg.
+Schränkte man unser Projekt allein auf die Ausarbeitung auf Github ein, würde sich unser Kontakt ebenfalls wieder auf eine rein effizienzorientierte Ebene reduzieren und das eigentliche Identifizierungsprozess mit der anderen Perönlichkeit gerät in den Hintergrund.
+"Merge-conflicts" stellen bei unserer Arbeit eine Form von Kooperationsproblemen dar, Illich macht zu letzteren keine Aussage.
