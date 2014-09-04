@@ -11,7 +11,7 @@ getroffen werden (vgl. Kleinberg; Networks, Crowds and Markets, S.156).
 Großer Teil dieser Spieltheorie ist das "Gefangenendilemma", auf das ich mich später noch genauer beziehen werde um auf das Zitat von John Nash (siehe oben) zurückzukommen.
 
 
-Nach Annahme der Axiome der "Spieltheorie" entscheidet sich der Mensch in seinem Handeln stets streng ökonomisch, das heißt, er (trifft die Wahl) <!-- FIXME: verfolgt die Strtegie FB--> mit der größtmöglichen Summenanzahl <!-- FIXME: formuliere ""Ergebnis" oder so FB--> für sich selbst (vgl. ebd. S.159).
+Nach Annahme der Axiome der "Spieltheorie" entscheidet sich der Mensch in seinem Handeln stets streng ökonomisch, das heißt, er verfolgt die Strategie mit der größtmöglichen Ergebnis (vgl. ebd. S.159).
 Außerdem wird angenommen, dass jeder den "Spielplan" (vgl. ebd. S.159) kennt und somit auch alle Spielstrategien und Mitspieler.
 Die letzte Annahme geht aus dem Prinzip der "Raionalität" hervor und vereint zwei Annahmen: Zum einen die des "Homo ökonomikus" und zum anderen die Annahme, dass jeder Spieler die beste "Spielstrategie" wählt (vgl. ebd., S.156).
 Die *streng dominante* Stategie wählen die Spieler unabhängig von den Mitspielern stets den höchst möglichen Spielertrag (vgl. ebd.S.164). <!-- FIXME: Satz nochmal durchlesen, iwas fehlt FB-->
@@ -23,7 +23,7 @@ Dies wäre Vergleichbar mit Adam Smiths Annahme:
 Es gibt zwei Spielvarianten:
 Zum einem kann es **Nullsummenspiele** geben.
 Dabei haben alle Spielausgänge die gleiche Summenanzahl.
-Zum anderen kann es **Nichtnullsummenspiele** <!-- FIXME: (z.B Positivsummenspiel) FB--> geben.
+Zum anderen kann es **Positivsummenspiele** geben.
 Ein Nichtnullsummenspiel enthällt unterschiedliche Summenanzahlen in unterschiedlichen Spielausgängen.
 Da der Mensch nach Annahme der Axiome der "Spieltheorie" stets danach strebt den höchstmöglichen Gewinn zu erzielen, und eine höhere Gewinnmaximierung nur bei Nichtnullsummespielen gegeben ist, lassen sich nur nach Nicht-Nullsummenspiel Aussagen über menschliche Kooperation treffen.
 Demnach geben Nullsummenspiele keine Aussage über menschliche Kooperation, da die Summenanzahl bei jedem Spielausgang gleich bleibt.
@@ -38,8 +38,7 @@ Ein Beispiel aus der Wirtschaft wäre der Handel, bei welchem  beide Spielpartne
 2. *Soziales Wohlfahrtsoptimum und "Nash-Equilibrium" fallen nicht zusammen.*
 Ein Beispiel wäre das der Nationalen Co2 Emissionen. Entscheidet sich ein Land weniger Umweltschutzmaßnahmen zu treffen so profitiert es davon nur, solange die anderen Ländern nicht die gleiche Strategie wählen.
 
+ ## Das Gefangenendilemma lösen
 
-(Eine Lösung des Gefangenen Dilemmas?) <!-- FIXME: ## Das Gefangenendilemma lösen FB-->
-
-Außer durch den Einfluss eines Gewaltmonopolists oder einer Änderung der Axiome, kann das Gefangenen Dilemma nicht gelöst werden, da die Konzeption dem Menschenbild des homo ökonomicus unterliegt und davon ausgeht, dass jeder nur aus Eigeninteresse handelt und das Optimum, da die dritte Annahme (siehe Z.8)<!-- FIXME:Zeile 8 wo?  FB--> unzutreffend ist und ggf. nur per Zufall erreicht wird.
-<!--TODO CK: auf Nash-Zitat eingehen, wie angekündigt  -->
+Außer durch den Einfluss eines Gewaltmonopolists oder einer Änderung der Axiome, kann das Gefangenen Dilemma nicht gelöst werden, da die Konzeption dem Menschenbild des homo ökonomicus unterliegt und davon ausgeht, dass jeder nur aus Eigeninteresse handelt und das Optimum, da die dritte Annahme (siehe oben) unzutreffend ist und ggf. nur per Zufall erreicht wird.
+Adam Smith lag somit mit seiner Annahme, dass die **streng dominate** SPielstrategie stets den größtmöglich  
