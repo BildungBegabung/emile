@@ -7,6 +7,8 @@ Am Anfang unserer Kursarbeit hatten wir 16 Autoren sowohl der Sozialwissenschaft
 Ein Grundproblem, das sich sowohl in den Sozialwissenschaften als auch der Pädagogik wiederfindet ist das des menschlichen Zusammenlebens.
 In unsererm Kurs wurde diese Problematik, die sich in einer Demokratie ebenso wie in der Schule stellt, anhand eines Hauses veranschaulicht.
 
+![Haus](img\Kooperationshaus.JPG "Kooperationshaus")
+
 Nehmen wir an, dass der Mensch weder Herdentier noch Einzelgänger ist.
 Da aber (fast) jeder Mensch in eine Gesellschaft hineingeboren wird, ergibt sich zwangsläufig folgender Konflikt:
 Inwiefern kann ein Mensch autonom über sich und sein Leben entscheiden, ohne dabei die Entscheidungsfreiheit anderer und somit die inhärente Gleichwertigkeit aller Menschen einzuschränken?
