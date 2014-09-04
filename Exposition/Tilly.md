@@ -11,9 +11,19 @@ Staaten definiert er hierbei über die Kontrolle der physischen Gewalt in einem 
 Nach Tillys Modell ist die Entwicklung eines Staates immer mit kriegerischen und gewaltvollen Handlungen verbunden.
 Er geht sogar so weit zu behaupten, dass Gewalt notwendig für die Entwicklung eines Staates ist.
 Der Ausgangspunkt für die Entwicklung eines Staates, ist die Monopolisierung von Gewalt und Macht ("governments organize and, wherever possible, monopolize violence" ebd. S.171).
-Die Beziehungen untereinander unterliegen dem Sozialdarwinismus, bei dem jeder gegen jeden Krieg führt. Jede Person oder Gruppe versucht dabei, ökonomisch gesehen, sich durch technische oder organisatoriche Innovationen einen Vorteil über die anderen Parteien zu verschaffen, um sich gegen andere Parteien als der Stärkste innerhalb eines geografischen Bereiches durchzusetzen und positive Skalenerträge zu erzielen.  (Vgl. ebd. S.173).
+Die Beziehungen untereinander unterliegen dem Sozialdarwinismus, bei dem jeder gegen jeden Krieg führt. Jede Person oder Gruppe versucht dabei, ökonomisch gesehen, positive Skalenerträge zu erzielen und sich so durch technische oder organisatoriche Innovationen einen Vorteil über die anderen Parteien zu verschaffen, um sich gegen die anderen als der Stärkste innerhalb eines geografischen Bereiches durchzusetzen.  (Vgl. ebd. S.173).
 Dieses Handeln ist entscheidend für die Entwicklung eines Staates, denn sie zeigt, dass ein Staat nicht etwa infolge von friedlicher Zusammenarbeit der Menschen entsteht, sondern immer an Machtkämpfe, Ausbeutung und Krieg gebunden ist ("war making likewise led to state making" ebd. S.183).
-<!-- TODO MH: hier evtl. Darstellung von positiven Skalenerträgen einfügen? -->
+
+Positive Skalenerträge bedeuten, dass die Gesamtkosten für die Herstellung eines Produktes mit steigender  Anzahl an hergestellten Gütern billiger werden (vgl. Grafik).
+Für den Machthaber ist das insofern ein Vorteil, dass er mit geringeren Kosten effizienter Gewalt produzieren kann. Positive Skalenerträge kommen vor allem durch technische und organisatorische Innovationen zustande.
+So ist beispielsweise bei niedrig entwickelten Waffen wie Keulen kaum ein solcher Vorteil erkennbar, es kostet einen bestimmten Betrag, eine Keule herzustellen, die  eine Person ausschalten kann, dieser Betrag bleibt aber auch bei den nächsten tausend produzierten Keulen ungefähr gleich, es ergibt sich dadurch kein großer Vorteil.
+Anders bei höher entwickelten Waffen wie der Wasserstoffbombe.
+Hat diese bei einem Ertrag von mehreren Millionen Menschen, die auf einmal ausgeschaltet werden können, bei der ersten Herstellung noch extrem große Produktionskosten, so werden diese bei den nächsten produzierten Bomben deutlich kleiner.
+Für den Machthaber stellt dies einen militärischen Vorteil dar, er kann mit höherer Produktion deutlich höhere Erträge bei gleichen Kosten erzielen.
+
+![Positive Skalenerträge](\img\Skalenerträge.png)
+
+
 Durch seine Macht hat der Herrscher nun die Möglichkeit,  von seinem Volk  Tribute (Steuern) einzufordern und im Gegenzug "Sicherheit" anzubieten, allerdings funktioniert dies durch die Gewaltpräsenz und somit die Bedrohung des Herrschers auf seine Untergebenen. ("governments are in the business of selling protection" ebd. S. 175).
 <!-- TODO MH: Diese Doppeldeutigkeit der "protection" sollte schon vorher erklärt werden, weiter am Anfang; vielleicht auch wieder mit einem Beispiel -->
 Der gebotene Schutz kann laut Tilly zwei Formen annehmen:
