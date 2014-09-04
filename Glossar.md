@@ -57,6 +57,11 @@ Eine soziale Struktur, die eine gewisse Stabilität hat. Im weiteren Sinne besch
 Beschreibt den Abschnitt unter dem Graph in der Produktionsmöglichkeitenkurve.
 ### Interaktion:
 Wechselseitige Beziehung, aufeinander bezogenes Handeln, gegenseitige Beeinflussung.
+### Intersubjectively shared lifeworld
+intersubjectively - Sachverhalt für mehrere Betrachter gleichermaßen erkennbar und nachvollziehbar
+shared - geteilt
+lifeworld - a universe of what is self-evident or given, a world that subjects may experience together
+-> zwei Subjekte sind sich darüber einig, wie sie ihre gemeinsam erlebte Umgebung sehen und wahrnehmen
 ### Intersubjektiv:
 Mehreren Personen gleichermaßen zugänglich.
 ### Konsequentialismus:
@@ -68,6 +73,8 @@ Die Zusammenarbeit von zwei oder mehreren Parteien.
 ### Leviathan:
 Titel einer staatstheoretischen Schrift des Engländers Thomas Hobbes aus dem Jahr 1651.
 Eines der bedeutensten Werke der westlichen politischen Philosophie und eine der theoretischen Grundlagen neuzeitlicher Politikwissenschaft.
+### Linguistic utterances
+Handlungen mit dem Ziel, Verständigung zwischen mind. zwei Personen zu erreichen
 ### Monopolist:
 Besitzer des absoluten Rechts oder der absoluten Kontrolle über die Produktion.
 ### Moral:
@@ -79,6 +86,8 @@ Besagt, dass ein Kriterium hinreichend ist, wenn es nur auf eine von zwei Mögli
 Eine Kombination von Strategien in nicht-kooperativen Spielen, wobei jeder Spieler genau eine Strategie wählt, von der aus es für keinen Spieler sinnvoll ist, von seiner gewählten Strategie abzuwenden.
 ### Nodge:
 Knotenpunkt in einem Netzwerk, z.B. eine Person.
+### noncoersive:
+Keine Nutzung von Gewalt oder Drohungen.
 ### Nullsummenspiel:
 Situationen in der Spieltheorie bei denen die Summe der Gewinne und Verluste aller Spieler zusammengenommen gleich null ist.
 ### Paretoprinzip:
@@ -89,12 +98,16 @@ Allgemein kann man einen Prozess als eine Pareto-Verbesserung bezeichnen, wenn n
 Die Wissenschaft, die sich mit dem Unterrichten und Erziehen beschäftigt
 ### Peace of Westphalia:
 Reihe von unterzeichneten Friedensabkommen zwischen Mai und Oktober 1648 in Münser und Osnabrück.
+### Perlocutionary effect:
+die durch einen Sprechakt erzielte Wirkung.
 ### Perlokutiv:
 Teil des Sprechaktes, der eine Wirkung beim Hörer erzielt.
 ### Persönliche Autonomie:
 Die Fähigkeit des Menschen, sich selbst zu führen, ohne Hilfe oder Aufsicht von anderen.
 ### Positivsummenspiel:
 Situationen in der Spieltheorie bei denen die Summe der Gewinne und Verluste aller Spieler sich unterscheiden oder bei denen es keinen Gewinn oder Verlust gibt.
+### Purposive activity
+nicht sprachliche Handlung mit dem Ziel eigene Absichten durchzusetzen.
 ### Racket:
 Service, der in betrügerischer Absicht angeboten wird.
 ### Racketeering:
@@ -108,5 +121,7 @@ Handlungsmöglichkeit für den Spieler, Aufgabe des Spielers ist es sich für ei
 ### Symbolischer Interaktionismus:
 Symbolisch heißt soviel wie bildhaft oder sprachlich und Interaktionismus ist die Kommunikation zwischen Individuengruppen.
 Zusammengefasst heißt das also, dass Mead sich mit der sprachlichen, bildlichen Beziehung zwischen Menschen beschäftigt.
+### transmundane:
+Auftreden jenseits der physischen Welt.
 ### Viabilität:
 Begriffe sind dann viabel, wenn sie zu Beschreibungen passen, für die wir sie auch benutzen. Desweiteren sind Dinge viabel, wenn sich ein Individuum dafür interessiert bzw. lebensdienlich ist.
