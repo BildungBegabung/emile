@@ -1,20 +1,14 @@
-# Kooperation im Selbstexperiment - Reflektion über unsere Kursarbeit auf GitHub // Inwieweit geht gihub ab
-<!-- TODO FB: Beim ersten auftauchen unserer Lieblingsbegriffe wie merge, issue etc pp diese erklären! -->
-Während unserer Kursarbeit haben unsere Kursleiter wohl oft mit Sorgenfalten in irritierte Gesichter geblickt.
-Es hatte ja auch etwas heroisches an sich, die grundsätzlichsten Fragen der menschlichen Existenz im Sinne seiner Entwicklung und seiner soziologischen Gemeinschaft beantworten zu wollen.
-Der Eine oder Andere musste auf diesem Weg mehr als einmal seinen Blick auf die Welt ändern und besonders mit dem Begriff der Deontologie ringen.
-Da wir uns inhaltlich mit Fragen der menschlichen Kooperation (manchmal auch der tierischen) beschäftigt haben, lag es nahe auch unsere Kursarbeit kooperativ zu organisieren.
-Wie keiner vor uns haben wir versucht, unseren sozialwissenschaftlich-pädagogischen Kurs und das Schreiben dieser Dokumentation auf der Open-Source-Plattform GitHub zu organisieren.
-GitHub ist eine Plattform, die ursprünglich zum Zweck der Koordination von Softwareentwicklung entstanden ist.
-Als Vorbereitung für den Kurs arbeiteten wir bereits vor Akademiebeginn gemeinsam auf GitHub.com, der sozialen Komponente des Versionierungstools Git.
-Später verwendeten wir Git um die Dokumentation zu schreiben, im Kombination mit dem Open-Source-Texteditor Atom.
-Diese drei Komponenten sollten unsere Arbeit so effizient wie möglich gestalten.
-Dazu muss jeder in der Lage sein zu jedem Zeitpunkt sein Wissen einzubringen und auf das Wissen der anderen zuzugreifen.
-Wir hatten Zeitpunkt die Möglichkeit haben, auf alle geschrieben Texte zuzugreifen, diese zu kommentieren, selbst zu bearbeiten und zu ändern.
-Dadurch entstand eine völlig neue Form der sozialen Interaktion, die in Bezug auf die Ausgangsfrage nach persönlicher Autonomie und inhärenter Gleichheit zu analysieren ist.
-Hierfür lassen wir vier Autoren aus unserem Kurs sprechen und befragen sie posthum, was sie zu diesem gewagten Unterfangen auf GitHub sagen würden.
-Inwiefern kann GitHub sozialwissenschaftliche und pädagogische Theorien dadurch entwerten, dass es einen technischen Lösungsansatz für das Kooperationsproblem bietet?
-Und wieweit entwerten dieselben Theorien *GitHub* als Lösungsansatz?
+# Kooperation im Selbstexperiment - Reflektion über unsere Kursarbeit auf GitHub
+
+Da wir uns inhaltlich mit Fragen der menschlichen Kooperation beschäftigt haben, lag es nahe auch unsere Kursarbeit kooperativ zu organisieren.
+Wie wohl keiner vor uns haben wir versucht, unseren sozialwissenschaftlich-pädagogischen Kurs und das Schreiben dieser Dokumentation auf der Open-Source-Plattform **GitHub** zu organisieren, die ursprünglich zum Zweck der Koordination von Softwareentwicklung entstanden ist.
+Als Vorbereitung für den Kurs arbeiteten wir bereits vor Akademiebeginn gemeinsam auf GitHub.com, der sozialen Komponente des Versionierungstools **Git**.
+Später verwendeten wir Git um die Dokumentation zu schreiben, in Kombination mit dem Open-Source-Texteditor **Atom**.
+Dazu musste jeder in der Lage sein zu jedem Zeitpunkt sein Wissen einzubringen und auf das Wissen der anderen zuzugreifen.
+Diese drei Komponenten sollten unsere Arbeit also so effizient wie möglich gestalten.
+
+Inwiefern konnte GitHub tatsächlich sozialwissenschaftliche und pädagogische Theorien dadurch entwerten, dass es einen *technischen* Lösungsansatz für das Kooperationsproblem bietet?
+Und wieweit können dieselben Theorien *GitHub* als Lösungsansatz entwerten?
 
 ## Freinet zu Github
 
@@ -33,19 +27,15 @@ Wir arbeiten damit im Sinne des Kollektivs im Kurs, wobei aber trotzdem unsere a
 Es besteht dabei allerdings die Gefahr, dass durch die Vernetzung, die GitHub bietet, eine direkte emotionale Verbindung verloren geht, gerade weil GitHub anders als soziale Netzwerke eine Basis für gemeinsames Arbeiten darstellt, sodass ein Großteil der dokubezogenen Kommunikation hierüber einfacher zu leiten ist.
 Für Freinet ist eine Gruppendynamik ähnlich der einer Familie sehr wichtig.
 Diese ist nicht mehr gegeben, sobald vernetztes Lernen beginnt, da es eine geographische Nähe entbehrlich macht.
-<<<<<<< HEAD
+
 Darüberhinaus bietet das Internet als Plattform für GitHub dem Edukator praktische Unfehlbarkeit, da dieser praktisch uneingeschränkte Freiheiten mit der Arbeit der anderen hat und fast alles bearbeiten oder löschen kann.
 
-=======
 Jedoch ist gerade die Fehlbarkeit des Lehrers entscheidend, denn hier kann er ehrlich zu seinen Schülern sein (vgl. Freinet-1946 S. 110).
 
 
 Trotz alle dem ist es fraglich, ob eine vernetzte Arbeit mit Freinets Reformpädagogik verglichen werden kann, schließlich konnte Freinet in der Mitte des 20.Jahrhunderts die Entwicklung des Internets nicht vorhersagen.
 
-<<<<<<< HEAD
 Als Fazit lässt sich also sagen, dass Freinet unserem System wahrscheinlich nicht abgeneigt wäre, aber seine contra-sozialen Folgen stark kritisieren würde.
-=======
-
 
 
 ## Illich zu Github
