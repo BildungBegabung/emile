@@ -1,75 +1,40 @@
 # Sozialwahltheorie
 
-<!-- TODO MH: Losung Stalin vielleicht hier hin? -->
-
-Wenn eine Gruppe von Menschen einen endlichen Satz von verschiedenen möglichen Alternativen evaluiert und daraus eine Gruppenentscheidung mit einer Reihenfolge von der besten bis zur schlechtesten Alternative aggregieren möchte, dann ist ein Wahlsystem notwendig, dass die Meinung des Kollektivs widerspiegelt. (S.737)
-<!-- TODO MH: Hier brauchen wir noch ein klitzekleines bisschen mehr Sanduhr und abholen; warum lesen wir das hier? Weil wir es mit dem finden von kollektiv verbindlichen Entscheidungen zu tun haben ... und Sozialwahltheorie betrachtet systematisch die mathematischen Möglichkeiten zur Aggregation. Erstmal müssen wir hier erklären, dass es da tatsächlich mehrere gibt; das ist vielen Lesern vielleicht erstmal nicht so klar. -->
-Diese Wahlsysteme vertreten eine individualisierte Ontologie, es zählt die einzelne Stimme als kleinste Einheit.
-<!-- TODO MH: das steht so etwas alleine im Wald, und ich verstehe es auch nicht so ganz. Wahlsysteme vertreten keine Ontologie; Denkapparate wie Sozialwahltheorie tun das. Was ihr hier wohl meint ist eher in den Annahmen über Präferenzen zu finden, welche Sozialwahltheorie trifft (vollständig, etc.) – am besten diese Annahmen hier recht früh dokumentieren, und dann darauf hinweisen was die Ontologie ist: nämlich *gegebene* Präferenzen von Individuen (was wären alternativen zu beidem?) -->
-
-
-## Arrow's Unmöglichkeitstheorem (S.748)
-
-Arrow formuliert durch sein Unmöglichkeitstheorem die mathematisch bewiesene Tatsache, dass die Prinzipien der Pareto-Verbesserung und der "Independence of Irrelevant Alternatives" (IIA) nicht vereinbart werden können, ohne eine "Diktatur" zu ermöglichen.
-<!-- TODO MH: bitte immer deutsche Begriffe verwenden; sind für diesen Krams vorhanden – einfach mal bei Wikipedia schauen -->
-<!-- TODO MH: Dieser Satz hat eher Charakter einer Schlussfolgerung als eines Einleitungssatzes; vielleicht erstmal sagen: Um zwischen verschiedenen Wahlsystemen zu entscheiden, schlägt Arrow folgende minimale Kriterien vor: ... -->
-
-Dabei bedeutet die Pareto-Verbesserung, dass nach einer Meinungsänderung eines Individuums im Gegensatz zum vorherigen Wahlgang alle Meinungen mindestens so gut wie vorher in der Gruppenagreggation zu vertreten sind oder dass das Ergebnis sich im Sinne der veränderten Präferenz gewendet hat.
-<!-- TODO MH: kleines bisschen zu ungenau; nicht alle Meinungen sind "gleich gut vertreten" – Minderheiten etwa u.U. gar nicht. es geht darum, dass sollte eine Wählerin ihre Stimme ändern, dass dann das Wahlergebnis *schlimmstenfalls* gleich bleibt; anderenfalls in ihre richtung sich ändert. -->
-<!-- TODO MH: Dafür muss hier auch noch Pareto Erklärt werden. -->
-IIA bedingt, dass eine relative Gruppenpräferenz zwischen zwei Alternativen sich nicht verändert, wenn eine dritte Alternative hinzugefügt wird.
-<!-- TODO MH: gute knappe formulieren! -->
-
-Werden diese beiden Bedingungen erfüllt, kann immernoch eine nicht-transitive Liste entstehen.
-<!-- TODO MH: nicht-transitiv (a la Condorcet) wäre tatsächlich nur eine der möglichen Diktatur-Dysfunktionen; alternativ ist auch denkbar das eine Wählerin mit ihrer Wahl das Ergebnis bestimmen kann. -->
-Ist dem so, wird das Ergebnis des Wahlgangs durch das Wahlsystem determiniert.
-Wer also das Wahlsystem bestimmt, hat die Macht das Ergebnis nach eigenen Maßstäben festzulegen, ist also Diktator.
-Ebenso wird in den USA durch die Festsetzung der Wahlbezirke indirekt ein starker Einfluss auf den Ausgang der Wahl geübt.
-<!-- FIXME MH: "Ebenso" ist vielleicht etwas hart ausgedrückt ... -->
-
 > "Those who vote count for nothing.
 > Those who count the vote count for everything."
 > *Joseph Stalin*
 
-Ein Wahlsystem mit einer beliebigen Hürde (z.B. 5%) würde IIA verletzten, da die Positionen und Mehrheitsanteile der Alternativen davon abhängen, welche anderen Alternativen die Hürde übertreten oder nicht.
-So ist strategisches Wählen ermöglicht und das Wahsystem kann nicht mehr beanspruchen, die Meinung aller Wähler zu agreggieren.
-<!-- TODO MH: Ist das so wichtig? Das könnte vielleicht gekürzt werden... -->
-
-Einzig bei einer Entscheidung zwischen zwei Alternativen kann - beispielsweise durch das Mehrheitswahlsyem - ein Ergebnis agreggiert werden, welches sowohl IIA als auch die Pareto-Verbesserung gewährt und gleichzeitig eine Diktatur vermeidet.
-
-//DREIECK// --> Es sind immer nur 2/3 Elementen umsetzbar.
-<!-- TODO MH: hier fehlt noch das Bild; am besten schonmal in auskommentierten Markdown-Bild verweis umbauen (siehe Issue wie das geht, oder einfach googlen nach der syntax) -->
+Wenn eine Gruppe von Menschen eine Reihenfolge von Prioritäten durch ein Gruppenentscheid festlegen möchte, dann ist ein Wahlsystem notwendig.
+Besonders bei kollektiv *verbindlichen* Entscheidungen in einer Demokratie sollte darauf geachtet werden, dass alle Meinungen gleichwertig in das Endergebnis einfließen, wofür sich unterschiedliche Wahlsysteme anbieten.
+Die Spietheorie evaluiert den Entscheidungsprozess von einem mathematischen Standpunkt aus mit dem Ziel, ein perfektes Wahlsystem zu aufzustellen.
 
 
-### Lösungsmöglichkeit
+## Arrow's Unmöglichkeitstheorem (S.748)
 
-Die Entstehung nicht-transitiver Gruppenlisten zu vermeiden ist die einzige Lösungsmöglichkeit für Arrows Impossibility Theorem.
-Das ist nur umsetzbar, wenn alle Präferenzlisten der Wähler *single-peaked* sind, das bedeutet konsistent mit einem einzigen globalen Maximum in der sortierten Ordnung der Alternativen.
-<!-- TODO MH: das müssen wir noch etwas genauer klären: gemeint ist: es gibt *eine* Ordnung über alle Wählerinnen der ordinal sortierten Optionen (!), bei der dann die Präferenzlisten jeder einzelnen Wählerin single-peaked sind. -->
-<!-- TODO MH: single peaked übersetzen, internet fragen -->
-<!-- ----Bild?----- -->
-In der Politik könnte man zum Beispiel Parteien graduell nach politischer Orientierung (rechts/links) sortieren.
-Single-peaked Wahllisten sind dann solche, in denen die "Zweitwünsche" auf der Skala nahe am "Topfavorit" liegen.
-<!-- TODO MH: gemäß von mir o.g. ergänzung Bsp anpassen -->
+Hierfür zieht Arrow drei Kriterien heran:
+1. Bei Abstimmungen über Veränderungen muss die Situation von jedem mindestens unverändert oder besser sein, so dass eine **Pareto Verbesserung** vorliegt
+2. Die Gruppenpräferenzen zwischen zwei Alternativen bleiben unverändert, sobald eine dritte hinzugefügt wird, d.h. das **IIA** bleibt unverletzt, und
+3. Das Ergebnis muss eindeutig sein, und darf nicht, je nach Auslegung, unterschiedliche Ergebnisse produzieren, was eine Diktatur zur Folge hätte.
+In den USA (Mehrheitswahlrecht) kann zum Beispiel durch die Festsetzung der Wahlbezirke für das Repräsentatenhaus indirekt ein erheblicher Einfluss auf den Ausgang der Wahl genommen werden.
 
-Widersprüchliche Wahlen, wie die rechteste Partei als Erstwahl und die linkeste Partei als Zweitwahl, sind nicht single-peaked und tragen dazu bei, dass evtl nicht-transitive Gruppenergebnisse entstehen.
-<!-- TODO MH: genau, absolut, gutes Beispiel. Im Sinne der o.g. Ergänzung liegt das problem hier darin, das eben *keine* eine Präferenzordnung findbar ist, die für alle Wähler single-peaked preferences hervor ruft. Man könnte bsp. als dimension populistisch/nicht-populistisch verwenden, dann wäre vielleicht für diese Extremwähler ihre ordnung single-peaked, aber für viele andere (eher an rechts-links orientierte Wähler) wäre sie es möglicherweise nicht. DAS ist das problem. -->
+Wären alle drei Kriterien dieser Dreieckskonstellation erfüllt, läge ein perfektes Wahlsystem vor.
+Aus dem **Unmöglichkeitstheorem** geht jedoch hervor, dass, sobald mehr als zwei Alternativen zur Auswahl stehen, kein Wahlsystem alle drei Kriterien  garantieren kann.
 
-Um solches Wahlverhalten zu vermeiden, muss
-- eine Übereinstimmung aller Teilnehmer über die Verteilung der Alternativen bestehen.
-- alle Teilnehmer über diese Verteilung aufgeklärt sein.
 
-Fraglich ist, wie dieses Ziel zu erreichen ist.
+## Lösungsmöglichkeit
 
-Ist es überhaupt aus demokratischer Sicht vertretbar, eine allgemein gültige Ordung der Alternativen festzulegen?
-Laut XY ist "nobody (is) obviously more qualified than anypne else", folglich kann auch niemand allein befähigt sein Meinungen zu ordnen.
-Außerdem müssen alle bürger gut über die Wahlmöglichkeiten informiert sein, um single-peakedness zu erreichen.
-Dahl drückt sich als sehr liberaler Demokrat allerdings sehr wage aus und sieht das "enlightend understanding" nicht als bedingungslose Grundlage einer Demokratie, da
-Autonomie dadurch eingeschränkt würde.
-Denn gerade dieses Prinzip vielfältiger Meinungen (inklusive der "fehlinformierten") hat XY dazu bewegt, ein auf Wahlen beruhendes demokratisches System als bestes Staatssystem einzuführen.
-Kann eine Demokratie mit Wahlen dann überhaupt praktisch umgesetzt werden?
-Oder ist vielmehr Dewey im Recht, wenn er die Demokratie im Kontext ihrer Zeit sieht und behauptet, sie sei niemals vollendet? (---ZITAT!!!)
+Die Widersprüche des Unmöglichkeitstheorem (etwa: nicht-transitiver Ergebnislisten) können abgemildert, und Aggregationsdysfunktionen reduziert werden, wenn alle ordinal sortierten Präferenzlisten der Wählenden in einer für alle gleichen  Ordnung der Optionen nur ein einziges Globales Maximum aufweisen (*single-peakedness*).
 
-Eine andere Möglichkeit wäre, Erziehung besser zu gestalten und den Bürgern wie Heini zu helfen eine gefestigtere Meinung zu entwickeln und "verwirrte Entscheidungen zu vermeiden. -> Benner
-<!-- FIXME: MH In den oberen Absätzen sind noch Fragmente, unübersetztes etc. drin. -->
-<!-- TODO: MH außerdem sollten die oberen Paragrafen mit den Lösungen der single-peakedness Probleme deutlich knapper ausfallen; das war ja eher so eine Randbemerkung. Für uns ist es Interessant hier auf die Notwendigkeit von Bildung sowie den Widerspruch zu liberalen Verschreibungen hinzuweisen. -->
+Wenn man in der Politik Parteien zum Beispiel graduell nach politischer Orientierung (rechts/links) sortiert, würden Wähler, die eine rechte Partei an erster und ein Linke Partei an zweiter Stelle einsortieren, evtl. zu nicht transitiven Gruppenergebnissen beitragen.
+Hierbei wird jedoch die Bestimmung der Kriterien des Wählers zum Problem.
+Legt ein Wähler mehrere Kriterien an, entsteht sogar schon innerhalb seiner individuellen Präferenzliste dieses Problem.
+
+Um solches Wahlverhalten zu vermeiden,
+- muss eine Übereinstimmung aller Teilnehmer über die Ordnung der Alternativen bestehen.
+- müssen alle Teilnehmer m diese Verteilung aufgeklärt sein.
+
+Die Frage ist, ob es überhaupt aus demokratischer Sicht vertretbar wäre, eine allgemein gültige Ordung der Alternativen festzulegen, oder auch nur deren Hausbildung zu fördern.
+Laut Dahl ist niemand offensichtlich besser qualifiziert als andere, folglich kann auch niemand allein befähigt sein für die Allgemeinheit Alternativen anhand selbstgewählter Kriterien zu ordnen.
+<!-- FIXME FB at MH: nobody (is) obviously more qualified than anyone else - Englisches Zitat behalten?  -->
+Somit verbirgt sich hinter den von der Sozialwahltheorie beschriebenen Dysfunktionen der liberalen Demokratie eine Lösung, die erneut auf die Widersprüche zwischen persönlicher Autonomie verweist.
+Zwar könnten Bürgerinnen eher in die Lage versetzt werden, *gleichwertig* und *autonom* durch single-peaked Präferenzen zu wählen, eine entsprechende politische Bildung hin zu strukturierteren Präferenzen würde aber ihrerseits den gleichen, bekannten Widerspruch in der Schule der Demokratie hervorrufen.
