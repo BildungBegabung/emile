@@ -1,5 +1,7 @@
 # Welche Infos lohnt es sich zu vermitteln?
 
+>"The curious task of economics is to demonstrate to men how little they really know about what they imagine they can design." (Friedrich A. Hayek)
+
 In der Schule werden Informationen vermittelt, welche Informationen lohnt es sich zu vermittelt?
 In der Demokratie müssen wir kollektivverbindliche Entscheidungen treffen, indem wir Information zusammentragen.
 Doch wie sehen diese Informationen aus? Welche Arten von Infos gibt es?
