@@ -24,7 +24,7 @@ Im Gegensatz dazu schreibt Illich:
 >"Most learning is not the result of instruction: It is rather the result of unhampered participation in a meaningful setting." (p.18)
 Aus dieser Überlegung heraus errichtet er ein neues Konzept des Lernens in einer entschulten Gesellschaft.
 
-##### Lernen ohne Schule
+#### Lernen ohne Schule
 
 Für Bildung erachtet Illich vier Aspekte als notwendig.
 Jeder Mensch bedarf neben dem Kontakt zu anderen Gleichaltrigen auch Vorbilder, von denen er unbewusst lernen kann (Sprechen, Laufen, etc.), und bei komplexeren Sachverhalten benötigt er professionelle Hilfe sowie den Zugang zu Lernobjekten.
@@ -46,17 +46,19 @@ Ein weiteres, wichtiges Streben Illichs ist die Reduzierung der Komplexität uns
 Dazu könnten unter anderem die riesigen Summen an Geld verwendet werden, die man durch eine Abschaffung der Schulpflicht einsparen würde.
 So könnten zum Beispiel Firmen subenzioniert werden, die ihre Autos wieder leichter verständlich konzipieren, so dass der durchschnitts Bürger in der Lage ist, allgemeine Reparationen selbstständig durchzuführen.
 Auf diese Weise würden Menschen von alleine dazu motiviert werden zu lernen.
-Dies würde den Lernprozess fördern sowie unverbindliche, nachbarschafliche Interaktion.
+Dies würde den Lernprozess sowie unverbindliche, nachbarschafliche Interaktion fördern.
 
 
 <!-- mead (Interaktion notwendig) -->
 
 <!-- TODO: Vielleicht auch SoWi-Texte? Mal Max ansprechen -->
 
-#### ...
+#### Illichs Konzept als Lösung
 
-Durch dieses Konzept eines selbstbestimmten und selbstorganisierten Lernens können viele der Anforderungen, welche die in der Exposition behandelten Texte an den Prozess des Lernens (?und an das menschliche Zusammenleben?) stellen, erfüllt werden
-So müssen nach der Theorie des Konstruktivismus Lerninhalte "viabel", das heißt für das lernende Individuum funktional und bedeutend, sein.
+Durch dieses Konzept eines selbstbestimmten und selbstorganisierten Lernens können viele der Anforderungen, welche die in der Exposition behandelten Texte an den Prozess des Lernens und an das menschliche Zusammenleben stellen, erfüllt und Widersprüche gelöst werden. 
+Illich beschreibt konkrete Vorschläge zur Umsetzung seiner "educational revolution", die als praktische Anwedung verschiedener theoretischer Ansätze verstanden werden können.
+
+So müssen beispielsweise nach der Theorie des Konstruktivismus Lerninhalte "viabel", das heißt für das lernende Individuum funktional und bedeutend, sein.
 Da "das psychische System entscheidet, was es verarbeiten kann und will" (Siebert, S.18), ergibt sich die Forderung nach einem selbstbestimmten Lernen.
 Das Ziel aller Vorschläge Illichs ist es, den Lernenden "Zugang zu vorhandenen Möglichkeiten [zu] gewähren" (Illich, S.84) statt sie ihnen durch einen Lehrplan vorzuschreiben, welchen Wissensstand sie in welcher Zeit zu erreichen haben.
 Jeder hat die Freiheit, eine Gelegenheit zum Lernen wahrzunehmen, oder sich dagegen zu entscheiden.
@@ -64,7 +66,7 @@ Durch die so entstandene Auswahlmöglichkeit zwischen verschiedensten Lerninhalt
 <!-- Die Verbindung zum Konstruktivismus ist auf jeden Fall gegeben -->
 
 Desweiteren geschieht Lernen in Illichs Modell oft in sozialen Kontexten.
-Beispielsweise findet es in "Fertigkeitsbörsen" statt.
+Zum Beispiel findet es in "Fertigkeitsbörsen" statt.
 Dieser Vorgang lässt sich sehr gut mit dem Konzept des Hyperzyklus beschreiben, dessen Bedingung es ist, "wer etwas weiß oder kann, teilt es mit den anderen" (Zimpel, S.123), was durch Illichs Vorschläge erfüllt wird.
 Dadurch, dass nicht mehr wie vorher "das Grundrecht auf Mitteilung des eigenen Wissens in das Privileg akademischer Freiheit [verkehrt wird], das nur den in einer Schule Beschäftigten verliehen wird" (Illich, S.97), ist jeder dazu befähigt, andere an seinem Wissen teilhaben zu lassen, während er wiederum von den Fähigkeiten anderer profitieren kann.
 Durch die große Vielfalt an Fähigkeiten, die durch die Fertigkeitsbörsen vermittelt werden können, erhalten so viele Menschen wie möglich die Gelegenheit, dort anderen gezielt helfen zu können und sich so als Teil eines Kreislaufs aus Geben und Nehmen zu verstehen.
