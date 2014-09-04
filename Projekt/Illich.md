@@ -1,4 +1,4 @@
-Mythos Schule: Vorschläge einer alternativen Gesellschaft
+# Mythos Schule: Vorschläge einer alternativen Gesellschaft
 In "Deschooling Society" (1971) hinterfragt Ivan Illich die Stellung und den gesellschaftlichen Einfluss von Schule.
 Er eröffnet dabei neue Perspektiven auf die zentrale Frage unseres Kurses nach Formen menschlichen Zusammenlebens.
 Sein Konzept beschränkft sich nicht darauf, das bestehende Schulsystem zu verändern, sondern strebt gleichzeitig gesellschaftliche Umwälzungen an.
