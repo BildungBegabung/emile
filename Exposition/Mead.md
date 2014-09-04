@@ -1,5 +1,7 @@
 ## "Symbolischer Interaktionismus"
 
+>"Der Mensch wird am du zum ich." (Martin Buber)
+
 Mead beschäftigte sich Anfang des 20. Jahrhunderts damit wie Menschen interagieren und kooperieren.
 Er nennt seine Theorie den "Symbolischen Interaktionismus", also die Kommunikation zwischen Menschengruppen.
 Daraus lassen sich sowohl soziologische als auch pädagogische Rückschlüsse ziehen.
