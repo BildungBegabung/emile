@@ -11,10 +11,12 @@ Knotenpunkte können untereinander durch Kanten verbunden werden, die soziale Ve
 Ein Beispiel für Netzwerke, die mit Graphen dargestellt werden können, sind beispielsweise die Deutsche Schülerakademie, bei der jeder Knoten einen Teilnehmer reprüsentiert, der mit verschiedenen anderen in Beziehung steht (dargestellt durch Kanten). Genauso kann man auch Betziehungen in einer Lerngruppe wie einer Schulklasse oder andere Netzwerke graphisch darstellen.
 
 <!-- FIXME: Bild von Graphs einfügen  -->
+<!-- ![Graph](C:\Users\Hollstein\Desktop\emile\graph1.png)-->
 
 Innerhalb der Struktur des Graphs kann es Besonderheiten, wie z.B. Komponente geben, einzelne Netzwerke, welche nicht über einen Pfad mit jedem anderen Knoten im Graph verbunden sind.
 
 <!-- FIXME: Bild von Component einfügen  -->
+<!-- ![Graph Connected](C:\Users\Hollstein\Desktop\emile\img\Graph-Connected.jpg)-->
 
 ### Schlussfolgerungen
 
@@ -67,8 +69,8 @@ Da diese beiden Prinzipien, werden sie als einziges und vollständig angewendet,
 Dieses Prinzip erläutert, wie Integration als Balance zwischen Anerkennung von Individualität und Gleichwertigkeit aller Schüler gelingen kann.
 Der didaktische Hyperzyklus beruht darauf, dass sich alle Schüler als hilfreich für andere erleben können.
 So entsteht ein rekursives, zirkuläres System von gegenseitiger Hilfestellung (Rot hilft Gelb, Gelb hilft Grün, Grün hilft Rot, etc.).
-Es entsteht ein "Fluss des Gebens und Nehmens", bei dem, trotz der unterschiedlichen Vorraussetzungen der Schüler, alle in den Lernprozess eingebunden werden konnten.
-<!-- TODO: VK direktes Zitat? -->
+Es entsteht ein "Fluss des Gebens und Nehmens" (Zimpel-2012; S. 125), bei dem, trotz der unterschiedlichen Vorraussetzungen der Schüler, alle in den Lernprozess eingebunden werden konnten.
+
 Auch beim Hyperzyklus gibt es dementsprechend keine Clustergrenzen und somit keine Abgrenzung zwischen Schülern verschiedener Leistungsstärken.
 Das Prinzip kategorisiert nicht zwangsläufig in stark oder schwach, sondern diferneziert den Leistungsbegriff und berücksichtigt viele verschiedene Fähigkeiten und Begabungen.
 Somit kann jeder Schüler als Hilfe dienen und Hilfe empfangen.
