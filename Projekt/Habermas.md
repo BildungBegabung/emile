@@ -5,7 +5,8 @@ Nach Meads symbolischem Interaktionismus entsteht die Identität schließlich im
 Also immer in einem intersubjektiven Prozess.
 <!-- TODO MH: das ist eine gute einleitung; erklären anstelle von hinweis auf kleinberg und mead wäre noch etwas schöner -->
 Jürgen Habermas postuliert nun in seinem 1998 erschienen Text "On the Pragmatics of Communication" einen Telos menschlichen Handelns und menschlicher Sprache und unterscheidet zwischen verschiedenen Handlungsformen.
-<!-- TODO: Bild Baumdiagramm mit handlungsarten einfügen--->
+
+
 
 Dabei differenziert er zunächst zwischen Handlungen an Objekten in der fassbaren Realität und Handlungen in der sozialen Welt, also Sprechakten, die sich insbesondere in ihren Zielen unterscheiden.
 
@@ -47,8 +48,8 @@ Diese ist als solche nur in Form des kommunikativen Handlens in einer intersubje
 Er geht davon aus, dass strategische Handlungen in Systemen und kommunikatives Handeln in intersubjektiven ~ (das heißt beiden Akteuren gleichermaßen zugänglichen) Lebenswelten stattfinden und kritisiert hier die Kolonialisierung der Lebenswelten welche durch die Institutionalisierung der Gesellschaft vom System kolonialisiert wird.
 
 
-## Habermas - Dewey - Tilly : Kommunikatives und Strategisches Handeln im Kontext von Staatenbildung und -entwicklung
-<!-- Autoren zur Übersicht bitte erstmal stehen lassen! FB-->
+## Kommunikatives und Strategisches Handeln im Kontext von Staatenbildung, -entwicklung und -organisation
+*siehe Dewey, Tilly, Kleinberg*
 
 John Dewey ist wie Habermas ein Vertreter des Pragmatismus und seine Ideen von der ständgen Weiterentwicklung einer Demokratie bedingen Austausch über Ideen.
 Er geht davon aus, dass das dynamische, wandelbare Ideal im Kontext seiner Zeit immer wieder neu definiert werden muss.
