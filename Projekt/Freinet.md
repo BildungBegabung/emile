@@ -1,10 +1,11 @@
-# Freinet
+# Freinet - Neue Blickwinkel durch die Reformpädagogik?
+
+
+## Grundzüge Freinets didaktischer Konzeption einer Schule
 
 "Es geht darum, unser ganzes Erziehungssystem von der materiellen Basis her umzugestalten." (Freinet-1946 S. 99)
 Diese These Freinets scheint zunächst überraschend.
-Für gewöhnlich beginnt man eine solche Revolution mit einem theoretischen Konzept und nicht mit irgendwelchen Äußerlichkeiten.
-<!-- VK Äußerlichkeiten?
-Alternativvorschlag: Für gewöhnlich beginnt man eine solche Revolution mit einem theoretischen Konzept und nicht mit einer Handvoll Lernkarteien in einem umgeräumten Klassenzimmer. -->
+Für gewöhnlich beginnt man eine solche Revolution mit einem theoretischen Konzept und nicht mit einer Handvoll Lernkarteien in einem umgeräumten Klassenzimmer.
 Für Freinet ist es aber notwendig, zuerst gute und funktionstüchtige Werkzeuge zu haben, da ohne diese eine erfolgreiche Anwendung seiner reformpädagogischen Ideen nicht möglich wäre.
 Wenn der Lehrer nicht auf ausgewähltes Material zurückgreifen könnte, wären die Durchführung bestimmter Experimente gefährlich und "die Schüler würden infolge ihres technischen Unvermögens entmutigt" (Freinet-1946, S. 98).
 Weiterhin ist die richtige Organisation dieser Materialien notwendig, um "disziplinarische Probleme einer Klasse [zu lösen]" (ebd. S. 98)
@@ -12,9 +13,6 @@ Erst in einer gut ausgestatteten Schule kann man sich also an die Umsetzung der 
 
 Diese Ideen hält Freinet in 30 sogenannten Invarianten fest.
 Invarianten sind unveränderliche Wahrheiten (vgl. Freinet-1964 S. 488).
-Das spricht für einen normativen Status des Textes.
-Jedoch ist Freinet eigentlich ein Empiriker mit viel Schulerfahrung.
-<!-- FIXME: VK letzten 2 Sätze würde ich für die Doku weglassen; Empiriker ist nicht gleich Praktiker -->
 Daher weiß er um die enorme Bedeutung der **intersubjektiven Beziehung** Lehrer-Schüler.
 Freinet ist der Meinung, das Verhältnis zwischen Lehrer und Schüler solle so sein wie das Verhältnis einer Mutter zu ihrem Kind.
 Er sagt, ein Lehrer müsse seinen "Schülern das gleiche Vertrauen schenken können, das eine Mutter ihrem kleinen Kinde schenkt" (Freinet-1946 S. 105).
@@ -34,22 +32,11 @@ Er ist sich sicher, "Was das Kind nicht heute lernt, nicht in dieser Woche, ja s
 Es ist also wichtiger, "dass das Kind seine Individualität entwickelt" (ebd. S. 105), als dass es spezielle Lerninhalte erfasst.
 Bei dieser Art der Pädagogik ist, da es keine Vorschriften gibt, was zu lernen ist, das individuelle Interesse sehr wichtig.
 Freinet unterscheidet hierbei zwischen Interessenkomplexen und Interessenzentren.
-Die Interessenkomplexe (Complexe d'intérêts) gehen vom Schüler bzw. von der Schülerin aus, d.h. er/sie hat gewisse Interessen, welche er/sie erarbeiten möchte.
-Der Lehrer hingegen verkörpert die Interessenzentren (Centres d'intérêts).
-<!-- TODO: VK Nochmal nachlesen, Freinet lehnt Interessenzentren ab.
-Im Text steht leider nicht viel dazu, aber das ist ein entscheidender Unterschief zwischen verschiedenen Reformpädagogen -->
-Er hat ein weiteres Feld an Wissen und hat deshalb quasi Zentren, in denen dieses Wissen gespeichert ist.
-Deswegen muss der Lehrer mit seinem Zentrum an Wissen den Schülern und **Schülerinnen dabei helfen, ihre Komplexe an Wissen ordnen** und kann auf weitere Möglichkeiten des Wissenserwerbs hinweisen.
-Trotzdem ist für Freinet die "Überlegenheit des Interessenkomplexes [...] gegenüber den Interessenzentren  [nicht anzu]zweifeln" (ebd. S.89).
-<!-- TODO: VK Abschnitt kürzen/weglassen -->
-
-Freinet geht dabei davon aus, dass die *Kinder lernen wollen*.
-Aufgrund dieser Annahme richtet er seinen Unterricht nach den Interessenkomplexen der Kinder aus.
-Das heißt, im Unterricht werden die Themen bearbeitet, welche die Kinder interessieren.
-Freinet arbeitet also nach einer "neuen **Art des Unterrichts nach Interessenkomplexen**" (ebd. S.89).
-Außerdem haben die Kinder die Möglichkeit, **sehr selbstständig** zu arbeiten:
-Sie können sich aussuchen, welche Aufgabe sie bearbeiten, wo sie dies tun, mit wem, wann und wie lange.
-Wenn die Aufgabe den Kindern im Verlauf dann doch nicht mehr wichtig bzw. interessant erscheint, können sie diese beenden und eine neue anfangen.
+Die **Interessenkomplexe (Complexe d'intérêts)** gehen vom Schüler bzw. von der Schülerin aus, d.h. er/sie hat gewisse Interessen, welche er/sie erarbeiten möchte.
+Ausgehend von diesen Interessenkomplexen strukturiert sich die gesamte pädagogische Arbeit.
+Für Freinet muss zu allererst der Schüler sein Interesse für einen bestimmten bereich zeigen, wovon anschließend der Lehrer behilflich sein kann, dass Wissen zu ordnen.
+Er nennt dies Hilfe bei der Ordung, die **Interessenzentren (Centres d'intérêts) der Lehrers**.
+Freinet spricht daher von der "Überlegenheit des Interessenkomplexes [...] gegenüber den Interessenzentren" (ebd. S.89).
 
 Um gut unterrichten zu können, müssen Lehrer und Lehrerinnen in der Lage sein, die Interessenkomplexe der Schüler und Schülerinnen zu ordnen.
 Die Kinder haben nämlich die Interessen inne, über welche sie sich informieren möchten, allerdings sind diese noch nicht geordnet.
@@ -58,7 +45,15 @@ Dies müssen sie nicht nur in Bezug auf die "nur [...] durch den täglichen Text
 
 Dies verlangt von den Schülern und Schülerinnen, ihre Interessen zu kennen, damit die Lehrer den Schülern und Schülerinnen bei dem Erlangen von Informationen über dieses Interesse helfen zu können.  
 
-## Bezüge von Freinet zu anderen Theoretikern
+## Bezüge durch Freinet zur Hauptfrage:
+
+Wenn man Freinets Reformpädagogik versteht, stellt sich im Sinne dieser Dokumentation sofort die Frage, wie Freinet zu der Frage nach persönlicher Autonomie und inherenter Gleichwertigkeit beantworten würde.
+Der Schüler bei Freinet ist also sehr autonom.
+Wie diese Autonomie mit der inhärenter Gleichwertigkeit von Schülern und Lehrern, die er ebenfalls fordert (vgl. Freinet-1964 S. 489), zusammenpasst, ist für Freinet erstmal nebensächlich.
+Er beschäftigt sich mit der didaktischen Konzeption von Schule und wie diese dem Edukanten hilft, seine Individualität auszubilden.
+Dafür müssen aber alle Schüler untereinander und zu den Lehrern inhärent gleichwertig sein (vgl. ebd.), da ansonsten irgendeine Partei durch Autorität die Autonomie der anderen einschränkt (vgl. ebd. S.492).
+Freinet schreibt, "dass zwar der Einzelne in Funktion der Gemeinschaft arbeitet, dass aber die Gemeinschaft Einzel-, Partner- und Gruppenleistungen unbedingt anzuerkennen hat" (Freinet-1946 S. 87).
+Davon ausgehend, lassen sich bezuüge zu anderen Theoretikern dieser Arbeit erstellen:
 
 ### Siebert:
 Freinet geht davon aus, dass ein Edukant am besten auf seine ganz individuelle Art und Weise lernt und sich die Welt erklärt (vgl. Freinet S. 496).
@@ -74,12 +69,12 @@ Dieser setzt besonders auf soziale Interaktion einen großen Wert.
 
 ### Benner:
 Benner sieht in einem Erziehungsprozess immer eine Aufforderung zur Bildsamkeit beziehungsweise zur Selbsttätigkeit.
+Er bezieht sich dabei auf Johann Friedrich Hebart:
 > "Der Grundbegriff der Pädagogik ist die Bildsamkeit" (Benner-2012 S. 70)
-<!-- FIXME: Originalzitat von Herbart, muss erwähnt werden, dass es ein Zitat im Zitat ist. -->
+
 Er räumt damit dem Individuum eine große Menge an Autonomie ein.
 Gerade diese Autonomie, die durch Selbsttätigkeit entsteht, ist ein Grundsatz in Freinets didaktischer Konzeption.
-Hilfe gibt Freinet nur dann, wenn der Edukant diese auch benötigt, dies kommt Benners Aufforderung zur Selbsttätigkeit sehr nahe, die nur dann notwendig ist, wenn der Edukant nicht dazu fähig ist sich selbst zu bilden.
-<!-- TODO: Textbeleg aus Benner -->
+Hilfe gibt Freinet nur dann, wenn der Edukant diese auch benötigt, dies kommt Benners Aufforderung zur Selbsttätigkeit sehr nahe, die nur dann notwendig ist, wenn der Edukant nicht dazu fähig ist sich selbst zu bilden (vgl. Benner-2012 S. 91)
 
 ### Mead:
 Meads symbloischer Interaktionismus legt durch Kommunikation den Grundstein für die menschliche Identität.
@@ -90,32 +85,24 @@ Somit ist Kommunikation sehr wichtig.
 Nach Zimpels Hyperzyklus ist jedes Individuum wichtig für die Arbeit in einer Gruppe.
 Fällt auch nur ein Individuum weg, so ist die gesamte Struktur des Systems gefährdet und es kann nicht mehr jeder profitieren.
 Für Freinet ergibt sich diese Form des Lernens nocht nicht.
-Er stellt besonders die Beziehung zwischen Lehrer und Schüler in den Vordergrund.
+Er stellt besonders die Beziehung zwischen Lehrer und Schüler in den Vordergrund und sieht den Fokus der Arbeit eines
 Unter den Schülern selbst herrscht jedoch ein großes Maß an Autonomie.
 Man erkennt jedoch, das bereits die Tendenz zu einer Schule mit solch inklusiver Arbeit vorhanden ist.
 
-Der Schüler bei Freinet ist also sehr autonom.
-Wie diese Autonomie mit der inhärenter Gleichwertigkeit von Schülern und Lehrern, die er ebenfalls fordert (vgl. Freinet-1964 S. 489), zusammenpasst, ist für Freinet erstmal nebensächlich.
-Er beschäftigt sich mit der didaktischen Konzeption von Schule und wie diese dem Edukanten hilft, seine Individualität auszubilden.
-Dafür müssen aber alle Schüler untereinander und zu den Lehrern inhärent gleichwertig sein (vgl. ebd.), da ansonsten irgendeine Partei durch Autorität die Autonomie der anderen einschränkt (vgl. ebd. S.492).
-<!-- TODO: Abschnitt besser integrieren  -->
 
-Wie sieht also ein solches System aus?
-> "Das Kind liebt nicht die Massenarbeit, bei welcher der Einzelne sich unterwerfen muß. Es liebt die Einzel- und Gruppenarbeit in einer kooperativen Gemeinschaft." (ebd. S. 509)
+## Freinet zur Selbstreflektion unserer Arbeit:
 
-## Projektfrage 2:
-Wenn alle das Gleiche bearbeiten, entsteht für viele der Schüler/DSA-Teilnehmer/... große Frustration.
+Für uns als DSA-Teilnehmer stellt sich hier nun die Frage, wie wir Reformpädagogik nach Freinet auf unsere Arbeit auf GitHub anzuwenden ist.
+Würden wir alle das Gleiche bearbeiten, entsteht für viele der DSA-Teilnehmer große Frustration.
 Für die einen geht es viel zu langsam, für die anderen viel zu schnell voran.
-
 >"Arbeit in der Gruppe [aber] bedeutet nicht zwangsläufig, daß jeder die gleiche Arbeit verrichtet. Der Einzelne muß dabei im Gegenteil ein Maximum von seiner Persönlichkeit bewahren, aber im Dienst der Gemeinschaft stehen." (S. ebd. 510)
 
-Wenn wir uns und unsere Arbeit nach diesen Kriterien messen, zeigt sich:
-- Jeder arbeitet unabhängig und autonom in seiner Geschwindigkeit an selbstgewählten Themen (vgl. S. 495 Wichtigkeit des Selberwählens aus gegebenen Alternativen).
-- Zugleich arbeiten wir kooperativ zusammen:  
-Durch die gegenseitige Kontrolle wird das Ergebnis besser, als es in Einzelarbeit wäre (ernten von Positiv-Summen-Spiel-Erträgen).
-- Und stellen uns in den Dienst der Gemeinschaft.
+Diese Problematik kann GitHub lösen.
+Jeder arbeitet dadurch unabhängig und autonom in seiner Geschwindigkeit an selbstgewählten Themen (vgl. S. 495 Wichtigkeit des Selberwählens aus gegebenen Alternativen).
+-Zugleich arbeiten wir kooperativ zusammen, denn durch die gegenseitige Kontrolle wird das Ergebnis besser, als es in Einzelarbeit wäre (ernten von Positiv-Summen-Spiel-Erträgen).
+Wir stellen uns auch in den Dienst der Gemeinschaft, wobei diese unsere autonomie Arbeit respektiert.
 
-Es ist allerdings problematisch, dass durch die Vernetzung, die GitHub bietet,< eine emotionale Verbindung verloren geht.
+Es ist allerdings problematisch, dass durch die Vernetzung, die GitHub bietet, eine emotionale Verbindung verloren geht.
 Für Freinet ist eine Gruppendynamik ähnlich die einer Familie sehr wichtig.
 Diese ist nicht mehr gegeben, sobald vernetztes Lernen beginnt, da es eine geographische Nähe nicht mehr notwendig ist.
 Darüberhinaus bietet das Internet als Plattform für GitHub dem Edukator praktisch Unfehlbarkeit.
