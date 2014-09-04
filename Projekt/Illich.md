@@ -23,14 +23,13 @@ Aus dieser Überlegung heraus errichtet er ein neues Konzept des Lernens in eine
 
 Für Bildung erachtet Illich vier Aspekte als notwendig.
 Jeder Mensch bedarf neben dem Kontakt zu anderen Gleichaltrigen auch Vorbilder, von denen er unbewusst lernen kann (Sprechen, Laufen, etc.), und bei komplexeren Sachverhalten benötigt er professionelle Hilfe sowie den Zugang zu Lernobjekten.
-Hierfür will er Netzwerke erstellen, in denen man Interessen formulieren kann und so lernorientierte Zusammenarbeit ermöglicht wird.
+Dies will er über Netzwerke realisieren.
 In einer dieser Netzwerke bekäme ein Kind, das Gitarre spielen lernen will, einen Zeitraum, in dem es mit anderen gleichaltrigen Kindern spielen kann, jemanden, der ihn bei Problemen und Schwierigkeiten unterstützen kann und als ein Art Vorbild funktioniert und als letztes eine Gitarre und alle anderen möglichen Werkzeuge, die dazu führen werden, dass das Kind erfolgreich den Lernprozess bewältigt.
 
 Ein weiteres, wichtiges Streben Illichs ist die Reduzierung der Komplexität unserer Umwelt, so dass sie wieder zugänglich für den Alltagsmenschen wird.
 Dazu könnten unter anderem die riesigen Summen an Geld verwendet werden, die man durch eine Abschaffung der Schulpflicht einsparen würde.
-So könnten zum Beispiel Firmen subenzioniert werden, die ihre Autos wieder leichter verständlich konzipieren, so dass der durchschnitts Bürger in der Lage ist, allgemeine Reparationen selbstständig durchzuführen.
-Auf diese Weise würden Menschen von alleine dazu motiviert werden zu lernen.
-Dies würde den Lernprozess sowie unverbindliche, nachbarschafliche Interaktion fördern.
+So könnten zum Beispiel Firmen subenvenzioniert werden, die ihre Autos wieder leichter verständlich konzipieren, sodass jeder in der Lage ist, Reparaturen selbstständig durchzuführen.
+So gäbe es einen praktischen Grund, der zum Lernen motivieren kann.
 
 
 #### Illichs Modell als Lösung
