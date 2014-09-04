@@ -45,14 +45,12 @@ Durch die so entstandene Auswahlmöglichkeit zwischen verschiedensten Lerninhalt
 
 Damit sich dem Lernenden diese Wahlmöglichkeit eröffnet, benötigt er nach Illich Zugang zu den vier oben beschriebenen "Ressourcen". Der Pädagoge Dietrich Benner geht ebenfalls von gewissen Umständen, insbesondere Bezugspersonen, aus, die dem Zögling erst selbstbestimmtes Lernen ermöglichen.
 Allerdings "muss Erziehung stets dort an ihr Ende gekommen sein, wo pädagogische Fremdaufforderung zur Selbsttätigkeit in Selbstaufforderung übergehen kann."
-So könnte Benners Begriff der Bildsamkeit Illichs Kritik an einem einheitlichen Schulsystem untermauern, welche die Aufforderung zur Selbsttätigkeit auch ohne Bedarf forführt.
-Dennoch hält Benner den *Pädagogen* und die *Aufforderung* zur Selbsttätigkeit für notwendig; Illich wiederspräche dem.
-Aber hier wird auch ein Defizit in Illichs Schreiben deutlich, da er sich nur mit dem gesunden Individuum auseinandersetzt.
+Benner untermauert mit seiner Kritik an einem allgemeinen Schulsystem Illichs Theorie, auch wenn Illich die Notwendigkeit der *Aufforderung* zur Selbsttätigkeit durch einen *Pädagogen* bestreiten würde.
+Hier wird auch ein Defizit in Illichs Schreiben deutlich, da er von einem gesunden Individuum ausgeht und so auf die These schließt, dass "education for all" auch "education by all" bedeutet.
+Diese Lernen in sozialen Kontexten beschreibt auch Zimpel mit seiner Forderung:
 
-Obwohl auch die Gruppierung von Gleichaltrigen nach Illich abgeschafft werden soll, findet sein Lernen häufig in sozialen Kontexten statt
-Ein Beispiel dafür sind seine "Fertigkeitsbörsen".
-Dieser Vorgang lässt sich sehr gut mit dem Konzept des Hyperzyklus beschreiben, dessen Bedingung ist: "wer etwas weiß oder kann, teilt es mit den anderen" (Zimpel, S.123), was durch Illichs Vorschläge erfüllt wird.
-Dadurch, dass nicht mehr wie vorher "das Grundrecht auf Mitteilung des eigenen Wissens in das Privileg akademischer Freiheit [verkehrt wird], das nur den in einer Schule Beschäftigten verliehen wird" (Illich, S.97), ist jeder dazu befähigt, andere an seinem Wissen teilhaben zu lassen, während er wiederum von den Fähigkeiten anderer profitieren kann.
+>"wer etwas weiß oder kann, teilt es mit den anderen" (Zimpel, S.123)
+
 Der Prozess des Helfens verläuft dort also nicht, wie in der Schule, einseitig zwischen Schüler und Lehrer, wordurch schwächere Schüler sich nicht als hilfreich für andere erleben können.
 Ein weiterer Unterschied zum schulischen Lehren liegt darin, dass das Spektrum an Fertigkeiten, die angeboten werden können, fast unbegrenzt ist.
 So werden beispielsweise auch Menschen mit einem künstlerischen Talent, das in der Schule oft nur geringe Anerkennung findet, benötigt.
