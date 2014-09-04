@@ -1,12 +1,12 @@
 # Protokoll: Benner-2012
 
 Benner setzt sich damit auseinander, die **Grundsätze pädagogischen Handelns** aufzuzeigen, die für die ganze Menschheit gültig sind.
-Er richtet sch dabei an die pädagogisch interessierte Leserschaft.
-Er definiert dazu zwei grundsätzliche große Extrema der Verhaltensbestimmung: Den **Determinismus und die transzendentale Freiheit**.
+Er richtet sch dabei an die pädagogisch~ interessierte Leserschaft.
+Er definiert dazu zwei grundsätzliche große Extrema der Verhaltensbestimmung: Den **Determinismus und die transzendentale Freiheit~**.
 Nach dem *Determinismus* ist das menschliche Verhalten grundsätzliche durch seine Umwelt oder seine Anlagen vorher bestimmt.
 Im Sinne der transzendentalen Freiheit kann der Mensch zu jedem Zeitpunkt vollkommen willkührlich über seine Handlungen und sein Schicksal entscheiden.
 Benner stimmt weder dem Einen, noch dem Anderen zu (vgl. S,71).
-Er ist der Auffassung, dass jeder Mensch **bildsam** ist.
+Er ist der Auffassung, dass jeder Mensch **bildsam~** ist.
 Bei dieser Bildsamkeit handelt es sich um eine deontologische Annahme.
 Benner  ist der Auffassung, *"Die Bildsamkeit eines Menschen anerkennen  heißt [...] nicht einen Mittelweg zwischen diesen Extremen [...] zu suchen"* (S,72)
 
@@ -15,7 +15,7 @@ Schließlich meint Bildsamkeit, dass jeder Mensch dazu fähig ist sich selbst zu
 Allerdings ist diese Bildsamkeit mehr ein Potenzial und muss daher vom : **Der Mensch muss zur Selbsttätigkeit aufgefordert werden.**
 Dies geschieht nach Benner intersubjektiv in einem Erziehungsprozess.
 Da es sich hierbei um einen Vorgang handelt, kann ein Mensch nur als vollendet erzogen angesehen werden, wenn er selbstständig und bildsam handelt.
-Anders als nach Rousseau bedarf ein Mensch, laut Benner, pädagogischer Hilfe falls er sein Potential nicht ausnutzt.
+Anders als nach Rousseau bedarf ein Mensch, laut Benner, pädagogischer~ Hilfe falls er sein Potential nicht ausnutzt.
 Somit ist ein Mensch nicht unendlich erwachsen, sondern nur so lange, wie er sich auch so verhält (vgl. S. 91)
 Benner nennt es die *"Imperfektheit des Menschen" (S.78).*
 
