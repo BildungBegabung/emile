@@ -48,42 +48,19 @@ Der volonté générale, der Gemeinwille, geht davon aus, dass es ein vom Indivi
 Und nur dieses Interesse kann in einem staatlichen System absolute Freiheit und Gleichheit garantieren.
 Im Urzustand der Menschheit hingegen war die Frage der Vereinbarbarkeit von Freiheit und Gleichheit völlig nebensächlich, da es keine institutionelle Kooperation gab.
 Das heißt, dass der Weg der Kooperation durch Traditionen, Gesetze oder anderes vorgeschrieben ist, beziehungsweise wir nicht als natürlich Menschen, sondern z.B. als DSA-Teilnehmerinnen zusammenarbeiten.
-Für Rousseau ist der Urzustand zwar das absolute 
-
-Deswegen muss es die Grundlage und Rechtfertigung jeder staatlichen Gewalt sein.
+Für Rousseau ist der Urzustand zwar das absolute Optimum, jedoch ist dieser unwiderbringlich verloren.
+Deshalb schlägt Rousseau den Weg über den volonté générale als Lösung vor.
+Nur er kann und muss staatliche Gewalt rechtfertigen.
 
 In einem so gelenkten Staat herrscht Gleichheit, da jedes Individuum und die Gesellschaft im Ganzen das Bestmögliche erhalten (Vgl. Rousseau-1762, Contrat Social, S. 7);
 und Freiheit, weil jedes Mitglied sich freiwillig der Gemeinschaft unterordnet.
-<!-- TODO: MH: sehr gut! Hier vielleicht noch ein kleines Zitat aus dem Original einfügen über diese Quadratur des Kreises? von wegen man gibt sich gaaanz in die Gemeinschaft und ist dann dadurch frei? -->
 Im Zweifelsfall muss der Mensch jedoch dazu gezwungen werden, diese Freiheit wahrzunehmen.
-Als Fazit gilt also Gemeinwohl vor Eigenwohl.
-<!-- FIXME: MH diesen letzten Satz würde ich streichen / für später aufheben; für Rousseau stellt sich das eben aus seiner Sicht *nicht* so dar ... Vielleicht könnte man als treffendere Kritik eher auf die widersprüchlichkeit oder Ideologie seines Vorschlages verweisen ... -->
+Dabei gilt für ihn "Each man [woman] in giving himself [herself] to everyone gives himself to no-one" (ebd., S. 7)
+Er bleibt also vollkommen autonom.
 
-Freiheitsrechte, wie sie etwa im Grundgesetz verankert sind, kennt Rousseaus System nicht.
-Im Gegenteil: Die Gewährung eines solchen Rechtes, z.B. des Rechtes auf Pressefreiheit, würde einen so starken Drang nach immer mehr Rechten auslösen, dass es laut Rousseau zu einem Krieg jeder gegen jeden kommen muss. (Vgl. ebd., S. 6)
-Damit würde nicht nur der volonté général ungültig, sondern auch der Staat, dessen Aufgabe es ist, das Zusammenleben zu regeln, hätte sich selbst abgeschafft.
-<!-- TODO: MH: Zusammenhang zwischen oben und unten stehendem Absatz verstehe ich nicht; hier geht es doch darum dass die (institutionalisierte) Kooperation einen Staat erforderT (was Rousseau eigentlich nicht so gut findet im Vgl zum Naturzustand) und nun muss also dieser Staat irgendwie an die republikanische Kandarre genommen--->
+Rousseau hat damit innerhalb seines Gedankenkonstrukts eine Lösung des Vereinbarkeitsproblems gefunden
+Seine Intention lag dabei darin, ein normatives Gebilde zu errichten, nicht aber darin eine Verfassung zu schreiben.
+Dennoch hat er als "1. Aufklärer", der eine göttliche Ordnung bestritt, großen Anteil an den freiheitlich demokratischen Entwicklungen der Folgezeit.
 
-Eine Instanz, die das Zusammenleben regelt, ist aber für uns absolut notwendig, da wir wechselseitig alle von einander abhängig sind.
-<!-- TODO: MH sehr guter Hinweis; aber die o.g. 3 Absätze oder so können etwas knapper ausfallen, zusammenfassen -->
-
-Diese Abhängigkeiten sind unnatürlich und entstehen durch institutionelle Kooperation.
-<!-- MH: BINGO Das hier ist der springende Punkt; um diesen Punkt herum sollte noch besser organisiert und reduziuert werden -->
-
-
-<!-- FIXME MH: close, but no cigar. 1) Rousseau's urzustand ist ein Gedankenexp., also der sagt nix Positives über die Frühzeit 2) es geht nicht so sehr um vollkommene Autonomie aber vor allem um die Abwesenheit von institutionalisierter/ausdifferenzierter Kooperation (Polizist etc) – DIE ist das Problem! -->
-
-Da dieser Zustand aber nicht wieder zu erreichen ist, schlägt Rousseau den Weg über den volonté générale als Lösung vor.
-<!-- TODO MH: super. sehr guter Bogen; vielleicht kann das einiges von dem oben stehenden ersetzen oder hierhin umziehen? Da oben ist ja schonmal rechtfertigung von staatlichkeit und eigentlich folgt die richtig gut erst hier. -->
-Seine Intention liegt dabei darin, ein normatives Gebilde zu errichten, in dem auf Probleme in den realexistierenden Gesellschaften hingewiesen wird, nicht aber darin eine Verfassung zu schreiben.
-<!-- TODO MH: nicht so sicher ob er es mit realexistierenden irgendwas am Hut hat -->
-Dadurch hat er als "1. Aufklärer" großen Anteil an den freiheitlich demokratischen Entwicklungen der Folgezeit.
-<!-- TODO MH: nochmal ein Satz warum er denn ein großer Aufklärer ist – dann ist das echt ein richtig rundes Ding! -->
-
-Für den weiteren Kursverlauf und die folgenden Texte gibt uns Rousseau zahlreiche Fragen und einen Maßstab an die Hand.
-Welche Auswirkungen hat Erziehung auf die Gesellschaft?
-Gibt es "ein allgemeines Interesse" oder überhaupt nur eine allgemeine Wahrheit und wie erkennen wir das?
-Was ist Freiheit?
-
-Im Folgenden wollen wir langsam versuchen, uns Antwortvorschlägen zu nähern.
-<!-- TODO MH: die o.s. 2 absätze finde ich nicht so spitze, die fallen etwas ab gegen+ber dem sonst genialen Text; die fragen sind mir etwas zu allgemein "Was ist Freiheit"; wie wäre es denn, wenn wir eher Rousseau als Ausgangspunkt nehmen weil seine Antwort zwar romantisch, aber irgendwie anti-/un-modern ist ... oder was anderes ... was war unser/dein Gefühl. -->
+Rousseaus romantisch verklärten Ansichten bereiten zwar manche Verständnisprobleme, doch wir müssen festhalten, dass seine
+antimodernen Ideen faszinieren und viele Anregungen für die weitere Arbeit mitgeben.
