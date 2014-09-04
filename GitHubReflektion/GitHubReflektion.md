@@ -12,18 +12,15 @@ Und wieweit können dieselben Theorien *GitHub* als Lösungsansatz entwerten?
 
 ## Freinet zu Github
 
-Vor fast 100 Jahren enstand die Reformpädagogik, in einer Zeit ohne Computer, geschweige denn Internet.
-Während wir gerade fleißig Issues *closen* und *merge conflicts* lösen, hantierte Célestin Freinet mit Druckerpressen und Karteikarten - damals der letzte Schrei.
-Lässt sich unsere Arbeit auf GitHub trotzdem mit seinen reformpädagogischen Ideen vereinen?
+Während wir gerade fleißig die letzten Issues *closen* und *merge conflicts* lösen, hantierte Célestin Freinet mit Druckerpressen und Karteikarten.
+Lässt sich unsere gemeinsame Arbeit auf GitHub trotzdem mit seinen 100 Jahre alten, reformpädagogischen Ideen vereinen?
 
-Würden wir alle das Gleiche bearbeiten, würden für viele der DSA-Teilnehmer große Frustration erleben.
-Für manche geht es viel zu langsam, für andere viel zu schnell voran.
->"Arbeit in der Gruppe [aber] bedeutet nicht zwangsläufig, daß jeder die gleiche Arbeit verrichtet. Der Einzelne muß dabei im Gegenteil ein Maximum von seiner Persönlichkeit bewahren, aber im Dienst der Gemeinschaft stehen." (S. ebd. 510)
+>"Arbeit in der Gruppe [aber] bedeutet nicht zwangsläufig, daß jeder die gleiche Arbeit verrichtet. Der Einzelne muß dabei im Gegenteil ein Maximum von seiner Persönlichkeit bewahren, aber im Dienst der Gemeinschaft stehen." (S.510, Freinet)
 
-Dieses Problem löst Github durch allumfassende Berechtigungen für jeden TN so simpel wie genial.
+Dieses Problem löst Github durch allumfassende Berechtigungen für jeden TN.
 Jeder arbeitet dadurch unabhängig und autonom in seiner Geschwindigkeit an selbstgewählten Themen (vgl. S. 495 Wichtigkeit des Selberwählens aus gegebenen Alternativen).
 Zugleich arbeiten wir kooperativ zusammen, denn durch die zeitgleiche, gegenseitige Kontrolle  wird das Ergebnis besser, als es in Einzelarbeit sein könnte.
-Wir arbeiten damit im Sinne des Kollektivs im Kurs, wobei aber trotzdem unsere autonome Arbeit nicht eingeschränkt wird, da jeder das Recht besitzt Zeilen anderer zu verbessern oder einfach einen ganzen Absatz zu löschen.
+Wir arbeiten damit im Sinne eines Kollektivs im Kurs.
 Es besteht dabei allerdings die Gefahr, dass durch die Vernetzung, die GitHub bietet, eine direkte emotionale Verbindung verloren geht, gerade weil GitHub anders als soziale Netzwerke eine Basis für gemeinsames Arbeiten darstellt, sodass ein Großteil der dokubezogenen Kommunikation hierüber einfacher zu leiten ist.
 Für Freinet ist eine Gruppendynamik ähnlich der einer Familie sehr wichtig.
 Diese ist nicht mehr gegeben, sobald vernetztes Lernen beginnt, da es eine geographische Nähe entbehrlich macht.
