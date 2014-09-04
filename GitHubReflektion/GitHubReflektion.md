@@ -24,9 +24,8 @@ Für die einen geht es viel zu langsam, für die anderen viel zu schnell voran.
 >"Arbeit in der Gruppe [aber] bedeutet nicht zwangsläufig, daß jeder die gleiche Arbeit verrichtet. Der Einzelne muß dabei im Gegenteil ein Maximum von seiner Persönlichkeit bewahren, aber im Dienst der Gemeinschaft stehen." (S. ebd. 510)
 Dieses Problem löst Github aber so simpel wie genial.
 Jeder arbeitet dadurch unabhängig und autonom in seiner Geschwindigkeit an selbstgewählten Themen (vgl. S. 495 Wichtigkeit des Selberwählens aus gegebenen Alternativen).
--Zugleich arbeiten wir kooperativ zusammen, denn durch die gegenseitige Kontrolle wird das Ergebnis besser, als es in Einzelarbeit wäre.
-Wir stellen uns auch in den Dienst der Gemeinschaft, wobei diese unsere autonomie Arbeit respektiert.
-<!-- TODO: VK Stichpunkte oben ausformulieren -->
+Zugleich arbeiten wir kooperativ zusammen, denn durch die zeitgleiche, gegenseitige Kontrolle  wird das Ergebnis besser, als es in Einzelarbeit wäre.
+Wir stellen uns auch in den Dienst der Gemeinschaft, wobei diese unsere autonome Arbeit respektiert, da jeder das Recht besitzt Zeilen zu verbessern oder einfach einen ganzen Absatz zu löschen.
 Es ist allerdings problematisch, dass durch die Vernetzung, die GitHub bietet, eine emotionale Verbindung verloren geht.
 Für Freinet ist eine Gruppendynamik ähnlich die einer Familie sehr wichtig.
 Diese ist nicht mehr gegeben, sobald vernetztes Lernen beginnt, da es eine geographische Nähe nicht mehr notwendig ist.
