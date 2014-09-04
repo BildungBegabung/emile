@@ -44,17 +44,16 @@ Um die Entstehung nicht-transitiver Ergebnislisten zu vermeiden müssen alle ord
 ![Dreieckskonstellation](img/Kleinberg_Sozialwahltheorie_Abb2.jpg)
 
 In der Politik könnte man zum Beispiel Parteien graduell nach politischer Orientierung (rechts/links) sortieren.
-Single-peaked Wahllisten sind dann solche, in denen die "Zweitwünsche" auf der Skala nahe am "Topfavorit" liegen.
-<!-- TODO MH: gemäß von mir o.g. ergänzung Bsp anpassen -->
+Widersprüchliche Wahlen, wie die rechteste Partei als Erstwahl und die linkeste Partei als Zweitwahl, haben kein globales Maximum und tragen dazu bei, dass evtl. nicht-transitive Gruppenergebnisse entstehen.
 
-Widersprüchliche Wahlen, wie die rechteste Partei als Erstwahl und die linkeste Partei als Zweitwahl, sind nicht single-peaked und tragen dazu bei, dass evtl nicht-transitive Gruppenergebnisse entstehen.
-<!-- TODO MH: genau, absolut, gutes Beispiel. Im Sinne der o.g. Ergänzung liegt das problem hier darin, das eben *keine* eine Präferenzordnung findbar ist, die für alle Wähler single-peaked preferences hervor ruft. Man könnte bsp. als dimension populistisch/nicht-populistisch verwenden, dann wäre vielleicht für diese Extremwähler ihre ordnung single-peaked, aber für viele andere (eher an rechts-links orientierte Wähler) wäre sie es möglicherweise nicht. DAS ist das problem. -->
+Problematisch ist dabei das Anlegen von verschiedene Kriterien durch Wählende und nicht notwendigerweise Fehlinformationen.
+Es kann z.B. eine Dimension populistisch/nicht-populistisch angelegt werden, nach denen einige Wählende doch ein globales Maximum hätten.
+Legt ein Wähler mehrere Kriterien an, entsteht sogar schon innerhalb seiner individuellen Präferenzliste dieses Problem.
 
-Um solches Wahlverhalten zu vermeiden, muss
-- eine Übereinstimmung aller Teilnehmer über die Verteilung der Alternativen bestehen.
-- alle Teilnehmer über diese Verteilung aufgeklärt sein.
+Um solches Wahlverhalten zu vermeiden,
+- muss eine Übereinstimmung aller Teilnehmer über die Ordnung der Alternativen bestehen.
+- müssen alle Teilnehmer m diese Verteilung aufgeklärt sein.
 
-Fraglich ist, wie dieses Ziel zu erreichen ist.
 
 Ist es überhaupt aus demokratischer Sicht vertretbar, eine allgemein gültige Ordung der Alternativen festzulegen?
 Laut XY ist "nobody (is) obviously more qualified than anypne else", folglich kann auch niemand allein befähigt sein Meinungen zu ordnen.
