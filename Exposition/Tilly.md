@@ -19,12 +19,12 @@ Der gegebene Schutz kann laut Tilly zwei Formen annehmen:
 
 Verhält sich der Machthaber als *legitimate protector* so schützt er sein Volk gegen externe Angriffe.
 Ist der Machthaber ein *racketeer* nutzt er sein Gewaltmonopol aus, indem er sein Volk unter Druck setzt (Bsp. Ludwig XIV hat von seinen Bürgern für den Bau des Schlosses Verssailles extrem hohe Tribute eingefordert. Konnte jemand nicht bezahlen, drohte Ärger).
-Diese Handlung ist entscheidend für die Entwicklung eines Staates, denn sie zeigt, dass ein Staat nicht etwa die Folge von friedlicher Zusammenarbeit von Menschen ist, sondern immer gebunden ist an Machtkämpfe, Ausbeutung und Krieg("war making likewise led to state making" ebd. S.183, Z.10f).
+Diese Handlung ist entscheidend für die Entwicklung eines Staates, denn sie zeigt, dass ein Staat nicht etwa infolge von friedlicher Zusammenarbeit der Menschen entsteht, sondern immer gebunden ist an Machtkämpfe, Ausbeutung und Krieg ("war making likewise led to state making" ebd. S.183, Z.10f).
 
 Wenn sich ein Machthaber wie ein Schutzgelderpresser (racketeer) verhält, also extrem hohe Tribute fordert, trotzdem das Geld nicht zum Wohle des Volkes nutzt sondern sich nur persönlich bereichert, spricht Tilly von Despotie.
 Hätte das Volk aber als solches die Möglichkeit, Steuern zu regulieren und über ihre Verwendung zu entscheiden, läge eine Demokratie vor (ebd. S.176 18ff. und 24f).
-Händler können jedoch auch von diesem System profitieren.
-Wenn ein Händler an seinen Herrscher weniger Steuern zahlen muss als ein Konkurrent, so gewinnt er durch diese Differenz einen Vorteil und kann sein Kapital besser vermehren.
+Händler können jedoch auch von diesem System profitieren:                          
+Wenn ein Händler weniger Steuern an seinen Herrscher zahlen muss als ein Konkurrent, so gewinnt er durch diese Differenz einen Vorteil und kann sein Kapital besser vermehren.
 Letztendlich profitiert auch der Herrscher, denn er erhält so auch mehr Tribute, die er benötigt um sein Reich zu stabilisieren oder gar zu expandieren.
 
 ## Durch welche Handlungen definiert sich aber nun ein Staat?
