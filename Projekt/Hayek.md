@@ -61,10 +61,11 @@ Ein Tisch dessen Nutzen sich nicht mit dessen Preis deckt, wird auf Dauer nicht 
 Das einzige "Symbol", das für alle gleich ist, also die einzige objektive Instanz, ist der Preis.
 Im Preis sind alle Informationen über ein Produkt enthalten, welche den Konsumenten interessieren müssen.  
 
-<!-- TODON: Sagt er das wirklich? Textnachweis -->
+<!-- TODO: Sagt er das wirklich? Textnachweis -->
 
 Hayek plädiert für einen puren Kapitalismus mit keinen zentralisierten Elementen.
-Im sozialen und gesellschaftlichen Kontext bedeutet das, dass Institutionen und staatliche Instanzen nur einen Umweg, eine Verkomplizierung in der Informationsvermittlung bedeuten, und die Interessen der Einzelnen nicht fassen können. Die Entscheidungsgewalt über ökonomische Handlungen sollte also so oft wie möglich bei den Individuen liegen.
+Im sozialen und gesellschaftlichen Kontext bedeutet das, dass Institutionen und staatliche Instanzen nur einen Umweg, eine Verkomplizierung in der Informationsvermittlung bedeuten, und die Interessen der Einzelnen nicht fassen können.
+Die Entscheidungsgewalt über ökonomische Handlungen sollte also so oft wie möglich bei den Individuen liegen.
 
 Wenn man versucht, das auf das Schulsystem zu beziehen, könnte man sagen, dass die Idee eines Bildungskanons, einer Informationsvermittlung auf objektiver Basis, verneint wird.
 In diesem Kontext kann man Hayek auch mit Illich assoziieren.
@@ -74,6 +75,3 @@ Hayek äußert sich zwar nicht direkt zum Schulsystem, doch spricht er sich dage
 Illich denkt ähnlich, denn er möchte das Schulsystem sogar ganz abschaffen, da er persönliche Autonomie und Gleichheit schaffen möchte. Ohne Schulpflicht müsse sich jeder selber darum kümmern, wie er eigenes Wissen erlangt und von wem er dieses bekommt. Das würde einerseits Gleichheit schaffen, da alle die gleiche Ausgangssituation haben, aber auch persönliche Autonomie, weil jeder für seinen Informationsfluss selber zuständig wäre.
 
 Ähnlich wie bei Illich kritisiert auch Dewey das Schulsystem und möchte es aufgrund dessen verändern. Deweys Standpunkt dazu ist, dass ein öffentliches Erziehungssystem geschaffen werden muss, was durchaus übertragbar ist auf Illich und Hayek, denn diese plädieren für ein unabhängiges, öffentliches Schulsystem, wie oben bereits beschrieben.
-
-
-Dewey und Hayek haben beide interessante Meinungen zum Schulsystem. Sie sind beide der Auffassung, dass das bestehende nicht das Richtige ist. Dewey möchte ein öffentliches Erziehungssytem schaffen, was man auf Hayek übertragen kann, der ein unabhängiges, öffentliches Schulsystem schaffen möchte.
