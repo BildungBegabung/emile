@@ -5,7 +5,7 @@
 "Es geht darum, unser ganzes Erziehungssystem von der materiellen Basis her umzugestalten." (Freinet-1946 S. 99)
 Diese These Freinets scheint zunächst überraschend.
 Für gewöhnlich beginnt man eine solche Revolution mit einem theoretischen Konzept und nicht mit einer Handvoll Lernkarteien in einem umgeräumten Klassenzimmer.
-Vieleicht ist aber gerade dieser, auf den ersten Blick etwas unorthodoxe Blick auf die Pädagogik notwendig, um die Grundfrage zwischen persönlicher Autonomie und inherenter Gleichheit zu beantworten?
+Vielleicht ist aber gerade dieser, auf den ersten Blick etwas unorthodoxe Blick auf die Pädagogik notwendig, um die Grundfrage zwischen persönlicher Autonomie und inherenter Gleichheit zu beantworten?
 
 Für Freinet ist es notwendig, zuerst gute und funktionstüchtige Werkzeuge zu haben, da ohne diese eine erfolgreiche Anwendung seiner reformpädagogischen Ideen nicht möglich wäre.
 Wenn der Lehrer nicht auf *ausgewähltes Material* zurückgreifen könnte, wären die Durchführung bestimmter Experimente gefährlich und "die Schüler würden infolge ihres technischen Unvermögens entmutigt" (Freinet-1946, S. 98).
@@ -15,7 +15,7 @@ Erst in einer materialistisch gut ausgestatteten und überdacht organisierten Sc
 Seine grundlegenden pädagogischen Ideen hält Freinet in 30 sogenannten Invarianten fest.
 Invarianten sind unveränderliche Wahrheiten (vgl. Freinet-1964 S. 488).
 In Ihnen zeigt sich wie Bedeutsam die **intersubjektiven Beziehung** zwischen Lehrer-Schüler ist.
-Freinet ist der Meinung, das Verhältnis zwischen Lehrer und Schüler solle so sein wie das Verhältnis einer Mutter zu ihrem Kind.
+Freinet ist der Meinung, das Verhältnis zwischen Lehrer und Schüler solle so sein wie das **Verhältnis einer Mutter zu ihrem Kind**.
 Er sagt, ein Lehrer müsse seinen "Schülern das gleiche Vertrauen schenken können, das eine Mutter ihrem kleinen Kinde schenkt" (Freinet-1946 S. 105).
 Das beinhaltet ebenfalls "größtmögliche Ehrlichkeit" dem Kinde gegenüber (ebd. S. 110)
 Darüberhinaus ist Freinet davon überzeugt, dass Kinder am besten individuell und - soweit möglich - selbstgesteuert lernen sollten.
@@ -34,7 +34,7 @@ Diese ist durchaus ein Teil seiner päagogischen Vorstellungen, aber sieht er es
 Darüber hinaus sieht Freinet auch keine Notwendigkeit eines verallgemeinernden Lehrplanes.
 Er ist sich sicher, "Was das Kind nicht heute lernt, nicht in dieser Woche, ja selbst nicht in diesem Jahre lernt, dass wird es sich später aneignen" (Freinet-1946 S. 105).
 Es ist also wichtiger, "dass das Kind seine Individualität entwickelt" (ebd. S. 105), als dass es spezielle Lerninhalte erfasst.
-Bei dieser Art der Pädagogik ist, da es keine Vorschriften gibt, was zu lernen ist, das individuelle Interesse sehr wichtig.
+Bei dieser Art der Pädagogik ist, da es keine Vorschriften gibt, das individuelle Interesse sehr wichtig.
 Diese Ablehnung eines Bildungskanons ist ein weiteres Plädoyer für persönliche Auonomie, da sie zeigt, wie sehr Freinet jegliche Gleichstellung der Edukanten in einem Bildungsystem ablehnt.
 Er ist der Auffassung dass, die notwendigsten Dinge von sich aus durch das Kind irgendwann gelernt werden.
 Dies kann man nur nicht auf einen bestimmten Zeitraum festlegen.
@@ -46,8 +46,10 @@ Für Freinet muss zu allererst der Schüler sein Interesse für einen bestimmten
 Freinet schreibt, der Lehrer muss den Schülern und Schülerinnen "bei der manuellen, künstlerischen und geistigen Verwirklichung ihrer vorherrschenden Möglichkeiten" (ebd. S.90) helfen.
 Er nennt dies Hilfe bei der Ordung, die **Interessenzentren (Centres d'intérêts) der Lehrers**.
 Freinet spricht daher von der "Überlegenheit des Interessenkomplexes [...] gegenüber den Interessenzentren" (ebd. S.89).
-Gerade diese Überlegenheit der Interenkomplexe macht deutlich, dass persönliche Autonomie der Gundpfeiler der Freinetschule ist.
+Gerade diese Überlegenheit der Interessenkomplexe macht deutlich, dass persönliche Autonomie der Grundpfeiler der Freinetschule ist.
 Schließlich hat jedes Kind seine eigenen individuellen Interessenkomplexe, welche auch individuell betrachtet werden sollen.
+
+## Bezüge zu anderen Theoretikern
 
 ### Siebert:
 Freinet geht davon aus, dass ein Edukant am besten auf seine ganz individuelle Art und Weise lernt und sich die Welt erklärt (vgl. Freinet S. 496).
