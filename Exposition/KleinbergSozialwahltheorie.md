@@ -8,7 +8,6 @@ Wenn eine Gruppe von Menschen eine Reihenfolge von Prioritäten durch ein Gruppe
 Besonders bei kollektiv *verbindlichen* Entscheidungen in einer Demokratie sollte darauf geachtet werden, dass alle Meinungen gleichwertig in das Endergebnis einfließen, wofür sich unterschiedliche Wahlsysteme anbieten.
 Die Spietheorie evaluiert den Entscheidungsprozess von einem mathematischen Standpunkt aus mit dem Ziel, ein perfektes Wahlsystem zu aufzustellen.
 
-
 ## Arrow's Unmöglichkeitstheorem (S.748)
 
 Hierfür zieht Arrow drei Kriterien heran:
@@ -19,7 +18,6 @@ In den USA (Mehrheitswahlrecht) kann zum Beispiel durch die Festsetzung der Wahl
 
 Wären alle drei Kriterien dieser Dreieckskonstellation erfüllt, läge ein perfektes Wahlsystem vor.
 Aus dem **Unmöglichkeitstheorem** geht jedoch hervor, dass, sobald mehr als zwei Alternativen zur Auswahl stehen, kein Wahlsystem alle drei Kriterien  garantieren kann.
-
 
 ## Lösungsmöglichkeit
 
@@ -35,6 +33,5 @@ Um solches Wahlverhalten zu vermeiden,
 
 Die Frage ist, ob es überhaupt aus demokratischer Sicht vertretbar wäre, eine allgemein gültige Ordung der Alternativen festzulegen, oder auch nur deren Hausbildung zu fördern.
 Laut Dahl ist niemand offensichtlich besser qualifiziert als andere, folglich kann auch niemand allein befähigt sein für die Allgemeinheit Alternativen anhand selbstgewählter Kriterien zu ordnen.
-<!-- FIXME FB at MH: nobody (is) obviously more qualified than anyone else - Englisches Zitat behalten?  -->
 Somit verbirgt sich hinter den von der Sozialwahltheorie beschriebenen Dysfunktionen der liberalen Demokratie eine Lösung, die erneut auf die Widersprüche zwischen persönlicher Autonomie verweist.
 Zwar könnten Bürgerinnen eher in die Lage versetzt werden, *gleichwertig* und *autonom* durch single-peaked Präferenzen zu wählen, eine entsprechende politische Bildung hin zu strukturierteren Präferenzen würde aber ihrerseits den gleichen, bekannten Widerspruch in der Schule der Demokratie hervorrufen.
