@@ -29,8 +29,9 @@ Sie wird allerdings häufig auf falsche Art und Weise institutionalisiert und ve
 Im Sinne der Motivation kann mit Angst allerdings kann ein Problem auftreten, wenn z.B. die Arbeiter nicht wissen warum sie etwas machen, sondern nur in Erwartung von Belohnung bzw. Bestrafung agieren.
 Findet ein Mitarbeiter keine Form von Selbstverwirklichung in seinem Beruf, so findet sich nach Dewey legale Sklaverei.
 <!-- TODO: MH genau -->
-Der Individualismus ist dabei wichtig für die Chancengleichheit und den Meinungsaustausch in einer Demokratie, in welcher es die ständige Möglichkeit zur Neuausrichtung und Verbesserung geben muss.
-<!-- TODO: MH hier brauchen wir ein Zitat oder so, nöher am Text Original Arbeiten. -->
+Wie sich an der Kritik Deweys an Platos Klassengesellschaft erkennen lässt, ist der Individualismus dabei, laut Dewey, wichtig für die Chancengleichheit und den Meinungsaustausch in einer Demokratie, in welcher es die ständige Möglichkeit zur Neuausrichtung und Verbesserung geben muss:
+>"He never got any conception of the indefinite plurality of activities which may characterize an individual [...] ans consequently limited his view to a limited number of *classes*" (S.95) und
+"Hence education would soon reach a static limit in each class, for only diversity makes change and progress" (S.96)
 Des Weiteren ist die politische Mitwirkung jedes Einzelnen gewährleistet basierend auf Folgendem:
 Alle müssen gehört werden, denn sie könnten etwas sehen.
 Die Gesellschaft darf also nicht in zwei Klassen geteilt werden, zwischen welchen kein Austausch stattfindet und somit keine neuen Denkanstöße in die jeweilige Klasse eindringen können.
