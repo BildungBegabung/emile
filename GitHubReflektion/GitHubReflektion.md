@@ -68,14 +68,16 @@ Die Gefahr, dass die direkte Kommunikation hinter 16 aufgeklappten Laptopbildsch
 ## Was Hayek zu unserer Zusammenarbeit auf GitHub sagen würde
 
 Ähnlich wie bei Illich ist es unklar wie Hayek zu modernen Kommunikationsmitteln stehen würde, da er vermutlich nie mit einem Computer gearbeitet hat.
-<!-- TODO FB: Hat er oder hat ernicht? :) -->
-Nichtsdestotrotz kann man seine Aussagen über Kooperation aus dem Jahre 1945 auf ein Medium wie GitHub übertragen.
+<!-- TODO FB: Hat er oder hat er nicht? :) -->
+Nichtsdestotrotz kann man seine Aussagen über Kooperation aus dem Jahre 1945 auf ein soziales Medium wie GitHub übertragen.
 Er äußert sich sehr negativ zu Institutionen, die Wissen und Informationen austauschen, da diese den Informations- und Wissensfluss verlangsamen und beeinträchtigen.
 Die einzige Institution die Vorteile einbrachte und mit der etwas "getauscht" werden durfte war Geld.
 >It is in this connection that what I have called the economic calculus proper helps us, at least by analogy, to see how this problem can be solved, and in fact is being solved, by the price system. (Hayek-1945 S. 525)
 
-Ein weiteres Problem für Hayek wäre vermutlich, dass er absolut der Meinung ist: Ein Individuum kann für sich selber die besten Entscheidungen treffen und nicht jemand anderes. Das würde mit dem Prinzip GitHubs kollidieren, da jeder über das Werk eines Anderen bestimmen kann, es herrscht also absoluter Pluralismus.
-Aufgrund dieser Tatsachen würde Hayek GitHub vermutlich stringend ablehnen und sich dagegen aussprechen, dass wir mit dieser Institution Wissen austauschen und kooperieren.
+Ein weiteres Problem für Hayek wäre vermutlich, dass er absolut der Meinung ist, ein Individuum könne allein für sich selbst die besten Entscheidungen treffen und nicht jemand anderes.
+Das würde mit dem Prinzip GitHubs kollidieren, da jeder über das Werk eines Anderen bestimmen kann und es beherrscht also absoluter Pluralismus.
+<!-- TODO FB: also Absoluter Pluralismus? Satzsetellung/sinn? -->
+Aufgrund dieser Tatsachen würde Hayek GitHub vermutlich streng ablehnen und sich gegen Wissensaustausch und Kooperation mit dieser Institution aussprechen.
 
 ## Was Habermas zu unserer Zusammenarbeit auf GitHub sagen würde
 
