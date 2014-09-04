@@ -17,9 +17,6 @@ Demnach müssen die Konsequenzen aus der jeweiligen Handlung auch gut sein.
 
 Der Pragmatismus bildet hierbei die Synthese zwischen diesen Beiden, sich widersprechenden Theorien.
 Dieser sagt nämlich aus, dass wir eine Ethik inne haben, die durch den Horizont der Praxis definiert ist und deshalb angepasst werden muss.
-Wir sollen auf das Ende unseres Horizonts in 60 Jahren schauen, dann unsere Ethik dahin ausrichten, aber davon ausgehen, dass wir ihn ändern müssen.
-<!-- FIXME MH und MM: wessen Zitat ist das denn? Quelle? -->
-<!-- TODO: MH finden wir hier vielleicht insgesamt eine schöne Dewey-Losung oder was anderes, was die pragmatische Ethik gut auf den Punkt bringt? -->
 
 ### Deweys gesellschaftliches Ideal
 
