@@ -37,7 +37,7 @@ Wie kann der Mensch nun eine individuelle, persönliche Identität aufbauen, wen
 Obwohl die Gesellschaft Erwartungen an jedes Individuum stellt, ist immer noch das I vorhanden, welches vollkommen individuell ist und auf welches die Gesellschaft keinen Einfluss nehmen kann.
 Des Weiteren sind die Erwartungen der Gesellschaft nicht bei jedem Menschen gleich, sondern auch in ihnen ist eine gewisse Individualität vorhanden.
 Dies ist damit zu begründen, dass nicht an jeden Menschen in einer Gesellschaft die gleichen Erwartungen gestellt werden.
-Die Werte und Normen, die ein Mensch im Verlauf seines Lebens, also während der Sozialisation, vermittelt bekommt, sind auch nicht bei jedem gleich; somit auch ein wenig individuell. 
+Die Werte und Normen, die ein Mensch im Verlauf seines Lebens, also während der Sozialisation, vermittelt bekommt, sind auch nicht bei jedem gleich; somit auch ein wenig individuell.
 Natürlich darf man nicht vergessen, dass dieser kleine Aspekt der Individualität, welcher im Me enthalten, kaum Einfluss auf die eigentliche Individualität, welche ein jeder Mensch aufbaut.
 Der Großteil der Individualität wird nämlich immer noch durch das I hervorgerufen.
 Jeder Mensch ist zusätzlich dazu noch individuell darin, wie er sich in den jeweiligen Situationen entscheidet: Für das I oder für das Me. Auch dieses wird in einer identischen Situation nicht von jedem Menschen gleich beantwortet. Das hängt wiederum mit den zuvor in der Sozialisation erworbenen Werten und Normen zusammen.
