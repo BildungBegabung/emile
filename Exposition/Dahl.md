@@ -50,7 +50,7 @@ Zwischen diesen beiden Aunschauungen erstellt sich ein Zusammenhang, da niemand 
 Trotzdem sind einige Aspekte zu finden, die wir nicht 100% bestätigen können.
 In Dahls Definition der intrinsischen Gleichheit sollen möglichst alle Menschen von einer Entscheidung profitieren, daher sind Entscheidungen die zwar die Gemeinschaft fördern aber einzelnen Individuen schaden nicht vorgesehen.
 Dahls Definition beschränkt sich auf die Beachtung der Wünsche aller Personen, jedoch kann nicht nur Demokratie dies erreichen. Würde eine Gruppe überlegener Menschen dazu in der Lage sein, die Wünsche aller Menschen besser Verstehen als sie selbst, wäre es ihr nach intrinsischer Gleichheit erlaubt zu herrschen.
-Im Bereich der persönlichen Autonomie, könnten wir uns die Frage stellen, ob zum Beispiel das Volk, das die Regierung wähñt, durch mediale Einwirkungen in eine bestimmte ideologische Richtung gedrägt werden kann. Ein anderes Argument, das dagegen spricht, ist die Tatsache, dass die Entscheidungsfindung immer sehr Langwierig ist, da die Interessen aller berücksichtigt werden sollen. 
+Im Bereich der persönlichen Autonomie, könnten wir uns die Frage stellen, ob zum Beispiel das Volk, das die Regierung wähñt, durch mediale Einwirkungen in eine bestimmte ideologische Richtung gedrägt werden kann. Ein anderes Argument, das dagegen spricht, ist die Tatsache, dass die Entscheidungsfindung immer sehr Langwierig ist, da die Interessen aller berücksichtigt werden sollen.
 
 
 
@@ -58,8 +58,9 @@ Im Bereich der persönlichen Autonomie, könnten wir uns die Frage stellen, ob z
 
 ### politische Einordnung
 
-Dahl ist in den **Liberalismus** einzuordnen, da er Vorschläge aufzeigt, wie Demokratie seiner Meinung nach am besten funktionieren würde.
-Allerdings zwingt er niemanden diese Vorschläge durchzuführen, sondern lässt die Freiheit sich dafür zu entscheiden oder nicht.
+Dahl zwigt niemanden diese Vorschläge durchzuf¨hren, sonder lässt die Freiheit sich dafür zu entscheiden oder nicht.
+Er ist in den **Liberalismus** einzuordnen, da er Vorschläge aufzeigt, wie Demokratie seiner Meinung nach am besten funktionieren würde.
+
 In Bezug zur Freiheit zeigt Dahl keine positiven Freiheiten auf (einer Freiheit *zu* etwas), sondern negative Freiheiten (einer Freiheit *von* etwas).
 Er gibt also nicht die Freiheit sich über die Demokratie bzw. Politik zu zu informieren.
 Stattdessen ist für Dahl Freiheit, sich von der Information über Demokratie bzw. Politik zu entziehen.
