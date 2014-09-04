@@ -1,6 +1,6 @@
 # Rousseaus idealistisches Gedankenexperiment
 
->"Man was born free and everywhere he lives in chain stores" (Jean-Jacques Rousseau/l`Internet)
+>"Man was born free and everywhere he lives in chain stores" (Jean-Jacques Rousseau / l`Internet)
 
 Wie kann man Sozialwissenschaften und Pädagogik zusammendenken?
 Wie persönliche Autonomie und inhärente Gleichheit verbinden?
