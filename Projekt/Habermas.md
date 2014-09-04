@@ -66,61 +66,34 @@ Vgl. Mead symbolischen Interaktionismus
 - **Sozialwahltheorie** - single-peakedness durch kommunikatives Handeln erreichen, einigung über allgemeine Optimumordung, besseres Wahlverhalten, prävention einer diktatur über wahlverhalten
 - **Dahl** enlightend understaning, ist nicht soo wichtig (da Dahl liberal) ; Control of the Agenda -> durch kommunikation erreichbar -> strategisches handeln = manipulation; liberale sprechen über freiheit als negativen Begriff, hat das Folgen?? Wie androhung von Gewalt
 
+## Habermas - Dewey - Tilly : Kommunikatives und Strategisches Handeln im Kontext von Staatenbildung und -entwicklung
+<!-- Autoren zur Übersicht bitte erstmal stehen lassen! FB-->
 
-## Habermas - Tilly : Gewaltandrohung als Strategisches Haneln
+John Dewey ist wie Habermas ein Vertreter des Pragmatismus und seine Ideen von der ständgen Weiterentwicklung einer Demokratie bedingen Austausch über Ideen.
+Er geht davon aus, dass das dynamische, wandelbare Ideal im Kontext seiner Zeit immer wieder neu definiert werden muss.
+Das muss über möglichst effektive undvoreingenommene Verständigung zwischen den vielfältigen Ideen bewerkstelligt werden.
+Dabei sollte die Gültigkeit des aktuellen Ideals ständig überprüft werden.
+Da für Habermas nur das *kommunikative Handeln* diese Bedingungen erfüllt, wäre Fortschritt im pragmatischen Sinne dementsprechend nur durch genau diese Art Sprechakt möglich.
 
-
-Zu strategischischen Sprechakten zählen auch Drohungen, wie z.B. "Wenn du die Hausaufgaben nicht machst, bekommst du nachsitzen".
-Das beinhaltet natürlich auch Gewaltandrohungen, wie sie durch Charles Tilly in der Staatsgenese impliziert werden.
+Im Gegensatz dazu steht die Theorie der Staatsgenese von Tilly, was besonders dadurch deutlich wird, dass sie strategische Sprechakte beinhaltet.
+Zu strategischischen Sprechakten zählen Drohungen, wie z.B. "Wenn du die Hausaufgaben nicht machst, bekommst du nachsitzen".
+Das umfasst natürlich auch Gewaltandrohungen, wie sie durch Charles Tilly in der Staatsgenese impliziert werden.
 Ambivalente Äußerungen der Schutzgelderpresser "Ich schütze dich vor Gewalteinflüssen, wenn du mich bezahlst" geben vor einen Gültigkeitsanspruch, den Schutz, zu verständigen.
-Tatsächlich versucht aber Macht zu erlangen.
+Tatsächlich versucht der Erpresser aber Macht zu erlangen.
 Habermas würde hier von einem *latently strategic speech act* sprechen, da der Mensch als Mittel zum Zweck instrumentalisert wird.
-Direkte Gewaltandrohung hat noch nicht mal einen Gültigkeitsanspruch, sondern nur den Machanspruch iund ist somit ein *manifestly strategic speech act*  .
+Direkte Gewaltandrohung "Gib mir das Geld, oder ich knall dich ab" hat noch nicht mal einen Gültigkeitsanspruch, ist also nicht illokutiv sondern nur perlokutiv, sondern erhebt nur den Machanspruch über das Geld des Bedrohten.
+Somit ist dies sogar ein *manifestly strategic speech act*.
 
-DA TIlly Staat nur funktion wenn gewalt auch demokratie durch strategisches handeln, keine kommunikativ in demokratie
-
-Ihre Entstehung lässt sich ansatzweise durch Habermas Konzept der *strategic speech acts* modellieren.
-<!-- FIXME: "Die Art und Weise" – schlechter Stil, füllwort, sowas meiden. -->
-<!-- FIXME: MH nöh, nicht modellieren; ihr meint: Gewaltandrohung oder allg. Staatsgenese durch wettstreitende Schutzgelderpresser impliziert strategische Sprechakte; Mitmenschen werden Mittel zum Zweck. -->
-Gewaltmonopole können durch Gruppen von Schutzgelderpressern unterschiedlich erreicht werden.
-
-Einerseits kann durch Schutzgelderpressung *"protection"* angeboten werden: "Ich schütze dich vor Gewalteinflüssen, wenn du mich bezahlst".
-Errstmal ist der Schutz *"comforting"*, aber da bei dieser Proposition gleichzeitig eine Androhung von Gewalt (durch den Schützenden selbst) impliziert wird, ist "portection" ebenfalls "ominous".
-Aufgrund dieses Aufbaus kann man bei einer Schutzgelderpressung .
-Das Ziel des Sprechens ist in dem Moment nicht illokutiv, sondern perlokutiv.
-Der Zweck ist Machterweiterung und Geldgewinn.
-Letzlich wird so der Mensch als Mittel zum Zweck genutzt.
-<!-- FIXME: Die Anwendung ist elegant und clever; wirklich eine tolle und originelle Verbindung; allerdings wird hier noch zu viel von Tilly wiederholt.  -->
-
-Eine zweite Möglichkeit durch Zwang Gewaltmonopole zu bilden, ist die direkte Androhung von Gewalt, wie z.B. "Gib mir das Geld, oder ich knall dich ab".
-Es ist eine *manifestly strategic action*: Es geht nicht mehr um einen Gültigkeitsanspruch, sondern den Machtanspruch über das Geld des Bedrohten.
-
-
-## Habermas - Dewey : Fortschritt durch kommunikatives Handeln
-<!-- TODO: MH Themen- nicht Autoren-Überschriften wären vielleicht schöner, würden den Lesefluss erleichtern; so holpern die verschiedenen Verbindungen/autoren etwas daher. Vielleicht lohnt es sich so zu lassen wegen dem Netzwerkgraphen, auf jeden Fall braucht es aber schönere ein-/überleitungen. -->
-
-Betrachtet man beide Fälle, stellt sich die Frage, ob ein Gewaltmonopol auch durch kommunikatives Handeln entstehen kann.
-<!-- FIXME: MH: Zusammenhang? -->
-
-John Dewey ist wie Habermas ein Vertreter des Pragmatismus.
-Nach Deweys Ansicht gibt es ein dynamisches, wandelbares Ideal, abhängig von der jeweiligen Gesellschaft.
-Dewey beurteilt Gesellschaften dabei einerseits nach dem gemeinsam geteilten Konsens sowie den  Austausch mit anderen Gesellschaften.
-So sollte sich ein demokratischer Staat durch eine Vielfalt von Idealen und den Austausch von Ideen und den so entstehenden Fortschritt auszeichnen.
-Dieser Austausch ist nur durch kommunikatives Handeln möglich, da die verschiedenen Parteien aufeinander eingehen und sich verständigen müssen.
-Die pragmatistische Ansicht des wandelbaren Ideals ist nur durch kommunikatives Handeln realisierbar, da sie eine Selbstreflektion und ein Bewusstsein der eigenen Unfehlbarkeit voraussetzt, somit offen für Einflüsse und Austausch mit anderen ist.
-Ein Fortschritt im pragmatischen Sinne wäre dementsprechend nur durch Kommunikation möglich.
-<!-- TODO: MH das ist wie o.s. zu viel Textwiedergabe; wir brauchen Transferleistung und Erläuterung mit Beispielen die für uns relevant sind. -->
-
-Des weiteren kritisiert Dewey die **legale Sklaverei**.
-<!-- TODO: MH erstmal erläutern, was er damit meint, dann das Schlagwort nennen. -->
-Damit bezieht er sich auf ein Arbeitsverhältnis innerhalb eines 2-Klassen-Gesellschaft, bei dem der Arbeiter seine Arbeit lediglich aus reiner Routine tut, ohne sich dessen Bedeutung für sich selbst und für die Gesellschaft bewusst zu sein.
-<!-- TODO: MH zu spezifisch; Dewey meint nicht nur 2 Klassen, sondern jede Art von auf Belohnung/Bestrafung (gegenteil: intrinsische Motivation) gerichtete Arbeit. Wichtiger aber noch. das tendiert zu viel zur Wiedergabe von Dewey. -->
-Eine Kommunikation zwischen Arbeiter und Arbeitgeber ist nicht vorhanden.
-<!-- FIXME: MH das ist nicht das Problem von Dewey; natürlich wird da gesprochen. Die frage ist wie, worüber und zu welchem Ergebnis gesprochen wird. Können Arbeiter_innen den Zweck der Arbeitsteilung nachvollziehen? -->
-Dazu passend steht Habermas' Konzept von System und **lifeworlds** (Lebenswelten)
-Nach Habermas würde bei der legalen Sklaverei nur in einem System kommuniziert werden, es handelt sich nur um strategische Handlungen, eine Verständigung ist nicht beabsichtigt, vielmehr würde der Arbeiter durch den Arbeitgeber manipuliert, sei es durch latente oder manipulative Strategien.
-<!-- TODO: MH zu kurz! -->
-
+Habermas würde diesen Unterschied wahrscheinlich damit begründen, dass Tilly und Dewey einmal über eine *lifeworld*~ und einmal über ein *system* nachdenkt.
+Tilly beschreibt das System, bei ihm ist nur strategisches Handeln möglich.
+EIn aktuelles Beispiel wäre dafür eine Wahlkampange, die z.B. Steuersenkungen verspricht.
+Auf den ersten Blick soll vielleicht eine Idee verständigt werden, tatsächlich aber wird dem Wähler unterschwellig mit "Steuererhöungen" gedroht, mit dem Ziel Stimmen, als Macht zu gewinnen.
+Das ist aber nur ein Beispiel für strategisches Handeln in Systemen, laut Handeln ist *alles* Handeln in Systemen strategisch.
+Dewey beschreibt den großen Nachteil dieser Systeme als die Motivation durch Belohnung/Bestrafung (vergleichbar mit Drohungen), welche er als legale Sklaverei kritisiert.
+Dem strategischen Handeln kann man aber nur durch den Wechseln in eine *lifeworld*~ entfliehen, dem einzigen Kontext in dem Kommunikatives Handeln stattfinden kann.
+Also schlägt Dewey als Staat eine Demokratie in einer lifeworld vor, ein System in einer *lifeworld*.
+Von Habermas Standpunkt aus dürfte das sehr widersprüchlich sein, da ein Staat aufgrund seiner Größe Struktur braucht, zB das Regierungssystem, welche ohne das strategische Handeln kaum funktionieren würde.
+Möglicherweise würde Habermas stattdessen ein dem System unterliegendes Netz aus kleinen, verbundenen *lifeworlds*~ vorziehen, die neue Ideen dann nach ben an das System weitergeben.
 
 ## Habermas - Rousseau : Verträge durch Kommunikatives Handeln
 
