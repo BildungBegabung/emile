@@ -42,11 +42,18 @@ Außerdem ist Autonomie in einer Demokratie nicht wegzudenken, weil diese quasi 
 
 
 ### intrinsische Gleichheit & persönliche Autonomie
-
+Es ist wichtig zu sehen, dass der Grundsatz der Gleichheit, der Freiheit und der persönlichen Autonomie unsere Gesellschaft in den letzten Jahrhunderten am Besten Stabilisiert hat. Es gibt keinen Zweifel daran, dass Demokratie der Sinnvollste und beste Weg ist das Leben aller zu gestalten.
 Dahls Verständnis von **Demokratie** stützt sich auf die **Kombination aus intrinsischer Gleichwertigkeit und persönlicher Autonomie**.
 Intrinsische Gleichheit bedeutet, dass die Interessen eines jeden Menschen grundsätzlich gleichwertig sind und daher bei jeder Entscheidung auch gleichmäßig in Betracht gezogen werden müssen.
 Persönliche Autonomie beschreibt die Entscheidungsfreiheit, damit  jeder kann die Entscheidung treffen kann, die für ihn am besten ist, denn "every adult is the best judge of his or her own interest" (S.100).
-Zwischen diesen beiden Aunschauungen erstellt sich ein Zusammenhang, da niemand so ausserordentlich qualifiziert ist, dass er/sie alle Entscheidungen einer bestimmten Gruppe von Personen treffen kann. Im gegensatz sind alle Mitgliedern der Gruppe fähig, um sich abzufinden. 
+Zwischen diesen beiden Aunschauungen erstellt sich ein Zusammenhang, da niemand so ausserordentlich qualifiziert ist, dass er/sie alle Entscheidungen einer bestimmten Gruppe von Personen treffen kann. Im gegensatz sind alle Mitgliedern der Gruppe fähig, um sich abzufinden.
+Trotzdem sind einige Aspekte zu finden, die wir nicht 100% bestätigen können.
+In Dahls Definition der intrinsischen Gleichheit sollen möglichst alle Menschen von einer Entscheidung profitieren, daher sind Entscheidungen die zwar die Gemeinschaft fördern aber einzelnen Individuen schaden nicht vorgesehen.
+Dahls Definition beschränkt sich auf die Beachtung der Wünsche aller Personen, jedoch kann nicht nur Demokratie dies erreichen. Würde eine Gruppe überlegener Menschen dazu in der Lage sein, die Wünsche aller Menschen besser Verstehen als sie selbst, wäre es ihr nach intrinsischer Gleichheit erlaubt zu herrschen.
+Im Bereich der persönlichen Autonomie, könnten wir uns die Frage stellen, ob zum Beispiel das Volk, das die Regierung wähñt, durch mediale Einwirkungen in eine bestimmte ideologische Richtung gedrägt werden kann. Ein anderes Argument, das dagegen spricht, ist die Tatsache, dass die Entscheidungsfindung immer sehr Langwierig ist, da die Interessen aller berücksichtigt werden sollen. 
+
+
+
 
 
 ### politische Einordnung
