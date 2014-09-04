@@ -67,7 +67,9 @@ Dieses Problem wäre durch Tillys Theorie der *Staatsgenese* gelöst, sie stellt
 
 Adam Smith lag somit mit seiner Annahme, dass die *streng dominante* Spielstrategie stets auch am besten zum Allgemeinwohl beiträgt falsch, da man nicht grundsätzlich von Spielen mit *besten Antworten* ausgehen kann und es dementsprechend, wie aufgezeigt, auch zu Kooperationsproblemen in menschlicher Interaktion kommen kann.
 
-## Anwendunng
+## Anwendung
 
-Wie lässt sich die SPieltheorie in den Kurszusammenhang einordnen?
-Das Modell der *Spieltheorie*   stellt eine deutlich präzisere Formulierung des *Kooperationsproblems* in der menschlichen Interaktion dar, indem es dieses auf ein mathematisches Modell zurückführt. 
+Wie lässt sich die Spieltheorie in den Kurszusammenhang einordnen?
+Das Modell der *Spieltheorie*   stellt eine deutlich präzisere Formulierung des *Kooperationsproblems* in der menschlichen Interaktion dar, indem es dieses auf ein mathematisches Modell zurückführt.
+Durch diese Vereinfachung steht die Spieltheorie von Kleinberg aber auch in einem starken Kontrast zu dem Menschenbild der anderen Sozialwissenschaftler und Pädagogen, die wir im Kurs besprochen haben.
+Kritisch zu hinterfragen ist, ob es sinnvoll ist, menschliche Kooperationsprobleme auf ein mathematisches System zurückzuführen beziehungsweise den Menschen durch Mathematik erklären zu wollen.
