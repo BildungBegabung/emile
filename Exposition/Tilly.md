@@ -3,7 +3,7 @@
 Bei genauerem Hinschauen erkennt man, dass das Kursthema voraussetzt, dass Demokratie überhaupt erstrebenswert ist.
 Da kollektiv verbindliche Entscheidungen einer Demokratie inhärent sind, braucht man einen Staat, der diese unter Zwang durchsetzt.
 Die Entstehung von Staaten ist das Thema Charles Tillys.
-Staaten definiert er hierbei über die Kontrolle der physischen Gewalt in einem Volk auf einem zusammenhängenden Territorium:
+Staaten definiert er hierbei über die Kontrolle der physischen Gewalt über ein Volk auf einem zusammenhängenden Territorium:
 
 >"national states: relatively centralized, differentiated organizations the officials of which more or less successfully claim control over the chief concentrated means of violence within a population inhabiting a large, contiguous territory." (Tilly-1985 S.170)
 
