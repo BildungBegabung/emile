@@ -90,15 +90,10 @@ Auch wenn beide als Träumer beäugt werden, solte uns klar sein, dass Rousseau 
 ### Gleichwerigkeit und Autonomie nach Illich
 
 Illichs Vorschläge bieten sogar eine Antwort auf die zentrale Frage unserers Kurses.
-Die Schule mit ihrem Monopol auf Wissensvermittung und Bewertung würde erst soziale Ungleichheit bewirken.
-Ein zentraler Punkt, den er an der Institution Schule kritisiert,ist deren Recht zur Bewertung der Schüler durch Zertifikate, die in der gegenwärtigen Gesellschaft als einzig legitime Qualifikationen betrachtet werden.
-Somit hat die Schule die Macht, über die Zulassung von Schülern zu weiteren Bildungseinrichtungen oder die Erlaubnis zur Ausübung eines Berufs zu entscheiden.
-Die Folgen dieses Symstems sind weitreichend, was Illich mit dem Satz "School initiates young people into a world where everything can be measured, including their imaginations, and, indeed, man himself. (Illich, S.19), veranschaulicht.
-
-Schule produziert also durch die Beeinflussung der Lernenden dahingehend, dass der Wert von allem, sogar von Menschen messbar sei: Ungleichheit.
-Das impliziert die unterschiedliche Wertigkeit von Menschen und führt somit dazu, dass Schüler nicht nur als ungleich betrachtet werden, sondern auch sich selber als unterschiedlich wertvoll ansehen.
-Illich schlägt nun vor, das Messen von Fähigkeiten im Bezug auf den Zugang zu Bildungsmöglichkeiten ganz abzuschaffen.
-So entsteht ein Menschenbild, dass von der Gleichwertigkeit Aller ausgeht, während die beschriebenen Freiheiten und Wahlmöglichkeiten ein Maximum an persönlicher Autonomie ermöglichen.
+Durch das Monopol auf Wissensbewertung bekommt die Schule die Möglichkeit den weiteren Lebensweg eines Schülers wesentlich zu beeinflussen oder gar zu entscheiden.
+Durch den Glaube an die Bewertung der Persönlichkeit werde erst Ungeleichheit evoziert.
+Schüler bwerden nicht nur als ungleich betrachtet, sondern reflektieren sich selber auch als ungleich.
+Würden wir aber einsehen, dass es keine Möglichkeit zur Messung von Wertevorstellungen geben kann, würde demnach auch keine Ungleichehit entstehen, da jeder in persönlicher autonomie seine eigenen Interessen folgen kann, solange der Zugang zu den vier notwendigen "Ressourcen" für alle gesichert wird.
 
 
 <!-->"If people are seriously to think about deschooling their life, and not just escape from the
