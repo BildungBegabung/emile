@@ -1,6 +1,6 @@
 # Kooperation im Selbstexperiment - Reflektion über unsere Kursarbeit auf GitHub
 
-Während unserer Kursarbeit mussten unsere Kursleiter wohl oft mit Sorgenfalten in aufs extremste irritierte Gesichter geblickt haben.
+Während unserer Kursarbeit haben unsere Kursleiter wohl oft mit Sorgenfalten in extremst irritierte Gesichter geblickt.
 Es hatte ja auch etwas heroisches an sich, die grundsätzlichsten Fragen der menschlichen Existenz im Sinne seiner Entwicklung und seiner soziologischen Gemeinschaft beantworten zu wollen.
 Der Eine oder Andere hat auf diesem Weg nicht nur ein Mal seinen Blick auf die Welt ändern müssen und besonders mit dem Begriff der Deontologie gerungen.
 Da wir uns inhaltlich mit Fragen der menschlichen Kooperation (und manchmal auch der tierischen) beschäftigt haben, lag es nahe, auch unsere Kursarbeit kooperativ zu organisieren.
