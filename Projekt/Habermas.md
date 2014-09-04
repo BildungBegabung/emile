@@ -17,7 +17,7 @@ Außerdem ist auch die Trennung von Mittel und Zweck in der Sprache nicht mögli
  > "the medium of natural language and the telos of reaching understanding interpret one another reciprocally, one cannot be explained without recourse to the other."
 > Habermas (S.218)
 
-Wenn Kerstin im Plenum beispielsweise darauf hinweist, dass das pünktliche Erscheinen wichtig ist und wir als Telos die Verständigung annehmen, muss sie, um ihr Ziel deutlich zu machen auf Sprache zurückgreifen, welche wiederum Verständigung erfordert.
+Wenn Hanna im Plenum beispielsweise darauf hinweist, dass das Hilfe bei T-Shirt drucken wichtig für das Gelingen des Projekts ist und wir als Telos die Verständigung annehmen, muss sie, um ihr Ziel deutlich zu machen auf Sprache zurückgreifen, welche wiederum Verständigung erfordert.
 Führen wir diesen Gedanken weiter geraten wir schnell in einen Kreislauf, der die Rekursivität zwischen Sprache und dem Ziel der Verständigung deutlich macht.
 
 
