@@ -1,12 +1,12 @@
-In seiner ersten umfangreicheichen, gesellschaftkritischen Schrift "Deschooling Society"(1971) hinterfragt Ivan Illich die Stellung und Aufgabenfelder der Schule.
-Illich eröffnet neue Perpektiven auf die zentrale Frage unseres Kurses nach Formen von Schule und menschlichem Zusammemleben, da er sich nicht, wie andere Autoren, mit einer Neuausrichtung der Pädagogik im Rahmen bestehender schulischer Verhältnisse, beschäftigt.
-Er kritisiert vielmehr grundsätzlich die Institution, welche uns glauben lassen soll, wir könnten Wertevorstellungen wie Bildung, eine Eigenschaft des Menschen, bestimmen, analysieren und schließlich messen.
+In seiner ersten umfangreicheichen, gesellschaftkritischen Schrift "Deschooling Society" (1971) hinterfragt Ivan Illich die Stellung und Aufgabenfelder der Schule.
+Illich eröffnet neue Perspektiven auf die zentrale Frage unseres Kurses nach Formen von Schule und menschlichem Zusammenleben, da er sich nicht, wie andere Autoren, mit einer Neuausrichtung der Pädagogik im Rahmen bestehender schulischer Verhältnisse, beschäftigt.
+<!-- FIXME: VK Nebensatz klarer formulieren -->
+Er kritisiert vielmehr grundsätzlich die Institution, welche uns glauben lassen sollen, wir könnten Wertvorstellungen wie Bildung, eine Eigenschaft des Menschen, bestimmen, analysieren und schließlich messen.
 Illich begreift die Schule als ein Paradigma für die Natur von lebensbestimmenden Institutionen, fordert deren Abschaffung und plädiert für eine Gesellschaft, die sich für freie, und nicht durch Pflichten wie Berufe und Schulanwesenheit provozierte, zwischenmenschliche Interaktion ausspricht.
 
 #### Kritik an der Institution Schule
 
->"Many students, especially those who are poor, intuitively know what the schools do for them.
-They school them to confuse process and substance." (Illich S. 3)
+>"Many students, especially those who are poor, intuitively know what the schools do for them. They school them to confuse process and substance." (Illich S. 3)
 
 Wir verwechseln Prozess und Wert, und werden so zu der Annahme verleitet, Lehren würde zwangsweise Lernerfolg bewirken.
 Diese Annahme lässt sich ebenso auf das Gesundheitssystem anwenden, welchem die Annahme vorausgeht, medizinische Versorgung lasse sich mit Bekämpfung von Krankheiten gleichsetzen, oder auf Polizeipräsenz, welcher Sicherheit automatisch folgen sollte.
@@ -14,10 +14,11 @@ Es mag möglich sein, dass Polizei zur Sicherheit eines Wohnviertels beitragen k
 Aus diesem Zusammenhang würde sich die Möglichkeit ergeben, die Werte, d.h. Sicherheit, Lernerfolg, etc., zu messen; und zwar am Umfang des Prozesses (Polizeipräsenz, Schulanwesenheit).
 Den Mythos der messbaren Werte beziehen wir schließlich auch auf unsere "imaginations, and, indeed, man himself" (ebd. S. 19)
 >„In a schooled world the road to happiness is paved with a consumer's index“ (S. 19).
-
+<!-- TODO: VK Zitat in den Text miteinbeziehen -->
 Diese Werte beginnen einen allgemein verbindlichen Charakter zu entwickeln, weswegen wir unser "Wissen" an die nächste Generation weitergeben wollen, und somit versuchen deren Lernprozess ebenfalls zu kontrollieren.
-Wir gehen davon aus, das Urteil einer Person sollte entscheiden, was ein anderer Mensch wann lernt.
+Wir gehen davon aus, das Urteil einer Person sollte entscheiden, was ein anderer Mensch wann lernen soll.
 Die einzige mögliche Konsequenz auf diese Fehleinschätzungen ist Eskalation.
+<!-- TODO: VK Benutzt Illich wirklich den Begriff "Eskalation"? -->
 Sobald die Schule uns beigebracht hat, dass Wissensvermittlung zwangsläufig Lernen hervorruft und nur durch aktive Wissensvermittlung der notwendige Wissenshorizont erreicht werden kann, ist die uns logische erscheinende Antwort, auf alle Bildungsprobleme mit Eskalation zu reagieren.
 Die Schule lehrt: Je mehr Schule, desto mehr Lernerfolg, weshalb wir zur Schule gehen.
 Im Gegensatz dazu schreibt Illich:
@@ -55,7 +56,7 @@ Dies würde den Lernprozess sowie unverbindliche, nachbarschafliche Interaktion 
 
 #### Illichs Modell als Lösung
 
-Durch sein Konzept eines selbstbestimmten und selbstorganisierten Lernens können viele der Anforderungen, welche die in der Exposition behandelten Texte an den Prozess des Lernens und an das menschliche Zusammenleben stellen, erfüllt und Widersprüche gelöst werden. 
+Durch sein Konzept eines selbstbestimmten und selbstorganisierten Lernens können viele der Anforderungen, welche die in der Exposition behandelten Texte an den Prozess des Lernens und an das menschliche Zusammenleben stellen, erfüllt und Widersprüche gelöst werden.
 Illich beschreibt konkrete Vorschläge zur Umsetzung seiner "educational revolution", die als praktische Anwedung verschiedener theoretischer Ansätze verstanden werden können, welche wiederum Illichs Argumente stützen.
 
 
