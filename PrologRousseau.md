@@ -38,31 +38,29 @@ Was passiert aber mit demjenigen, der nicht natürlich erzogen wird?
 Seine bürgerliche Erziehung zerteilt ihn in verschiedene Rollen und Identitäten, deren verschiedene Pflichten nicht miteinander zuvereinbaren sind.
 Er ist z.B. als Abgeordneter dem Fraktionszwang unterworfen, für etwa eine Steuer zustimmen, und als Angehöriger eines Berufsstandes muss er dagegen sein.
 Oder er muss als Teilnehmer der KüMu zu einer Probe und als Kursteilnehmer Protokoll schreiben, ...
->"Wenn man z.B. einen Menschen für andere erziehen will, anstatt für ihn selbst - gemäß seiner Natur - zu erziehen?
-> Dann ist Einklang ausgeschlossen."  (ebd., S.49)
-Der auf diese Weise zerrissene Mensch ist entartet und will nichts mehr so haben, wie es von der Natur vorgesehen ist (Vgl. ebd., S.48).
 
 ## Le Contrat Social
 
-Neben der Erziehung wirft Rousseau aber auch die Frage nach der Legitimität von Herrschaft auf.
+Während der bürgerlich Erzogene also in jeder seiner Rollen Partikularinteressen hat, kann ein natürlicher Mensch, der nur Mensch ist, das allgemeine menschliche Interesse des volonté générale erkennen.
+Dieser Begriff geht davon aus, dass ein vom Individuum losgelöstes abstraktes Interesse der Menschheit gibt.
+Und nur dieses Interesse, der volonté générale, kann absolute Freiheit und Gleichheit garantieren.
+Deswegen muss es die Grundlage und Rechtfertigung jeder staatlichen Gewalt sein.
 
-Hierzu skizziert er den Urzustand des Menschen, in dem dieser absolut autonom war.
-Es existierte keine Kooperation zwischen den Menschen und Beziehungen blieben auf biologische Notwendigkeit beschränkt.
-<!-- TODO: MH doch, es mag schon Kooperation existiert haben, aber diese war nicht *funktionell ausdifferenziert*, also es kooperierten *natürliche Menschen*, also etwa wie Freunde oder in der Familie, nicht in ihrer Funktion als xyz oder mediiert über Institutionen -->
-Indem der Mensch aber institutionelle Kooperation betreibt und Interdependence (gegenseitige Abhängigkeit) entsteht, irrt er von seiner Natur ab.
-<!-- TODO: MH genau, toller begriff! *institutionelle Kooperation* darauf kommt es an. Bei sowas wie interdependence einfach nur den deutschen begriff nehmen. -->
-Als Folge dieser Abhängigkeiten wird eine Regierung zur Regelung des Zusammenlebens notwendig.
-<!-- TODO: MH ja! genau, Zitat aus Rousseau vielleicht? -->
-Diese Regierung braucht aber eine Rechtfertigung.
-Da Rousseau den Mensch als inhärent gleich und frei betrachtet, liegt diese Rechtfertigung nicht in einer göttlichen Ordnung.
-Statt dessen soll der volonté général als Leitmotiv jeder Herrschaft dienen.
-<!-- TODO: MH das ist etwas lose als Definition des VG; der ist viel tiefschürfender, er stellt die Abstraktion dar, dass es ein gemeinsames Interesse gäbe. -->
-Für Rousseau kann nur er Gleichheit und Freiheit garantieren.
 Gleichheit insofern, als dass jedes Individium und die Gesellschaft im Ganzen das Bestmögliche erhält;
 und Freiheit als freiwillige Unterwerfung unter die Allgemeinheit.
 Im Zweifelsfall muss der Mensch jedoch dazu gezwungen werden, diese Freiheit  wahrzunehmen.
 Als Fazit gilt also Gemeinwohl vor Eigenwohl.
 Daher kennt Rousseaus System keine Freiheitsrechte.
+
+
+Hierzu skizziert er den Urzustand des Menschen, in dem dieser absolut autonom war.
+Es existierte keine Kooperation zwischen den Menschen und Beziehungen blieben auf biologische Notwendigkeit beschränkt.
+<!-- ODO: MH doch, es mag schon Kooperation existiert haben, aber diese war nicht *funktionell ausdifferenziert*, also es kooperierten *natürliche Menschen*, also etwa wie Freunde oder in der Familie, nicht in ihrer Funktion als xyz oder mediiert über Institutionen -->
+Indem der Mensch aber institutionelle Kooperation betreibt und Interdependence (gegenseitige Abhängigkeit) entsteht, irrt er von seiner Natur ab.
+<!-- TODO: MH genau, toller begriff! *institutionelle Kooperation* darauf kommt es an. Bei sowas wie interdependence einfach nur den deutschen begriff nehmen. -->
+Als Folge dieser Abhängigkeiten wird eine Regierung zur Regelung des Zusammenlebens notwendig.
+<!-- TODO: MH ja! genau, Zitat aus Rousseau vielleicht? -->
+
 <!-- TODO: MH ein Hinweis auf das Schubladendenken wäre hier hilfreich; etwa das Rousseau Republikaner ist, und es ihm folglich vor allem um die Soveränität der Polity (etwa: Politik-Körper) geht. Auch ein historischer Verweis auf andere Verfassungs- etc. Dokumente könnte hilfreich sein um die Innovation des VG zu klären -->
 Der volonté général gewährt bereits jedem die maximale Freiheit, Freiheitsrechte aber würden einen unbeherrschbaren Wunsch nach immer mehr Freiheiten verursachen und so zu einem Krieg jeder gegen jeden führen.
 <!-- TODO: MH hier brauchen wir ein Zitat von Rousseau, aus dem hervor geht, wie der VG maximal Freiheit gewährt, also wie Rousseau Autonomie und Gleichwertigkeit vereint. -->
@@ -77,14 +75,6 @@ Statt dessen wird er für jedes Individuum durch (natürliche) Erziehung sichtba
 
 Und genau hierin liegt das obige Problem der bürgerlichen Erziehung:
 <!-- TODO: MH schöne einleitung! -->
-Ein Bürger ist in verschiedene Rollen zerteilt und hat somit Partikularinteressen.
-Ein natürlicher Mensch ist nur Mensch.
-Daher hat er  Zugriff auf das allgemeine menschliche Interesse des volonté général.
-
-Die Frage der Umsetzbarkeit von Rousseaus Ideologie stellt sich bereits auf der Stufe der Erziehung, die Voraussetzung für alles weitere ist.
-<!-- TODO: MH ergänzend stellt sich vielleicht auch die Frage, ob denn Rousseaus Ideal wünschenswert wäre? -->
-Um sie jedoch wissenschaftlich korrekt auf allen Ebenen zu prüfen, wäre ein für die DSA unleistbarer Aufwand nötig.
-<!-- TODO: MH ehm ich glaube Rousseaus ideal will per se nicht wissenschaftlich überprüft werden ...; außerdem juckt keinen, ob das auf der DSA geht ... -->
 
 Bei aller Kritik muss aber Rousseaus Intention bedacht werden:
 Seine Theorien sind nicht empirisch, sondern normativ gedacht.
