@@ -1,18 +1,26 @@
-# Kooperation im Selbstexperiment - Reflektion über unsere Kursarbeit auf GitHub
+# Kooperation im Selbstexperiment - Reflektion über unsere Kursarbeit auf GitHub // Inwieweit geht gihub ab
 <!-- TODO FB: Beim ersten auftauchen unserer Lieblingsbegriffe wie merge, issue etc pp diese erklären! -->
 Während unserer Kursarbeit haben unsere Kursleiter wohl oft mit Sorgenfalten in irritierte Gesichter geblickt.
 Es hatte ja auch etwas heroisches an sich, die grundsätzlichsten Fragen der menschlichen Existenz im Sinne seiner Entwicklung und seiner soziologischen Gemeinschaft beantworten zu wollen.
 Der Eine oder Andere musste auf diesem Weg mehr als einmal seinen Blick auf die Welt ändern und besonders mit dem Begriff der Deontologie ringen.
 Da wir uns inhaltlich mit Fragen der menschlichen Kooperation (manchmal auch der tierischen) beschäftigt haben, lag es nahe auch unsere Kursarbeit kooperativ zu organisieren.
 Wie keiner vor uns haben wir versucht, unseren sozialwissenschaftlich-pädagogischen Kurs und das Schreiben dieser Dokumentation auf der Open-Source-Plattform GitHub zu organisieren.
-GitHub ist ein Programm, das ursprünglich zum Zweck der Koordination von Softwareentwicklung entstanden ist.
+GitHub ist eine Plattform, die ursprünglich zum Zweck der Koordination von Softwareentwicklung entstanden ist.
 Als Vorbereitung für den Kurs arbeiteten wir bereits vor Akademiebeginn gemeinsam auf GitHub.com, der sozialen Komponente des Versionierungstools Git.
-Später verwendeten eben Git um die Dokumentation zu schreiben, im Kombination mit dem Open-Source-Texteditor Atom.
+Später verwendeten wir Git um die Dokumentation zu schreiben, im Kombination mit dem Open-Source-Texteditor Atom.
 Diese drei Komponenten sollten unsere Arbeit so effizient wie möglich gestalten.
-
-Jeder hatte zu jedem Zeitpunkt die Möglichkeit auf alle geschrieben Texte zuzugreifen, diese zu kommentieren und selbst zu bearbeiten und zu ändern.
+Dazu muss jeder in der Lage sein zu jedem Zeitpunkt sein Wissen einzubringen und auf das Wissen der anderen zuzugreifen.
+Wir hatten Zeitpunkt die Möglichkeit haben, auf alle geschrieben Texte zuzugreifen, diese zu kommentieren, selbst zu bearbeiten und zu ändern.
 Dadurch entstand eine völlig neue Form der sozialen Interaktion, die in Bezug auf die Ausgangsfrage nach persönlicher Autonomie und inhärenter Gleichheit zu analysieren ist.
-Hierfür lassen wir vier Autoren aus unserem Kurs sprechen und befragen sie postum, was sie zu diesem gewagten Unterfangen auf GitHub sagen würden.
+Hierfür lassen wir vier Autoren aus unserem Kurs sprechen und befragen sie posthum, was sie zu diesem gewagten Unterfangen auf GitHub sagen würden.
+Inwieweit bietet Github eine Lösung Kooperationsprobleme, und worauf findet auch die Plattform keine Lösung?
+Inwiefern kann GitHub sozialwissenschaftliche und pädagogische Theorien dadurch entwerten, dass es einen technischen Lösungsansatz bietet?
+Wo scheitert auch GitHub
+
+wo scheitert auch github wo sctehen wir wieder vor den gleichen problemen
+
+leiben wir immer noch vor den Grundfagen stehen? ch gewertet und jene Form der Autonomie und Gleicheit ermöglicht und lösen sich damit Kooperationsprobleme?
+Der Annahme nach
 
 ## Was Freinet zu unserer Zusammenarbeit auf GitHub sagen würde
 
