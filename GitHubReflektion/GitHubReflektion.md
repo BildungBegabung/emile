@@ -78,7 +78,7 @@ An dieser Stelle lässt sich die nächste Parallele zu Habermas ziehen, der die 
 Außerdem erachtet er die Infragestellung von Gültigkeitsansprüchen als essentiell für kommunikatives Handeln.
 Und auch wir stellen ja mit jedem issue und mit jedem neuen commit einen Gültigkeitsanspruch auf, der grundsätzlich von jedem angezweifelt und geändert werden kann, bis am Ende ein fertiger Dokubeitrag entsteht und setzen somit das Konzept von Habermas' kommunikativem Handeln doch zumindest in Ansätzen um.
 
-Und auch Habermas' Idee der Diskursethik lässt sich bei uns auf GitHub wiederfinden, indem wir beispielsweise versuchen, bei jedem issue den Titel möglichst kurz und präzise mit einem passenden Operator zu formulieren. @feeds.
+Und auch Habermas' Idee der Diskursethik lässt sich bei uns auf GitHub wiederfinden, indem wir beispielsweise versuchen, bei jedem Issue den Titel möglichst kurz und präzise mit einem passenden Operator zu formulieren. @feeds.
 
 Was Habermas an unserer Arbeitsform allerdings kritisieren könnte, ist die Instutionalisierung des Arbeitsprozesses.
 Denn GitHub als Institution ersetzt in Teilen den direkten Austausch in intersubjektiven Lebenswelten durch ein System-ein Prozess, den Habermas in der modernen Gesellschaft stark problematisiert.
