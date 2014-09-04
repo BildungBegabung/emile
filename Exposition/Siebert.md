@@ -56,7 +56,7 @@ Diese Tatsache impliziert ein Kooperationsproblem zwischen koexistierenden *"Ind
 Sieberts Vorschlag der Perturbation impliziert einen Lösungsansatz für jenes Kooperationsproblem zwischen koexistierenden, voneinander isolierten *"Lebensrealitäten"*.
 
 Durch diese *"Störungen"* [Sprachmacht, Gesellschaftsmacht, Glaubensmacht [Siebert] (vgl. S.11)] kann eine allgemeingültige Leitkultur (**Makrosoziologie**) unter verschieden Individuen entstehen und eine gemeinsame Kooperationsgrundlage geschaffen werden.
-Der Mensch wird nach Siebert demzufolge auch *"[...] durch politischökonomischen Verhältnissen, die durch Macht, Hierarchien, Partizipatrordischancem Eigentum, Massenmedien und Ähnliches gekennzeichnet sind"*, (ebd.) beeinflusst.
+Der Mensch wird nach Siebert demzufolge auch *"[...] durch politischökonomischen Verhältnissen, die durch Macht, Hierarchien, Partizipaionschancen, Eigentum, Massenmedien und Ähnliches gekennzeichnet sind"*, (ebd.) beeinflusst.
 <!-- NE:Soll ich diesen Teil drin lassen? Weiß nicht ob wir ihn als Abschluss des Textes nutzen können.   -->
 
 > "Die Grenze ist nicht eine räumlich Tatsache mit soziologischen Wirkungen, sondern eine soziologische Tatsache, die sich räumlich formt." [Georg Simmel]
