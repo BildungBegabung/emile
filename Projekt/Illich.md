@@ -48,13 +48,9 @@ Allerdings "muss Erziehung stets dort an ihr Ende gekommen sein, wo pädagogisch
 Benner untermauert mit seiner Kritik an einem allgemeinen Schulsystem Illichs Theorie, auch wenn Illich die Notwendigkeit der *Aufforderung* zur Selbsttätigkeit durch einen *Pädagogen* bestreiten würde.
 Hier wird auch ein Defizit in Illichs Schreiben deutlich, da er von einem gesunden Individuum ausgeht und so auf die These schließt, dass "education for all" auch "education by all" bedeutet.
 Diese Lernen in sozialen Kontexten beschreibt auch Zimpel mit seiner Forderung:
+>"Wer etwas weiß oder kann, teilt es mit den anderen" (Zimpel, S.123)
 
->"wer etwas weiß oder kann, teilt es mit den anderen" (Zimpel, S.123)
-
-Der Prozess des Helfens verläuft dort also nicht, wie in der Schule, einseitig zwischen Schüler und Lehrer, wordurch schwächere Schüler sich nicht als hilfreich für andere erleben können.
-Ein weiterer Unterschied zum schulischen Lehren liegt darin, dass das Spektrum an Fertigkeiten, die angeboten werden können, fast unbegrenzt ist.
-So werden beispielsweise auch Menschen mit einem künstlerischen Talent, das in der Schule oft nur geringe Anerkennung findet, benötigt.
-
+So würde der Hyperzyklus von Zimpel diese Lücke in Illcihs Lernkonzept füllen, denn hierdurch würden sich auch schwächer eingestufte Kinder als hilfreich für andere erleben, wie z.B. durch jetzt thematisierte Lückenbegabungen, die heutzutage oft untergehen.
 
 
 Der Ansatz des sozialen Lernens lässt sich auch auf Dewey beziehen. Illich und Dewey stellen sich beide gegen einen aktiven Lehrprozess und sehen Lernen eher als eine natürliche Eigenschaft des Menschen.
