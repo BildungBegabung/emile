@@ -14,6 +14,7 @@ Jeder hatte zu jedem Zeitpunkt die Möglichkeit, auf alle geschrieben Texte zuzu
 Dadurch entstand eine völlig neue Form der sozialen Interaktion, die in Bezug auf die Ausgangsfrage nach persönlicher Autonomie und inhärenter Gleichheit zu analysieren ist.
 Hierfür lassen wir vier Autoren aus unserem Kurs sprechen und befragen sie postum, was sie zu diesem gewagten Unterfangen auf GitHub sagen würden.
 
+
 ## Was Freinet zu unserer Zusammenarbeit auf GitHub sagen würde
 
 Vor fast 100 Jahren enstand die Reformpädagogik, in einer Zeit ohne Computer, geschweige denn Internet.
@@ -31,8 +32,11 @@ Wir arbeiten damit im Sinne des Kollektivs im Kurs, wobei aber trotzdem unsere a
 Alle Änderungen sind leicht rückgängig zu machen.
 Es besteht dabei allerdings die Gefahr, dass durch die Vernetzung, die GitHub bietet, eine direkte emotionale Verbindung verloren geht, gerade weil GitHub anders als soziale Netzwerke eine Basis für gemeinsames Arbeiten darstellt, sodass ein Großteil der dokubezogenen Kommunikation hierüber einfacher zu leiten ist.
 Für Freinet ist eine Gruppendynamik ähnlich der einer Familie sehr wichtig.
+
 Diese ist nicht mehr gegeben, sobald digital vernetztes Lernen beginnt, da es eine geographische Nähe entbehrlich macht.
+
 Darüberhinaus bietet das Internet als Plattform für GitHub dem Edukator praktische Unfehlbarkeit, da dieser praktisch uneingeschränkte Freiheiten mit der Arbeit der anderen hat und fast alles bearbeiten oder löschen kann.
+
 Jedoch ist gerade die Fehlbarkeit des Lehrers entscheidend, denn hier kann er ehrlich zu seinen Schülern sein (vgl. Freinet-1946 S. 110).
 
 Trotzalledem ist es fraglich, ob eine vernetzte Arbeit mit Freinets Reformpädagogik verglichen werden kann, schließlich konnte Freinet in der Mitte des 20.Jahrhunderts die Entwicklung des Internets nicht vorhersagen.
@@ -40,7 +44,7 @@ Trotzalledem ist es fraglich, ob eine vernetzte Arbeit mit Freinets Reformpädag
 Als Fazit lässt sich also sagen, dass Freinet unserem System wahrscheinlich nicht abgeneigt wäre, aber seine contra-sozialen Folgen stark kritisieren würde.
 
 
-## Was Illich zu unserer Zusammenarbeit auf GitHub sagen würde
+## Illich zu Github
 
 Würde Illich unsere Verwendung von Github zum gemeinsamen Arbeiten an dieser Dokumentation und zur Vorbereitung unseres Kurses befürworten?
 
@@ -60,6 +64,7 @@ Als erster Kritikpunkt fällt natürlich die Vorauswahl der Teilnehmenden ins Au
 Jedoch stellen sich abgesehen von dieser Tatsache weitere Probleme in den Weg:
 Schränkte man unser Projekt allein auf die Ausarbeitung auf Github ein, würde sich unser Kontakt ebenfalls wieder auf eine rein effizienzorientierte Ebene reduzieren ("to reinforce the competitive nature of schools"; Illich 1971, S. 35 ), vor der Illich warnt.
 Die Gefahr, dass die direkte Kommunikation hinter 16 aufgeklappten Laptopbildschirmen zu kurz kommt, ist nicht zu unterschätzen.
+
 
 ## Was Habermas zu unserer Zusammenarbeit auf GitHub sagen würde
 
