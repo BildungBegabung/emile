@@ -1,17 +1,17 @@
 # Selbstreflektion
 
-Es hat schon etwas mystisches.
-Während unserer Kursarbeit müssten unsere Kursleiter wohl oft mit Sorgenfalten in aufs extremste irritierte Gesichter geblickt haben.
-Es hatte ja auch etwas heroisches an sich, die grundsätzlichsten Fragen der menschlichen Existenz im Sinner seiner psychologischen Funktion und seiner soziologischen Gemeinschaft beantworten zu wollen.
-Der Ein oder Andere hat auf diesem Weg mehr Mals seinen Blick auf die Welt andern müssen und besonders mit dem Begriff der Deontologie gerungen.
-Es liegt daher nahe unsere Ergebnisse und Ideen auch auf unsere Zusammenarbeit auf der Open-Source-Plattform GitHub anzuwenden.
-
-Bei GitHub handelt es sich um ein Programm, dass ursprünglich dazu entwickelt wurde, die Softwareentwicklung innerhlb einer Gruppe zu vereinfachen.
-Es ist aufgeteil in drei große Komponenten.
-Das soziale Netzwerk GitHub, das Sotwareverwaltungsprogramm Git und den txt-Editor Atom.
-Durch diese drei Programme konnten wir unsere Arbeit am effizientesten als Gruppe verwalten.
+Während unserer Kursarbeit mussten unsere Kursleiter wohl oft mit Sorgenfalten in aufs extremste irritierte Gesichter geblickt haben.
+Es hatte ja auch etwas heroisches an sich, die grundsätzlichsten Fragen der menschlichen Existenz im Sinne seiner Entwicklung und seiner soziologischen Gemeinschaft beantworten zu wollen.
+Der Eine oder Andere hat auf diesem Weg nicht nur ein Mal seinen Blick auf die Welt ändern müssen und besonders mit dem Begriff der Deontologie gerungen.
+Da wir uns inhaltlich mit Fragen der menschlichen Kooperation (und manchmal auch der tierischen) beschäftigt haben, lag es nahe, auch unsere Kursarbeit kooperativ zu organisieren.
+Wie keiner vor uns, haben wir versuchst, einen sozialwissenschaftlich-pädagogischen Kurs und das Schreiben dieser Dokumentation auf der Open-Source-Plattform GitHub zu organisieren.
+Bei GitHub handelt es sich um ein Programm, das eigentlich dafür dient, Software innerhalb einer Gruppe zu entwickeln.
+Wir arbeiteten einerseits auf dem sozialen Netzwerk GitHub.com, wo wir uns bereits in der Vorbereitung auf den Kurs digital begegneten.
+Später verwendeten wir zudem das Quellkontrollverwaltungsprogramm Git und den Open-Source-Texteditor Atom.
+Durch diese drei Komponenten versuchten wir unsere Arbeit so effizient wie möglich zu gestalten.
 Jeder hatte zu jedem Zeitpunkt die Möglichkeit auf alle geschrieben Texte zuzugreifen, diese zu kommentieren und selbst zu bearbeiten.
-Dadurch entsteht eine völlig neue Form der sozialen Interaktion, die in Bezug auf die Ausgangsfrage nach persönlicher Autonomie und inherenter Gleichheit zu analysieren ist.
+Dadurch entstand eine völlig neue Form der sozialen Interaktion, die in Bezug auf die Ausgangsfrage nach persönlicher Autonomie und inhärenter Gleichheit zu analysieren ist.
+Hierfür lassen wir vier Autoren aus unserem Kurs sprechen und befragen sie postum, was sie zu diesem gewagten Unterfangen auf GitHub sagen würden.
 
 ## Freinet zur Selbstreflektion unserer Arbeit auf GitHub:
 
