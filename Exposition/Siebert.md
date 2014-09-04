@@ -1,11 +1,19 @@
+<<<<<<< HEAD
 #
+=======
+# Konstruktivismus [Siebert 2003]
+>>>>>>> parent of 68877ed... Mögliche Überleitung zu Dahl(?) #312
 
 > „Der Mensch hat keinen Zugriff auf die objektive Realität“
 > Heinz von Foester
 
 Die zentrale Frage einer konstruktivistischen Lerntheorie lautet: Wie nimmt der Mensch die Welt wahr und inwiefern prägen ihn dabei individuelle Erfahrungen?
 
+<<<<<<< HEAD
 Bezieht man sich auf das einführende Zitat der Unmögichkeit einer objektiven Wahrnehmung, so wird der Denkansatz des Konstruktivisten deutlich.
+=======
+Bezieht man sich auf das einführende Zitat der Unmöglichkeit einer objektiven Wahrnehmung, so wird der Denkansatz des Konstruktivisten deutlich.
+>>>>>>> parent of 68877ed... Mögliche Überleitung zu Dahl(?) #312
 
 Laut Sieberts Theorie des Konstruktivismus ist die Wahrnehmung "keine Abbildung der Außenwelt, sondern eine funktionale viable Konstruktion" (Siebert 2003, S. 6).
 Ausgehend von dieser Annahme stellt Siebert die Kernthese auf, dass "Menschen [...] autopoietische
