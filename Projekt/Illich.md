@@ -10,7 +10,7 @@ vielmehr kritisiert Illich eine Institution, welche uns glauben lassen soll, wir
 Illich begreift die Schule als ein Paradigma für die Natur von lebensbestimmenden Institutionen, fordert deren Abschaffung und plädiert für eine Gesellschaft, die sich für freie, und nicht durch Pflichten wie Berufe und Schulanwesenheit provozierte, zwischenmenschliche Interaktion ausspricht.
 
 
->"Many students, especially those who are poor, intuitively know what the schools do for them.
+>"Many students, especially those who are poor, intuitively know what the schools do for them."
 They school them to confuse process and substance." (Illich S. 3)
 
 Wir verwechseln Prozess und Wert, und werden so zu der Annahme verleitet, Lehren würde zwangsweise Lernerfolg bewirken.
@@ -33,7 +33,7 @@ Im Gegensatz dazu schreibt Illich:
 
 ##### Illichs Ziele für die "educational revolution" sind:
 
-Illich unterscheidet zwischen vier Aspekten, die er für die Bildung eines Kindes als notwendig erachtet.
+Für die Bildung eines Kindes erachtet Illich vier Aspekte als notwendig .
 Jedes Kind benötigt neben dem Kontakt zu anderen Gleichaltrigen auch Vorbilder, von denen es unbewusst lernen kann (Sprechen, Laufen, etc.).
 Zudem benötigt es bei komplexeren Sachverhalten professionelle Hilfe sowie Zugang zu Lernobjekten.
 Hierfür will er Netzwerke erstellen, in denen man Interessen formulieren und jeweils nach Gleichaltrigen und Hilfsangeboten suchen kann.
@@ -75,7 +75,6 @@ Da "das psychische System entscheidet, was es verarbeiten kann und will" (Sieber
 Das Ziel aller Vorschläge Illichs ist es, den Lernenden "Zugang zu vorhandenen Möglichkeiten [zu] gewähren" (Illich, S.84) statt sie ihnen durch einen Lehrplan vorzuschreiben, welchen Wissensstand sie in welcher Zeit zu erreichen haben.
 Jeder hat die Freiheit, eine Gelegenheit zum Lernen wahrzunehmen, oder sich dagegen zu entscheiden.
 Durch die so entstandene Auswahlmöglichkeit zwischen verschiedensten Lerninhalten wird gewährleistet, dass sich jedes Individuum dem beschäftigen kann, der für es am anschlussfähigsten ist.
-<!-- Die Verbindung zum Konstruktivismus ist auf jeden Fall gegeben -->
 
 Desweiteren geschieht Lernen in Illichs Modell oft in sozialen Kontexten.
 Beispielsweise findet es in "Fertigkeitsbörsen" statt.
@@ -97,7 +96,7 @@ Illich begreift jedoch den Menschen an sich als Ziel, während Dewey seine pragm
 
 Illichs Wirken und Denken deckt sich in großen Teilen mit dem von Rousseau.
 Beide begreifen das jeweils gegenwärtige Gesellschaftssystem als eine Form der Unterdrückung des eigentlichen Menschseins.
->‘‘‘I’ precisely because of you, by allowing me to love you, give me the possibility to be co-relative to you, to be dysymmetrically proportionate to you. I see, therefore, in love, hope, and charity the crowning of the proportional nature
+>‘‘‘I’ precisely because of you, by allowing me to love you, give me the possibility to be co-relative to you, to be dysymmetrically proportionate to you. I see, therefore, in love, hope, and charity the crowning of the proportional nature.
 of creation in the full, old sense of that term’’ (https://www.youtube.com/watch?v=vQLWAafp020)
 
 Beide romantisieren den vormodernen Menschen.
