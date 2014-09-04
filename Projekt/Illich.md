@@ -95,12 +95,10 @@ Durch den Glaube an die Bewertung der Persönlichkeit werde erst Ungeleichheit e
 Schüler bwerden nicht nur als ungleich betrachtet, sondern reflektieren sich selber auch als ungleich.
 Würden wir aber einsehen, dass es keine Möglichkeit zur Messung von Wertevorstellungen geben kann, würde demnach auch keine Ungleichehit entstehen, da jeder in persönlicher autonomie seine eigenen Interessen folgen kann, solange der Zugang zu den vier notwendigen "Ressourcen" für alle gesichert wird.
 
-
-<!-->"If people are seriously to think about deschooling their life, and not just escape from the
-corrosive effects of compulsory schooling, they could do no better than to develop the habit of
+Dennoch distanziert sich Illich in späteren Jahren wieder von seinen Reformvorschlägen:
+>"If people are seriously to think about deschooling their life, (...) they could do no better than to develop the habit of
 setting a mental question mark beside all discourse on young people’s ‘‘educational needs’’ or
 ‘‘learning needs,’’ or about their need for a ‘‘preparation for life.’’
 
-Er distanziert sich in späteren Jahren wieder von seinen Reformvorschlägen, da er nach eigener Aussage noch der Fehleinschätzung unterlag, Lernen sei ein notwendiger Prozess in der menschlichen Entwicklung.
-Illich sieht sich mit zunehmenden Alter immer weniger gewilt, konkrete Reformvorschläge zu machen und wirft die Arme hoch:
+Illich sieht sich mit zunehmenden Alter immer weniger gewillt, konkrete Reformvorschläge zu machen und wirft die Arme hoch:
 >‘‘I hope nobody takes what I said for answers’’
