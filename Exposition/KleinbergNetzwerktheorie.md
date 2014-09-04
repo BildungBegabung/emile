@@ -11,12 +11,12 @@ Knotenpunkte können untereinander durch Kanten verbunden werden, die soziale Ve
 Ein Beispiel für Netzwerke, die mit Graphen dargestellt werden können, sind beispielsweise die Deutsche Schülerakademie, bei der jeder Knoten einen Teilnehmer reprüsentiert, der mit verschiedenen anderen in Beziehung steht (dargestellt durch Kanten). Genauso kann man auch Betziehungen in einer Lerngruppe wie einer Schulklasse oder andere Netzwerke graphisch darstellen.
 
 <!-- FIXME: Bild von Graphs einfügen  -->
-<!-- ![Graph](\img\graph1.png)-->
+![Graph](\img\graph1.png)
 
 Innerhalb der Struktur des Graphs kann es Besonderheiten, wie z.B. Komponente geben, einzelne Netzwerke, welche nicht über einen Pfad mit jedem anderen Knoten im Graph verbunden sind.
 
 <!-- FIXME: Bild von Component einfügen  -->
-<!-- ![Graph Connected](\img\Graph-Connected.jpg)-->
+![Graph Connected](\img\Graph-Connected.jpg)
 
 ### Schlussfolgerungen
 
