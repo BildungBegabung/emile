@@ -62,13 +62,8 @@ So werden beispielsweise auch Menschen mit einem künstlerischen Talent, das in 
 
 
 Der Ansatz des sozialen Lernens lässt sich auch auf Dewey beziehen. Illich und Dewey stellen sich beide gegen einen aktiven Lehrprozess und sehen Lernen eher als eine natürliche Eigenschaft des Menschen.
-Bei Dewey wird die These des unbestimmten Lernweges deutlich an der bewussten Formulierung des Lernens als Erfahrungsaustausch. Das Wort impliziert eine ungezwungene Kommunikation, in der beide Parteien gleichberechtigt agieren.
-Genauso beschreibt Dewey den ungehinderten Meinungsaustausch als den wichtigsten Faktor in Richtigung Fortschritt.
-Dabei stellt jede Form der Kategorisierung eine Einschränkung dar, welcher aber auch durch den freien Meinungsaustausch entgegengewirkt werden kann.
-Dieses ideal lässt sich nahezu perfekt auf Illichs Netzwerktheorie anwenden;
-nämlich als eine Möglichkeit, ungehinderte Kommunikation außerhalb von gesellschaftlichen Pflichten zu realisieren.
-Dewey lässt sich in diesem Fall vielleicht als eine Art Vordenker für Illich sehen.
-Er stellt das Ideal auf, während Illich dessen Umsetzung in der heutigen Gesellschaft durch das Schulsystem hinterfragt und sich mit der Errichtung einer demokratischen Gesellschaft (vrgl. S.121), im eigentlichen dewyschen Sinne, als mehr als nur eine Staatsform, beschäftigt.
+Dewey beschreibt seinen ungezwungenen Erfahrungsaustausch als wichtigste Eigenschaft einer forstschrittlichen Gesellschaft.
+Die von Illich beschriebene Kategorisierung baut auf Dewey Ideal auf von einer errichtung einer Demokratie als mehr als nur einer Staatsform
 Illich begreift jedoch den Menschen an sich als Ziel, während Dewey seine pragmatische Ethik auf dem Fortschrittsgedanken basiert. (P.23)
 
 Illichs Glaube an den Menschen außerhalb von sozialen Manipulationen ähnelt oft Rousseau, weshalb auch beide einen sehr skeptischen Blick mit fast verschwörungstheoritischen Charakter auf Gesellschaften als Pervertionen von Menschsein werfen.
@@ -77,7 +72,7 @@ of creation in the full, old sense of that term’’ (https://www.youtube.com/w
 
 Sie kritisieren die Indentifikation durch Berufe und Rollenbilder, romantisieren den vormodernen Menschen
 und  plädieren für eine unabhängige Erziehung.
-Kooperations- und Verständigungsprobleme finden bei beiden wenig, bis gar keine Beachtung.
+Kooperations- und Verständigungsprobleme finden bei beiden wenig Beachtung.
 Daraus ergibt sich ein optimistisches Bild einer Gesellschaft ohne Standarts und jeglichen Verpflichtungen.
 Auch wenn beide als Träumer beäugt werden, solte uns klar sein, dass Rousseau heute im Schulunterricht als Vordenker unser bürerlichen Gesellschaft gilt und daher Illich nicht gleich realitätsfern kategorisieren.
 
