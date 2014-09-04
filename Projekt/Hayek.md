@@ -72,3 +72,5 @@ Fraglich ist allerdings, ob Hayeks ökonomische Gedanken auf das Schulsystem üb
 
 # Projekt
 ## Vergleich Hayek zu Illich:
+
+Die sofortige Übereinstimmung die auffällt, wenn man Illich und Hayek vergleicht, bezieht sich auf die Pädagogik. Hayek äußert sich zwar nicht direkt zum Schulsystem, doch spricht er sich dagegen aus, dass staatliche Institutionen gefördert werden sollten. Wendet man also seine Gedankengänge auf die Pädagogik an, so wäre seine Meinung wohl, dass Schule eine nutzlose Institution ist, die den Information -und Wissensaustausch lediglich verlangsamt oder ausbremst. Illich denkt ähnlich, denn er möchte das Schulsystem sogar ganz abschaffen, da er persönliche Autonomie und Gleichheit schaffen möchte. Ohne Schulpflicht müsse sich jeder selber darum kümmerm, wie er eigenes Wissen erlangt und von wem er dieses bekommt. Das würde einerseits Gleichheit schaffen, da alle die gleiche Ausgangssituation haben, aber auch persönliche Autonomie, weil jeder für seinen Informationsfluss selber zuständig wäre.
