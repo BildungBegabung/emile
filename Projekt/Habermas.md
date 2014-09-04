@@ -75,7 +75,7 @@ John Dewey ist wie Habermas ein Vertreter des Pragmatismus und seine Ideen von d
 Er geht davon aus, dass das dynamische, wandelbare Ideal im Kontext seiner Zeit immer wieder neu definiert werden muss.
 Das muss über möglichst effektive undvoreingenommene Verständigung zwischen den vielfältigen Ideen bewerkstelligt werden.
 Dabei sollte die Gültigkeit des aktuellen Ideals ständig überprüft werden.
-Da für Habermas nur das *kommunikative Handeln* diese Bedingungen erfüllt, wäre Fortschritt im pragmatischen Sinne dementsprechend nur durch genau diese Art Sprechakt möglich.
+Da für Habermas nur das *kommunikative Handeln* diese Bedingungen erfüllt, wäre Fortschritt im pragmatischen Sinne nur durch genau diese Art Sprechakt möglich.
 
 Im Gegensatz dazu steht die Theorie der Staatsgenese von Tilly, was besonders dadurch deutlich wird, dass sie strategische Sprechakte beinhaltet.
 Zu strategischischen Sprechakten zählen Drohungen, wie z.B. "Wenn du die Hausaufgaben nicht machst, bekommst du nachsitzen".
@@ -96,31 +96,15 @@ Dem strategischen Handeln kann man aber nur durch den Wechseln in eine *lifeworl
 Also schlägt Dewey als Staat eine Demokratie in einer lifeworld vor, ein System in einer *lifeworld*.
 Von Habermas Standpunkt aus dürfte das sehr widersprüchlich sein, da ein Staat aufgrund seiner Größe Struktur braucht, zB das Regierungssystem, welche ohne das strategische Handeln kaum funktionieren würde.
 Möglicherweise würde Habermas stattdessen ein dem System unterliegendes Netz aus kleinen, verbundenen *lifeworlds*~ vorziehen, die neue Ideen dann nach ben an das System weitergeben.
+Vielleicht ist
 
-## Habermas - Rousseau : Verträge durch Kommunikatives Handeln
-
-Notwendig wäre kommunikatives Handeln auch bei der Umsetzung einer Vertragstheorie wie Rousseaus Gedankenexpreiment vom contract sociale.
-<!-- TODO: MH das ist eine unzulässige Verengung / ahistorisch / überspitzt. Was Habermas zu Rousseau und umgekehrt sagt, ist erstmal unsere Spekulation und muss begründet, nicht gesetzt werden.  -->
-Schließlich soll eine Einigung, eine Verständigung aller Bürger, im Vertrag festgehalten werden.
-<!-- FIXME: MH, nein, absolut nicht, Vertragstheorie ist ein *GEDANKENEXPERIMENT* -->
-
-Fraglich ist allerdings wie man das Modell des kommunikativen Handelns in Gruppen *systematisch* umsetzten  kann, die über die Ausmaße einer Familie oder eines Freundeskreises hinausgehen.
-<!-- TODO: MH das ist allerdings eine schwierige, wichtige Frage – aber wie ist die wichtig für unseren Kurs? -->
-Schließlich ist eine Demokratie ein "system" und keine "lifeworld", kommunikatives Handeln ist also sogut wie ausgeschlossen.
-<!-- TODO: MH ist das so? Muss das so sein? Wo ist da euer Pragmatismus? Und außerdem: Habermas meint mit "system" nicht jeden Krams der komplex ist, sondern eher einen idealtypischen Modus menschlichen Zusammenlebens. Es scheint denkbar, dass wir *auch* in komplexen Zusammenhängen ("Demokratie") noch *eher* einem lifeworld-modus folgen. Denkt mal an mehr oder weniger tatsächlich auf Verständigung ausgerichteten 1) Unterricht, 2) Polit-Talkshows 3) DSA ... da spielt die Musik -->
-
+ <!-- 1) Unterricht, 2) Polit-Talkshows 3) DSA ... da spielt die Musik -->
+-------------------------------
 Letztendlich entsteht also Verständigung von Ideen, die das zeitideal neu ausloten sollen, nur im persönlichen Umfeld und nicht durch Wahlkampangen, welche ganz klar durch das perlukotive Ziel des Stimmgewinns strategisches Handeln sind.
 <!-- TODO: MH bisschen enge Schlussfolgerung? -->
 Utopisch wäre also ein Netz von Menschen, die sich gegensteitig kommunikativ aufklären.
 <!-- TODO: MH: "also"? Warum also? Zusammenhang? Und was genau ist "utopisch" für eine Kategorie von Kritik? Können wir erstmal den Inhalt komplett klären, und eine Einschätzung dann sorgfältig abtrennen und in Ruhe begründen? -->
 
-
-## Habermas-Netzwerktheorie : Kommunikation in Clustern
-
-Leider sind nicht alle in dem geichen großen custer, es gibt Randgruppen die wahrscheinllich niemals so gut informiert wein wie das Inssere des Giant Component.
-
-<!-- TODO: Zu clustern etwas schreiben, vergleich mit DSA anbringen: kleines Cluster funktioniert (nicht?); schlaue Überleitung zu Spietheorie (Randgruppen nicht informiert -> Probleme in Wahlen -> Soziwahl) -->
-<!-- TODO: MH eventuell sind hier einfach auch zuu viele Anwendungsfälle drin; ihr habt da echt irre viel gute Arbeit geleistet, aber das wird nicht alles reinpassen ... – es sei den (verrückt?) ihr organisiert die Doku komplett nach den Projektbeiträgen um ... -->
 
 
 ## Habermas - Spieltheorie: Menschen als kausale Objekte
