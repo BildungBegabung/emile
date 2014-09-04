@@ -21,7 +21,7 @@ Dieses Problem löst Github durch allumfassende Berechtigungen für jeden TN.
 Jeder arbeitet dadurch unabhängig und autonom in seiner Geschwindigkeit an selbstgewählten Themen (vgl. S. 495 Wichtigkeit des Selberwählens aus gegebenen Alternativen).
 Zugleich arbeiten wir kooperativ zusammen, denn durch die zeitgleiche, gegenseitige Kontrolle  wird das Ergebnis besser, als es in Einzelarbeit sein könnte.
 Wir arbeiten damit im Sinne eines Kollektivs im Kurs.
-Es besteht dabei allerdings die Gefahr, dass durch die Vernetzung, die GitHub bietet, eine direkte emotionale Verbindung verloren geht, gerade weil GitHub anders als soziale Netzwerke eine Basis für gemeinsames Arbeiten darstellt, sodass ein Großteil der dokubezogenen Kommunikation hierüber einfacher zu leiten ist.
+Durch die virtuelle Vernetzung entsteht allerdings die Gefahr, dass die reale, emotionale Komponente verloren geht, gerade weil GitHub anders als soziale Netzwerke eine Basis für gemeinsames Arbeiten darstellt, sodass ein Großteil der dokubezogenen Kommunikation hierüber einfacher zu leiten ist.
 Für Freinet ist eine Gruppendynamik ähnlich der einer Familie sehr wichtig.
 Diese ist nicht mehr gegeben, sobald vernetztes Lernen beginnt, da es eine geographische Nähe entbehrlich macht.
 
