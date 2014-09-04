@@ -1,6 +1,6 @@
 # Dahl
 
-Dahls Verständnis von Demokratie ist die Kombination aus intrinsischer Gleichwertigkeit und persönlicher Autonomie.
+Dahls Verständnis von Demokratie ist die Kombination aus intrinsischer Gleichwertigkeit und persönlicher Autonomie~.
 
 Der erste Begriff bedeutet, dass jeder Mensch gleich wichtig ist.
 Der zweite, dass jeder die Entscheidungen treffen kann, die für ihn am besten sind.
@@ -13,11 +13,11 @@ Damit will Dahl sagen, dass Demokratie nicht einfach naturgegeben ist, sondern d
 
 Um die Demokratie zu sichern, setzt Dahl **vier Kriterien** voraus:
 
-Das erste Kriterium ist **"effectice participation"**, d.h. jedes vollwertige Mitglied der Demokratie bzw. Gemeinschaft bekommt die Möglichkeit an politischen Prozessen teilzunehmen und darf seine eigene Meinung vertreten.
+Das erste Kriterium ist **"effectice participation~"**, d.h. jedes vollwertige Mitglied der Demokratie bzw. Gemeinschaft bekommt die Möglichkeit an politischen Prozessen teilzunehmen und darf seine eigene Meinung vertreten.
 
-Die Aussage, dass alle Stimmen gleich gewichtet werden, wird mit dem zweiten Kriterium **"equal voting"** berücksichtigt, das heißt mit der Einschränkung der Wahl des Abstimmungverfahrens durch den Staat.
+Die Aussage, dass alle Stimmen gleich gewichtet werden, wird mit dem zweiten Kriterium **"equal voting~"** berücksichtigt, das heißt mit der Einschränkung der Wahl des Abstimmungverfahrens durch den Staat.
 
-**"Enlightened understanding"**, das dritte Kriterium, bezieht sich auf die Notwendigkeit von Bildung für die Demokratie:
+**"Enlightened understanding~"**, das dritte Kriterium, bezieht sich auf die Notwendigkeit von Bildung für die Demokratie:
 "But to know what it wants, the people must be enlightened, at least at some degree." (ebd. S. 111)
 Allerdings darf ein Mitglied der Gemeinschaft nicht zur Bildung gezwungen werden, obwohl ein gewisses Interesse über politische Prozessen aufgeklärt zu bleiben vorausgesetzt wird.
 
