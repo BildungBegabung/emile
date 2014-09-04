@@ -16,9 +16,10 @@ Als Beispiel, wie das aussehen soll, legt Rousseau die Erziehung seines fiktiven
 In der Kindheit wird der Junge abgeschottet von der Gesellschaft negativ erzogen.
 Das heißt, das Kind lernt nichts über Moral, Religion, Ethik, ..., sondern es wird vor "Laster[n] und [...] Irrtümern bewahr[t]". (Rousseau-1762, Émile, S. 54)
 Und zwar in einer Art Extrem-Laissez-faire.
-Wenn das Kind von ihm benötigte Gegenstände zerstört,
+Wenn das Kind etwa von ihm benötigte Gegenstände zerstört,
 > "[b]eeilt euch nicht, ihm andere zu geben; laßt es empfinden, wie unangenehm es ist, sie nicht zu haben." (ebd., S. 54)
-Bis zum 12. Lebensjahr soll das Kind einfach leben, stark und gesund werden.
+
+Bis zum 12. Lebensjahr soll das Kind so einfach leben, stark und gesund werden.
 Ab dann beginnt man das Kind in Naturkunde zu unterrichten. (Vgl. ebd., S. 55)
 In diesem Unterricht aber hat der Lehrer/Erzieher nur die Aufgabe, Lernsituationen zu schaffen.
 Er soll nichts erklären, sondern den Zögling alles allein herausfinden und verstehen lassen. (Vgl. ebd., S. 56)
@@ -28,26 +29,18 @@ Wenn das Kind dann erwachsen wird, beginnt man mit der positiven Erziehung:
 Das Kind wird nicht mehr als Zögling, sondern als Freund behandelt und moralisch, gesellschaftlich und religiös unterwiesen.
 Es ist nun in der Lage eigene fundierte Entscheidungen, wie die Wahl seiner Religion, zu treffen. (Vgl. ebd., S. 60f)
 
-Da der Mensch nicht für immer allein bleiben kann (Vgl. ebd., S. 61), muss Émile irgendwann in die Gesellschaft eingeführt werden.
-Dies geschieht, wenn alle Erziehungsphasen beendet sind, aber auch wirklich erst dann.
-Denn jetzt hat der nun Erwachsene die Fähigkeit, auch in der Gesellschaft seine Aufgabe zur erfüllen, Mensch zu bleiben.
+Bald kommt die Zeit, dass Émile in die Gesellschaft eingeführt werden muss, da der Mensch nicht für immer allein bleiben kann (Vgl. ebd., S. 61.)
+Der jetzt Erwachsene die Fähigkeit erworben, auch in der Gesellschaft seine Aufgabe zur erfüllen, Mensch zu bleiben.
 >"In der natürlichen Ordnung sind die Menschen alle einander gleich. Ihr gemeinsamer Beruf ist: Mensch zu sein."
 (ebd., S.50)
 
 Was passiert aber mit demjenigen, der nicht natürlich erzogen wird?
-Seine, bürgerliche, Erziehung zerteilt ihn verschiedene Rollen und Identitäten, deren verschiedene Pflichten nicht miteinander zuvereinbaren sind.
+Seine bürgerliche Erziehung zerteilt ihn in verschiedene Rollen und Identitäten, deren verschiedene Pflichten nicht miteinander zuvereinbaren sind.
 Er ist z.B. als Abgeordneter dem Fraktionszwang unterworfen, für etwa eine Steuer zustimmen, und als Angehöriger eines Berufsstandes muss er dagegen sein.
 Oder er muss als Teilnehmer der KüMu zu einer Probe und als Kursteilnehmer Protokoll schreiben, ...
-> "Wenn man z.B. einen Menschen für andere erziehen will, anstatt für ihn selbst - gemäß seiner Natur - zu erziehen?
-> Dann ist Einklang ausgeschlossen."
-(ebd., S.49)
+>"Wenn man z.B. einen Menschen für andere erziehen will, anstatt für ihn selbst - gemäß seiner Natur - zu erziehen?
+> Dann ist Einklang ausgeschlossen."  (ebd., S.49)
 Der auf diese Weise zerrissene Mensch ist entartet und will nichts mehr so haben, wie es von der Natur vorgesehen ist (Vgl. ebd., S.48).
-
-Er war zwar gut geschaffen:
-> "Alles ist gut, wie es aus den Händen des Schöpfers der Dinge hervorgeht; alles entartet unter den Händen des Menschen."
-(ebd., S.48),
-aber nun ist er schlecht geworden.
-
 
 ## Le Contrat Social
 
