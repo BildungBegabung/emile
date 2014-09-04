@@ -1,23 +1,19 @@
-In seiner ersten umfangreicheichen, gesellschaftkritischen Schrift "Deschooling Society" (1971) hinterfragt Ivan Illich die Stellung und Aufgabenfelder der Schule.
-Illich eröffnet neue Perspektiven auf die zentrale Frage unseres Kurses nach Formen von Schule und menschlichem Zusammenleben, da sich sein Konzept nicht, wie bei andere Autoren, darauf beschränkt, das bestehende Schulsystem zu verändern.
-Er kritisiert vielmehr grundsätzlich die Existenz der Institution Schule, welche uns glauben lassen sollen, wir könnten Wertvorstellungen wie Bildung, eine Eigenschaft des Menschen, bestimmen, analysieren und schließlich messen.
-Illich begreift die Schule als ein Paradigma für die Natur von lebensbestimmenden Institutionen, fordert deren Abschaffung und plädiert für eine Gesellschaft, die sich für freie, und nicht durch Pflichten wie Berufe und Schulanwesenheit provozierte, zwischenmenschliche Interaktion ausspricht.
+In "Deschooling Society" (1971) hinterfragt Ivan Illich die Stellung und Aufgabenfelder der Schule.
+Er eröffnet neue Perspektiven auf die zentrale Frage unseres Kurses nach Formen von Schule und menschlichem Zusammenleben, da sich sein Konzept nicht, wie bei andere Autoren, darauf beschränkt, das bestehende Schulsystem zu verändern.
+Er kritisiert vielmehr grundsätzlich die Existenz der Institution Schule, welche uns glauben lassen soll, wir könnten Wertvorstellungen wie Bildung, eine Eigenschaft des Menschen, bestimmen, analysieren und schließlich messen.
+Illich begreift die Schule als ein Paradigma für die Natur von lebensbestimmenden Institutionen, fordert deren Abschaffung und plädiert für eine Gesellschaft, die sich für freie, nicht durch Pflichten wie Berufe und Schulanwesenheit provozierte, zwischenmenschliche Interaktion ausspricht.
 
 #### Kritik an der Institution Schule
 
->"Many students, especially those who are poor, intuitively know what the schools do for them. They school them to confuse process and substance." (Illich S. 3)
+>"Many students [...] intuitively know what the schools do for them. They school them to confuse process and substance." (S. 3)
 
-Wir verwechseln Prozess und Wert, und werden so zu der Annahme verleitet, Lehren würde zwangsweise Lernerfolg bewirken.
-Diese Annahme lässt sich ebenso auf das Gesundheitssystem anwenden, welchem die Annahme vorausgeht, medizinische Versorgung lasse sich mit Bekämpfung von Krankheiten gleichsetzen, oder auf Polizeipräsenz, welcher Sicherheit automatisch folgen sollte.
-Es mag möglich sein, dass Polizei zur Sicherheit eines Wohnviertels beitragen kann, aber der Umkehrschluss, dass Sicherheit nur durch Polizeipräsenz erreicht werden kann, bzw. dass Polizeipräsenz *unausweichlich* zu mehr Sicherheit führt, verleitet zu falschen Konsequenzen.
-Aus diesem Zusammenhang würde sich die Möglichkeit ergeben, die Werte, d.h. Sicherheit, Lernerfolg, etc., zu messen; und zwar am Umfang des Prozesses (Polizeipräsenz, Schulanwesenheit).
-Den Mythos der messbaren Werte beziehen wir schließlich auch auf unsere "imaginations, and, indeed, man himself" (ebd. S. 19)
-Wir versuchen den Wert unsereer Persönlichkeit zu messen, wodurch unser Weg zur Glücklichkeit von einem "consumer's index" geebnet wird.
-<!-- TODO: VK Zitat in den Text miteinbeziehen -->
-Diese Werte beginnen einen allgemein verbindlichen Charakter zu entwickeln, weswegen wir unser "Wissen" an die nächste Generation weitergeben wollen, und somit versuchen deren Lernprozess ebenfalls zu kontrollieren.
-Wir gehen davon aus, das Urteil einer Person sollte entscheiden, was ein anderer Mensch wann lernen soll.
-Die einzige mögliche Konsequenz auf diese Fehleinschätzungen ist Eskalation. (vgl.S.6)
-Sobald die Schule uns beigebracht hat, dass Wissensvermittlung zwangsläufig Lernen hervorruft und nur durch aktive Wissensvermittlung der notwendige Wissenshorizont erreicht werden kann, ist die uns logische erscheinende Antwort, auf alle Bildungsprobleme mit Eskalation zu reagieren.
+Weil wir Prozess (z.B. Lehren) und Wert (z.B. Lernerfolg) verwechseln, nehmen wir fälschlicherweise an, das eine würde das andere zwansläufig bedingen.
+Ein weiteres Beispiel dafür ist Polizeipräsenz, von der angenommen wird, dass sie zwansläufig zu mehr Sicherheit führt.
+Würde dieser zutreffen, Zusammenhang könnte man die Werte, d.h. Sicherheit, Lernerfolg, etc., am Umfang des Prozesses (Polizeipräsenz, Schulanwesenheit) messen.
+Den Mythos der messbaren Werte beziehen wir schließlich auch auf unsere "imaginations, and, indeed, man himself" (S. 19)
+Wir versuchen den Wert unserer Persönlichkeit zu messen, wodurch unser Weg zur Glücklichkeit von einem "consumer's index" geebnet wird. (S.?)
+Diese Werte beginnen einen allgemein verbindlichen Charakter zu entwickeln, weswegen wir unser "Wissen" an die nächste Generation weitergeben und somit deren Lernprozess ebenfalls kontrollieren wollen.
+Die Konsequenz der Annahme, dass Lehren zwangsläufig Lernen hervorruft und nur aktive Wissensvermittlung zum Ziel führt, ist, auf alle Bildungsprobleme mit Eskalation zu reagieren. (S.?)
 Die Schule lehrt: Je mehr Schule, desto mehr Lernerfolg, weshalb wir zur Schule gehen.
 Im Gegensatz dazu schreibt Illich:
 >"Most learning is not the result of instruction: It is rather the result of unhampered participation in a meaningful setting." (p.18)
@@ -89,16 +85,22 @@ Auch wenn beide als Träumer beäugt werden, solte uns klar sein, dass Rousseau 
 
 ### Gleichwerigkeit und Autonomie nach Illich
 
-Illichs Vorschläge bieten sogar eine Antwort auf die zentrale Frage unserers Kurses.
-Durch das Monopol auf Wissensbewertung bekommt die Schule die Möglichkeit den weiteren Lebensweg eines Schülers wesentlich zu beeinflussen oder gar zu entscheiden.
-Durch den Glaube an die Bewertung der Persönlichkeit werde erst Ungeleichheit evoziert.
-Schüler bwerden nicht nur als ungleich betrachtet, sondern reflektieren sich selber auch als ungleich.
-Würden wir aber einsehen, dass es keine Möglichkeit zur Messung von Wertevorstellungen geben kann, würde demnach auch keine Ungleichehit entstehen, da jeder in persönlicher autonomie seine eigenen Interessen folgen kann, solange der Zugang zu den vier notwendigen "Ressourcen" für alle gesichert wird.
+Neben der Interpretation seiner Ansätze als praktische Umsetzung von Theorien kann man sogar in Illichs Ideen eine Antwort auf die zentrale Frage unserers Kurses: Wie können unterschiedliche und unterschiedlich befähigte Menschen inhärent gleich berechtigt und persönlich autonom zusammenleben?, sieht.
+Ein zentraler Punkt, den er an der Institution Schule kritisiert,ist deren Recht zur Bewertung der Schüler durch Zertifikate, die in der gegenwärtigen Gesellschaft als einzig legitime Qualifikationen betrachtet werden.
+Somit hat die Schule die Macht, über die Zulassung von Schülern zu weiteren Bildungseinrichtungen oder die Erlaubnis zur Ausübung eines Berufs zu entscheiden.
+Die Folgen dieses Symstems sind weitreichend, was Illich mit dem Satz "School initiates young people into a world where everything can be measured, including their imaginations, and, indeed, man himself. (Illich, S.19), veranschaulicht.
 
-Dennoch distanziert sich Illich in späteren Jahren wieder von seinen Reformvorschlägen:
->"If people are seriously to think about deschooling their life, (...) they could do no better than to develop the habit of
+Schule produziert also durch die Beeinflussung der Lernenden dahingehend, dass der Wert von allem, sogar von Menschen messbar sei: Ungleichheit.
+Das impliziert die unterschiedliche Wertigkeit von Menschen und führt somit dazu, dass Schüler nicht nur als ungleich betrachtet werden, sondern auch sich selber als unterschiedlich wertvoll ansehen.
+Illich schlägt nun vor, das Messen von Fähigkeiten im Bezug auf den Zugang zu Bildungsmöglichkeiten ganz abzuschaffen.
+So entsteht ein Menschenbild, dass von der Gleichwertigkeit Aller ausgeht, während die beschriebenen Freiheiten und Wahlmöglichkeiten ein Maximum an persönlicher Autonomie ermöglichen.
+
+
+<!-->"If people are seriously to think about deschooling their life, and not just escape from the
+corrosive effects of compulsory schooling, they could do no better than to develop the habit of
 setting a mental question mark beside all discourse on young people’s ‘‘educational needs’’ or
 ‘‘learning needs,’’ or about their need for a ‘‘preparation for life.’’
 
-Illich sieht sich mit zunehmenden Alter immer weniger gewillt, konkrete Reformvorschläge zu machen und wirft die Arme hoch:
+Er distanziert sich in späteren Jahren wieder von seinen Reformvorschlägen, da er nach eigener Aussage noch der Fehleinschätzung unterlag, Lernen sei ein notwendiger Prozess in der menschlichen Entwicklung.
+Illich sieht sich mit zunehmenden Alter immer weniger gewilt, konkrete Reformvorschläge zu machen und wirft die Arme hoch:
 >‘‘I hope nobody takes what I said for answers’’
