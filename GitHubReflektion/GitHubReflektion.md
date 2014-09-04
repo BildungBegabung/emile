@@ -1,5 +1,5 @@
 # Kooperation im Selbstexperiment - Reflektion über unsere Kursarbeit auf GitHub
-
+<!-- TODO FB: Beim ersten auftauchen unserer Lieblingsbegriffe wie merge, issue etc pp diese erklären! -->
 Während unserer Kursarbeit haben unsere Kursleiter wohl oft mit Sorgenfalten in extremst irritierte Gesichter geblickt.
 Es hatte ja auch etwas heroisches an sich, die grundsätzlichsten Fragen der menschlichen Existenz im Sinne seiner Entwicklung und seiner soziologischen Gemeinschaft beantworten zu wollen.
 Der Eine oder Andere musste auf diesem Weg mehr als einmal seinen Blick auf die Welt ändern und besonders mit dem Begriff der Deontologie ringen.
@@ -81,19 +81,22 @@ Aufgrund dieser Tatsachen würde Hayek GitHub vermutlich streng ablehnen und sic
 
 ## Was Habermas zu unserer Zusammenarbeit auf GitHub sagen würde
 
-Würde Jürgen Habermas von unserer Zusammenarbeit auf GitHub hören, hätte er wahrscheinlich angesichts der Tatsache, dass er seine Texte bis heute auf einer Schreibmaschine schreibt, zunächst Bedenken haben,
+Würde Jürgen Habermas von unserer Zusammenarbeit auf GitHub hören, hätte er wahrscheinlich angesichts der Tatsache, dass er seine Texte bis heute auf einer Schreibmaschine schreibt, einige Bedenken.
 
-Das diese Arbeitsform allerdings im Kern von seinem Kommunikationsmodell gar nicht so weit entfernt ist, konnten wir im Laufe des Arbeitsprozesses feststellen.
+Diese Arbeitsform ist im Kern allerdings von seinem Kommunikationsmodell gar nicht so weit entfernt, wie  wir im Laufe des Arbeitsprozesses feststellen konnten.
 
 Zum einen ist das Ziel, dass durch das Einsetzen des Programmes erreicht werden soll die Koordination der Kooperation - für Habermas der Grund, weshalb soziales Handeln überhaupt zu Stande kommt:
-In dem Moment, in dem mehrere Menschen ein Ziel verfolgen ist eine Absprache nötig um einzelne Handlungen zu so zu koordinieren, dass man sich nicht in die Quere kommt.
-Und genau diese Absprache treffen wir auf Github, indem wir versuchen unsere issues und commits hinzufügen und dabei immer den Anspruch haben den Anderen unsere Ziele verständlich zu machen.
+In dem Moment, in dem mehrere Menschen ein Ziel verfolgen ist eine Absprache nötig um einzelne Handlungen so zu koordinieren, dass man sich nicht in die Quere kommt.
+Und genau diese Absprachen treffen wir immer wieder auf Github, indem wir versuchen unsere *Issues* und *Commits* hinzufügen und dabei immer den Anspruch haben den Anderen unsere Ziele verständlich zu machen.
 
-An dieser Stelle lässt sich die nächste Parallele zu Habermas ziehen, der die Verständigung als grundsätzlichen Telos von Sprache festlegt und hinter jeder Handlung ein Ziel sieht.
-Außerdem erachtet er die Infragestellung von Gültigkeitsansprüchen als essentiell für kommunikatives Handeln.
-Und auch wir stellen ja mit jedem issue und mit jedem neuen commit einen Gültigkeitsanspruch auf, der grundsätzlich von jedem angezweifelt und geändert werden kann, bis am Ende ein fertiger Dokubeitrag entsteht und setzen somit das Konzept von Habermas' kommunikativem Handeln doch zumindest in Ansätzen um.
+Außerdem sind ständige Infragestellung von Gültigkeitsansprüchen essentiell für kommunikatives Handeln, das wir durch ständiges kommentieren, anzweifeln und ändern von Isssues und Dokumentationsbeiträgen in die Praxis umsetzen bis (möglichst) alle zufrieden sind.
 
-Und auch Habermas' Idee der Diskursethik lässt sich bei uns auf GitHub wiederfinden, indem wir beispielsweise versuchen, bei jedem Issue den Titel möglichst kurz und präzise mit einem passenden Operator zu formulieren. @feeds.
+Auch Habermas' Idee aus der Diskursethik, in der Sprechakte möglichst präzise formuliert werden sollen, lässt sich bei uns auf GitHub wiederfinden.
+Indem wir versuchen, bei jedem Issue den Titel möglichst kurz und präzise mit einem passenden Operator zu formulieren, wenden wir seine Kommunikativa an, wie z.B. "Klären, ob die Reflektion weiteres Feedback braucht".
+Werden dazu noch *labels* vertagged, ist auch der Gültigkeitsbereich klar definiert (z.B. Dokumentation, Sozialwissenschaften).
 
 Was Habermas an unserer Arbeitsform allerdings kritisieren könnte, ist die Instutionalisierung des Arbeitsprozesses.
-Denn GitHub als Institution ersetzt in Teilen den direkten Austausch in intersubjektiven Lebenswelten durch ein System-ein Prozess, den Habermas in der modernen Gesellschaft stark problematisiert.
+Denn GitHub als Institution ersetzt in Teilen den direkten Austausch in intersubjektiven Lebenswelten durch ein systematischen Prozess, den Habermas in der modernen Gesellschaft stark problematisiert.
+
+
+<!-- TODO FB: wir brauchen noch was schönes zum aufhören! -->
