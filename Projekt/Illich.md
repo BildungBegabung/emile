@@ -78,21 +78,6 @@ Dewey lässt sich in diesem Fall vielleicht als eine Art Vordenker für Illich s
 Er stellt das Ideal auf, während Illich dessen Umsetzung in der heutigen Gesellschaft durch das Schulsystem hinterfragt und sich mit der Errichtung einer demokratischen Gesellschaft (vrgl. S.121), im eigentlichen dewyschen Sinne, als mehr als nur eine Staatsform, beschäftigt.
 Illich begreift jedoch den Menschen an sich als Ziel, während Dewey seine pragmatische Ethik auf dem Fortschrittsgedanken basiert. (P.23)
 
-Illichs Wirken und Denken deckt sich in großen Teilen mit dem von Rousseau.
-Beide begreifen das jeweils gegenwärtige Gesellschaftssystem als eine Form der Unterdrückung des eigentlichen Menschseins.
->‘‘‘I’ precisely because of you, by allowing me to love you, give me the possibility to be co-relative to you, to be dysymmetrically proportionate to you. I see, therefore, in love, hope, and charity the crowning of the proportional nature
-of creation in the full, old sense of that term’’ (https://www.youtube.com/watch?v=vQLWAafp020)
-
-Beide romantisieren den vormodernen Menschen.
-Beide haben den Menschen an sich als Ziel und sehen immodernen Staat eine Pervertierung seiner Fähigkeiten.
-Rousseau will den Menschen aus seiner Idendifikation durch Berufe befreien, während sich Illich stark gegen eine gesellschaftliche Rolle ausspricht.
-Beide plädieren für eine unabhängige Erziehung, die sie nicht auf eine spätere Funktion vorbereiten soll.
-Und Beide berufen sich auf einen Akt der Schöpfung.
-Dem fast verschwörungstheoretischen Charakter bei der Gegenwartsbeschreibung und der Idealisierung einer grundauf freien Gesellschaft liegt ein sehr positives Bild des transzendental freien Menschen vor.
-Mit Kooperationsproblemen und Interessenkonflikten setzten sich beide nur wenig auseinander.
-Das mag möglicherweise Grund für ein sehr unbeschwertes Bild einer *freien* Organisation des Zusammenlebens sein, und auch weswegen beide schnell als Träumer eingestuft wurden und werden.
-Was uns aber zu denken geben sollte, ist dass Rousseau, damals kritisch beäugt, heute im Unterricht als Mitbegründer unserer Gesellschaft gesehen wird, während Illich heute einfach als realitätsfern kategorisiert wird.
-Auch wenn sie beides Träumer sind, fasziniert uns die Vorstellung eines *reinen* Menschen, frei von jeglicher Manipulation, und vielleicht lohnt es sich ja, an diesem Ideal festzuhalten, auch wenn die Verwirklichung eine Unmöglichkeit darstellt.
 
 >"The child grows up in a world, surrounded by people who serve as models for skills and values (...), peers (...) to coorporate and understand, and if he is lucky, he is exposed to criticism by an experienced elders who really cares." (S.33)
 
@@ -117,7 +102,23 @@ Das impliziert die unterschiedliche Wertigkeit von Menschen und führt somit daz
 Illich schlägt nun vor, das Messen von Fähigkeiten stark einzuschränken und im Bezug auf den Zugang zu Bildungsmöglichkeiten ganz abzuschaffen.
 So entsteht ein Menschenbild, dass von der Gleichwertigkeit Aller ausgeht, während die beschriebenen Freiheiten und Wahlmöglichkeiten ein Maximum an persönlicher Autonomie ermöglichen.
 
+Illichs Wirken und Denken deckt sich in großen Teilen mit dem von Rousseau.
+Beide begreifen das jeweils gegenwärtige Gesellschaftssystem als eine Form der Unterdrückung des eigentlichen Menschseins.
+>‘‘‘I’ precisely because of you, by allowing me to love you, give me the possibility to be co-relative to you, to be dysymmetrically proportionate to you. I see, therefore, in love, hope, and charity the crowning of the proportional nature
+of creation in the full, old sense of that term’’ (https://www.youtube.com/watch?v=vQLWAafp020)
 
+Beide romantisieren den vormodernen Menschen.
+Beide haben den Menschen an sich als Ziel und sehen immodernen Staat eine Pervertierung seiner Fähigkeiten.
+Rousseau will den Menschen aus seiner Idendifikation durch Berufe befreien, während sich Illich stark gegen eine gesellschaftliche Rolle ausspricht.
+Beide plädieren für eine unabhängige Erziehung, die sie nicht auf eine spätere Funktion vorbereiten soll.
+Und Beide berufen sich auf einen Akt der Schöpfung.
+Dem fast verschwörungstheoretischen Charakter bei der Gegenwartsbeschreibung und der Idealisierung einer grundauf freien Gesellschaft liegt ein sehr positives Bild des transzendental freien Menschen vor.
+Mit Kooperationsproblemen und Interessenkonflikten setzten sich beide nur wenig auseinander.
+Das mag möglicherweise Grund für ein sehr unbeschwertes Bild einer *freien* Organisation des Zusammenlebens sein, und auch weswegen beide schnell als Träumer eingestuft wurden und werden.
+Was uns aber zu denken geben sollte, ist dass Rousseau, damals kritisch beäugt, heute im Unterricht als Mitbegründer unserer Gesellschaft gesehen wird, während Illich heute einfach als realitätsfern kategorisiert wird.
+Auch wenn sie beides Träumer sind, fasziniert uns die Vorstellung eines *reinen* Menschen, frei von jeglicher Manipulation, und vielleicht lohnt es sich ja, an diesem Ideal festzuhalten, auch wenn die Verwirklichung eine Unmöglichkeit darstellt.
+
+Illichs Lebenswerk lässt sich 
 
 <!--zum erinnern: education for all means education by all
 p.11 rechts-->
