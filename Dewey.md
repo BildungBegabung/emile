@@ -1,12 +1,10 @@
-# Ein Pladoyer für den Fortschritt
+# Ein Plädoyer für den Fortschritt
 
-<!-- TODO MH: Ich schlage mal einen anderen Anfang vor (u.s.) vielleicht kommt ihr damit besser in den richtigen Duktus: ... vielleicht noch mehr BSP einfügen? -->
-Wie auch der Romantiker und radikale Demokrat Rousseau, denkt auch der Philosoph
-<!--TODO MM: Hatten wir Rousseau nicht als Republikaner bezeichnet?-->
-John Dewey in seinem Werk (...) Demokratie und Schule zusammen.
+Wie der Romantiker und Republikaner Rousseau, denkt auch der Philosoph,
+Sozialwissenschaftler und Pädagoge John Dewey in seinem Werk Demokratie und Schule zusammen.
 Vom Skeptiker der Moderne Rousseau unterscheidet ihn aber seine pragmatische Fortschritts-Ethik.
 Für Dewey müssen fortschrittliche Ideen des guten Handelns zwar immer in der  praktischen Erfahrung der Gegenwart (etwa: menschenwürdiges Einkommen) formuliert sein, sie haben aber immer über diese gegenwärtige Praxis hinaus zu deuten, und dürfen keinesfalls "realistisch" einem Status Quo naturalisieren.
-
+Es wäre nach Dewey also fatal, würde man seine ethischen Vorstellungen er Realität anpassen, so somit mindern.
 
 ### Theorie des guten Handelns
 
@@ -14,13 +12,12 @@ Die Theorie des guten Handelns hat eine deontologische Ethik als Grundlage, welc
 Diese Theorie erschöpft sich also nicht in der Beschreibung ihrer Konsequenzen.
 
 Eine weitere Grundlage der Theorie ist der Konsequentialismus.
-Dieser sagt aus, dass das "Handeln gut [ist], wenn die Ergebnisse gut sind".
-<!-- TODO MM: Hast du vieleicht eine Seitenangabe für das Zitat? -->
+Dieser sagt aus, dass das Handeln gut ist, wenn die Ergebnisse gut sind.
 Demnach müssen die Konsequenzen aus der jeweiligen Handlung auch gut sein.
 
-Der Pragmatismus bildet hierbei die Synthese zwischen diesen beiden, sich widersprechenden Theorien.
+Der Pragmatismus bildet hierbei die Synthese zwischen diesen Beiden, sich widersprechenden Theorien.
 Dieser sagt nämlich aus, dass wir eine Ethik inne haben, die durch den Horizont der Praxis definiert ist und deshalb angepasst werden muss.
-Wir sollen "auf das Ende [unseres] Horizonts in 60 Jahren [schauen], dann [unsere] Ethik dahin aus[richten], aber davon aus[gehen], dass [wir] ihn ändern [müssen]".
+Wir sollen auf das Ende unseres Horizonts in 60 Jahren schauen, dann unsere Ethik dahin ausrichten, aber davon ausgehen, dass wir ihn ändern müssen.
 <!-- FIXME MH und MM: wessen Zitat ist das denn? Quelle? -->
 <!-- TODO: MH finden wir hier vielleicht insgesamt eine schöne Dewey-Losung oder was anderes, was die pragmatische Ethik gut auf den Punkt bringt? -->
 Rousseau geht zwar von ähnlichen Annahmen aus, allerdings gibt es einen großen Unterschied:
