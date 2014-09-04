@@ -26,8 +26,6 @@ Das Gesollte, die Pflicht.
 Strategie, die bei jeder Strategie des Gegners die jeweils höchste Auszahlung bringt.
 ### Ecological Pragmatism:
 Theorie von Griffin zu Mead, das Symbole sich entwickelt haben, aufgrund ihrer Effektivität menschlichen Handels in der Vergangenheit.
-### Edge:
-Verbindung zwischen einzelnen nodges in der Netzwerktheorie.
 ### Effective participation:
 Bei einer Wahl muss die Stimme eines Individuums genauso viel Wert besitzen, wie die jedes anderen Individuums.
 ### Enlightened understanding:
@@ -57,6 +55,10 @@ Beschreibt den Abschnitt unter dem Graph in der Produktionsmöglichkeitenkurve.
 Wechselseitige Beziehung, aufeinander bezogenes Handeln, gegenseitige Beeinflussung.
 ### Intersubjektiv:
 Mehreren Personen gleichermaßen zugänglich.
+### Kanten:
+Verbindungen zwischen einzelnen Knotenpunkten in der Netzwerktheorie.
+### Knotenpunkte:
+Knotenpunkt in einem Netzwerk, z.B. eine Person.
 ### Konsequentialismus:
 Handeln ist gut, wenn das Ergebnis gut ist.
 ### Konstruktivismus:
@@ -72,8 +74,6 @@ Im MECE-Prinzip.
 Besagt, dass ein Kriterium hinreichend ist, wenn es nur auf eine von zwei Möglichkeiten zutreffend ist.
 ### Nash Equilibrium:
 Eine Kombination von Strategien in nicht-kooperativen Spielen, wobei jeder Spieler genau eine Strategie wählt, von der aus es für keinen Spieler sinnvoll ist, von seiner gewählten Strategie abzuwenden.
-### Nodge:
-Knotenpunkt in einem Netzwerk, z.B. eine Person.
 ### Nullsummenspiel:
 Situationen in der Spieltheorie bei denen die Summe der Gewinne und Verluste aller Spieler zusammengenommen gleich null ist.
 ### Paretoprinzip:
