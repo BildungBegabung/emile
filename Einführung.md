@@ -3,16 +3,13 @@
 Unser Kurs "Schule der Demokratie" befasst sich mit dem Thema Demokratie aus zwei verschiedenen Blickwinkeln: Pädagogik und Sozialwissenschaften.
 Diese Kombination gehört nicht zu den klassischen Kursen, die in Universitäten angeboten werden.
 Vorab muss deshalb erwähnt werden, dass dieses "Experiment" und unsere Schlüsse stark von der Auswahl der Texte geprägt sind.
-<!-- TODO: VK  Motivierenderer Einstieg?  -->
 
 In einem Drahtseilakt zwischen persönlicher Autonomie und inhärenter Gleichheit setzen wir uns mit der Frage auseinander: Wie kann und soll Zusammenleben gestaltet sein?
-*Grundsätzlich steht immer im Raum: Was sind die Gegenstände unserer Betrachtung, die Einheit in denen wir denken (Ontologie).*
 
 Wenn wir uns Gedanken über unser Zusammenleben machen, stellt die Funktion und Organisation der Kooperation ein grundsätzliches Problem dar.
 Relativ selbst erklärend ist die Tatsache, dass Menschen in der Lage sind eine höhere Produktivität zu erzielen, sobald sie sich spezialisieren und im Komplex agieren.
-<!-- TODO: VK letzten Satz in Zusammenhang stellen! -->
-Damit jeder seine eigenen Ziele verfolgen kann, müssen Regeln bestehen, welche jedoch zwangsweise den Handlungsspielraum des Individuums einschränken- ein Widerspruch in sich.
-Jede Form von Regel, die versucht gleiche Chancen für alle zu garantieren, zwängt dem Menschen jedoch ein bestimmtes Ideal auf, welcher sich in diesem Organisationsstatut befindet und ruft Ungleichheit bei denen hervor, die sich nicht durch das jeweilige Ideal vertreten sehen.
+Damit jeder seine eigenen Ziele verfolgen kann, müssen Regeln bestehen, welche jedoch zwangsweise den Handlungsspielraum des Individuums einschränken - ein Widerspruch in sich.
+Jede Form von Regel, die versucht, gleiche Chancen für alle zu garantieren, zwängt dem Menschen, welcher sich in diesem Organisationsstatut befindet, jedoch ein bestimmtes Ideal auf und ruft Ungleichheit bei denen hervor, die sich nicht durch das jeweilige Ideal vertreten sehen.
 Hieraus ergibt sich der grundsätzliche Gegensatz, aber auch die gegenseitige Bedingtheit von persönlicher Autonomie und inhärenter Gleichheit.
 <!-- TODO: MH erklären? -->
 Die beiden Attribute sind insofern wichtig, als dass sie klar stellen, dass es sich einerseits nicht um Klassenautonomie handelt, wie z.B. vom marxistischen Weltbild angedeutet, und andererseits nicht um Gleichheit, die nicht nur bestimmte Leben mit einbezieht, welche sich etwa durch einen hohen IQ oder andere Fähigkeiten auszeichnen, sondern eine Gleichheit, die darauf zielt, jedem Lebewesen mit dem Genom des Homo sapiens gleiche Möglichkeiten in der Selbstverwirklichung bereitzustellen.
