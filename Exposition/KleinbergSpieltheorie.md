@@ -4,10 +4,7 @@
 
 Nach Kleinberg kann man die meisten menschlichen Interaktionen (bzw. Spiele) auf die Grundlage der *Spieltheorie* zurückführen. <!-- FIXME: Wo sagt er das? FB-->
 
-(Nach) <!-- FIXME:  Laut FB--> Kleinberg liegt der Erfolg einer Person (am Spielausgang) <!-- FIXME: im Spiel FB--> (nicht darin, für was er sich selbst entscheidet) <!-- FIXME: nicht in seinen eigenen Entscheidungen -->
-, sondern <!-- FIXME: darin  FB-->
-welche "Spiel"-Entscheidungen von allen <!-- FIXME: anderen FB-->
-getroffen werden (vgl. Kleinberg; Networks, Crowds and Markets, S.156).
+Laut Kleinberg liegt der Erfolg einer Personim Spiel nicht in seinen eigenen Entscheidungen, sondern darin welche "Spiel"-Entscheidungen von allen anderen getroffen werden (vgl. Kleinberg; Networks, Crowds and Markets, S.156).
 Großer Teil dieser Spieltheorie ist das "Gefangenendilemma", auf das ich mich später noch genauer beziehen werde um auf das Zitat von John Nash (siehe oben) zurückzukommen.
 
 
@@ -41,4 +38,4 @@ Ein Beispiel wäre das der Nationalen Co2 Emissionen. Entscheidet sich ein Land 
  ## Das Gefangenendilemma lösen
 
 Außer durch den Einfluss eines Gewaltmonopolists oder einer Änderung der Axiome, kann das Gefangenen Dilemma nicht gelöst werden, da die Konzeption dem Menschenbild des homo ökonomicus unterliegt und davon ausgeht, dass jeder nur aus Eigeninteresse handelt und das Optimum, da die dritte Annahme (siehe oben) unzutreffend ist und ggf. nur per Zufall erreicht wird.
-Adam Smith lag somit mit seiner Annahme, dass die **streng dominate** SPielstrategie stets den größtmöglich  
+Adam Smith lag somit mit seiner Annahme, dass die **streng dominate** Spielstrategie stets den größtmöglich  
