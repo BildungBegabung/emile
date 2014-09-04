@@ -1,8 +1,6 @@
 # Protokoll Hayek
 <!-- TODO MH: die hinweise auf die Textherkunft (Protokoll), wie auch die stilistischen Unterschiede müssen raus -->
 
-<!-- TODO MH: hier fehlt eine richtige, inhaltlich grundierende Einleitung zu Hayek im Sinne einer Sanduhr-Struktur. Warum lesen wir das, was zeichnet ihn aus, was ist der Kontext? -->
-
 Hayek beschäftigt sich mit der Frage, wie ein gutes wirtschaftliches System aussieht (economic order (S.519)).
 Er geht davon aus, dass wirtschaftliches Verhalten abhängig von der Information ist, welche dem Individuum zur Verfügung steht.
 <!-- TODO MH: zu unpräzise, lieber von Information ausgehen -->
