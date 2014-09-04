@@ -1,5 +1,17 @@
 # Einführung
 
+Wie lässt sich menschliches Zusammenleben demokratisch organisieren?
+Sind auf Kooperation mit anderen Menschen angewiesen?
+Können wir frei als Menschen Kompex agieren, oder müssen wir zur Zusammenarbeit erzogen werden?
+Was verbindet uns eigentlich als *Menschen* untereinander?
+Wie können wir alle gleich sein, wenn wir doch eigentlich frei in unseren Entscheidungen sind?
+Wir versuchen Antworten auf die grundsätzlichen Fragen von menschlichen Zusammenleben zu finden; oder besser:
+Wir versuchen eine Vorstellung von der Bedeutung dieser Fragen zu bekommen, auf die es keine eindeutige Antwort geben kann.
+In unserem Kurs "Schule der Demokratie" versuchen uns dem Thema von dem Blickwinkel der Sozialwissenscheaft sowie der Pädagogik zu nähern.
+Was sind die Gegentände unserer sozialen Welt, in welchen Einheiten Denken wir?
+Um dann auf die Axiologie zu kommen:
+Wie sollte die Dinge sein?
+
 Unser Kurs "Schule der Demokratie" befasst sich mit dem Thema Demokratie aus zwei verschiedenen Blickwinkeln: Pädagogik und Sozialwissenschaften.
 Diese Kombination gehört nicht zu den klassischen Kursen, die in Universitäten angeboten werden.
 Vorab muss deshalb erwähnt werden, dass dieses "Experiment" und unsere Schlüsse stark von der Auswahl der Texte geprägt sind.
