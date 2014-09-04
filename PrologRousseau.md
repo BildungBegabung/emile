@@ -1,16 +1,14 @@
 # Prolog: Rousseau
 
-<!-- TODO:  MH  hier (Und/oder am Ende) könnte auch gut das stehen (so einiges) was Emile und le Contrat Social verbindet ...; gegenwärtig stehen die beiden etwas alleine -->
-
-Wie kann man Sozialwissenschaften und Pädagogik verbinden?
-Wie persönliche Autonomie und inhärente Freiheit?
+Wie kann man Sozialwissenschaften und Pädagogik zusammendenken?
+Wie persönliche Autonomie und inhärente Freiheit verbinden?
 Viele der Fragen, mit denen sich unserer Kurs beschäftigt, stellte sich Rousseau mehr oder weniger bewusst bereits im 18. Jahrhundert.
 Auch wenn uns die Antworten, die er im Contrat Sociale und Émile gibt, nicht unbedingt befriedigen können, so helfen sie doch zu präzesisieren, wovon unser Kurs und dieser Text handeln.
 
 ## Émile
 Rousseaus Gesellschafsverständnis baut hierbei stark auf dem Menschenbild auf, das er im Émile, einem Erziehungsroman, entwickelt:
 Noch vor der französischen Revolution oder der Unabhängigkeitserklärung der Vereinigten Staaten stellt er, Bürger eines absolutistischen Feudalsystems, die These auf, jeder Mensch sei frei, persönlich autonom und inhärent gleich.
-Um diese Eigenschaften zu erhalten, muss der Mensch natürlich erzogen werden.
+Um diese Eigenschaften nicht zu zerstören, muss der Mensch natürlich erzogen werden.
 Als Beispiel, wie das aussehen soll, legt Rousseau die Erziehung seines fiktiven Zöglings Émile dar.
 
 In der Kindheit wird der Junge abgeschottet von der Gesellschaft negativ erzogen.
@@ -29,7 +27,7 @@ Wenn das Kind dann erwachsen wird, beginnt man mit der positiven Erziehung:
 Das Kind wird nicht mehr als Zögling, sondern als Freund behandelt und moralisch, gesellschaftlich und religiös unterwiesen.
 Es ist nun in der Lage eigene fundierte Entscheidungen, wie die Wahl seiner Religion, zu treffen. (Vgl. ebd., S. 60f)
 
-Bald kommt die Zeit, dass Émile in die Gesellschaft eingeführt werden muss, da der Mensch nicht für immer allein bleiben kann (Vgl. ebd., S. 61.)
+Bald darauf kommt die Zeit, dass Émile in die Gesellschaft eingeführt werden muss, da der Mensch nicht für immer allein bleiben kann (Vgl. ebd., S. 61.)
 Der jetzt Erwachsene die Fähigkeit erworben, auch in der Gesellschaft seine Aufgabe zur erfüllen, Mensch zu bleiben.
 >"In der natürlichen Ordnung sind die Menschen alle einander gleich. Ihr gemeinsamer Beruf ist: Mensch zu sein."
 (ebd., S.50)
@@ -56,19 +54,22 @@ Im Gegenteil: Die Gewährung eines solchen Rechtes, z.B. des Rechtes auf Pressef
 Damit wäre nicht nur der volonté général nicht mehr gültig, sondern auch der Staat, dessen Aufgabe es ist, das Zusammenleben zu regeln, hätte sich selbst abgeschafft.
 
 Eine Instanz, die das Zusammenleben regelt, ist aber für uns absolut notwendig, da wir wechselseitig alle von einander abhängig sind.
-Unkontrollierte Abhängigkeiten aber führen zur Sklaverei. (Vgl. ebd., S. 3)
+Und unkontrollierte Abhängigkeiten  führen zur Sklaverei. (Vgl. ebd., S. 3)
 
 Diese Abhängigkeiten sind unnatürlich und entstehen durch institutionelle Kooperation.
 Also wenn der Weg der Kooperation durch Traditionen, Gesetze oder anderes vorgeschrieben ist, beziehungsweise wir nicht als natürlich Menschen, sondern z.B. als DSA-Teilnehmer zusammenarbeiten.
 
-Dies gab es in der Frühzeit des Menschen laut Rousseau nicht.
-Der Mensch lebte vollkommen autonom.
+Diese Art der Kooperation gab es in der Frühzeit des Menschen laut Rousseau nicht.
+Der Mensch lebte vollkommen autonom ohne Beziehungen zu Menschen zu haben (somit waren auch alle gleich!), die über die biologische Notwendigkeit hinausgingen. (Vgl. ebd., S. 1)
 
+Da dieser Zustand aber nicht wieder zu erreichen ist, schlägt Rousseau den Weg über den volonté générale als Lösung vor.
+Seine Intention liegt dabei darin, ein normatives Gebilde zu errichten, in dem auf Probleme in den realexistierenden Gesellschaften hingewiesen wird, nicht aber darin eine Verfassung zu schreiben.
+Dadurch hat er als "1. Aufklärer" großen Anteil an den freiheitlich demokratischen Entwicklungen der Folgezeit.
 
-Bei aller Kritik muss aber Rousseaus Intention bedacht werden:
-Seine Theorien sind nicht empirisch, sondern normativ gedacht.
-Der Contrat Social hat hierbei den Status eines Gedankenexperimentes zum Urzustand und einer Vertragstheorie, nicht eines tatsächlichen Vertrages.
-Dadurch bildet er bis heute den Standard für Verfassungen.
-<!-- TODO: MH tut er das? Wie das denn? -->
-Zudem ist zu würdigen, dass Rousseau als "1. Aufklärer" großen Anteil an den freiheitlich demokratischen Entwicklungen der Folgezeit hat.
-<!-- TODO: MH ich will jetzt aber noch eure Meinung wissen; taugt Rousseau? lohnt der? Wofür? Was sagt uns das *wirklich* persönlich? -->
+Für den weiteren Kursverlauf und die folgenden Texte gibt uns Rousseau zahlreiche Fragen und einen Maßstab an die Hand.
+Welche Auswirkungen hat Erziehung auf die Gesellschaft?
+Gibt es "ein allgemeines Interesse" oder überhaupt nur eine allgemeine Wahrheit und wie erkennen wir das?
+Was ist Freiheit?
+...
+
+Im Folgenden wollen wir langsam versuchen, uns Antwortvorschlägen zu nähern.
