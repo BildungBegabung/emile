@@ -61,6 +61,7 @@ Auch Dewey beschreibt seinen ungezwungenen Erfahrungsaustausch als wichtigste Ei
 
 Illichs Glaube an den Menschen außerhalb von sozialen Manipulationen ähnelt oft Rousseau, weshalb auch beide einen sehr skeptischen Blick mit fast verschwörungstheoritischen Charakter auf Gesellschaften als Perversionen von Menschsein werfen.
 >‘‘I see, therefore, in love, hope, and charity the crowning of the proportional nature of creation in the full, old sense of that term’’ (https://www.youtube.com/watch?v=vQLWAafp020, zuletzt geöffnet 04.09.2014)
+>"In der natürlichen Ordnung sind die Menschen alle einander gleich. Ihr gemeinsamer Beruf ist: Mensch zu sein."
 
 Beide kritisieren die Identifikation durch Berufe und Rollenbilder, romantisieren den vormodernen Menschen und plädieren für eine unabhängige Erziehung.
 Kooperations- und Verständigungsprobleme finden bei beiden wenig Beachtung.
