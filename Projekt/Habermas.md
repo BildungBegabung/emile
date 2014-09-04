@@ -1,6 +1,8 @@
 # Habermas: Kommunikatives Handeln
 
 Dass Schule und Demokratie eng mit Kooperation und Kommunikation verbunden ist, wird bereits anhand von beispielsweise Kleinberg und Mead deutlich.
+Nach Meads symbolischem Interaktionismus entsteht die Identität schließlich immer im Kontakt mit anderen Individuen.
+Also immer in einem intersubjektiven Prozess.
 <!-- TODO MH: das ist eine gute einleitung; erklären anstelle von hinweis auf kleinberg und mead wäre noch etwas schöner -->
 Jürgen Habermas postuliert nun in seinem 1998 erschienen Text "On the Pragmatics of Communication" einen Telos menschlichen Handelns und menschlicher Sprache und unterscheidet zwischen verschiedenen Handlungsformen.
 <!-- TODO: Bild Baumdiagramm mit handlungsarten einfügen--->
@@ -59,26 +61,22 @@ Zu strategischen Sprechakten zählen Drohungen, wie z.B. "Wenn du die Hausaufgab
 Das umfasst natürlich auch Gewaltandrohungen, wie sie durch Charles Tilly in der Staatsgenese impliziert werden.
 Ambivalente Äußerungen der Schutzgelderpresser "Ich schütze dich vor Gewalteinflüssen, wenn du mich bezahlst" geben vor einen Gültigkeitsanspruch, den Schutz, zu verständigen.
 Tatsächlich versucht der Erpresser aber Macht zu erlangen.
-Habermas würde hier von einem *latently strategic speech act* sprechen, da der Mensch als Mittel zum Zweck instrumentalisert wird.
+Habermas würde hier von einem *latent strategischem Sprechakt* sprechen, da der Mensch als Mittel zum Zweck instrumentalisert wird.
 Direkte Gewaltandrohung "Gib mir das Geld, oder ich knall dich ab" hat noch nicht mal einen Gültigkeitsanspruch, ist also nicht illokutiv aufgeladen, sondern nur perlokutiv, sondern erhebt nur den Machanspruch über das Geld des Bedrohten.
-Somit ist dies sogar ein *manifestly strategic speech act*.
-<!-- TODO: MH am besten manifest/latent direkt auf deutsch übersetzen, das geht auf deutsch. Manifest strategische und latent strategische sprechakte -->
+Somit ist dies sogar ein *manifest strategischer Sprechakt*.
 
-Habermas würde diesen Unterschied wahrscheinlich damit begründen, dass Tilly und Dewey einmal über eine *lifeworld*~ und einmal über ein *system* nachdenkt.
-<!-- TODO MH: deutsch Lebenswelt und System -->
+Habermas würde diesen Unterschied wahrscheinlich damit begründen, dass Tilly und Dewey einmal über eine *Lebenswelt* und einmal über ein *System* nachdenkt.
 Tilly beschreibt das System, bei ihm ist nur strategisches Handeln möglich.
 EIn aktuelles Beispiel wäre dafür eine Wahlkampange, die z.B. Steuersenkungen verspricht.
 Auf den ersten Blick soll vielleicht eine Idee verständigt werden, tatsächlich aber wird dem Wähler unterschwellig mit "Steuererhöungen" gedroht, mit dem Ziel Stimmen, als Macht zu gewinnen.
 Das ist aber nur ein Beispiel für strategisches Handeln in Systemen, laut Handeln ist *alles* Handeln in Systemen strategisch.
 Dewey beschreibt den großen Nachteil dieser Systeme als die Motivation durch Belohnung/Bestrafung (vergleichbar mit Drohungen), welche er als legale Sklaverei kritisiert.
-Dem strategischen Handeln kann man aber nur durch den Wechseln in eine *lifeworld*~ entfliehen, dem einzigen Kontext in dem Kommunikatives Handeln stattfinden kann.
-Also schlägt Dewey als Staat eine Demokratie in einer lifeworld vor, ein System in einer *lifeworld*.
-<!-- MH tolle schlussfolgerung, sehr treffend -->
-Von Habermas Standpunkt aus dürfte das sehr widersprüchlich sein, da ein Staat aufgrund seiner Größe Struktur braucht, zB das Regierungssystem, welche ohne das strategische Handeln kaum funktionieren würde.
-<!-- FIXME MH: Das ist nicht so klar; Habermas ist tatsächlich – wie gesagt – eher ein kritischer Begleiter liberaler Demokratien als irgendwas anderes. Er glaubt durchaus, das mehr oder weniger kommunikatives Handeln innerhalb einer repräsentativen Demokratie möglich ist; etwa durch eine Lebendige Zivilgesellschaft (DSA), oder gute Medien, in denen lebensweltlich kommuniziert wird und soz. die Lebenswelt dadurch dann das System kolonialisieren kann. -->
-Möglicherweise würde Habermas stattdessen ein dem System unterliegendes Netz aus kleinen, verbundenen *lifeworlds*~ vorziehen, die neue Ideen dann nach ben an das System weitergeben.
-<!-- FIXME MH: nöp, nicht das ich wüsste, falls ja bräuchten wir da eine Quelle. -->
-Vielleicht ist Deweys Idee aber in kleinem Umfeld umsetzbar, beispielsweise auf der DSA; Kommunikation ist hier fast immer auf Verständigung ausgelegt:
+Dem strategischen Handeln kann man aber nur durch den Wechseln in eine Lebenswelt entfliehen, dem einzigen Kontext in dem Kommunikatives Handeln stattfinden kann.
+Also schlägt Dewey als Staat eine Demokratie in einer Lebenswelt vor, ein System in einer Lebenswelt.
+
+Von Habermas Standpunkt aus dürfte das etwas widersprüchlich wirken, da ein Staat aufgrund seiner Größe Struktur braucht, zB das Regierungssystem, welches ohne das strategische Handeln kaum funktionieren würde.
+Allerdings ist zu sagen, dass er durchaus glaubt, dass mehr oder weniger kommunikatives Handeln innerhalb einer repräsentativen Demokratie möglich ist.
+Vielleicht ist Deweys Idee aber in kleinem Umfeld besser umsetzbar, beispielsweise auf der DSA; Kommunikation ist hier fast immer auf Verständigung ausgelegt:
 
 Ein Beispiel dafür bietet die "Pünktlichkeitsregel".
 Sie wird nicht durch Androhung von Strafen - strategischem Handeln - durchgesetzt: "Wer zu spät kommt, muss Schokolade mitbringen"
@@ -87,5 +85,5 @@ Dabei war die Intention, dafür zu sorgen, dass die TN's den Gültigkeitsanspruc
 Würde die Plenum-Pünktlichkeitssituation mit einem Gefangenendilemma modelliert, würde der Spieltheoretiker selbst später kommen, da nach dem Nash-Equilibrium alle zu spät kommen würden.
 Aus spieltheoretischer Sicht ist Pünktlichkeit das soziales Wohlfahrtsoptimum, trotzdem wird es tagtäglich morgens um 8:30h von dem Großteil der TN's und KL's umgesetzt, ohne Androhung von Strafe.
 Kommunikatives Handeln erzeugt also tatsächlich eine Positivsumme für alle Teilhaber, wenn es gut umgesetzt wird.
-Bis zu einem bestimmten Grad ist es sogar in etwas größern lifeworlds umsetzbar.
+Bis zu einem bestimmten Grad ist es sogar in etwas größern Lebenswelten umsetzbar.
 <!-- MH TODO: sehr gutes beispiel; eine naheliegende Aufbohrung wäre noch: vielleicht hilft ja gerade solches zivilgesellschaftliche (DSA)-Erfahren, das System, in das wir etwa als Wähler, Lehrer, Schüler, Konsumenten etc. zurück kehren irgendwie im Zaun zu halten ... oder ist das nur meine (maxs) übermüdete Utopie? -->
