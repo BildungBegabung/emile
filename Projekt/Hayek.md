@@ -22,7 +22,7 @@ Angelehnt an seine zwei gegensätzlichen Wirtschaftsmodelle der Informationsvert
 Der Käufer eines Produktes braucht nicht zu wissen, mit welchem Schiff ein Produkt in den Laden verschifft wurde - es beeinflusst ihn schlicht nicht in seiner Kaufentscheidung.
 
 Mit der Idee von einzigartigem (individuellen) Wissen erinnert Hayek an einen radikalen Dahl, der dessen Formulierung: "Every adult is the best judge of his/her self interest" verschärft.
-Beide gehen davon aus,
+Beide gehen davon aus, dass jeder anhand seiner eigenen Informationen die besten Entscheidungen treffen kann.
 Außerdem sieht er es als eine Errungenschaft der Moderne, dass menschliche Kooperation fortan nur noch durch den *Preis* bestimmt wird und somit vereinfacht ist.
 Nach Hayek hat der Preis für alle Mitglieder einer Gesellschaft den gleichen Wert.
 Damit ist der Preis in Hayeks Interpretation auch ein Symbol in Meads Theorie.
