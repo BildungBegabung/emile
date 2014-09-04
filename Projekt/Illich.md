@@ -53,25 +53,45 @@ Dies würde den Lernprozess sowie unverbindliche, nachbarschafliche Interaktion 
 
 <!-- TODO: Vielleicht auch SoWi-Texte? Mal Max ansprechen -->
 
-#### Illichs Konzept als Lösung
+#### Illichs Modell als Lösung
 
-Durch dieses Konzept eines selbstbestimmten und selbstorganisierten Lernens können viele der Anforderungen, welche die in der Exposition behandelten Texte an den Prozess des Lernens und an das menschliche Zusammenleben stellen, erfüllt und Widersprüche gelöst werden. 
-Illich beschreibt konkrete Vorschläge zur Umsetzung seiner "educational revolution", die als praktische Anwedung verschiedener theoretischer Ansätze verstanden werden können.
+Durch sein Konzept eines selbstbestimmten und selbstorganisierten Lernens können viele der Anforderungen, welche die in der Exposition behandelten Texte an den Prozess des Lernens und an das menschliche Zusammenleben stellen, erfüllt und Widersprüche gelöst werden. 
+Illich beschreibt konkrete Vorschläge zur Umsetzung seiner "educational revolution", die als praktische Anwedung verschiedener theoretischer Ansätze verstanden werden können, welche wiederum Illichs Argumente stützen.
+
+
 
 So müssen beispielsweise nach der Theorie des Konstruktivismus Lerninhalte "viabel", das heißt für das lernende Individuum funktional und bedeutend, sein.
 Da "das psychische System entscheidet, was es verarbeiten kann und will" (Siebert, S.18), ergibt sich die Forderung nach einem selbstbestimmten Lernen.
 Das Ziel aller Vorschläge Illichs ist es, den Lernenden "Zugang zu vorhandenen Möglichkeiten [zu] gewähren" (Illich, S.84) statt sie ihnen durch einen Lehrplan vorzuschreiben, welchen Wissensstand sie in welcher Zeit zu erreichen haben.
 Jeder hat die Freiheit, eine Gelegenheit zum Lernen wahrzunehmen, oder sich dagegen zu entscheiden.
 Durch die so entstandene Auswahlmöglichkeit zwischen verschiedensten Lerninhalten wird gewährleistet, dass sich jedes Individuum dem beschäftigen kann, der für es am anschlussfähigsten ist.
-<!-- Die Verbindung zum Konstruktivismus ist auf jeden Fall gegeben -->
 
-Desweiteren geschieht Lernen in Illichs Modell oft in sozialen Kontexten.
-Zum Beispiel findet es in "Fertigkeitsbörsen" statt.
-Dieser Vorgang lässt sich sehr gut mit dem Konzept des Hyperzyklus beschreiben, dessen Bedingung es ist, "wer etwas weiß oder kann, teilt es mit den anderen" (Zimpel, S.123), was durch Illichs Vorschläge erfüllt wird.
+
+
+Um diese Wahlfreiheit konkret zu ermöglichen, muss, so Illich, jedem Menschen der Zugang zu verschiedenen "Ressourcen" gewährleistet sein:
+"The child grows up in a world, surrounded by people who serve as models for skills and values (...), peers (...) to coorporate and understand, and if he is lucky, he is exposed to criticism by an experienced elders who really cares." (S.33)
+
+Dies trifft sich mit Benner, der auch sehr klar die Notwendigkeit einer Bezugs- und erziehenden Persönlichkeit formuliert.
+Nach Benner benötgt der Zögling den Beistand eines Älteren, der ihn in seinem Reifungsprozess fördert bis dieser in der Lage ist, selbsttätig zu handeln.
+Dieses Ziel kann nur durch permanente Aufforderungen erreicht werden.
+Allerdings darf diese Einwirkung nur stattfinden, solange sie nötig ist:
+>"Im Sinne dieser Dialektik ist pädagogisches Handeln nur dort erlaubt, wo der Zu-Erziehende der Fremdaufforderung zur Selbsttätigkeit bedarf, und muss Erziehung stets don an ihr Ende gekommen sein, wo pädagogische Fremdaufforderung zur Selbsttätigkeit in Selbstaufforderung übergehen kann." (Benner, S.91)
+
+So überschreitet die Schule die Grenzen der Pädagogik, da sie den Heranwachsenden auch noch dann versucht zu erziehen, wenn er schon in der Lage ist, selbsttätig zu handeln.
+Indem Benner keine weiteren Angaben dazu macht, ab welchem Alter dies in der Regel zutrifft, macht er deutlich, dass eine allgemeine Einstufung von Kindern als unselbstständig, wie sie in der Schule geschieht, nicht angemessen ist, da es einerseits Schüler gibt, die sehr früh unabhängig in ihren Entscheidungen sind, andererseits auch viele Erwachsene, die wieder der Pädagogik bedürfen.
+Genauso beschreibt Illich Kindheit als eine moderne Erfindung und behauptet, einem Kind wurde bis zur Postmoderne moralisches Urteilsvermögen mit 7 Jahren zugeschrieben.
+Diese Tatsachen können als Begründungen für Illichs Abschaffung der Schule dienen, indem sie auf deren Mängel hinweisen.
+
+
+
+Obwohl auch die Gruppierung von Gleichaltrigen nach Illich abgeschafft werden soll, findet sein Lernen häufig in sozialen Kontexten statt
+Ein Beispiel dafür sind seine "Fertigkeitsbörsen".
+Dieser Vorgang lässt sich sehr gut mit dem Konzept des Hyperzyklus beschreiben, dessen Bedingung ist: "wer etwas weiß oder kann, teilt es mit den anderen" (Zimpel, S.123), was durch Illichs Vorschläge erfüllt wird.
 Dadurch, dass nicht mehr wie vorher "das Grundrecht auf Mitteilung des eigenen Wissens in das Privileg akademischer Freiheit [verkehrt wird], das nur den in einer Schule Beschäftigten verliehen wird" (Illich, S.97), ist jeder dazu befähigt, andere an seinem Wissen teilhaben zu lassen, während er wiederum von den Fähigkeiten anderer profitieren kann.
 Durch die große Vielfalt an Fähigkeiten, die durch die Fertigkeitsbörsen vermittelt werden können, erhalten so viele Menschen wie möglich die Gelegenheit, dort anderen gezielt helfen zu können und sich so als Teil eines Kreislaufs aus Geben und Nehmen zu verstehen.
 Der Prozess verläuft dort also nicht, wie in der Schule, einseitig zwischen Schüler und Lehrer, wordurch schwächere Schüler sich nicht als hilfreich für andere erleben können.
 <!-- TODO: Fällt euch ein Beispiel ein, was z.B. vermeintlich Schwächere in einer Lernplattform für andere anbieten könnten? -->
+
 
 Der Ansatz des sozialen Lernens lässt sich auch auf Dewey beziehen. Illich und Dewey stellen sich beide gegen einen aktiven Lehrprozess und sehen Lernen eher als eine natürliche Eigenschaft des Menschen.
 Bei Dewey wird die These des unbestimmten Lernweges deutlich an der bewussten Formulierung des Lernens als Erfahrungsaustausch. Das Wort impliziert eine ungezwungene Kommunikation, in der beide Parteien gleichberechtigt agieren.
@@ -83,7 +103,9 @@ Dewey lässt sich in diesem Fall vielleicht als eine Art Vordenker für Illich s
 Er stellt das Ideal auf, während Illich dessen Umsetzung in der heutigen Gesellschaft durch das Schulsystem hinterfragt und sich mit der Errichtung einer demokratischen Gesellschaft (vrgl. S.121), im eigentlichen dewyschen Sinne, als mehr als nur eine Staatsform, beschäftigt.
 Illich begreift jedoch den Menschen an sich als Ziel, während Dewey seine pragmatische Ethik auf dem Fortschrittsgedanken basiert. (P.23)
 
-Illichs Wirken und Denken deckt sich in großen Teilen mit dem von Rousseau.
+
+
+Illichs Wirken und Denken deckt sich in großen Teilen ebenfalls mit dem von Rousseau.
 Beide begreifen das jeweils gegenwärtige Gesellschaftssystem als eine Form der Unterdrückung des eigentlichen Menschseins.
 >‘‘‘I’ precisely because of you, by allowing me to love you, give me the possibility to be co-relative to you, to be dysymmetrically proportionate to you. I see, therefore, in love, hope, and charity the crowning of the proportional nature
 of creation in the full, old sense of that term’’ (https://www.youtube.com/watch?v=vQLWAafp020)
@@ -100,20 +122,9 @@ Was uns aber zu denken geben sollte, ist dass Rousseau, damals kritisch beäugt,
 Auch wenn sie beides Träumer sind, fasziniert uns die Vorstellung eines *reinen* Menschen, frei von jeglicher Manipulation, und vielleicht lohnt es sich ja, an diesem Ideal festzuhalten, auch wenn die Verwirklichung eine Unmöglichkeit darstellt.
 
 
->"The child grows up in a world, surrounded by people who serve as models for skills and values (...), peers (...) to coorporate and understand, and if he is lucky, he is exposed to criticism by an experienced elders who really cares." (S.33)
+### Gleichwerigkeit und Autonomie nach Illich
 
-Jedem Menschen, so Illich, sollte der Zugang zu diesen "Ressourcen" gewährleistet sein für eine freie Entfaltung. Dies trifft sich mit Benner, der auch sehr klar die Notwendigkeit einer Bezugs- und erziehenden Persönlichkeit formuliert.
-Nach Benner benötgt der Zögling den Beistand eines Älteren, der ihn in seinem Reifungsprozess fördert bis dieser in der Lage ist, selbsttätig zu handeln.
-Dieses Ziel kann nur durch permanente Aufforderungen erreicht werden.
-Allerdings darf diese Einwirkung nur stattfinden, solange sie nötig ist:
->"Im Sinne dieser Dialektik ist pädagogisches Handeln nur dort erlaubt, wo der Zu-Erziehende der Fremdaufforderung zur Selbsttätigkeit bedarf, und muss Erziehung stets don an ihr Ende gekommen sein, wo pädagogische Fremdaufforderung zur Selbsttätigkeit in Selbstaufforderung übergehen kann." (Benner, S.91)
-
-So überschreitet die Schule die Grenzen der Pädagogik, da sie den Heranwachsenden auch noch dann versucht zu erziehen, wenn er schon in der Lage ist, selbsttätig zu handeln.
-Indem Benner keine weiteren Angaben dazu macht, ab welchem Alter dies in der Regel zutrifft, macht er deutlich, dass eine allgemeine Einstufung von Kindern als unselbstständig, wie sie in der Schule geschieht, nicht angemessen ist, da es einerseits Schüler gibt, die sehr früh unabhängig in ihren Entscheidungen sind, andererseits auch viele Erwachsene, die wieder der Pädagogik bedürfen.
-Genauso beschreibt Illich Kindheit als eine moderne Erfindung und behauptet, einem Kind wurde bis zur Postmoderne moralisches Urteilsvermögen mit 7 Jahren zugeschrieben.
-Diese Tatsachen können als Begründungen für Illichs Abschaffung der Schule dienen, indem sie auf deren Mängel hinweisen.
-
-Man kann sogar noch einen Schritt weiter gehen, indem man in Illichs Ideen eine Antwort auf eine der zentralen Fragen unserers Kurses: Wie können unterschiedliche und unterschiedlich befähigte Menschen inhärent gleich berechtigt und persönlich autonom zusammenleben?, sieht.
+Neben der Interpretation von Illichs Ansätzen als praktische Umsetzung von Theorien kann man sogar noch einen Schritt weiter gehen, indem man in Illichs Ideen eine Antwort auf eine der zentralen Fragen unserers Kurses: Wie können unterschiedliche und unterschiedlich befähigte Menschen inhärent gleich berechtigt und persönlich autonom zusammenleben?, sieht.
 Ein zentraler Punkt, den er an der Institution Schule kritisiert,ist deren Recht zur Bewertung der Schüler durch Zertifikate.
 Diese schulischen Zertifikate werden in der gegenwärtigen Gesellschaft als einzig legitime Qualifikationen betrachtet und geben somit der Schule die Macht, über die Zulassung von Schülern zu weiteren Bildungseinrichtungen oder die Erlaubnis zur Ausübung eines Berufs zu entscheiden.
 Die Folgen dieses Symstems sind weitreichend, was Illich mit dem Satz "School initiates young people into a world where everything can be measured, including their imaginations, and, indeed, man himself. (Illich, S.19), veranschaulicht.
