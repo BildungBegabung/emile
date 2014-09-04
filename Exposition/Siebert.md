@@ -11,7 +11,7 @@ Bezieht man sich auf das einführende Zitat der Unmöglichkeit einer objektiven 
 
 Laut Sieberts Theorie des Konstruktivismus ist die Wahrnehmung "keine Abbildung der Außenwelt, sondern eine funktionale viable Konstruktion" (Siebert 2003, S. 6).
 Ausgehend von dieser Annahme stellt Siebert die Kernthese auf, dass "Menschen [...] autopoietische selbstreferenzielle, operational geschlossene Systeme [sind]." (ebd. S. 5)
-Damit geht Siebert von einen automen Menschen aus, der sich durch Selbstorganisation auszeichnet (*"Autopoesie"*).
+Damit geht Siebert von einen autonomen Menschen aus, der sich durch Selbstorganisation auszeichnet (*"Autopoesie"*).
 
 Die Lebensauffassung ändert sich demnach permanent aufgrund von Erfahrungen und Ereignissen, die den Menschen betreffen.
 Der Konstruktivismus geht bei seiner Theorie von einem interpretativen *Paradigma*, der *Sichtweise* des Individuums aus.
@@ -19,7 +19,8 @@ Der Mensch entscheidet als *geschlossenes System*, ob die verfügbaren Informati
 Abhängig von den individuellen Determinationen, mit denen ein Mensch im Leben konfrontiert wird, verändert sich so seine Wahrnehmung der Umwelt.
 Der Mensch ist demnach strukturdeterminiert (vgl. ebd. S. 5).
 Aufbauend auf seinem individuell geprägten Menschenbild geht Siebert davon aus, dass ein Wechselverhältnis zwischen der Wahrnehmung des Menschen und der Umwelt existiert.
-Die individuelle Wahrnehmung wird von Viabilität (~) und Rekursivität (~) bestimmt, womit ein Ansatz zur Lerntheorie gefunden werden kann.
+Die individuelle Wahrnehmung wird von Viabilität (~) und Rekursivität (~)
+bestimmt, womit ein Ansatz zur Lerntheorie gefunden werden kann.
 
 
 ## Konstruktivismus in der Pädagogik
@@ -44,7 +45,7 @@ Die Perturbation kann sowohl auf lerntheoretischen Ansätze angewandt werden, al
 Problematisch ist hierbei die vollkommene Isolierung des Einzelnen in der eigenen subjektiven Welt - die völlige Autonomie.
 Diese angesprochene Isolation, besonders im radikalen Konstruktivismus, ist besonders gut an der Geschichte von *Peter Bichsel* *"Ein Tisch ist ein Tisch"* veranschaulicht.
 Hierbei wird die Situation eines Mannes beschrieben, der in Unzufriedenheit lebt.
-Um sich aus dieser aussichtlosen Lebensweise zu berfreien beginnt er bekannte Gegenstände mit anderen Namen zu versehen.
+Um sich aus dieser aussichtslosen Lebensweise zu befreien beginnt er bekannte Gegenstände mit anderen Namen zu versehen.
 Demzufolge wurde der Stuhl zum Tisch oder das Bett zum Bild.
 > "Jetzt ändert es sich", rief er, und er sagte von nun an zu dem Bett "Bild".
 > [Peter Bichsel](http://www.univie.ac.at/ims/koeppl_lv/Mth_04/Bichsel_Tisch.htm)
@@ -56,4 +57,3 @@ Die radikale Änderung seiner eigenen Wahrnehmung und Kommunikation verursachte 
 Der Verlust der Kooperation mit der Umwelt durch die Isolierung in der Subjektivität und damit auch die fehlende Beziehung mit Menschen, zeigt die Grenzen des (radikalen) Ansatzes der konstruktivistischen Theorie auf.
 Diese Tatsache impliziert ein Kooperationsproblem zwischen koexistierenden *"Individuen"*, da jene *"Realitäten"* sich ausgehend vom Menschen unterscheiden.
 Völlige Autonomie und damit die Abgrenzung von jeglichen Richtlinien ist somit ein essentielles Problem des Zusammenlebens.
-  
