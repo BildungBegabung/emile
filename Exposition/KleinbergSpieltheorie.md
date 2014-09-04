@@ -1,12 +1,12 @@
 # Kleinberg [Spieltheorie]
 
-Die **Spieltheorie** (siehe: Kleinberg, "Networks,Crowds and Markets", S.153-274) modulliert menschliche Interaktion in Form von Spielen, dessen *Spielausgänge* von den gewählten *Spielstrategien* abhängen und in Form einer Playoff Matrix anaysiert und veranschaulicht werden können.
+Die **Spieltheorie** (siehe: Kleinberg, "Networks,Crowds and Markets", S.153-274) modulliert menschliche Interaktion in Form von Spielen, dessen *Spielausgänge* von den gewählten *Spielstrategien* abhängen und in Form einer Playoff Matrix analysiert und veranschaulicht werden können.
 
 ### Die Spielstrategien
 
-Die **Streng Dominante**, die Strategie, in der der Spieler  stets nach Eigeninteresse spielt und stets die, unabhängig von den Mitspieler, beste Spielentscheidung trifft. (vgl. ebd. S.164).
-Das **best response**, die Strategie, die zu der Strategie eines anderen Spielers am besten passt, d.h. die eigene Auszahlung ist am höchsten
-mehrere beste Antworten sind möglich, wenn die Auszahlungen bei mehreren “Antwort-Strategien” gleich sind. (vgl. ebd. S.163)
+Die **Streng Dominante**, die Strategie, in der der Spieler  stets nach Eigeninteresse spielt und stets die, unabhängig von den Mitspielern, beste Spielentscheidung für ihn selbst trifft. (vgl. ebd. S.164).
+Das **best response**, die Strategie, die zu der Strategie eines anderen Spielers am besten passt, d.h. die eigene Auszahlung ist am höchsten.
+Hier sind mehrere beste Antworten möglich, wenn die Auszahlungen bei mehreren “Antwort-Strategien” gleich sind. (vgl. ebd. S.163)
 
 ### Spielausgänge
 
@@ -20,14 +20,14 @@ Der Erfolg einer Person im Spiel liegt somit nicht nur in seinen eigenen Entsche
 
 ### Die Axiome der Spieltheorie
 
-Nach Annahme der Axiome der "Spieltheorie" entscheidet sich der Mensch in seinem Handeln stets streng ökonomisch, das heißt, er verfolgt die Strategie mit dem größtmöglichen Ergebnis (vgl. ebd. S.159).
+Nach Annahme der Axiome der "Spieltheorie" entscheidet sich der Mensch in seinem Handeln stets streng ökonomisch, das heißt, er verfolgt die Strategie mit dem größtmöglichen Gewinn (vgl. ebd. S.159).
 Außerdem wird angenommen, dass jeder den "Spielplan" (vgl. ebd. S.159) kennt und somit auch alle Spielstrategien und Mitspieler.
 Die letzte Annahme geht aus dem Prinzip der "Raionalität" hervor und vereint zwei Annahmen: Zum einen die des "Homo ökonomikus" und zum anderen die Annahme, dass jeder Spieler die beste "Spielstrategie" wählt (vgl. ebd., S.156).
 
 
 Die Axiome sind vergleichbar mit folgender Annahme von Adam Smith:
 
->"Wer sein eigenes Interesse verfolgt, befördert das Wohl der Gesamtgesellschaft häufig wirkungsvoller, als wenn er wirklich beabsichtigt, es zu fördern. Ich habe nie erlebt, dass viel Gutes von denen erreicht wurde, die vorgaben, für das öffentliche Wohl zu handeln." (Adam Smith; „Wealth of Nations"(S. )
+>"Wer sein eigenes Interesse verfolgt, befördert das Wohl der Gesamtgesellschaft häufig wirkungsvoller, als wenn er wirklich beabsichtigt, es zu fördern. Ich habe nie erlebt, dass viel Gutes von denen erreicht wurde, die vorgaben, für das öffentliche Wohl zu handeln." (Adam Smith; „Wealth of Nations"(S.?))
 
 
 ### Die Spielvarianten
