@@ -34,11 +34,11 @@ Der jetzt Erwachsene hat die Fähigkeit erworben, auch in der Gesellschaft seine
 >"In der natürlichen Ordnung sind die Menschen alle einander gleich. Ihr gemeinsamer Beruf ist: Mensch zu sein."
 (ebd., S.50)
 
-Was passiert aber mit demjenigen, der nicht natürlich erzogen wird?
-Seine bürgerliche Erziehung zerteilt ihn in verschiedene Rollen und Identitäten, deren verschiedene Pflichten nicht miteinander zuvereinbaren sind.
-Er ist z.B. als Abgeordneter dem Fraktionszwang unterworfen, für etwa eine Steuer zustimmen, und als Angehöriger eines Berufsstandes muss er dagegen sein.
-Oder er muss als Teilnehmer der KüMu zu einer Probe und als Kursteilnehmer Protokoll schreiben ...
-Dadurch, dass er sich über verschiedene Aufgaben definiert, kann es also leicht zu inneren Rollenkonflikten kommen.
+Was passiert aber mit derjenigen, der nicht natürlich erzogen wird?
+Ihre bürgerliche Erziehung zerteilt sie in verschiedene Rollen und Identitäten, deren verschiedene Pflichten nicht miteinander zuvereinbaren sind.
+Sie ist z.B. als Abgeordnete dem Fraktionszwang unterworfen, für etwa eine Steuer zustimmen, und als Angehörige eines Berufsstandes muss sie dagegen sein.
+Oder sie muss als Teilnehmerin der KüMu zu einer Probe und als Kursteilnehmerin Protokoll schreiben ...
+Dadurch, dass sie sich über verschiedene Aufgaben definiert, kann es also leicht zu inneren Rollenkonflikten kommen.
 
 
 ## Le Contrat Social
