@@ -61,7 +61,7 @@ Auf diese Weise würden Menschen von alleine dazu motiviert werden zu lernen.
 
 <!-- TODO: Vielleicht auch SoWi-Texte? Mal Max ansprechen -->
 
-Durch dieses Konzept eines selbstbestimmten und selbstorganisierten Lernens können viele der Anforderungen, welche die in der Exposition behandelten Texte an den Prozess des Lernens (?und an das menschliche Zusammenleben?) stellen, erfüllt werden
+Durch sein Konzept eines selbstbestimmten und selbstorganisierten Lernens können viele der Anforderungen, welche die in der Exposition behandelten Texte an den Prozess des Lernens und an das menschliche Zusammenleben stellen, erfüllt werden
 So müssen nach der Theorie des Konstruktivismus Lerninhalte "viabel", das heißt für das lernende Individuum funktional und bedeutend, sein.
 Da "das psychische System entscheidet, was es verarbeiten kann und will" (Siebert, S.18), ergibt sich die Forderung nach einem selbstbestimmten Lernen.
 Das Ziel aller Vorschläge Illichs ist es, den Lernenden "Zugang zu vorhandenen Möglichkeiten [zu] gewähren" (Illich, S.84) statt sie ihnen durch einen Lehrplan vorzuschreiben, welchen Wissensstand sie in welcher Zeit zu erreichen haben.
