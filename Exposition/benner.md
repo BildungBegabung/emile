@@ -1,4 +1,4 @@
-# Protokoll: Benner-2012
+# "Die Einführung in die Allgemeine Pädagogik"
 
 Benner setzt sich damit auseinander, die **Grundsätze pädagogischen Handelns** aufzuzeigen, die für die ganze Menschheit gültig sind.
 Er richtet sch dabei an die pädagogisch~ interessierte Leserschaft.
