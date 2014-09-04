@@ -19,7 +19,7 @@ Dieses Handeln ist entscheidend für die Entwicklung eines Staates, denn sie zei
 Durch seine Macht hat der Herrscher nun die Möglichkeit, sein Volk vor Schaden zu schützen und für diesen Schutz Tribute (Steuern) einzufordern ("governments are in the business of selling protection" ebd. S. 175).
 Der gebotene Schutz kann laut Tilly zwei Formen annehmen:
 
-Verhält sich der Machthaber als *legitimate protector*, so schützt er sein Volk vor externen Angriffen.
+Verhält sich der Machthaber als *legitimate protector*, so schützt er sein Volk vor externen Angriffen ().
 Ist der Machthaber ein *racketeer*, nutzt er sein Gewaltmonopol aus, indem er sein Volk unter Druck setzt.
 Tilly betont dabei den paradox scheinenden Kontrast: der Staat droht mit Gewalt und schützt gleichzeitig vor ihr.
 
