@@ -1,20 +1,26 @@
+<<<<<<< HEAD
  # Kooperation im Selbstexperiment - Reflektion über unsere Kursarbeit auf GitHub
+=======
+# Kooperation im Selbstexperiment - Reflektion über unsere Kursarbeit auf GitHub // Inwieweit geht gihub ab
+>>>>>>> origin/GitHubReflektion
 <!-- TODO FB: Beim ersten auftauchen unserer Lieblingsbegriffe wie merge, issue etc pp diese erklären! -->
 Während unserer Kursarbeit haben unsere Kursleiter wohl oft mit Sorgenfalten in irritierte Gesichter geblickt.
 Es hatte ja auch etwas heroisches an sich, die grundsätzlichsten Fragen der menschlichen Existenz im Sinne seiner Entwicklung und seiner soziologischen Gemeinschaft beantworten zu wollen.
 Der Eine oder Andere musste auf diesem Weg mehr als einmal seinen Blick auf die Welt ändern und besonders mit dem Begriff der Deontologie ringen.
 Da wir uns inhaltlich mit Fragen der menschlichen Kooperation (manchmal auch der tierischen) beschäftigt haben, lag es nahe auch unsere Kursarbeit kooperativ zu organisieren.
 Wie keiner vor uns haben wir versucht, unseren sozialwissenschaftlich-pädagogischen Kurs und das Schreiben dieser Dokumentation auf der Open-Source-Plattform GitHub zu organisieren.
-GitHub ist ein Programm, das ursprünglich zum Zweck der Koordination von Softwareentwicklung entstanden ist.
+GitHub ist eine Plattform, die ursprünglich zum Zweck der Koordination von Softwareentwicklung entstanden ist.
 Als Vorbereitung für den Kurs arbeiteten wir bereits vor Akademiebeginn gemeinsam auf GitHub.com, der sozialen Komponente des Versionierungstools Git.
-Später verwendeten eben Git um die Dokumentation zu schreiben, im Kombination mit dem Open-Source-Texteditor Atom.
+Später verwendeten wir Git um die Dokumentation zu schreiben, im Kombination mit dem Open-Source-Texteditor Atom.
 Diese drei Komponenten sollten unsere Arbeit so effizient wie möglich gestalten.
-
-Jeder hatte zu jedem Zeitpunkt die Möglichkeit auf alle geschrieben Texte zuzugreifen, diese zu kommentieren und selbst zu bearbeiten und zu ändern.
+Dazu muss jeder in der Lage sein zu jedem Zeitpunkt sein Wissen einzubringen und auf das Wissen der anderen zuzugreifen.
+Wir hatten Zeitpunkt die Möglichkeit haben, auf alle geschrieben Texte zuzugreifen, diese zu kommentieren, selbst zu bearbeiten und zu ändern.
 Dadurch entstand eine völlig neue Form der sozialen Interaktion, die in Bezug auf die Ausgangsfrage nach persönlicher Autonomie und inhärenter Gleichheit zu analysieren ist.
-Hierfür lassen wir vier Autoren aus unserem Kurs sprechen und befragen sie postum, was sie zu diesem gewagten Unterfangen auf GitHub sagen würden.
+Hierfür lassen wir vier Autoren aus unserem Kurs sprechen und befragen sie posthum, was sie zu diesem gewagten Unterfangen auf GitHub sagen würden.
+Inwiefern kann GitHub sozialwissenschaftliche und pädagogische Theorien dadurch entwerten, dass es einen technischen Lösungsansatz für das Kooperationsproblem bietet?
+Und wieweit entwerten dieselben Theorien *GitHub* als Lösungsansatz?
 
-## Was Freinet zu unserer Zusammenarbeit auf GitHub sagen würde
+## Freinet zu Github
 
 Vor fast 100 Jahren enstand die Reformpädagogik, in einer Zeit ohne Computer, geschweige denn Internet.
 Während wir gerade fleißig Issues *closen* und *merge conflicts* lösen, hantierte Célestin Freinet mit Druckerpressen und Karteikarten - damals der letzte Schrei.
@@ -31,16 +37,22 @@ Wir arbeiten damit im Sinne des Kollektivs im Kurs, wobei aber trotzdem unsere a
 Es besteht dabei allerdings die Gefahr, dass durch die Vernetzung, die GitHub bietet, eine direkte emotionale Verbindung verloren geht, gerade weil GitHub anders als soziale Netzwerke eine Basis für gemeinsames Arbeiten darstellt, sodass ein Großteil der dokubezogenen Kommunikation hierüber einfacher zu leiten ist.
 Für Freinet ist eine Gruppendynamik ähnlich der einer Familie sehr wichtig.
 Diese ist nicht mehr gegeben, sobald vernetztes Lernen beginnt, da es eine geographische Nähe entbehrlich macht.
+<<<<<<< HEAD
 Darüberhinaus bietet das Internet als Plattform für GitHub dem Edukator praktische Unfehlbarkeit, da dieser praktisch uneingeschränkte Freiheiten mit der Arbeit der anderen hat und fast alles bearbeiten oder löschen kann.
+
+=======
 Jedoch ist gerade die Fehlbarkeit des Lehrers entscheidend, denn hier kann er ehrlich zu seinen Schülern sein (vgl. Freinet-1946 S. 110).
 
 
-Trotzalledem ist es fraglich, ob eine vernetzte Arbeit mit Freinets Reformpädagogik verglichen werden kann, schließlich konnte Freinet in der Mitte des 20.Jahrhunderts die Entwicklung des Internets nicht vorhersagen.
+Trotz alle dem ist es fraglich, ob eine vernetzte Arbeit mit Freinets Reformpädagogik verglichen werden kann, schließlich konnte Freinet in der Mitte des 20.Jahrhunderts die Entwicklung des Internets nicht vorhersagen.
 
+<<<<<<< HEAD
 Als Fazit lässt sich also sagen, dass Freinet unserem System wahrscheinlich nicht abgeneigt wäre, aber seine contra-sozialen Folgen stark kritisieren würde.
+=======
 
 
-## Was Illich zu unserer Zusammenarbeit auf GitHub sagen würde
+
+## Illich zu Github
 
 Würde Illich unsere Verwendung von Github zum gemeinsamen Arbeiten an dieser Dokumentation und zur Vorbereitung unserers Kurses befürworten?
 
@@ -59,7 +71,7 @@ Jedoch stellen sich abgesehen von dieser Tatsache weitere Probleme in den Weg:
 Schränkte man unser Projekt allein auf die Ausarbeitung auf Github ein, würde sich unser Kontakt ebenfalls wieder auf eine rein effizienzorientierte Ebene reduzieren ("to reinforce the competitive nature of schools"; Illich 1971, S. 35 ), vor der Illich warnt.
 Die Gefahr, dass die direkte Kommunikation hinter 16 aufgeklappten Laptopbildschirmen zu kurz kommt, ist nicht zu unterschätzen.
 
-## Was Hayek zu unserer Zusammenarbeit auf GitHub sagen würde
+## Hayek zu GitHub
 
 Ähnlich wie bei Illich ist es unklar wie Hayek zu modernen Kommunikationsmitteln stehen würde, da er vermutlich nie mit einem Computer gearbeitet hat.
 <!-- TODO FB: Hat er oder hat er nicht? :) -->
@@ -70,7 +82,7 @@ Die einzige Institution die Vorteile einbrachte und mit der etwas "getauscht" we
 
 
 
-## Was Habermas zu unserer Zusammenarbeit auf GitHub sagen würde
+## Habermas zu Github
 
 Würde Jürgen Habermas von unserer Zusammenarbeit auf GitHub hören, hätte er wahrscheinlich angesichts der Tatsache, dass er seine Texte bis heute auf einer Schreibmaschine schreibt, einige Bedenken.
 
@@ -89,7 +101,10 @@ Werden dazu noch *labels* vertagged, ist auch der Gültigkeitsbereich klar defin
 Was Habermas an unserer Arbeitsform allerdings kritisieren könnte, ist die Instutionalisierung des Arbeitsprozesses.
 Denn GitHub als Institution ersetzt in Teilen den direkten Austausch in intersubjektiven Lebenswelten durch ein systematischen Prozess, den Habermas in der modernen Gesellschaft stark problematisiert.
 
+<<<<<<< HEAD
 ## Fazit
+=======
+>>>>>>> origin/GitHubReflektion
 
 Auch wenn die meisten der von uns behandelten Autoren vor der Zeit des Internet veröffentlicht hatten und ein Vergleich zu Github somit im Großteil der Fälle auf Spekulationen und Vermutungen beruht, lässt sich doch sagen, dass unsere Zusammenarbeit über Github in einigen Bereichen den Idealvorstellungen mehrerer Autoren bereits sehr nahekommt, besonders was die Kommmunikation und die fast uneingeschränkte Freiheit jedes einzelnen angeht, die für eine so bislang unbekannte Qualität der Kooperation und Abstimmung untereinander sorgt.
 Allerdings ist auch Github natürlich nicht nicht das Blaue vom Himmel, so dass bei längerer Arbeit Fehler ans Tageslicht treten, wie zum Beispiel die akute Gefahr, dass durch die Arbeit auf GitHub die persönliche Kommunikation eingeschränkt und im schlimmsten Fall komplett durch die virtuelle ersetzt wird.
