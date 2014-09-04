@@ -99,8 +99,7 @@ Jedem Menschen, so Illich, sollte der Zugang zu diesen "Ressourcen" gewährleist
 Nach Benner benötgt der Zögling den Beistand eines Älteren, der ihn in seinem Reifungsprozess fördert bis dieser in der Lage ist, selbsttätig zu handeln.
 Dieses Ziel kann nur durch permanente Aufforderungen erreicht werden.
 Allerdings darf diese Einwirkung nur stattfinden, solange sie nötig ist:
->"Im Sinne dieser Dialektik ist pädagogisches Handeln nur dort erlaubt, wo der Zu-Erziehende der Fremdaufforderung zur Selbsttätigkeit bedarf, und muss Erziehung stets don an ihr Ende gekommen sein, wo pädagogische Fremdaufforderung zur Selbsttätigkeit in Selbstaufforderung übergehen kann."
-<!-- FIXME: Seitenangabe -->
+>"Im Sinne dieser Dialektik ist pädagogisches Handeln nur dort erlaubt, wo der Zu-Erziehende der Fremdaufforderung zur Selbsttätigkeit bedarf, und muss Erziehung stets don an ihr Ende gekommen sein, wo pädagogische Fremdaufforderung zur Selbsttätigkeit in Selbstaufforderung übergehen kann." (Benner, S.91)
 
 So überschreitet die Schule die Grenzen der Pädagogik, da sie den Heranwachsenden auch noch dann versucht zu erziehen, wenn er schon in der Lage ist, selbsttätig zu handeln.
 Indem Benner keine weiteren Angaben dazu macht, ab welchem Alter dies in der Regel zutrifft, macht er deutlich, dass eine allgemeine Einstufung von Kindern als unselbstständig, wie sie in der Schule geschieht, nicht angemessen ist, da es einerseits Schüler gibt, die sehr früh unabhängig in ihren Entscheidungen sind, andererseits auch viele Erwachsene, die wieder der Pädagogik bedürfen.
@@ -110,8 +109,8 @@ Diese Tatsachen können als Begründungen für Illichs Abschaffung der Schule di
 Man kann sogar noch einen Schritt weiter gehen, indem man in Illichs Ideen eine Antwort auf eine der zentralen Fragen unserers Kurses: Wie können unterschiedliche und unterschiedlich befähigte Menschen inhärent gleich berechtigt und persönlich autonom zusammenleben?, sieht.
 Ein zentraler Punkt, den er an der Institution Schule kritisiert,ist deren Recht zur Bewertung der Schüler durch Zertifikate.
 Diese schulischen Zertifikate werden in der gegenwärtigen Gesellschaft als einzig legitime Qualifikationen betrachtet und geben somit der Schule die Macht, über die Zulassung von Schülern zu weiteren Bildungseinrichtungen oder die Erlaubnis zur Ausübung eines Berufs zu entscheiden.
-Die Folgen dieses Symstems sind weitreichend, was Illich mit dem Satz "School initiates young people into a world where everything can be measured, including their imaginations, and, indeed, man himself. (Illich, e, S.19), veranschaulicht.
-<!-- FIXME: Seitenangabe -->
+Die Folgen dieses Symstems sind weitreichend, was Illich mit dem Satz "School initiates young people into a world where everything can be measured, including their imaginations, and, indeed, man himself. (Illich, S.19), veranschaulicht.
+
 Schule produziert also durch die Beeinflussung der Lernenden dahingehend, dass der Wert von allem, sogar von Menschen messbar sei, Ungleichheit.
 Das impliziert die unterschiedliche Wertigkeit von Menschen und führt somit dazu, dass Schüler nicht nur als ungleich betrachtet werden, sondern auch sich selber als unterschiedlich wertvoll ansehen.
 Illich schlägt nun vor, das Messen von Fähigkeiten stark einzuschränken und im Bezug auf den Zugang zu Bildungsmöglichkeiten ganz abzuschaffen.
