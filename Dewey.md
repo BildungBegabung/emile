@@ -3,8 +3,8 @@
 Wie der Romantiker und Republikaner Rousseau, denkt auch der Philosoph,
 Sozialwissenschaftler und Pädagoge John Dewey in seinem Werk Demokratie und Schule zusammen.
 Vom Skeptiker der Moderne Rousseau unterscheidet ihn aber seine pragmatische Fortschritts-Ethik.
-Für Dewey müssen fortschrittliche Ideen des guten Handelns zwar immer in der  praktischen Erfahrung der Gegenwart (etwa: menschenwürdiges Einkommen) formuliert sein, sie haben aber immer über diese gegenwärtige Praxis hinaus zu deuten, und dürfen keinesfalls "realistisch" einem Status Quo naturalisieren.
-Es wäre nach Dewey also fatal, würde man seine ethischen Vorstellungen er Realität anpassen, so somit mindern.
+Für Dewey müssen fortschrittliche Ideen des guten Handelns zwar immer in der  praktischen Erfahrung der Gegenwart (etwa: menschenwürdiges Einkommen) formuliert sein, sie haben aber immer über diese gegenwärtige Praxis hinaus zu deuten, und dürfen keinesfalls "realistisch" einem Status Quo idealisieren.
+Es wäre nach Dewey also fatal, würde man seine ethischen Vorstellungen der gegenwärtigen Realität anpassen.
 
 ### Theorie des guten Handelns
 
@@ -28,10 +28,10 @@ Fortschritt kann weiterhin auch durch Angst bewirkt werden.
 Zum einen sieht Dewey Angst als Druckmittel der staatlichen Gewalt, zum anderen aber auch als Motivation, Aufgaben besser auszuführen.
 Daraus ist abzuleiten, dass Angst tendenziell nicht als schlecht angesehen wird.
 Sie wird allerdings häufig auf falsche Art und Weise institutionalisiert und verliert somit ihren möglicherweise positiven Effekt.
-Im Sinne der Motivation kann mit Angst allerdings kann ein Problem auftreten, wenn z.B. die Arbeiter nicht wissen warum sie etwas machen, sondern nur in Erwartung von Belohnung bzw. Bestrafung agieren.
+Im Sinne der Motivation kann mit Angst allerdings kann ein Problem auftreten, wenn z.B. die Arbeiterinnen nicht wissen warum sie etwas machen, sondern nur in Erwartung von Belohnung bzw. Bestrafung agieren.
 Findet eine Mitarbeiterin keine Form von Selbstverwirklichung in ihrem Beruf, so findet sich nach Dewey legale Sklaverei.
 <!-- TODO: MH genau -->
-Wie sich an der Kritik Deweys an Platos Klassengesellschaft erkennen lässt, ist der Individualismus dabei, laut Dewey, wichtig für die Chancengleichheit und den Meinungsaustausch in einer Demokratie, in welcher es die ständige Möglichkeit zur Neuausrichtung und Verbesserung geben muss:
+Wie sich an der folgenden Kritik Deweys an Platos Klassengesellschaft erkennen lässt, sind dabei laut Dewey der Individualismus, die Chancengleichheit und der Meinungsaustausch in einer Demokratie wichtig, damit es in der Gesellschaft die ständige Möglichkeit zur Neuausrichtung und Verbesserung gibt:
 >"He never got any conception of the indefinite plurality of activities which may characterize an individual [...] ans consequently limited his view to a limited number of *classes*" (S.95) 
 "Hence education would soon reach a static limit in each class, for only diversity makes change and progress" (S.96)
 
