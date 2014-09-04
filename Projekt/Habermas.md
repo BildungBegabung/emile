@@ -9,7 +9,7 @@ Jürgen Habermas postuliert nun in seinem 1998 erschienen Text "On the Pragmatic
 
 Dabei differenziert er zunächst zwischen Handlungen an Objekten in der fassbaren Realität und Handlungen in der sozialen Welt, also Sprechakten, die sich insbesondere in ihren Zielen unterscheiden.
 
-Während die Ziele der Handlungen am Objekt laut Habermas kausal herbeigeführt werden können und die Mittel unabhängig vom Zwecks stehen, können die Ziele eines Sprechaktes nicht unter diesen Kategorien zusammengefasst werden.
+Während die Ziele der Handlungen am Objekt laut Habermas kausal herbeigeführt werden können und die Mittel unabhängig vom Zweck stehen, können die Ziele eines Sprechaktes nicht unter diesen Kategorien zusammengefasst werden.
 Denn der Sprechakt enthält, im Gegensatz zum Handeln am Objekt, ein sogenanntes illokutives Element, das dem Gesprächsparter die dem Sprechakt zugrundeliegende Absicht des Handelnden offenbart.
 Einmal ist deshalb die Annahme der Kausalität unmöglich, denn das Ziel der Verständigung erfordert die Kooperation mit einer zweiten Person und kann damit nicht den selben innerweltlichen Status haben, wie eine Handlung am Objekt.
 Außerdem ist auch die Trennung von Mittel und Zweck in der Sprache nicht möglich:
@@ -30,8 +30,7 @@ Sagt Mihai beispielsweise "Wir sollten dem Küchenpersonal etwas vorsingen, weil
 Für Habermas muss jeder einzelne dieser Gültigkeitsansprüche anfechtbar sein um kommunikatives Handeln zu ermöglichen.
 
 Generell differenziert er zwischen strategischem und kommunikativem Handeln, wobei er letzteres für erstrebenswerter hält.
-Zwar steht für Habermas grundsätzlich hinter jeder Handlung ein "action plan",  also ein Ziel.
-Allerdings geht er auch davon aus, dass für eine erfolgreiche Kommunikation die Beilegung dieses "action plans" nötig ist, um ausschließlich illokutive Ziele zu verfolgen.
+Zwar steht für Habermas grundsätzlich hinter jeder Handlung ein "action plan",  also ein Ziel, allerdings geht er auch davon aus, dass für eine erfolgreiche Kommunikation die Beilegung dieses "action plans" nötig ist, um ausschließlich illokutive Ziele zu verfolgen.
 Wird dies nicht getan, spricht Habermas von strategischem Handeln, welches perlokutive ~ Ziele, in den Vordergrund stellt, also eine bestimmte Wirkung beim Gegenüber erreichen möchte.
 Dabei gibt es wiederum zwei Arten von strategischem Handeln:
 Latent strategisches Handeln und manifest strategisches Handeln.
@@ -44,18 +43,6 @@ In beiden Fällen des strategischen Handelns spricht Habermas nicht von Verstän
 Diese ist als solche nur in Form des kommunikativen Handlens in einer intersubjektiv geteilten Lebenswelt möglich, bei der beide Parteien uneingeschränkt das Ziel der Verständigung verfolgen.
 
 Er geht davon aus, dass strategische Handlungen in Systemen und kommunikatives Handeln in intersubjektiven ~ (das heißt beiden Akteuren gleichermaßen zugänglichen) Lebenswelten stattfinden und kritisiert hier die Kolonialisierung der Lebenswelten welche durch die Instutionalisierung der Gesellschaft vom System kolonialisiert wird.
-
-## Verbindungen -Stichpunkte:
-- Konstruktivismus (intersubjectively exchanged lifeworlds)
-- Sprache ist rekursiv? Sprache ist Mittel zur Verständigung, ist Sprache, ist MIttel zur Verständigung....
-Vgl. Mead symbolischen Interaktionismus
-- "her own free will give approval" helfen/kommunikation muss immer freiwillig sein (Zimpel)
-- Sprache ist keine Institution (?) Rousseau
-- Dewey auch Pragmatist (Habermas sieht sprache immer im Bezug zur Umwelt)
-- **Benner** Bildsamkeit -> man hat die Fähigkeit zur Selbstbestimmung, soll man selbstbestimmung gelehrt bekommen, kann das nur über kommunikatives Handeln geschehen, weil durch strategisches Handeln uneigethunne Meinungen geförtert werden. Heini soll kommunikativ sein!
-- **Zimpel** Heini muss gholfen werden ABER wo ist da die Verbindung?? Ist helfen kommunikation (beidseitig) oder action (einseitig?)
-- **Sozialwahltheorie** - single-peakedness durch kommunikatives Handeln erreichen, einigung über allgemeine Optimumordung, besseres Wahlverhalten, prävention einer diktatur über wahlverhalten
-- **Dahl** enlightend understaning, ist nicht soo wichtig (da Dahl liberal) ; Control of the Agenda -> durch kommunikation erreichbar -> strategisches handeln = manipulation; liberale sprechen über freiheit als negativen Begriff, hat das Folgen?? Wie androhung von Gewalt
 
 ## Habermas - Dewey - Tilly : Kommunikatives und Strategisches Handeln im Kontext von Staatenbildung und -entwicklung
 <!-- Autoren zur Übersicht bitte erstmal stehen lassen! FB-->
