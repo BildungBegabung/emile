@@ -12,7 +12,7 @@ Diese Annahme lässt sich ebenso auf das Gesundheitssystem anwenden, welchem die
 Es mag möglich sein, dass Polizei zur Sicherheit eines Wohnviertels beitragen kann, aber der Umkehrschluss, dass Sicherheit nur durch Polizeipräsenz erreicht werden kann, bzw. dass Polizeipräsenz *unausweichlich* zu mehr Sicherheit führt, verleitet zu falschen Konsequenzen.
 Aus diesem Zusammenhang würde sich die Möglichkeit ergeben, die Werte, d.h. Sicherheit, Lernerfolg, etc., zu messen; und zwar am Umfang des Prozesses (Polizeipräsenz, Schulanwesenheit).
 Den Mythos der messbaren Werte beziehen wir schließlich auch auf unsere "imaginations, and, indeed, man himself" (ebd. S. 19)
->„In a schooled world the road to happiness is paved with a consumer's index“ (S. 19).
+Wir versuchen den Wert unsereer Persönlichkeit zu messen, wodurch unser Weg zur Glücklichkeit von einem "consumer's index" geebnet wird.
 <!-- TODO: VK Zitat in den Text miteinbeziehen -->
 Diese Werte beginnen einen allgemein verbindlichen Charakter zu entwickeln, weswegen wir unser "Wissen" an die nächste Generation weitergeben wollen, und somit versuchen deren Lernprozess ebenfalls zu kontrollieren.
 Wir gehen davon aus, das Urteil einer Person sollte entscheiden, was ein anderer Mensch wann lernen soll.
@@ -48,15 +48,10 @@ Auf diese Weise würden Menschen von alleine dazu motiviert werden zu lernen.
 Dies würde den Lernprozess sowie unverbindliche, nachbarschafliche Interaktion fördern.
 
 
-<!-- mead (Interaktion notwendig) -->
-
-<!-- TODO: Vielleicht auch SoWi-Texte? Mal Max ansprechen -->
-
 #### Illichs Modell als Lösung
 
 Durch sein Konzept eines selbstbestimmten und selbstorganisierten Lernens können viele der Anforderungen, welche die in der Exposition behandelten Texte an den Prozess des Lernens und an das menschliche Zusammenleben stellen, erfüllt und Widersprüche gelöst werden.
 Illich beschreibt konkrete Vorschläge zur Umsetzung seiner "educational revolution", die als praktische Anwedung verschiedener theoretischer Ansätze verstanden werden können, welche wiederum Illichs Argumente stützen.
-
 
 
 So müssen beispielsweise nach der Theorie des Konstruktivismus Lerninhalte "viabel", das heißt für das lernende Individuum funktional und bedeutend, sein.
@@ -91,6 +86,7 @@ Durch die große Vielfalt an Fähigkeiten, die durch die Fertigkeitsbörsen verm
 Der Prozess verläuft dort also nicht, wie in der Schule, einseitig zwischen Schüler und Lehrer, wordurch schwächere Schüler sich nicht als hilfreich für andere erleben können.
 Ein weiterer Unterschied zum schulischen Lehren liegt darin, dass das Spektrum an Fertigkeiten, die angeboten werden können, fast unbegrenzt ist.
 So werden beispielsweise auch Menschen mit einem künstlerischen Talent, das in der Schule oft nur geringe Anerkennung findet, benötigt.
+
 
 
 Der Ansatz des sozialen Lernens lässt sich auch auf Dewey beziehen. Illich und Dewey stellen sich beide gegen einen aktiven Lehrprozess und sehen Lernen eher als eine natürliche Eigenschaft des Menschen.
