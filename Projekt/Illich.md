@@ -37,11 +37,10 @@ So gäbe es einen praktischen Grund, der zum Lernen motivieren kann.
 Durch sein Konzept eines selbstbestimmten und selbstorganisierten Lernens können viele der Anforderungen, welche die in der Exposition behandelten Texte an den Prozess des Lernens und an das menschliche Zusammenleben stellen, erfüllt und Widersprüche gelöst werden.
 Illich beschreibt konkrete Vorschläge zur Umsetzung seiner "educational revolution", die als praktische Anwedung verschiedener theoretischer Ansätze verstanden werden können, welche wiederum Illichs Argumente stützen.
 
-
-So müssen beispielsweise nach der Theorie des Konstruktivismus Lerninhalte "viabel", das heißt für das lernende Individuum funktional und bedeutend, sein.
-Da "das psychische System entscheidet, was es verarbeiten kann und will" (Siebert, S.18), ergibt sich die Forderung nach einem selbstbestimmten Lernen.
+So würde der Konstruktivismus Illichs Auffassung des Lernbegriffes belegen.
+Nach Siebert entscheide "das psychische System, was es verarbeiten kann und will", je nach dem ob Dinge als viabel, d.h. bedeutend, von dem Individuum wahrgenommen werden.
 Jeder hat die Freiheit, eine Gelegenheit zum Lernen wahrzunehmen, oder sich dagegen zu entscheiden.
-Durch die so entstandene Auswahlmöglichkeit zwischen verschiedensten Lerninhalten wird gewährleistet, dass sich jedes Individuum dem beschäftigen kann, der für es am anschlussfähigsten ist.
+Durch die so entstandene Auswahlmöglichkeit zwischen verschiedensten Lerninhalten wird gewährleistet, dass sich jedes Individuum mit dem beschäftigen kann, der für es am anschlussfähigsten ist.
 
 
 Damit sich dem Lernenden diese Wahlmöglichkeit eröffnet, benötigt er nach Illich Zugang zu den vier oben beschriebenen "Ressourcen". Der Pädagoge Dietrich Benner geht ebenfalls von gewissen Umständen, insbesondere Bezugspersonen, aus, die dem Zögling erst selbstbestimmtes Lernen ermöglichen.
