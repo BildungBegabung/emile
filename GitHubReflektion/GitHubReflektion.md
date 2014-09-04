@@ -27,17 +27,9 @@ Dieses Problem löst Github durch allumfassende Berechtigungen für jeden TN.
 Jeder arbeitet dadurch unabhängig und autonom in seiner Geschwindigkeit an selbstgewählten Themen (vgl. S. 495 - Wichtigkeit des Selberwählens aus gegebenen Alternativen).
 Zugleich arbeiten wir kooperativ zusammen, denn durch die zeitgleiche, gegenseitige Kontrolle  wird das Ergebnis besser, als es in Einzelarbeit sein könnte.
 Wir arbeiten damit im Sinne eines Kollektivs im Kurs.
-Durch die virtuelle Vernetzung entsteht allerdings die Gefahr, dass die reale, emotionale Komponente verloren geht, gerade weil GitHub anders als soziale Netzwerke eine Basis für gemeinsames Arbeiten darstellt, sodass ein Großteil der dokubezogenen Kommunikation hierüber einfacher zu leiten ist.
-
+Durch die virtuelle Vernetzung entsteht allerdings die Gefahr, dass die reale, emotionale Komponente verloren geht.
 Für Freinet ist eine Gruppendynamik ähnlich der einer Familie sehr wichtig.
-
-Diese ist nicht mehr gegeben, sobald digital vernetztes Lernen beginnt, da es eine geographische Nähe entbehrlich macht.
-
-Darüberhinaus bietet das Internet als Plattform für GitHub dem Edukator praktische Unfehlbarkeit, da dieser praktisch uneingeschränkte Freiheiten mit der Arbeit der anderen hat und fast alles bearbeiten oder löschen kann.
-
-Jedoch ist gerade die Fehlbarkeit des Lehrers entscheidend, denn hier kann er ehrlich zu seinen Schülern sein (vgl. Freinet-1946 S. 110).
-
-Trotzalledem ist es fraglich, ob eine vernetzte Arbeit mit Freinets Reformpädagogik verglichen werden kann, schließlich konnte Freinet in der Mitte des 20.Jahrhunderts die Entwicklung des Internets nicht vorhersagen.
+Ohne geographische Nähe ist diese nicht mehr gegeben.
 
 Als Fazit lässt sich also sagen, dass Freinet unserem System wahrscheinlich nicht abgeneigt wäre, aber seine contra-sozialen Folgen stark kritisieren würde.
 
