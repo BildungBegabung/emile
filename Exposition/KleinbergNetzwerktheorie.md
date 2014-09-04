@@ -45,29 +45,36 @@ Besonders deutlich wird dies beispielsweise beim Sprachgebrauch und Vokabular in
 So gehören Begriffe wie *KüA* oder *AKL* in der DSA zum normalen Sprachgebrauch und sind bei allen Teilnehmern etabliert, sie werden sich allerdings kaum darüber hinaus in den Wortschatz ausbreiten, da die DSA einen eigenen, von anderen Bereichen isolierten Kontext darstellt.
 Die Netzwerktheorie macht somit deutlich, weshalb bestimmte gemeinsam geteilte Angewohnheiten oder Neuerungen sich nur in einem bestimmten Cluster etablieren und somit große Netzwerke in kleinere Abschnitte unterteilen, die wiederum in ihren Eigenschaften mehr oder weniger unabhängig und isoliert voneinander bestehen.
 Diese relative "Isolation" kann in bestimmten Fällen sowohl einen Vorteil der Mitglieder innerhalb der Gruppe als auch eine Abgrenzung von Außenstehenden zur Folge haben, da diese keine Möglichkeit haben, Neuerungen der Gruppe zu übernehmen.
+
 ### Zimpel
 
 Eine Anwendung in der Pädagogik bietet Andre Frank Zimpel, der in seinem Text als ein ein zentrales Problem des Lehrens in der Schule die Heterogenität in einer Lerngruppe beschreibt, durch die ein Konflikt zwischen der Möglichkeit einer individuellen Förderung und dem Ziel eines gemeinsamen Lernens, das jeden Schüler in gleicher Weise berücksichtigt, besteht.
-Die Lehrenden müssen sich also der Frage stellen, welches der beiden Ziele, Individualität oder Gemeinschaft, auf Kosten des anderen stärker verfolgt werden soll
-Zimpel stellt dabei drei Konzepte vor.
-Ein Prinzip, bei dem die Individualität des Einzelnen in den Vordergrund gestellt wird, ist **das Matthäusprinzip**. Sein Grundsatz sagt aus: "„Wer viel hat, dem wird viel gegeben; wer wenig hat, dem wird genommen“ (Zimpel, S.105).
+Die Lehrenden müssen sich also der Frage stellen, welches der beiden Ziele, Individualität oder Gemeinschaft, auf Kosten des anderen stärker verfolgt werden soll.
+Zimpel stellt drei Möglichkeiten vor:
+Ein Prinzip, bei dem die Individualität des Einzelnen in den Vordergrund gestellt wird, ist **das Matthäusprinzip**.
+Sein Grundsatz sagt aus: "„Wer viel hat, dem wird viel gegeben; wer wenig hat, dem wird genommen“ (Zimpel, S.105).
 Man kann es damit erklären, dass Menschen mit "mehr" (zum Beispiel Begabung oder Geld) bessere Vorraussetzungen haben und automatisch leichter *noch mehr* erreichen als andere mit "weniger", wodurch sich die Unterschiede verstärken.
 Oft findet dies auch bewusst in Form von gezielter Förderung und speziellen Programmen für leistungsstarke Schüler wie beispielsweise der DSA statt.
 Diese leistungsstarken Schüler bilden dann in der Gesamtschülerschaft ein eigenes Cluster, durch das sie sich von den anderen leistungsschwächeren Schülern abgrenzen. Sie bekommen so Zugang zu speziellen Inhalten, Methoden oder auch wichtigen Kontakten und Möglichkeiten, von denen sie untereinander profitieren, zu dene schwächere Schüler aber keinen Zugang finden können.
-Zum einen enstehen dadurch größere gesellschaftliche und schulische Disparitäten, andererseits bietet sich aufgrund der verschiedenen Fähigkeitsstufen eine Wettbewerbssituation, die als Motivation für schwächere dienen kann.
+Zum einen entstehen dadurch größere gesellschaftliche und schulische Disparitäten, andererseits bietet sich aufgrund der verschiedenen Fähigkeitsstufen eine Wettbewerbssituation, die als Motivation für schwächere dienen kann.
 
 **Das Normalisierungsprinzip** kann als Gegenstück des Matthäusprinzips betrachtet werden: "Wer wenig hat, bekommt. Wer viel hat, gibt.“ (S.12)
-Durch verschiedene Maßnahmen wird also ein Ausgleich angestrebt.
-Die Anzahl der Schüler, die dem Mittelmaß zugeordnet werden können, steige demnach an, extreme Abweichungen nehmen entsprechend ab.
+Durch verschiedene Maßnahmen wird hier ein Ausgleich angestrebt.
+Die Anzahl der Schüler, die dem Mittelmaß zugeordnet werden können, steigen demnach an, extreme Abweichungen nehmen entsprechend ab.
 Besonders in der Sonderpädagogik wird dieses System häufig angewendet, um benachteiligten Schülern gleiche Chancen einzuräumen.
-Als Netzwerk dargestellt gäbe es beim Normalisierungsprinzip keine Cluster oder Abgrenzungen, da jeder Schwache mit starken Schülern in Kontakt steht. Das Ideal wäre eine Lerngruppe, in der ein homogener Bildungsstandard herrscht. In der Netzwerktheorie stößt das Prinzip allerdings schon an seine Grenzen, wenn man Personen am Rand des Netzwerks betrachtet, die zwangsläufig weniger Kontakte als andere haben.
+Als Netzwerk dargestellt, gäbe es beim Normalisierungsprinzip keine Cluster oder Abgrenzungen, da jeder Schwache mit starken Schülern in Kontakt steht.
+Das Ideal dieses Prinzips wäre eine Lerngruppe, in der ein homogener Bildungsstandard herrscht.
+In der Netzwerktheorie stößt das Prinzip allerdings schon an seine Grenzen, wenn man Personen am Rand des Netzwerks betrachtet, die zwangsläufig weniger Kontakte als andere haben.
 
-Da diese beiden Prinzipien, werden sie als jeweils als einziges und vollständig angewendet, gravierende Nachteile mit sich bringen, stellt Zimpel eine dritte Möglichkeit vor, den **Hyperzyklus**.
-Am Beispiel eines Schülerin mit einer geistigen Behinderung erläutert er, wie Integration als Balance zwischen der Anerkennung der Individualität und der Gleichwertigkeit der Schüler gelingen kann.
-Dieses Konzept beruht darauf, dass sich alle Schüler als hilfreich für andere erleben können. So entsteht ein rekursives, zirkuläres System von gegenseitiger Hilfestellung (Rot hilft Gelb, Gelb hilft Grün, Grün hilft Rot, etc.).
-Es ensteht ein "Fluss des Gebens und Nehmens", bei dem, trotz der unterschiedlichen Vorraussetzungen der Schüler, alle in den Lernprozess eingebunden werden konnten.
+Da diese beiden Prinzipien, werden sie als einziges und vollständig angewendet, gravierende Nachteile mit sich bringen, stellt Zimpel eine dritte Möglichkeit vor, wie die beschriebenen Probleme didaktisch gelöst werden könnten: den **Hyperzyklus**.
+Dieses Prinzip erläutert, wie Integration als Balance zwischen Anerkennung von Individualität und Gleichwertigkeit aller Schüler gelingen kann.
+Der didaktische Hyperzyklus beruht darauf, dass sich alle Schüler als hilfreich für andere erleben können.
+So entsteht ein rekursives, zirkuläres System von gegenseitiger Hilfestellung (Rot hilft Gelb, Gelb hilft Grün, Grün hilft Rot, etc.).
+Es entsteht ein "Fluss des Gebens und Nehmens", bei dem, trotz der unterschiedlichen Vorraussetzungen der Schüler, alle in den Lernprozess eingebunden werden konnten.
+<!-- TODO: VK direktes Zitat? -->
 Auch beim Hyperzyklus gibt es dementsprechend keine Clustergrenzen und somit keine Abgrenzung zwischen Schülern verschiedener Leistungsstärken.
-Vielmehr kategorisiert nicht zwangsläufig in stark oder schwach, sondern diferneziert den Leistungsbegriff und berücksichtigt viele verschiedene Fähigkeiten und Begabungen. Somit kann jeder Schüler als Hilfe dienen und Hilfe empfangen.
+Das Prinzip kategorisiert nicht zwangsläufig in stark oder schwach, sondern diferneziert den Leistungsbegriff und berücksichtigt viele verschiedene Fähigkeiten und Begabungen.
+Somit kann jeder Schüler als Hilfe dienen und Hilfe empfangen.
 
 
 
