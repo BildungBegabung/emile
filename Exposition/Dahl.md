@@ -4,13 +4,6 @@ Dahl meint, dass es wichtig ist sich mit der Demokratie auseinanderzusetzen, da 
 Diese Auseinandersetzung mit der Demokratie trägt dazu bei stetig an ihr zu arbeiten, damit sie bewahrt wird, denn Demokratie ist nicht naturgegeben.
 
 
-### intrinsische Gleichheit & persönliche Autonomie
-
-Dahls Verständnis von **Demokratie** stützt sich auf die **Kombination aus intrinsischer Gleichwertigkeit und persönlicher Autonomie**.
-Intrinsische Gleichheit bedeutet, dass die gleiche Berücksichtigung aller Interessen der Mitglieder der Gemeinschaft zu beachten ist.
-Persönliche Autonomie beschreibt die Entscheidungsfreiheit, damit  jeder kann die Entscheidung treffen kann, die für ihn am besten ist, denn "every adult is the best judge of his or her own interest" (S.100).
-
-
 ### Kriterien für eine funktionierende Demokratie
 
 Um die Demokratie zu sichern, setzt Dahl **vier Kriterien** voraus:
@@ -22,6 +15,7 @@ Die Aussage, dass alle Stimmen gleich gewichtet werden, wird mit dem zweiten Kri
 **"Enlightened understanding"**, das dritte Kriterium, bezieht sich auf die Notwendigkeit der Bildung für die Demokratie:
 "But to know what it wants, the people must be enlightened, at least at some degree." (S.111)
 Allerdings darf ein Mitglied der Gemeinschaft nicht zur Bildung gezwungen werden, obwohl ein gewisses Interesse über politische Prozessen aufgeklärt zu bleiben vorausgesetzt wird.
+
 Das vierte Kriterium heißt **"control of the agenda"** und sagt aus, dass es wichtig ist die Individuen entscheiden zu lassen, welche Probleme behandelt werden bzw. über welche Probleme entschieden wird.
 
 
@@ -45,6 +39,13 @@ Diese Dimension ist wichtig, da Menschen mir ihr total menschlich wären, aber o
 In einer Demokratie ist die Autonomie wichtig aufgrund des größtmöglichen Bereiches, in welchem Entscheidungen getroffen werden können.
 Deswegen respektiert wird auch die Autonomie größtmöglich akzeptiert.
 Außerdem ist Autonomie in einer Demokratie nicht wegzudenken, weil diese quasi durch die Bürger selbst regiert wird, denn "to be morally autonomous is to be self-governing in the domain of morally relevant choices" (S.91).
+
+
+### intrinsische Gleichheit & persönliche Autonomie
+
+Dahls Verständnis von **Demokratie** stützt sich auf die **Kombination aus intrinsischer Gleichwertigkeit und persönlicher Autonomie**.
+Intrinsische Gleichheit bedeutet, dass die Interessen eines jeden Menschen grundsätzlich gleichwertig sind und daher bei jeder Entscheidung auch gleichmäßig in Betracht gezogen werden müssen.
+Persönliche Autonomie beschreibt die Entscheidungsfreiheit, damit  jeder kann die Entscheidung treffen kann, die für ihn am besten ist, denn "every adult is the best judge of his or her own interest" (S.100).
 
 
 ### politische Einordnung
