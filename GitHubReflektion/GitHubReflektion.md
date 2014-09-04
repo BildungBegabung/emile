@@ -10,28 +10,31 @@ Als Vorbereitung für den Kurs arbeiteten wir bereits vor Akademiebeginn gemeins
 Später verwendeten eben Git um die Dokumentation zu schreiben, im Kombination mit dem Open-Source-Texteditor Atom.
 Diese drei Komponenten sollten unsere Arbeit so effizient wie möglich gestalten.
 
-Jeder hatte zu jedem Zeitpunkt die Möglichkeit auf alle geschrieben Texte zuzugreifen, diese zu kommentieren und selbst zu bearbeiten.
+Jeder hatte zu jedem Zeitpunkt die Möglichkeit auf alle geschrieben Texte zuzugreifen, diese zu kommentieren und selbst zu bearbeiten und zu ändern.
 Dadurch entstand eine völlig neue Form der sozialen Interaktion, die in Bezug auf die Ausgangsfrage nach persönlicher Autonomie und inhärenter Gleichheit zu analysieren ist.
 Hierfür lassen wir vier Autoren aus unserem Kurs sprechen und befragen sie postum, was sie zu diesem gewagten Unterfangen auf GitHub sagen würden.
 
 ## Was Freinet zu unserer Zusammenarbeit auf GitHub sagen würde
 
-Vor fast 100 Jahren sprießte die Reformpädagogik, in einer Zeit ohne Computer, geschweigedenn Internet.
-Während wir fleißig Issues closen und merge conflicts lösen, hantierte Célestin Freinet mit Druckerpressen und Karteikarten - damals der letzte Schrei.
+Vor fast 100 Jahren enstand die Reformpädagogik, in einer Zeit ohne Computer, geschweige denn Internet.
+Während wir gerade fleißig Issues *closen* und *merge conflicts* lösen, hantierte Célestin Freinet mit Druckerpressen und Karteikarten - damals der letzte Schrei.
 Lässt sich unsere Arbeit auf GitHub trotzdem mit seinen reformpädagogischen Ideen vereinen?
 
-Würden wir alle das Gleiche bearbeiten, entsteht für viele der DSA-Teilnehmer große Frustration.
-Für die einen geht es viel zu langsam, für die anderen viel zu schnell voran.
+Würden wir alle das Gleiche bearbeiten, würden für viele der DSA-Teilnehmer große Frustration erleben.
+Für manche geht es viel zu langsam, für andere viel zu schnell voran.
 >"Arbeit in der Gruppe [aber] bedeutet nicht zwangsläufig, daß jeder die gleiche Arbeit verrichtet. Der Einzelne muß dabei im Gegenteil ein Maximum von seiner Persönlichkeit bewahren, aber im Dienst der Gemeinschaft stehen." (S. ebd. 510)
 
-Dieses Problem löst Github aber so simpel wie genial.
+Dieses Problem löst Github durch allumfassende Berechtigungen für jeden TN so simpel wie genial.
 Jeder arbeitet dadurch unabhängig und autonom in seiner Geschwindigkeit an selbstgewählten Themen (vgl. S. 495 Wichtigkeit des Selberwählens aus gegebenen Alternativen).
-Zugleich arbeiten wir kooperativ zusammen, denn durch die zeitgleiche, gegenseitige Kontrolle  wird das Ergebnis besser, als es in Einzelarbeit wäre.
-Wir stellen uns auch in den Dienst der Gemeinschaft, wobei diese unsere autonome Arbeit respektiert, da jeder das Recht besitzt Zeilen zu verbessern oder einfach einen ganzen Absatz zu löschen.
-Es ist allerdings problematisch, dass durch die Vernetzung, die GitHub bietet, eine emotionale Verbindung verloren geht.
-Für Freinet ist eine Gruppendynamik ähnlich die einer Familie sehr wichtig.
-Diese ist nicht mehr gegeben, sobald vernetztes Lernen beginnt, da es eine geographische Nähe nicht mehr notwendig ist.
+Zugleich arbeiten wir kooperativ zusammen, denn durch die zeitgleiche, gegenseitige Kontrolle  wird das Ergebnis besser, als es in Einzelarbeit sein könnte.
+Wir stellen uns damit in den Dienst der Gemeinschaft des Kurses, wobei diese unsere autonome Arbeit respektiert da jeder das Recht besitzt Zeilen zu verbessern oder einfach einen ganzen Absatz zu löschen.
+<!-- TODO Fb: Satz hier drüber neu formulieren -->
+Es ist allerdings problematisch, dass durch die Vernetzung, die GitHub bietet, eine direkt emotionale Verbindung verloren geht.
+<!-- TODO FB: WArum ist das auf Github so und nicht in Facebook - wie wärs mit einem teilweise ? ;9 -->
+Für Freinet ist eine Gruppendynamik ähnlich der einer Familie sehr wichtig.
+Diese ist nicht mehr gegeben, sobald vernetztes Lernen beginnt, da es eine geographische Nähe entbehrlich macht.
 Darüberhinaus bietet das Internet als Plattform für GitHub dem Edukator praktische Unfehlbarkeit.
+<!-- TODO FB: Wie funktioniert das? -->
 Jedoch ist gerade die Fehlbarkeit des Lehrers entscheidend, denn hier kann er ehrlich zu seinen Schülern sein (vgl. Freinet-1946 S. 110).
 
 Trotz alle dem ist es fraglich ob eine vernetzte Arbeit mit Freinets Reformpädagogik verglichen werden kann, schließlich konnte Freinet in der Mitte des 20.Jahrhunderts die Entwicklung des Internets nicht vorhersagen.
