@@ -23,16 +23,16 @@ Diese Handlung ist entscheidend für die Entwicklung eines Staates, denn sie zei
 
 Wenn sich ein Machthaber wie ein Schutzgelderpresser (racketeer) verhält, also extrem hohe Tribute fordert, trotzdem das Geld nicht zum Wohle des Volkes nutzt sondern sich nur persönlich bereichert, spricht Tilly von Despotie.
 Hätte das Volk aber als solches die Möglichkeit, Steuern zu regulieren und über ihre Verwendung zu entscheiden, läge eine Demokratie vor (ebd. S.176 18ff. und 24f).
-Händler können jedoch auch von diesem System profitieren:                          
+Händler können jedoch auch von diesem System profitieren:
 Wenn ein Händler weniger Steuern an seinen Herrscher zahlen muss als ein Konkurrent, so gewinnt er durch diese Differenz einen Vorteil und kann sein Kapital besser vermehren.
 Letztendlich profitiert auch der Herrscher, denn er erhält so auch mehr Tribute, die er benötigt um sein Reich zu stabilisieren oder gar zu expandieren.
 
 ## Durch welche Handlungen definiert sich aber nun ein Staat?
-Nachdem der Staat durch ***Unterwerfung*** das Machtmonopol installiert hat (ebd. S.175 Z.7f), *definiert* er sich durch das sogenannte *Gewaltmonopol*("the authority's monopoly of force" ebd. S.172, Z.1).
+Nachdem der Staat durch ***Unterwerfung*** das Machtmonopol installiert hat (ebd. S.175 Z.7f), *definiert* er sich durch das sogenannte *Gewaltmonopol* ("the authority's monopoly of force" ebd. S.172, Z.1).
 In Tillys Verständnis kann man dies als das Alleinrecht auf Sicherheit und Ordnung auf einem bestimmten Gebiet verstehen("governments claim to provide protection" ebd. S.172, Z.2).
-Andere Leistungen wie z.B. eine Krankenversicherung oder die Deutsche Schülerakademie sind nicht Teil von Tillys Staatsverständnis( ist nicht enthalten in: "What Do States Do?" ebd. S. 181).
+Andere Leistungen wie z.B. eine Krankenversicherung oder die Deutsche Schülerakademie sind nicht Teil von Tillys Staatsverständnis (ist nicht enthalten in: "What Do States Do?" ebd. S. 181).
 
 ## Gewaltmonopol und Schule
-Der Bezug zum eigentlichen Thema dieser Arbeit mag erst schleierhaft scheinen.
+Der Bezug zum eigentlichen Thema dieser Arbeit mag erst schleierhaft erscheinen.
 Doch Tilly begründet die Herkunft des Gewaltmonopols eines Staates, das auch die Basis für die Durchsetzung der Schulpflicht ist.
 Nach diesem Exkurs in die Staatstheorie handelt der nächste Text von gegenseitigem Helfen in der Schule.
