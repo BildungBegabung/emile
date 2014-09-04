@@ -30,4 +30,4 @@ Andere Leistungen wie z.B. eine Krankenversicherung oder die Deutsche Schülerak
 
 Der Bezug zum eigentlichen Thema dieser Arbeit mag erst schleierhaft scheinen.
 Doch Tilly begründet die Herkunft des Gewaltmonopols eines Staates, das auch die Basis für die Durchsetzung der Schulpflicht ist.
-Nach diesem Exkurs in die Staatstheorie handelt der nächste Text von gegenseitigem Helfen in der Schue5zle.
+Nach diesem Exkurs in die Staatstheorie handelt der nächste Text von gegenseitigem Helfen in der Schule.
