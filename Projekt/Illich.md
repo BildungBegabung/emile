@@ -84,7 +84,7 @@ Der Prozess verläuft dort also nicht, wie in der Schule, einseitig zwischen Sch
 - darauf aufbauend: Illich als Lösungsvorschlag?
 
 Man kann sogar noch einen Schritt weiter gehen, indem man in Illichs Ideen eine Antwort auf eine der zentralen Fragen unserers Kurses, "Wie können unterschiedliche und unterschiedlich befähigte Menschen inhärent gleich berechtigt und persönlich autonom zusammenleben?", sieht.
-Ein zentraler Punkt, den er an der Institution Schule kritisiert,ist deren Recht zur Bewertung der Schüler durch Zertifikate. 
+Ein zentraler Punkt, den er an der Institution Schule kritisiert,ist deren Recht zur Bewertung der Schüler durch Zertifikate.
 Diese schulischen Zertifikate werden in der gegenwärtigen Gesellschaft als einzig legitime Qualifikationen betrachtet und geben somit der Schule die Macht, über die Zulassung von Schülern zu weiteren Bildungseinrichtungen oder die Erlaubnis zur Ausübung eines Berufs zu entscheiden.
 Die Folgen dieses Symstems sind weitreichend, was Illich mit dem Satz "School initiates young people into a world where everything can be measured, including their imaginations, and, indeed, man himself. (Illich, e, S.19), veranschaulicht.
 Schule produziert also durch die Beeinflussung der Lernenden dahingehend, dass der Wert von allem, sogar von Menschen messbar sei.
@@ -106,7 +106,6 @@ Wichtig ist dabei, dass wir dieses Wissen als bedeutend für uns wahrnehmen, da 
 Illich würde auf jeden Fall der Issue-Organisation zustimmen, in welcher jeder seine eigenen Interessen kundtun kann, und auch an der Ausarbeitung bereits formulierten Interessen teilnehmen kann.
 Wir arbeiten mit Gleichaltrigen, bzw. von ähnlichen Interessen Getriebenen, zusammen und können darauf Vertrauen, dass wir Einfluss auf das Endergebnis haben, und das wir in der Lage sind, unsere eigene Meinung so zu äußer, dass sie auch wahrgenommen wird.
 Dabei haben wir aber auch zu jedem Zeitpunkt die Möglichkeit, professionelle Hilfe zu bekommen, wobei diese uns nicht das eigentliche Wissen vermitteln, sondern ihnen lediglich eine beratende Stellung zukommt
-<!-- (Lob an Max und Verena an dieser Stelle!!) Habe es mal "unsichtbar" gemacht ;-) Danke!!! -->
 und uns vor allem in organisatorischen, bzw. technischen Fragen weiterhelfen.
 Als erster Kritikpnkt fällt natürlich die Vorauswahl der TNs ins Auge, jedoch stellen auch unter Negierung dieser Tatsache weitere Probleme in den Weg.
 Schränkte man unser Projekt allein auf die Ausarbeitung auf github ein, würde sich unser Kontakt ebenfalls wieder auf eine rein effizienzorientierte Ebene reduzieren und das eigentliche Identifizierungsprozess mit der anderen Perönlichkeit gerät in den Hintergrund.
