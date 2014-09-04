@@ -11,28 +11,28 @@ Staaten definiert er hierbei über die Kontrolle der physischen Gewalt in einem 
 Nach Tillys Modell ist die Entwicklung eines Staates immer mit kriegerischen und gewaltvollen Handlungen verbunden.
 Er geht sogar so weit zu behaupten, dass Gewalt notwendig für die Entwicklung eines Staates ist.
 Der Ausgangspunkt für die Entwicklung eines Staates, ist die Monopolisierung von Gewalt und Macht ("governments organize and, wherever possible, monopolize violence" ebd. S.171).
-Die Beziehungen untereinander unterliegen dem Sozialdarwinismus, bei dem jeder gegen jeden Krieg führt. Jede Person oder Gruppe versucht dabei, ökonomisch gesehen, positive Skalenerträge zu erzielen und sich so durch technische oder organisatoriche Innovationen einen Vorteil über die anderen Parteien zu verschaffen, um sich gegen die anderen als der Stärkste innerhalb eines geografischen Bereiches durchzusetzen.  (Vgl. ebd. S.173).
-Dieses Handeln ist entscheidend für die Entwicklung eines Staates, denn sie zeigt, dass ein Staat nicht etwa infolge von friedlicher Zusammenarbeit der Menschen entsteht, sondern immer an Machtkämpfe, Ausbeutung und Krieg gebunden ist ("war making likewise led to state making" ebd. S.183).
+Tilly sagt, dass in der vor-staatlichen Zeit mehrere gewaltausübende Parteien konkurrieren.
+Die Beziehungen derer untereinander unterliegen dem Sozialdarwinismus, da jede Partei gegen jede Krieg führt und diejenige besteht, die  siegreich aus dem Konflikt hervorgeht. Jede Person oder Gruppe versucht dabei, ökonomisch gesehen, positive Skalenerträge zu erzielen und sich so durch technische oder organisatoriche Innovationen einen Vorteil über die anderen Parteien zu verschaffen, um sich gegen die anderen als der Stärkste innerhalb eines geografischen Bereiches durchzusetzen.  (Vgl. ebd. S.173).
+Dieses Handeln ist entscheidend für die Entwicklung eines Staates, denn es zeigt, dass ein Staat nicht etwa infolge von friedlicher Zusammenarbeit der Menschen entsteht, sondern immer an Machtkämpfe, Ausbeutung und Krieg gebunden ist ("war making likewise led to state making" ebd. S.183).
 
-Positive Skalenerträge bedeuten, dass die Gesamtkosten für die Herstellung eines Produktes mit steigender  Anzahl an hergestellten Gütern billiger werden (vgl. Grafik).
-Für die herrschende Partei ist das insofern ein Vorteil, dass er mit geringeren Kosten effizienter Gewalt produzieren kann. Positive Skalenerträge kommen vor allem durch technische und organisatorische Innovationen zustande.
-So ist beispielsweise bei niedrig entwickelten Waffen wie Keulen kaum ein solcher Vorteil erkennbar, es kostet einen bestimmten Betrag, eine Keule herzustellen, die  eine Person ausschalten kann, dieser Betrag bleibt aber auch bei den nächsten tausend produzierten Keulen ungefähr gleich, es ergibt sich dadurch kein großer Vorteil.
+Positive Skalenerträge bedeuten, dass die Gesamtkosten für die Herstellung eines Produktes mit steigender  Anzahl an hergestellten Gütern sinken (vgl. Grafik).
+Für die herrschende Partei ist das insofern ein Vorteil, dass sie mit geringeren Kosten effizienter Gewalt "produzieren" kann. Positive Skalenerträge kommen vor allem durch technische und organisatorische Innovationen zustande.
+So ist beispielsweise bei niedrig entwickelten Waffen wie Keulen kaum ein solcher Vorteil erkennbar, es kostet einen bestimmten Geldbetrag, eine Keule herzustellen, die  eine Person ausschalten kann, dieser Betrag bleibt aber auch bei den nächsten tausend produzierten Keulen ungefähr gleich, es ergibt sich dadurch kein großer Vorteil.
 Anders bei höher entwickelten Waffen wie der Wasserstoffbombe.
 Hat diese bei einem Ertrag von mehreren Millionen Menschen, die auf einmal ausgeschaltet werden können, bei der ersten Herstellung noch extrem große Produktionskosten, so werden diese bei den nächsten produzierten Bomben deutlich kleiner.
-Für die herrschende Partei stellt dies einen militärischen Vorteil dar, er kann mit höherer Produktion deutlich höhere Erträge bei gleichen Kosten erzielen.
+Für die herrschende Partei stellt dies einen militärischen Vorteil dar, er kann mit höherer Produktion deutlich höhere Erträge bei gleichen Kosten erzielen und so die Konkurrenten ausschalten.
 
 ![Positive Skalenerträge](\img\Skalenerträge.png)
 
 
-Durch seine Macht hat die herrschende Partei  nun die Möglichkeit,  von seinem Volk  Tribute (Steuern) einzufordern und im Gegenzug "Sicherheit" anzubieten, allerdings funktioniert dies durch die Gewaltpräsenz und somit die Bedrohung des Herrschers auf seine Untergebenen. ("governments are in the business of selling protection" ebd. S. 175).
-
+Durch seine Macht hat die herrschende Partei nun die Möglichkeit,  von seinem Volk  Tribute (Steuern) einzufordern und im Gegenzug "Sicherheit" anzubieten, allerdings funktioniert dies nur durch die Gewaltpräsenz und somit die Bedrohung des Herrschers auf seine Untergebenen. ("governments are in the business of selling protection" ebd. S. 175).
 Der gebotene Schutz kann laut Tilly zwei Formen annehmen:
 
-Verhält sich die herrschende Partei als *legitimate protector* (legitimer Beschützer), so schützt er sein Volk vor externen Angriffen ().
+Verhält sich die herrschende Partei als *legitimate protector* (legitimer Beschützer), so schützt sie das unterworfene Volk vor externen Angriffen ().
 Ist der Machthaber ein *racketeer* (Schutzgelderpresser), nutzt er sein Gewaltmonopol aus, indem er sein Volk unter Druck setzt.
 Tilly betont dabei den paradox scheinenden Kontrast: der Staat droht mit Gewalt und schützt gleichzeitig vor ihr.
 
-Wenn sich ein Herrschender wie ein Schutzgelderpresser verhält, also (hohe) Tribute fordert, trotzdem das Geld nicht zum Wohle des Volkes nutzt sondern sich nur persönlich bereichert, spricht Tilly von Despotie.
+Wenn sich ein Staat wie ein Schutzgelderpresser verhält, also (hohe) Tribute fordert, das Geld aber nicht zum Wohle des Volkes nutzt sondern sich nur persönlich bereichert, spricht Tilly von Despotie.
 Hätte das Volk aber als solches die Möglichkeit, Steuern zu regulieren und über ihre Verwendung zu entscheiden, läge eine Demokratie vor (ebd. S.176 18ff. und 24f).
 Krieg macht es dem Staat möglich, seine Macht nach außen zu expandieren und legitimiert innerhalb seines Einflussbereiches das Eintreiben von Steuern. Das Eintreiben von Steuern  wiederum macht es dem Staat möglich, Krieg nach außen zu führen. Durch diese wechselseitige Beziehung wird die Wirtschaft, besonders die Gewaltproduktion, angekurbelt.
 Das intensiviert den Kreislauf zusätzlich.
