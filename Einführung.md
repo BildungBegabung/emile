@@ -17,7 +17,7 @@ Eine Autonomie, die jedes Individuum berücksichtigen will, und eine Gleichheit,
 Wenn unsere heutige Gesellschaft gegen den Anspruch auf eine allgemeine Antwort auf diese Fragen ausspricht, und die Imperfektheit des Menschen anerkennt, nach welchen Maßstäben sollten wir dann den Menschen erziehen.
 Oder: Müssen wir eigentlich erziehen?
 
-IMit unserer Arbeit versuchen wir diesen großen Fragen von dem Standpunkt der Sozialwissenschaft sowie der Pädagogik zu begegnen.
+Mit unserer Arbeit versuchen wir diese großen Fragen von den Standpunkten der Sozialwissenschaft sowie von den Theorien der Pädagogik aus zu beleuchten.
 Beide Blickwinkel untersuchen die Gegenstände der sozialen Welt und versuchen daraus Lösungsvorschläge aubzuleiten.
 Die Sozialwissenschaft für die Gesellschaftsform, die Pädagogik für die Schule.
 Diese Verbindung der beiden Disziplinen gehört nicht gerade zum klassischen Kursinventar von Universitäten und so ist unsere Herausforderung, neue Brücken zwischen verschiedensten Autoren zu schlagen und diese zu erläutern.
