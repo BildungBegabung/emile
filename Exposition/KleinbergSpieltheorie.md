@@ -67,4 +67,7 @@ Dieses Problem wäre durch Tillys Theorie der *Staatsgenese* gelöst, sie stellt
 
 Adam Smith lag somit mit seiner Annahme, dass die *streng dominante* Spielstrategie stets auch am besten zum Allgemeinwohl beiträgt falsch, da man nicht grundsätzlich von Spielen mit *besten Antworten* ausgehen kann und es dementsprechend, wie aufgezeigt, auch zu Kooperationsproblemen in menschlicher Interaktion kommen kann.
 
-<!-- MH TODO: hier fehlt auch noch eine Überleitung zum nächsten Teil und/oder Anwendung -->
+## Anwendunng
+
+Wie lässt sich die SPieltheorie in den Kurszusammenhang einordnen?
+Das Modell der *Spieltheorie*   stellt eine deutlich präzisere Formulierung des *Kooperationsproblems* in der menschlichen Interaktion dar, indem es dieses auf ein mathematisches Modell zurückführt. 
