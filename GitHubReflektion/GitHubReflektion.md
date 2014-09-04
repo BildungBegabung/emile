@@ -56,3 +56,10 @@ Schränkte man unser Projekt allein auf die Ausarbeitung auf Github ein, würde 
 Die Gefahr, dass die direkte Kommunikation hinter 16 aufgeklappten Laptopbildschirmen zu kurz kommt, ist nicht zu unterschätzen.
 
 <!-- TODO: VK Guter Abschnitt, fehlen nur 1-2 knackige Zitate aus Illich  -->
+
+## Hayeks Einschätzung zu GitHub
+
+Ähnlich wie bei Illich ist es unklar wie Hayek zu modernen Kommunikationsmitteln stehen würde, einfach aus dem schlichten Grund, dass er vermutlich nie mit einem Computer kommuniziert hat.
+Doch kann man aufgrund seiner Aussagen, die er über Kooperation getätigt hat, im Jahre 1945, seine Ansätze übertragen auf ein Medium wie GitHub. Er äußert sich sehr negativ auf Institutionen, die Wissen und Informationen austauschen. Die einzige Institution die half und mit der etwas "getauscht" werden durfte war Geld.
+>It is in this connection that what I have called the economic calculus proper helps us, at least by analogy, to see how this problem can be solved, and in fact is being solved, by the price system. (Hayek-1945 S. 525)
+Aufgrund dieser Tatsache würde Hayek GitHub vermutlich stringend ablehnen und sich dagegen aussprechen, dass wir mit dieser Institution Wissen austauschen und kooperieren. 
