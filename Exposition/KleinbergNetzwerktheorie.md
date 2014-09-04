@@ -18,8 +18,6 @@ Innerhalb der Struktur des Graphs kann es Besonderheiten, wie z.B. Komponente ge
 Aus dieser Ausgangssituation kann man je nach Betrachtungsweise verschiedene Schlussfolgerungen ziehen.
 
 Beispielsweise kann man den Informationsfluss in Netzwerken analysieren.
- <!-- TODO: Plakat anschauen, einfügen -->
-
 
 ### Kaskaden und Cluster
 
@@ -75,10 +73,6 @@ Somit kann jeder Schüler als Hilfe dienen und Hilfe empfangen.
 ### Power Law
 
 Wie sich bereits mithilfe der Graphen- und Netzwerktheorie erklären ließ, hat jeder Mensch innerhalb eines Netzwerks einen bestimmten klar definierten Bekanntenkreis aller mit ihm verbundenen Nachbarn.
-<!-- TODO: MH wdh, lieber direkt an oben stehenden Abschnitt anschließen; die
-Resultate von Kaskaden- und Netzwerkeffekten sind ja die Verbindung zwischen
-Netzwerktheorie und Power Laws -->
-  <!-- Durch den Einschub von Zimpel passt das wieder und ist eigentlich keine wdh mehr finde ich...:)  -->
 Dieser ist in der Realität in den meisten Fällen zahlenmäßig überschaubar, allerdings gibt es Ausnahmen von prominenten Personen, deren Bekanntheit über ihren direkten Bekanntenkreis hinausgeht, in manchen Fällen (*z.B. Barack Obama*) kommt es sogar zu globaler Bekanntheit.
 Das selbe Phänomen erkennen wir bei anderen Medien, die Popularität erlangen können, wie Musik, Bücher, etc.
 Daraus ergibt sich für Kleinberg die grundlegende Fragestellung:
@@ -89,6 +83,5 @@ Kleinberg bringt hierbei das Beispiel von Internetseiten, modelliert man für di
  Wertet man die Daten mehrerer Verteilungen aus, so zeigt sich, dass das Power Law im Großteil der Fälle überwiegt, wenn auch die Funktionen sich in ihren Parametern leicht unterscheiden (So zum Beispiel *1/k³* bei Romanen).
 Allerdings gilt für alle die allgemeine Gleichung des Power Law:
 *f(k) = a/(k^c)*
-<!-- TODO: MH zur Info: Verena und ich werden die Formeln dann im September in LaTeX setzen, dann sehen sie schön aus. -->
 Der Vorteil dieses Modells und der Unterschied zur Normalverteilung besteht im Verhalten des Graphen für große *k*:
 Während die Anteile bei exponentieller Abnahme mit steigendem *k* gegen Null streben, sinkt die Kurve beim Power Law deutlich langsamer, was bedeutet, dass die Werte für hohe *k* deutlich größer sind und dass auch höhere Werte für *k* erreicht werden können. In der Praxis erklärt dieses Modell damit gut das Zustandekommen von Prominenz und Berühmtheit sowie das Auftreten in extremer Ausprägung, bei der einzelneMenschen fast uneingeschränkte globale Popularität erlangen können.
