@@ -16,9 +16,6 @@ Um zwischen verschiedenen Wahlsystemen zu entscheiden, schlägt Arrow folgende m
 - Unabhängigkeit von irrelevanten Alternativen (IIA)
 - Vermeidung einer Diktatur
 
-(Arrow formuliert durch sein Unmöglichkeitstheorem die mathematisch bewiesene Tatsache, dass die Prinzipien der Pareto-Verbesserung und der Unabhängigkeit von irrelevanten Alternativen (IIA) nicht vereinbart werden können, ohne eine "Diktatur" zu ermöglichen.)
-<!-- TODO MH: Dieser Satz hat eher Charakter einer Schlussfolgerung als eines Einleitungssatzes; vielleicht erstmal sagen:vor: ... -->
-
 **Pareto-Verbesserung** bedeutet, dass sich bei Stimmänderung eines Individuums im Gegensatz zum vorherigen Wahlgang das Wahlergebnis schlimmstenfalls *nicht* oder andernfalls *in dessen Richtung* wendet.
 
 **IIA** bedingt, dass eine relative Gruppenpräferenz zwischen zwei Alternativen sich nicht verändert, wenn eine dritte Alternative hinzugefügt wird.
@@ -27,11 +24,12 @@ Sind die beiden obigen Bedinungen erfüllt kann beispielsweise durch eine nicht-
 Tritt einer der Fälle auf, wird das Ergebnis des Wahlgangs durch das Wahlsystem determiniert.
 Wer also das Wahlsystem bestimmt, hat die Macht das Ergebnis nach eigenen Maßstäben festzulegen, ist demnach Diktator.
 
+
 In den USA kann zum Beispiel durch die Festsetzung der Wahlbezirke indirekt ein minimaler Einfluss auf den Ausgang der Wahl geübt werden.
 
-Einzig bei einer Entscheidung zwischen zwei Alternativen kann - beispielsweise durch das Mehrheitswahlsyem - ein Ergebnis agreggiert werden, welches sowohl IIA als auch die Pareto-Verbesserung gewährt und gleichzeitig eine Diktatur vermeidet.
+Einzig bei einer Entscheidung zwischen zwei Alternativen kann - beispielsweise durch das Mehrheitswahlsystem - ein Ergebnis agreggiert werden, welches sowohl IIA als auch die Pareto-Verbesserung gewährt und gleichzeitig eine Diktatur vermeidet.
 
-Arrow formuliert diese Problematik durch sein Unmöglichkeitstheore, die mathematisch bewiesene Tatsache, dass die Prinzipien der Pareto-Verbesserung und der Unabhängigkeit von irrelevanten Alternativen (IIA) nicht vereinbart werden können, ohne eine "Diktatur" zu ermöglichen.
+Arrow formuliert diese Problematik durch sein **Unmöglichkeitstheorem**, die mathematisch bewiesene Tatsache, dass die Prinzipien der Pareto-Verbesserung und der Unabhängigkeit von irrelevanten Alternativen nicht vereinbart werden können, ohne eine "Diktatur" zu ermöglichen.
 
 ![Dreieckskonstellation](img/Kleinberg_Sozialwahltheorie_Abb1.jpg "Höchstens zwei der drei Seiten können gleichzeitig erfüllt werden")
 
