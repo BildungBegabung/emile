@@ -5,7 +5,8 @@
 > „Der Mensch hat keinen Zugriff auf die objektive Realität“
 > Heinz von Foester
 
-Die zentrale Frage einer konstruktivistischen Lerntheorie lautet: Wie nimmt der Mensch die Welt wahr und inwiefern prägen ihn dabei individuelle Erfahrungen?
+Die zentrale Frage einer konstruktivistischen Lerntheorie lautet:
+Wie nimmt der Mensch die Welt wahr und inwiefern prägen ihn dabei individuelle Erfahrungen?
 
 Bezieht man sich auf das einführende Zitat der Unmöglichkeit einer objektiven Wahrnehmung, so wird der Denkansatz des Konstruktivisten deutlich.
 
@@ -14,7 +15,7 @@ Ausgehend von dieser Annahme stellt Siebert die Kernthese auf, dass "Menschen [.
 Damit geht Siebert von einen autonomen Menschen aus, der sich durch Selbstorganisation auszeichnet (*"Autopoesie"*).
 
 Die Lebensauffassung ändert sich demnach permanent aufgrund von Erfahrungen und Ereignissen, die den Menschen betreffen.
-Der Konstruktivismus geht bei seiner Theorie von einem interpretativen *Paradigma*, der *Sichtweise* des Individuums aus.
+Der Konstruktivismus geht bei seiner Theorie von einem interpretativen *Paradigma*, der *Sichtweise* des Individuums, aus.
 Der Mensch entscheidet als *geschlossenes System*, ob die verfügbaren Informationen für ihn lebensdienlich (*viabel*) sind.
 Abhängig von den individuellen Determinationen, mit denen ein Mensch im Leben konfrontiert wird, verändert sich so seine Wahrnehmung der Umwelt.
 Der Mensch ist demnach strukturdeterminiert (vgl. ebd. S. 5).
@@ -29,11 +30,11 @@ Demzufolge schlussfolgert Siebert, dass ein *"Bildungskanon"* (ebd. S.28) nicht 
 In einer pluralisierten Gesellschaft ist eine *"Pluralisierung des Bildungsbegriffs angemessen"*.
 >In einer Gesellschaft die durch fortschreitende **Individualisierung** [...] gekennzeichnet ist, erscheint auch eine **Pluralisierung des Bildungsbegriffs** angemessen. (S.29)
 
-Wie Wissen am besten vermittelt wird und so der Lernerfolg maximiert werden kann, bleibt eine grundlegende Frage in der Schule - sowie der Lerntheorie.
+Wie Wissen am besten vermittelt wird und so der Lernerfolg maximiert werden kann, bleibt eine grundlegende Frage in der Schule - sowie in der Lerntheorie.
 Siebert selbst geht auf diese Frage wie folgt ein:
 >"Menschen als selbstgesteuerte *„Systeme“* können von der Umwelt nicht determiniert, sondern allenfalls **perturbiert**, das heißt, **„gestört“** und **angeregt** werden." (ebd. S.5)
 
-Des Weiteren hängt die Auswahl der Informationen, also was und ob gelernt wird, laut Siebert von der direkten Relevanz der Informationen für das Individuum ab.
+Des Weiteren hängt die Auswahl der Informationen, also was und ob gelernt wird, von der direkten Relevanz der Informationen für das Individuum ab.
 Lernen ist also in erster Linie ein eigenwilliger und eigensinniger Prozess und dient primär der Selbsterhaltung (*Autopoiese*).
 
 Aufgrund dieser Autopoiese entscheidet der Mensch (*"das System"*) **autonom** über die Verarbeitung der Inputs.
