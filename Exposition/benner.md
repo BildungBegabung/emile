@@ -1,18 +1,18 @@
 # "Die Einführung in die allgemeine Pädagogik"
 
 Benner setzt sich damit auseinander, die **Grundsätze pädagogischen Handelns** aufzuzeigen, die für die ganze Menschheit gültig sind.
-Er richtet sch dabei an die pädagogisch~ interessierte Leserschaft.
+Er richtet sich dabei an die pädagogisch~ interessierte Leserschaft.
 Dazu definiert er zwei grundsätzliche große Extrema der Verhaltensbestimmung: Den **Determinismus und die transzendentale Freiheit~**.
-Nach dem *Determinismus* ist das menschliche Verhalten grundsätzliche durch seine Umwelt oder seine Anlagen vorher bestimmt.
+Nach dem *Determinismus* ist das menschliche Verhalten grundsätzlich durch seine Umwelt oder seine Anlagen vorher bestimmt.
 Im Sinne der transzendentalen Freiheit kann der Mensch zu jedem Zeitpunkt vollkommen willkührlich über seine Handlungen und sein Schicksal entscheiden.
 Benner stimmt weder dem Einen, noch dem Anderen zu (vgl. S.71).
 Während Horst Siebert als zentralen theoretischen Ansatz den Konstruktivismus anführt, ist Benner der Auffassung, dass jeder Mensch **bildsam~** ist.
 Bei dieser Bildsamkeit handelt es sich um eine deontologische Annahme.
 Er ist der Meinung, *"Die Bildsamkeit eines Menschen anerkennen  heißt [...] nicht einen Mittelweg zwischen diesen Extremen [...] zu suchen"* (S.72).
 
-Benner gibt keine Gründe für die Bildsamkeit, sondern behauptet, sie liege grundsätzlich in der  Natur der Kommunikation zwischen Edukator und Edukand.
+Benner gibt keine Gründe für die Bildsamkeit, sondern behauptet, sie liege grundsätzlich in der  Natur der Kommunikation zwischen Edukatorin und Edukandin.
 Schließlich meint Bildsamkeit, dass jeder Mensch dazu fähig ist sich selbst zu bilden.
-Allerdings ist diese Bildsamkeit mehr ein Potenzial und muss daher vom Edukator im Edukanten zur Entfaltung gebracht werden: **Der Mensch muss zur Selbsttätigkeit aufgefordert werden.**
+Allerdings ist diese Bildsamkeit mehr ein Potenzial und muss daher von der Edukatorin in der Edukandin zur Entfaltung gebracht werden: **Der Mensch muss zur Selbsttätigkeit aufgefordert werden.**
 Dies geschieht nach Benner intersubjektiv in einem Erziehungsprozess.
 Da es sich hierbei um einen Vorgang handelt, kann ein Mensch nur als vollendet erzogen angesehen werden, wenn er selbstständig und bildsam handelt.
 Anders als nach Rousseau bedarf ein Mensch, laut Benner, pädagogischer~ Hilfe falls er sein Potential nicht ausnutzt.
