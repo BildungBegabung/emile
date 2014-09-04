@@ -5,6 +5,7 @@ Sein Begriff eines Staates basiert auf einer Kontrolle der physischen Gewalt in 
 >"national states: relatively centralized, differentiated organizations the officials of which more or less successfully claim control over the chief concentrated means of violence within a population inhabiting a large, contiguous territory."
 >(Charles Tilly - "War Making and State Making as Organized Crime" S.170, Z.10ff.)
 
+## Wie entsteht ein Staat?
 Nach Tillys Modell ist die Entwicklung eines Staates immer mit kriegerischen und gewaltvollen Handlungen verbunden.
 Er geht sogar so weit zu behaupten, dass Gewalt notwendig für die Entwicklung eines Staates ist.
 Der Ausgangspunkt für die Entwicklung eines Staates, ist die Monopolisierung von Gewalt und Macht ("governments organize and, wherever possible, monopolize violence" ebd. S.171, Z.26).
@@ -23,11 +24,13 @@ Hätte das Volk aber als solches die Möglichkeit, Steuern zu regulieren und üb
 Händler können jedoch auch von diesem System profitieren.
 Wenn ein Händler an seinen Herrscher weniger Steuern zahlen muss als ein Konkurrent, so gewinnt er durch diese Differenz einen Vorteil und kann sein Kapital besser vermehren.
 Letztendlich profitiert auch der Herrscher, denn er erhält so auch mehr Tribute, die er benötigt um sein Reich zu stabilisieren oder gar zu expandieren.
-Durch welche Handlungen definiert sich aber nun ein Staat?
+
+## Durch welche Handlungen definiert sich aber nun ein Staat?
 Nachdem der Staat durch ***Unterwerfung*** das Machtmonopol installiert hat (ebd. S.175 Z.7f), *definiert* er sich durch das sogenannte *Gewaltmonopol*("the authority's monopoly of force" ebd. S.172, Z.1).
 In Tillys Verständnis kann man dies als das Alleinrecht auf Sicherheit und Ordnung auf einem bestimmten Gebiet verstehen("governments claim to provide protection" ebd. S.172, Z.2).
 Andere Leistungen wie z.B. eine Krankenversicherung oder die Deutsche Schülerakademie sind nicht Teil von Tillys Staatsverständnis( ist nicht enthalten in: "What Do States Do?" ebd. S. 181).
 
+## Gewaltmonopol und Schule
 Der Bezug zum eigentlichen Thema dieser Arbeit mag erst schleierhaft scheinen.
 Doch Tilly begründet die Herkunft des Gewaltmonopols eines Staates, das auch die Basis für die Durchsetzung der Schulpflicht ist.
 Nach diesem Exkurs in die Staatstheorie handelt der nächste Text von gegenseitigem Helfen in der Schule.
