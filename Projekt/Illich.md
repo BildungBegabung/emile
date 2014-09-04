@@ -1,4 +1,4 @@
-<!-- TODO: VK Gute, aussagekräftige Überschrift finden -->
+Mythos Schule: Vorschläge einer alternativen Gesellschaft
 In "Deschooling Society" (1971) hinterfragt Ivan Illich die Stellung und den gesellschaftlichen Einfluss von Schule.
 Er eröffnet dabei neue Perspektiven auf die zentrale Frage unseres Kurses nach Formen menschlichen Zusammenlebens.
 Sein Konzept beschränkft sich nicht darauf, das bestehende Schulsystem zu verändern, sondern strebt gleichzeitig gesellschaftliche Umwälzungen an.
@@ -56,7 +56,7 @@ Dadurch, dass nicht mehr wie vorher "das Grundrecht auf Mitteilung des eigenen W
 
 Der Ansatz des sozialen Lernens lässt sich auch auf Dewey beziehen.
 Illich und Dewey stellen sich beide gegen einen aktiven Lehrprozess und sehen Lernen eher als eine natürliche Eigenschaft des Menschen.
-Auch Dewey beschreibt seinen ungezwungenen Erfahrungsaustausch als wichtigste Eigenschaft einer fortschrittlichen Gesellschaft.
+Auch Dewey beschreibt seinen ungezwungenen Erfahrungsaustausch als wichtigste Eigenschaft einer fortschrittlichen Gesellschaft und leitet seinen Wert von der Menge an Interaktion innerhalb und mit einer anderen Gruppe (vrgl.S.89)
 <!-- FIXME: VK vgl. Dewey Textbeleg suchen -->
 
 Illichs Glaube an den Menschen außerhalb von sozialen Manipulationen ähnelt oft Rousseau, weshalb auch beide einen sehr skeptischen Blick mit fast verschwörungstheoritischen Charakter auf Gesellschaften als Perversionen von Menschsein werfen.
