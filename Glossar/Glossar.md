@@ -65,6 +65,8 @@ Handeln ist gut, wenn das Ergebnis gut ist.
 Theorie, die feststellt, dass jede Person die Welt verschiedenerweise versteht und dass keiner Zugang zu der objektiven Realität hat.
 ### Kooperation:
 Die Zusammenarbeit von zwei oder mehreren Parteien.
+### Menschliches Laster (nach Rousseau):
+Da "die ersten Regungen der Kinder immer gut sind"(S.53), "gibt [es] darin keine Laster, von denen man nicht sagen könnte, wie und woher es gekommen ist" (s.53). Das Laster ist gesellschaftlicher Ursprungs, die Natur kennt keine Laster.
 ### Monopolist:
 Besitzer des absoluten Rechts oder der absoluten Kontrolle über die Produktion.
 ### Moral:
