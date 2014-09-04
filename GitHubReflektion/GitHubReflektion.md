@@ -6,7 +6,7 @@ Der Eine oder Andere musste auf diesem Weg mehr als einmal seinen Blick auf die 
 Da wir uns inhaltlich mit Fragen der menschlichen Kooperation (manchmal auch der tierischen) beschäftigt haben, lag es nahe auch unsere Kursarbeit kooperativ zu organisieren.
 Wie keiner vor uns haben wir versucht, unseren sozialwissenschaftlich-pädagogischen Kurs und das Schreiben dieser Dokumentation auf der Open-Source-Plattform GitHub zu organisieren.
 GitHub ist ein Programm, das ursprünglich zum Zweck der Koordination von Softwareentwicklung entstanden ist.
-Wir arbeiteten einerseits auf dem sozialen Netzwerk GitHub.com, wo wir uns bereits in der Vorbereitung auf den Kurs digital begegneten.
+Als Vorbereitung für den Kurs arbeiteten wir bereits vor Akademiebeginn gemeinsam auf GitHub.com, der sozialen Komponente des Versionierungstools Git.
 Später verwendeten wir zudem das Quellkontrollverwaltungsprogramm Git und den Open-Source-Texteditor Atom.
 Durch diese drei Komponenten versuchten wir unsere Arbeit so effizient wie möglich zu gestalten.
 
