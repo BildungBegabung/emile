@@ -2,7 +2,7 @@
 
 Wissen ist Hayek zufolge der Beweggrund wirtschaftlichen Handlens. In seinem Buch "The use of knowledge in society" behandelt er die Frage wie ein wirtschaftliches System aussehen sollte. Informationen spielen dabei eine große Rolle, da diese für Kollektiventscheidungen unerlässlich sind, um demokratische Entscheidungen fällen zu können.  
 Dabei betrachtet Hayek das Individuum ontologisch als kleinste Einheit, und fragt davon ausgehend wie ein wirtschaftliches System ausgerichtet sein sollte.
->Wissen jedoch "never exists in concentrated or integrated form, but solely as the dispersed bits of incomplete and frequently contradicitionary knowlegde which all the seperate individuals possess" (S.520).
+Wissen jedoch "never exists in concentrated or integrated form, but solely as the dispersed bits of incomplete and frequently contradicitionary knowlegde which all the seperate individuals possess" (Hayek-1945, S.520).
 
 Erst durch das Vorhandensein von Wissen, weiß dass Individuum, was es möchte.
 Ein Beispiel aus dem DSA-Alltag: Kaffee und Tee sind bei Mahlzeiten nie angemessen verteilt. Hayeks Lösung dafür wäre, dass jeder im Vorraus eine Entscheidung treffen und für diese auch bezahlen muss. Wäre das gegeben, würde die Küche eine genaue Verteilung der Getränke planen können.
@@ -15,6 +15,7 @@ Planwirtschaft benötigt eine zentrale Aggregation von Informationen.
 Es ist unwirtschaftlich Informationen zusammenzutragen, die in einer konkreten Situation jedoch nicht einmal zutreffen.
 Hayek zieht ein freiheitlicheres System der Marktwirtschaft aus Gründen der Effizienz vor.
 Hayeks Argument für freiheitlichen Markt besteht in seiner Annahme, dass jeder der Kompetenteste für sich selber sei.
+>"Every individual [...] posseses unique information of which beneficial use can be made only if the decisions depending on it are left to him or are made with his active cooperation." (Hayek-1945, S. 521)
 
 Gleiches forderte Dahl auch nach seiner Annahme der persönliche Autonomie als Grundlage einer Demokratischen Gesellschaft, wenn er formuliert:
 >"Every adult is the best judge of his or herself interest" (Dahl-1989, S.100).
