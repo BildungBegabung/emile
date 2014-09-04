@@ -1,7 +1,7 @@
 # Staatsgenese als organisiertes Verbrechen: Charles Tilly
 <!-- generelle Fehler -->
-<!-- TODO MH: Diese Doppeldeutigkeit der "protection" sollte schon vorher erklärt werden, weiter am Anfang; vielleicht auch wieder mit einem Beispiel -->
 <!-- TODO MH: deutsche Begriffe verwenden (auch unten stehend) für protection etc. -->
+
 <!-- TODO MH: Hier brauchen wir glaube ich erstmal einen einleitenden Satz; warum sollte uns das in unserem Kurs interessieren? (Tip: weil wir es mit Demokratie zu tun haben, und Demokratie das treffen von Kollektiv verbindlichen Entscheidungen betrifft, dafür also einen Staat braucht.) -->
 Ganz andere Fragen als Siebert beschäftigen den Historiker Charles Tilly.
 Sein Thema ist die Entstehung von Staaten.
@@ -17,13 +17,14 @@ Eine machtwilligen Person oder Gruppe versucht dabei sich gegen andere machtwill
 Dieses Handeln ist entscheidend für die Entwicklung eines Staates, denn sie zeigt, dass ein Staat nicht etwa infolge von friedlicher Zusammenarbeit der Menschen entsteht, sondern immer an Machtkämpfe, Ausbeutung und Krieg gebunden ist ("war making likewise led to state making" ebd. S.183).
 <!-- TODO MH: hier evtl. Darstellung von positiven Skalenerträgen einfügen? -->
 Durch seine Macht hat der Herrscher nun die Möglichkeit, sein Volk vor Schaden zu schützen und für diesen Schutz Tribute (Steuern) einzufordern ("governments are in the business of selling protection" ebd. S. 175).
+<!-- TODO MH: Diese Doppeldeutigkeit der "protection" sollte schon vorher erklärt werden, weiter am Anfang; vielleicht auch wieder mit einem Beispiel -->
 Der gebotene Schutz kann laut Tilly zwei Formen annehmen:
 
-Verhält sich der Machthaber als *legitimate protector*, so schützt er sein Volk vor externen Angriffen ().
-Ist der Machthaber ein *racketeer*, nutzt er sein Gewaltmonopol aus, indem er sein Volk unter Druck setzt.
+Verhält sich der Machthaber als *legitimate protector* (legitimer Beschützer), so schützt er sein Volk vor externen Angriffen ().
+Ist der Machthaber ein *racketeer* (Schutzgelderpresser), nutzt er sein Gewaltmonopol aus, indem er sein Volk unter Druck setzt.
 Tilly betont dabei den paradox scheinenden Kontrast: der Staat droht mit Gewalt und schützt gleichzeitig vor ihr.
 
-Wenn sich ein Machthaber wie ein Schutzgelderpresser (*racketeer*) verhält, also extrem hohe Tribute fordert, trotzdem das Geld nicht zum Wohle des Volkes nutzt sondern sich nur persönlich bereichert, spricht Tilly von Despotie.
+Wenn sich ein Machthaber wie ein Schutzgelderpresser verhält, also extrem hohe Tribute fordert, trotzdem das Geld nicht zum Wohle des Volkes nutzt sondern sich nur persönlich bereichert, spricht Tilly von Despotie.
 <!-- FIXME SF: müssen die Tribute extrem hoch sein? -->
 Hätte das Volk aber als solches die Möglichkeit, Steuern zu regulieren und über ihre Verwendung zu entscheiden, läge eine Demokratie vor (ebd. S.176 18ff. und 24f).
 <!-- TODO MH: der Kreislauf der in Tilly dargestellt wird ist hier noch etwas durcheinander; Wirtschaftswachstum lassen wir mal raus. Wichtiger wäre: Extraktion (Besteuerung) erlaubt (nach außen: Krieg) und erfordert (nach innen: Eintreibung der Steuern) Mittel der Gewaltproduktion. -->
