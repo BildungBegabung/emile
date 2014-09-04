@@ -38,7 +38,6 @@ Als Fazit lässt sich also sagen, dass Freinet unserem System wahrscheinlich nic
 
 Würde Illich unsere Verwendung von Github zum gemeinsamen Arbeiten an dieser Dokumentation und zur Vorbereitung unseres Kurses befürworten?
 
-<<<<<<< HEAD
 Illich formuliert sogar schon in den siebziger Jahren ein sehr konkretes Bild von computergesteuerten Lernnetzwerken.
 Seine "learning webs" sollten aber vor allem Menschen mit ähnlichen Interessen helfen zusammenzukommen.
 Die eigentliche Organisation der Zusammenarbeit ist für Illich von zweiter Bedeutung, weshalb Github eigentlich kein Diskussionsthema in Bezug auf sein Werk "Deschooliing Society" darstellt.
