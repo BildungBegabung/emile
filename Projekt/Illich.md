@@ -24,11 +24,12 @@ Im Gegensatz dazu schreibt Illich:
 
 ##### Illichs Ziele für die "educational revolution" sind:
 
-
-Für Bildung erachtet Illich vier Aspekte als notwendig.
-Jeder Mensch bedarf neben dem Kontakt zu anderen Gleichaltrigen auch Vorbilder, von denen er unbewusst lernen kann (Sprechen, Laufen, etc.), und bei komplexeren Sachverhalten benötigt es professionelle Hilfe sowie den Zugang zu Lernobjekten.
-Hierfür will er Netzwerke erstellen, in denen man Interessen formulieren und so lernorientierte Zusammenarbeit ermöglicht wird.
-In einer dieser Netzwerke bekäme ein Kind, das Guitarre spielen lernen will, einen Zeitraum in dem es mit anderen gleichaltrigen Kindern spielen kann, jemanden, der ihn bei Problemen und Schwierigkeiten unterstützen kann und als ein Art Vorbild funktioniert und als letztes eine Gitarre und alle anderen möglichen Werkzeuge, die dazu führen werden, dass das Kind erfolgreich den Lernprozess bewältigt.
+Illich unterscheidet zwischen vier Aspekten, die er für die Bildung eines Kindes als notwendig erachtet.
+Jedes Kind benötigt neben dem Kontakt zu anderen Gleichaltrigen auch Vorbilder, von denen es unbewusst lernen kann (Sprechen, Laufen, etc.).
+Zudem benötigt es bei komplexeren Sachverhalten professionelle Hilfe sowie Zugang zu Lernobjekten.
+Hierfür will er Netzwerke erstellen, in denen man Interessen formulieren und jeweils nach Gleichaltrigen und Hilfsangeboten suchen kann.
+In einer dieser Netzwerke bräuchte ein Kind, das Guitarre spielen lernen will, einen Zeitraum in dem es mit anderen gleichaltrigen Kindern spielen kann, jemanden, der ihn bei Problemen und Schwierigkeiten unterstützen kann und als ein Art Vorbild funktioniert  und als letztes eine Guitarre und alle anderen möglichen Werkzeuge, die dazu führen werden, dass das Kind erfolgreich den Lernprozess bewältigt.
+All dies sollte auf freiwilliger Basis geschehen.
 
 Illichs Ziele für die "educational revolution" sind:
 
@@ -39,7 +40,7 @@ Illichs Ziele für die "educational revolution" sind:
 3.-Freisetzung der kritischen und kreativen Ressourcen der Menschen, indem jedem Einzelnen die Möglichkeit zurückgegeben wird, Versammlungen einzuberufen und abzuhalten.
 
 4.-Befreiung des Individuums von der Verpflichtung, seine Aussichten nach der gebotenen Aufgabe irgendeiner Berufung zu formen – indem ihm die Möglichkeit bereitet wird, sich die Erfahrung seiner Fachkollegen zu Nutze machen zu können und sich dem Lehrer, Leiter, Berater oder Heiler seiner Wahl anzuvertrauen.
-<!-- FIXME: Textbelege -->
+(vgl alle S.109)
 
 Ein weiteres, wichtiges Streben Illichs ist die Reduzierung der Komplexität unserer Umwelt, so dass sie wieder zugänglich für den Alltagsmenschen wird.
 Dazu könnten unter anderem die riesigen Summen an Geld verwendet werden, die man durch eine Abschaffung der Schulpflicht einsparen würde.
@@ -48,7 +49,7 @@ Auf diese Weise würden Menschen von alleine dazu motiviert werden zu lernen.
 Dies würde den Lernprozess fördern sowie unverbindliche, nachbarschafliche Interaktion.
 
 
- <!-- mead (Interaktion notwendig)-->
+<!-- mead (Interaktion notwendig) -->
 
 <!-- TODO: Vielleicht auch SoWi-Texte? Mal Max ansprechen -->
 
@@ -94,8 +95,7 @@ Das mag möglicherweise Grund für ein sehr unbeschwertes Bild einer *freien* Or
 Was uns aber zu denken geben sollte, ist dass Rousseau, damals kritisch beäugt, heute im Unterricht als Mitbegründer unserer Gesellschaft gesehen wird, während Illich heute einfach als realitätsfern kategorisiert wird.
 Auch wenn sie beides Träumer sind, fasziniert uns die Vorstellung eines *reinen* Menschen, frei von jeglicher Manipulation, und vielleicht lohnt es sich ja, an diesem Ideal festzuhalten, auch wenn die Verwirklichung eine Unmöglichkeit darstellt.
 
->"The child grows up in a world, surrounded by people who serve as models for skills and values (...), peers (...) to coorporate and understand, and if he is lucky, he is exposed to criticism by an experienced elders who really cares."
-<!-- FIXME: Seitenangabe -->
+>"The child grows up in a world, surrounded by people who serve as models for skills and values (...), peers (...) to coorporate and understand, and if he is lucky, he is exposed to criticism by an experienced elders who really cares." (S.33)
 
 Jedem Menschen, so Illich, sollte der Zugang zu diesen "Ressourcen" gewährleistet sein für eine freie Entfaltung. Dies trifft sich mit Benner, der auch sehr klar die Notwendigkeit einer Bezugs- und erziehenden Persönlichkeit formuliert.
 Nach Benner benötgt der Zögling den Beistand eines Älteren, der ihn in seinem Reifungsprozess fördert bis dieser in der Lage ist, selbsttätig zu handeln.
