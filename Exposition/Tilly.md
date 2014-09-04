@@ -15,7 +15,7 @@ Es ist das Ziel einer kleinen Gruppe von Menschen oder auch einer einzigen Perso
 Der Weg zu dieser wichtigen Sonderstellung ist lang und immer verbunden mit Geschäften mit anderen Personen, die ebenfalls versuchen ihre Macht auszuweiten.
 Entscheidend ist für den zukünftigen Herrscher, dass er sich schließlich gegen alle Anderen durchsetzt und seine Gegner weitestgehend entmachtet.
 Durch seine Macht hat der Herrscher nun die Möglichkeit, sein Volk vor Schaden zu schützen und für diesen Schutz Tribute (Steuern) einzufordern ("governments are in the business of selling protection" ebd. S. 175, Z.21f).
-Der gegebene Schutz kann laut Tilly zwei Formen annehmen:
+Der gebotene Schutz kann laut Tilly zwei Formen annehmen:
 
 Verhält sich der Machthaber als *legitimate protector* so schützt er sein Volk gegen externe Angriffe.
 Ist der Machthaber ein *racketeer* nutzt er sein Gewaltmonopol aus, indem er sein Volk unter Druck setzt (Bsp. Ludwig XIV hat von seinen Bürgern für den Bau des Schlosses Verssailles extrem hohe Tribute eingefordert. Konnte jemand nicht bezahlen, drohte Ärger).
