@@ -8,20 +8,22 @@ Wenn eine Gruppe von Menschen eine Reihenfolge von Prioritäten durch ein Gruppe
 Besonders bei kollektiv *verbindlichen* Entscheidungen in einer Demokratie sollte darauf geachtet werden, dass alle Meinungen gleichwertig in das Endergebnis einfließen, wofür sich unterschiedliche Wahlsysteme anbieten.
 Die Spietheorie evaluiert den Entscheidungsprozess von einem mathematischen Standpunkt aus mit dem Ziel, ein perfektes Wahlsystem zu aufzustellen.
 
+
 ## Arrow's Unmöglichkeitstheorem (S.748)
 
 Hierfür zieht Arrow drei Kriterien heran:
-- Bei Abstimmungen über Veränderungen muss die Situation von jedem mindestens unverändert oder besser sein, so dass eine **Pareto Verbesserung** vorliegt
-- Die Gruppenpräferenzen zwischen zwei Alternativen bleiben unverändert, sobald eine dritte hinzugefügt wird, d.h. das **IIA** bleibt unverletzt, und
-- Das Ergebnis muss eindeutig sein, und darf nicht, je nach Auslegung, unterschiedliche Ergebnisse produzieren, was eine Diktatur zur Folge hätte.
-In den USA kann zum Beispiel durch die Festsetzung der Wahlbezirke indirekt ein minimaler Einfluss auf den Ausgang der Wahl geübt werden.
+1. Bei Abstimmungen über Veränderungen muss die Situation von jedem mindestens unverändert oder besser sein, so dass eine **Pareto Verbesserung** vorliegt
+2. Die Gruppenpräferenzen zwischen zwei Alternativen bleiben unverändert, sobald eine dritte hinzugefügt wird, d.h. das **IIA** bleibt unverletzt, und
+3. Das Ergebnis muss eindeutig sein, und darf nicht, je nach Auslegung, unterschiedliche Ergebnisse produzieren, was eine Diktatur zur Folge hätte.
+In den USA (Mehrheitswahlrecht) kann zum Beispiel durch die Festsetzung der Wahlbezirke für das Repräsentatenhaus indirekt ein erheblicher Einfluss auf den Ausgang der Wahl genommen werden.
 
 Wären alle drei Kriterien dieser Dreieckskonstellation erfüllt, läge ein perfektes Wahlsystem vor.
 Aus dem **Unmöglichkeitstheorem** geht jedoch hervor, dass, sobald mehr als zwei Alternativen zur Auswahl stehen, kein Wahlsystem alle drei Kriterien  garantieren kann.
 
+
 ## Lösungsmöglichkeit
 
-Um die Entstehung nicht-transitiver Ergebnislisten zu vermeiden müssen alle ordinal sortierten Präferenzlisten der Wählenden in einer für alle gleichen  Ordnung der Optionen nur ein einziges Globales Maximum aufweisen (*single-peakedness*).
+Die Widersprüche des Unmöglichkeitstheorem (etwa: nicht-transitiver Ergebnislisten) können abgemildert, und Aggregationsdysfunktionen reduziert werden, wenn alle ordinal sortierten Präferenzlisten der Wählenden in einer für alle gleichen  Ordnung der Optionen nur ein einziges Globales Maximum aufweisen (*single-peakedness*).
 
 Wenn man in der Politik Parteien zum Beispiel graduell nach politischer Orientierung (rechts/links) sortiert, würden Wähler, die eine rechte Partei an erster und ein Linke Partei an zweiter Stelle einsortieren, evtl. zu nicht transitiven Gruppenergebnissen beitragen.
 Hierbei wird jedoch die Bestimmung der Kriterien des Wählers zum Problem.
@@ -31,14 +33,8 @@ Um solches Wahlverhalten zu vermeiden,
 - muss eine Übereinstimmung aller Teilnehmer über die Ordnung der Alternativen bestehen.
 - müssen alle Teilnehmer m diese Verteilung aufgeklärt sein.
 
-
-Die Frage ist, ob es überhaupt aus demokratischer Sicht vertretbar wäre, eine allgemein gültige Ordung der Alternativen festzulegen.
-Laut Dahl ist niemand offensichtlich besser qualifiiert als andere, folglich kann auch niemand allein befähigt sein für die Allgemeinheit Alternativen anhand selbstgewählter Kriterien zu ordnen.
+Die Frage ist, ob es überhaupt aus demokratischer Sicht vertretbar wäre, eine allgemein gültige Ordung der Alternativen festzulegen, oder auch nur deren Hausbildung zu fördern.
+Laut Dahl ist niemand offensichtlich besser qualifiziert als andere, folglich kann auch niemand allein befähigt sein für die Allgemeinheit Alternativen anhand selbstgewählter Kriterien zu ordnen.
 <!-- FIXME FB at MH: nobody (is) obviously more qualified than anyone else - Englisches Zitat behalten?  -->
-Als liberaler Demokrat beurteilt Dahl außerdem eine systematische Aufklärung (damit auch Aufklärung über die Verteilung der Alternativen) sehr kritisch, um die Autonomier der Bürger nicht einzuschränken.
-Allerding macht die Spieltheorie deutlich, dass Dysfunktinen in Wahlsystemen sehr viel öfter auftreten, wenn die Wählenden ungebildet sind.
-Menschen wie Benners Heini müssen gebildet werden, um eine funktionierende und rechtfertigbare Regierung wählen zu können.
-Demokratie kann nicht auf einer vollkommen Autonmie der Bürger aufbauen.
-**Pareto-Verbesserung** bedeutet, dass sich bei Stimmänderung eines Individuums im Gegensatz zum vorherigen Wahlgang das Wahlergebnis schlimmstenfalls *nicht* oder andernfalls *in dessen Richtung* wendet.
-
-**IIA** bedingt, dass eine relative Gruppenpräferenz zwischen zwei Alternativen sich nicht verändert, wenn eine dritte Alternative hinzugefügt wird.
+Somit verbirgt sich hinter den von der Sozialwahltheorie beschriebenen Dysfunktionen der liberalen Demokratie eine Lösung, die erneut auf die Widersprüche zwischen persönlicher Autonomie verweist.
+Zwar könnten Bürgerinnen eher in die Lage versetzt werden, *gleichwertig* und *autonom* durch single-peaked Präferenzen zu wählen, eine entsprechende politische Bildung hin zu strukturierteren Präferenzen würde aber ihrerseits den gleichen, bekannten Widerspruch in der Schule der Demokratie hervorrufen.
