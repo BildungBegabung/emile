@@ -49,7 +49,7 @@ Beispielweise zeigt sich dieser Spielausgang im Handel oder in der Kinderaufzuch
 Ein Beispiel wäre das der Nationalen Co2 Emissionen. Entscheidet sich ein Land weniger Umweltschutzmaßnahmen zu treffen so profitiert es davon nur, solange die anderen Ländern nicht die gleiche Strategie wählen.
 
 
-## Das Gefangenendilemma
+## Das Gefangenendilemma lösen
 
 >"Gentlemen, Adam Smith needs revision" (John Nash)
 
