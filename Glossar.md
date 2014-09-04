@@ -52,7 +52,8 @@ Alle Ansichten und Werte einer sozialen Gruppe, einer bestimmten Gesellschaft.
 ### Inhärente Gleichheit:
 Die innewohnende Gleichwertigkeit einer Mehrzahl von Personen in einem bestimmten Merkmal, die von Geburt aus gleich sind.
 ### Institution:
-Eine soziale Struktur, die eine gewisse Stabilität hat. Im weiteren Sinne beschreiben Instutitutionen zum Beispiel auch Dinge wie "Klatschen" oder Hände schütteln zur Begrüßung.
+Beeinflusst, entsprechend dem ökonomischen Ansatz zur Erklärung menschlichen Verhaltens, als Restriktionen die Handlungen von Menschen.
+Zu den Institutionen zählen so unterschiedliche Dinge wie Märkte, Gesetze, Bräuche, Zahlungsmittel oder Standardverträge."
 ### Integral:
 Beschreibt den Abschnitt unter dem Graph in der Produktionsmöglichkeitenkurve.
 ### Interaktion:
