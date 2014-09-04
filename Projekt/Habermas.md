@@ -96,15 +96,11 @@ Dem strategischen Handeln kann man aber nur durch den Wechseln in eine *lifeworl
 Also schlägt Dewey als Staat eine Demokratie in einer lifeworld vor, ein System in einer *lifeworld*.
 Von Habermas Standpunkt aus dürfte das sehr widersprüchlich sein, da ein Staat aufgrund seiner Größe Struktur braucht, zB das Regierungssystem, welche ohne das strategische Handeln kaum funktionieren würde.
 Möglicherweise würde Habermas stattdessen ein dem System unterliegendes Netz aus kleinen, verbundenen *lifeworlds*~ vorziehen, die neue Ideen dann nach ben an das System weitergeben.
-Vielleicht ist
+Vielleicht ist Deweys Idee aber in kleinem Umfeld umsetzbar, beispielsweise auf der DSA:
+- Kommunikation ist hier fast immer auf Verständigung ausgelegt: Es wird diskutiert, Regeln wie zB "Pünktlichkeit" werden erkärt und verständigung vporrausgesetz, da es keine Spratrafen gibt.
+- 
 
  <!-- 1) Unterricht, 2) Polit-Talkshows 3) DSA ... da spielt die Musik -->
--------------------------------
-Letztendlich entsteht also Verständigung von Ideen, die das zeitideal neu ausloten sollen, nur im persönlichen Umfeld und nicht durch Wahlkampangen, welche ganz klar durch das perlukotive Ziel des Stimmgewinns strategisches Handeln sind.
-<!-- TODO: MH bisschen enge Schlussfolgerung? -->
-Utopisch wäre also ein Netz von Menschen, die sich gegensteitig kommunikativ aufklären.
-<!-- TODO: MH: "also"? Warum also? Zusammenhang? Und was genau ist "utopisch" für eine Kategorie von Kritik? Können wir erstmal den Inhalt komplett klären, und eine Einschätzung dann sorgfältig abtrennen und in Ruhe begründen? -->
-
 
 
 ## Habermas - Spieltheorie: Menschen als kausale Objekte
