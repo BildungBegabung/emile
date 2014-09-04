@@ -1,6 +1,10 @@
 # "The use of knowledge in society"
+<!-- TODO MH: sexieren Titel? Allgemeiner für unseren Kurs sprechend, oder halt den Fachbegriff Katallaxie -->
 
-Wissen ist Hayek zufolge der Beweggrund wirtschaftlichen Handlens. In seinem Buch "The use of knowledge in society" behandelt er die Frage wie ein wirtschaftliches System aussehen sollte. Informationen spielen dabei eine große Rolle, da diese für Kollektiventscheidungen unerlässlich sind, um demokratische Entscheidungen fällen zu können.  
+Wissen ist Hayek zufolge der Beweggrund wirtschaftlichen Handlens.
+In seinem Buch "The use of knowledge in society" behandelt er die Frage wie ein wirtschaftliches System aussehen sollte.
+TODO MH: nein, nein, nein immer noch nicht: das ist keine passende einführung, wir sind kein Wirtschaftskurs; fangt mit den Informationen an
+Informationen spielen dabei eine große Rolle, da diese für Kollektiventscheidungen unerlässlich sind, um demokratische Entscheidungen fällen zu können.  
 Dabei betrachtet Hayek das Individuum ontologisch als kleinste Einheit, und fragt davon ausgehend wie ein wirtschaftliches System ausgerichtet sein sollte.
 Wissen jedoch "never exists in concentrated or integrated form, but solely as the dispersed bits of incomplete and frequently contradicitionary knowlegde which all the seperate individuals possess" (Hayek-1945, S.520).
 
