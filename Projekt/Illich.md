@@ -1,7 +1,6 @@
 In seiner ersten umfangreicheichen, gesellschaftkritischen Schrift "Deschooling Society" (1971) hinterfragt Ivan Illich die Stellung und Aufgabenfelder der Schule.
-Illich eröffnet neue Perspektiven auf die zentrale Frage unseres Kurses nach Formen von Schule und menschlichem Zusammenleben, da er sich nicht, wie andere Autoren, mit einer Neuausrichtung der Pädagogik im Rahmen bestehender schulischer Verhältnisse, beschäftigt.
-<!-- FIXME: VK Nebensatz klarer formulieren -->
-Er kritisiert vielmehr grundsätzlich die Institution, welche uns glauben lassen sollen, wir könnten Wertvorstellungen wie Bildung, eine Eigenschaft des Menschen, bestimmen, analysieren und schließlich messen.
+Illich eröffnet neue Perspektiven auf die zentrale Frage unseres Kurses nach Formen von Schule und menschlichem Zusammenleben, da sich sein Konzept nicht, wie bei andere Autoren, darauf beschränkt, das bestehende Schulsystem zu verändern.
+Er kritisiert vielmehr grundsätzlich die Existenz der Institution Schule, welche uns glauben lassen sollen, wir könnten Wertvorstellungen wie Bildung, eine Eigenschaft des Menschen, bestimmen, analysieren und schließlich messen.
 Illich begreift die Schule als ein Paradigma für die Natur von lebensbestimmenden Institutionen, fordert deren Abschaffung und plädiert für eine Gesellschaft, die sich für freie, und nicht durch Pflichten wie Berufe und Schulanwesenheit provozierte, zwischenmenschliche Interaktion ausspricht.
 
 #### Kritik an der Institution Schule
@@ -17,8 +16,7 @@ Den Mythos der messbaren Werte beziehen wir schließlich auch auf unsere "imagin
 <!-- TODO: VK Zitat in den Text miteinbeziehen -->
 Diese Werte beginnen einen allgemein verbindlichen Charakter zu entwickeln, weswegen wir unser "Wissen" an die nächste Generation weitergeben wollen, und somit versuchen deren Lernprozess ebenfalls zu kontrollieren.
 Wir gehen davon aus, das Urteil einer Person sollte entscheiden, was ein anderer Mensch wann lernen soll.
-Die einzige mögliche Konsequenz auf diese Fehleinschätzungen ist Eskalation.
-<!-- TODO: VK Benutzt Illich wirklich den Begriff "Eskalation"? -->
+Die einzige mögliche Konsequenz auf diese Fehleinschätzungen ist Eskalation. (vgl.S.6)
 Sobald die Schule uns beigebracht hat, dass Wissensvermittlung zwangsläufig Lernen hervorruft und nur durch aktive Wissensvermittlung der notwendige Wissenshorizont erreicht werden kann, ist die uns logische erscheinende Antwort, auf alle Bildungsprobleme mit Eskalation zu reagieren.
 Die Schule lehrt: Je mehr Schule, desto mehr Lernerfolg, weshalb wir zur Schule gehen.
 Im Gegensatz dazu schreibt Illich:
@@ -91,7 +89,8 @@ Dieser Vorgang lässt sich sehr gut mit dem Konzept des Hyperzyklus beschreiben,
 Dadurch, dass nicht mehr wie vorher "das Grundrecht auf Mitteilung des eigenen Wissens in das Privileg akademischer Freiheit [verkehrt wird], das nur den in einer Schule Beschäftigten verliehen wird" (Illich, S.97), ist jeder dazu befähigt, andere an seinem Wissen teilhaben zu lassen, während er wiederum von den Fähigkeiten anderer profitieren kann.
 Durch die große Vielfalt an Fähigkeiten, die durch die Fertigkeitsbörsen vermittelt werden können, erhalten so viele Menschen wie möglich die Gelegenheit, dort anderen gezielt helfen zu können und sich so als Teil eines Kreislaufs aus Geben und Nehmen zu verstehen.
 Der Prozess verläuft dort also nicht, wie in der Schule, einseitig zwischen Schüler und Lehrer, wordurch schwächere Schüler sich nicht als hilfreich für andere erleben können.
-<!-- TODO: Fällt euch ein Beispiel ein, was z.B. vermeintlich Schwächere in einer Lernplattform für andere anbieten könnten? -->
+Ein weiterer Unterschied zum schulischen Lehren liegt darin, dass das Spektrum an Fertigkeiten, die angeboten werden können, fast unbegrenzt ist.
+So werden beispielsweise auch Menschen mit einem künstlerischen Talent, das in der Schule oft nur geringe Anerkennung findet, benötigt.
 
 
 Der Ansatz des sozialen Lernens lässt sich auch auf Dewey beziehen. Illich und Dewey stellen sich beide gegen einen aktiven Lehrprozess und sehen Lernen eher als eine natürliche Eigenschaft des Menschen.
@@ -152,21 +151,6 @@ Illich sieht sich mit zunehmenden Alter immer weniger gewilt, konkrete Reformvor
 
 <!--zum erinnern: education for all means education by all
 p.11 rechts-->
-### Reflektion - Github aus Illichs Sicht
-
-Würde Illich unsere Verwendung von Github zum gemeinsamen Arbeiten an dieser Dokumentation und zur Vorbereitung unserers Kurses befürworten?
-
-Illichs Beschreibung der "learning webs" deckt sich grundsätzlich mit unserer Arbeit auf Github. Die Tatsache, dass wir als eine Gruppe von Lernenden uns frei dazu entschieden haben, genau an diesem Thema teilzunehmen und theoretisch jederzeit in der Lage unsere Arbeit zu verweigern, erfüllt Illichs Anspruch der Freiwilligkeit von Lernmöglichkeiten.
-
-In dem Fall, dass PCs als Lernobjekt nach Illichs Definition gelten würden, hätte jeder Zugang zu diesem Programm.
-Zudem würde er die Einarbeitung in die Technik als sehr positiv betrachten, da es uns dazu befähigt, neue Sachverhalte zu verstehen, und uns dazu bringt, uns mit neuen Themengebieten auseinanderzusetzen.
-Wichtig ist dabei, dass wir dieses Wissen als bedeutend für uns wahrnehmen, da es einen direkten Wirklichkeitsbezug hat.
-Illich würde auf jeden Fall der Issue-Organisation zustimmen, in welcher jeder seine eigenen Interessen kundtun kann, und auch an der Ausarbeitung bereits formulierten Interessen teilnehmen kann.
-Wir arbeiten mit Gleichaltrigen, bzw. von ähnlichen Interessen moivierten, zusammen und können darauf vertrauen, dass wir Einfluss auf das Endergebnis haben, und das wir in der Lage sind, unsere eigene Meinung so zu äußern, dass sie auch wahrgenommen wird.
-Dabei haben wir aber auch zu jedem Zeitpunkt die Möglichkeit, professionelle Hilfe zu bekommen, wobei diese uns nicht das eigentliche Wissen vermitteln, sondern ihnen lediglich eine beratende Stellung zukommt und uns vor allem in organisatorischen, bzw. technischen Fragen weiterhelfen.
-Als erster Kritikpnkt fällt natürlich die Vorauswahl der Teilnehmer ins Auge, jedoch stellen auch unter Negierung dieser Tatsache weitere Probleme in den Weg.
-Schränkte man unser Projekt allein auf die Ausarbeitung auf Github ein, würde sich unser Kontakt ebenfalls wieder auf eine rein effizienzorientierte Ebene reduzieren und das eigentliche Identifizierungsprozess mit der anderen Perönlichkeit gerät in den Hintergrund.
-"Merge-conflicts" stellen bei unserer Arbeit eine Form von Kooperationsproblemen dar, Illich macht zu letzteren keine Aussage. 
 
 
 <!--evtl. passendes Zitat, das unseren Arbeitsprozess ganz gut veranschaulicht: (Illich über "Ältere"): "Sie können einen auf die richtigen Fragen hinweisen, die man mit Gleichaltrigen anschneiden soll, und auf die Unzulänglichkeit der Antworten, die man dort findet." (S.86)
