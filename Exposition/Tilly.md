@@ -1,5 +1,7 @@
 # Staatsgenese als organisiertes Verbrechen: Charles Tilly
 
+>"homo homini lupus" (Thomas Hobbes - 1651)
+
 Bei genauerem Hinschauen erkennt man, dass das Kursthema voraussetzt, dass Demokratie überhaupt erstrebenswert ist.
 Da kollektiv verbindliche Entscheidungen einer Demokratie inhärent sind, braucht man einen Staat, der diese unter Zwang durchsetzt.
 Die Entstehung von Staaten ist das Thema Charles Tillys.
