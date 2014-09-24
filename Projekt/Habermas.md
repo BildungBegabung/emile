@@ -1,5 +1,7 @@
 # Habermas: Kommunikatives Handeln
 
+>"Reading understanding is the inherent telos of human speech." (Jürgen Habermas)
+
 Dass Schule und Demokratie eng mit Kooperation und Kommunikation verbunden ist, wird bereits anhand von beispielsweise Kleinberg und Mead deutlich.
 Die Intersubjektivität ist bei bedien gegeben:
 Nach Meads symbolischem Interaktionismus entsteht die Identität schließlich immer im Kontakt mit anderen Individuen und Kleinbergs Kooperationslose Spiele enden nicht notwendigerweise im sozialen Optimum.

@@ -17,29 +17,19 @@ Hierfür lassen wir vier Autoren aus unserem Kurs sprechen und befragen sie post
 
 ## Was Freinet zu unserer Zusammenarbeit auf GitHub sagen würde
 
-Vor fast 100 Jahren enstand die Reformpädagogik, in einer Zeit ohne Computer, geschweige denn Internet.
-Während wir gerade fleißig Issues *closen* (d.h. selbstgestellte Aufgaben bearbeiten) und *merge conflicts* (d.h. Versionierungskonflikte) lösen, hantierte Célestin Freinet noch mit Druckerpressen und Karteikarten - damals der letzte Schrei.
-Lässt sich unsere Arbeit auf GitHub trotzdem mit seinen reformpädagogischen Ideen vereinen?
+Während wir gerade fleißig die letzten Issues *closen* und *merge conflicts* lösen, hantierte Célestin Freinet mit Druckerpressen und Karteikarten.
+Lässt sich unsere gemeinsame Arbeit auf GitHub trotzdem mit seinen 100 Jahre alten, reformpädagogischen Ideen vereinen?
 
-Würden wir alle das Gleiche bearbeiten, würden für viele der DSA-Teilnehmer große Frustration erleben.
-Für manche geht es viel zu langsam, für andere viel zu schnell voran.
->"Arbeit in der Gruppe [aber] bedeutet nicht zwangsläufig, daß jeder die gleiche Arbeit verrichtet. Der Einzelne muß dabei im Gegenteil ein Maximum von seiner Persönlichkeit bewahren, aber im Dienst der Gemeinschaft stehen." (S. ebd. 510)
+>"Arbeit in der Gruppe [aber] bedeutet nicht zwangsläufig, daß jeder die gleiche Arbeit verrichtet. Der Einzelne muß dabei im Gegenteil ein Maximum von seiner Persönlichkeit bewahren, aber im Dienst der Gemeinschaft stehen." (S.510, Freinet)
 
-Dieses Problem löst Github durch allumfassende Berechtigungen für jeden Teilnehmenden so simpel wie genial.
-Jeder arbeitet unabhängig und autonom in seiner Geschwindigkeit an selbstgewählten Themen (vgl. S. 495 Wichtigkeit des Selberwählens aus gegebenen Alternativen).
+
+Dieses Problem löst Github durch allumfassende Berechtigungen für jeden TN.
+Jeder arbeitet dadurch unabhängig und autonom in seiner Geschwindigkeit an selbstgewählten Themen (vgl. S. 495 - Wichtigkeit des Selberwählens aus gegebenen Alternativen).
 Zugleich arbeiten wir kooperativ zusammen, denn durch die zeitgleiche, gegenseitige Kontrolle  wird das Ergebnis besser, als es in Einzelarbeit sein könnte.
-Wir arbeiten damit im Sinne des Kollektivs im Kurs, wobei aber trotzdem unsere autonome Arbeit nicht eingeschränkt wird, da jeder das Recht besitzt, Zeilen anderer zu verbessern oder einfach einen ganzen Absatz zu löschen.
-Alle Änderungen sind leicht rückgängig zu machen.
-Es besteht dabei allerdings die Gefahr, dass durch die Vernetzung, die GitHub bietet, eine direkte emotionale Verbindung verloren geht, gerade weil GitHub anders als soziale Netzwerke eine Basis für gemeinsames Arbeiten darstellt, sodass ein Großteil der dokubezogenen Kommunikation hierüber einfacher zu leiten ist.
+Wir arbeiten damit im Sinne eines Kollektivs im Kurs.
+Durch die virtuelle Vernetzung entsteht allerdings die Gefahr, dass die reale, emotionale Komponente verloren geht.
 Für Freinet ist eine Gruppendynamik ähnlich der einer Familie sehr wichtig.
-
-Diese ist nicht mehr gegeben, sobald digital vernetztes Lernen beginnt, da es eine geographische Nähe entbehrlich macht.
-
-Darüberhinaus bietet das Internet als Plattform für GitHub dem Edukator praktische Unfehlbarkeit, da dieser praktisch uneingeschränkte Freiheiten mit der Arbeit der anderen hat und fast alles bearbeiten oder löschen kann.
-
-Jedoch ist gerade die Fehlbarkeit des Lehrers entscheidend, denn hier kann er ehrlich zu seinen Schülern sein (vgl. Freinet-1946 S. 110).
-
-Trotzalledem ist es fraglich, ob eine vernetzte Arbeit mit Freinets Reformpädagogik verglichen werden kann, schließlich konnte Freinet in der Mitte des 20.Jahrhunderts die Entwicklung des Internets nicht vorhersagen.
+Ohne geographische Nähe ist diese nicht mehr gegeben.
 
 Als Fazit lässt sich also sagen, dass Freinet unserem System wahrscheinlich nicht abgeneigt wäre, aber seine contra-sozialen Folgen stark kritisieren würde.
 
@@ -48,25 +38,22 @@ Als Fazit lässt sich also sagen, dass Freinet unserem System wahrscheinlich nic
 
 Würde Illich unsere Verwendung von Github zum gemeinsamen Arbeiten an dieser Dokumentation und zur Vorbereitung unseres Kurses befürworten?
 
-Illichs Beschreibung der "learning webs" decken sich grundsätzlich mit unserer Arbeit auf Github.
-Viele Methoden und Grundsätze von Illichs Ansätzen sind hier wiederzufinden, wenn auch leicht eingeschränkt und im kleinen Rahmen unseres Kurses.
+Illich formuliert sogar schon in den siebziger Jahren ein sehr konkretes Bild von computergesteuerten Lernnetzwerken.
+Seine "learning webs" sollten aber vor allem Menschen mit ähnlichen Interessen helfen zusammenzukommen.
+Die eigentliche Organisation der Zusammenarbeit ist für Illich von zweiter Bedeutung, weshalb Github eigentlich kein Diskussionsthema in Bezug auf sein Werk "Deschooliing Society" darstellt.
+Als erster Kritikpunkt fällt hierbei natürlich die Vorauswahl der Teilnehmenden ins Auge.
+GitHub würde für Illich dann an Bedeutung gewinnen, wenn es sich hin zu einer allgemeinen Lernplattform ausweiten würde, zu der jeder Zugang hätte und in der jeder seine Ideen frei äußern kann.
+Angewand auf seine "learning webs" müsste dann GitHub als Lernobjekt kategorisiert werden, so dass jedem Individuum der Zugang zu PCs mit mindestens Windows7 ermöglicht wird.
+>"education for all means education by all"(S.17)
 
-Angenommen PCs mit mindestens Windows7 würden als Lernobjekt nach Illichs Definition gelten, hätte jeder Zugang zu diesem Programm.
-Zudem würde er die Einarbeitung in die Technik als sehr positiv betrachten, da es uns dazu befähigt, neue Sachverhalte zu verstehen, und uns dazu bringt, uns mit neuen Themengebieten kompetent auseinanderzusetzen.
-Wichtig ist dabei, dass wir dieses Wissen als bedeutend für uns wahrnehmen, da es einen direkten Wirklichkeitsbezug hat.
-Illich würde auf jeden Fall der Issue-Organisation zustimmen, in welcher jeder seine eigenen Interessen kundtun kann, und auch an der Ausarbeitung bereits formulierter Interessen teilnehmen kann.
-Teilnehmende, die zusammenarbeiten wollen, können sich darüber finden.
-Wir arbeiten mit Gleichaltrigen, bzw. von ähnlichen Interessen Getriebenen. Zusammen können wir darauf vertrauen, dass wir Einfluss auf das Endergebnis haben.
-Wir sind dadurch in der Lage, unsere eigenen Meinungen so zu äußern, dass sie auch wahrgenommen werden.
-Dabei haben wir aber auch zu jedem Zeitpunkt die Möglichkeit, professionelle Hilfe von unseren Kursleitenden zu bekommen, wobei diese uns nicht das eigentliche Wissen vermitteln, sondern ihnen lediglich eine beratende Stellung zukommt.
-> "He may invite the learner to participate in his own research" (Illich 1971, S. 43)
-Als erster Kritikpunkt fällt natürlich die Vorauswahl der Teilnehmenden ins Auge.
-Jedoch stellen sich abgesehen von dieser Tatsache weitere Probleme in den Weg:
+Aber der wahrscheinlicher wichtigere Aspekt in Bezug auf unsere Arbeit ist die Auseinandersetzung mit der Technik.
+Wir werden dazu motiviert, uns mit neuen Themengebieten auseinanderzusetzen, da es einen direkten Bezug auf unsere Arbeit hat und wir es als bedeutend wahrnehmen.
+Dadurch wird der Kontakt zu anderen Teilnehmern gefördert, mit denen wir zusammen versuchen, die Technik zu verstehen und zu den KLs, wodurch wir zu jedem Zeitpunkt die Möglichkeit haben , professionelle Hilfe zu bekommen. Diesen fällt eben keine pädagogisch belehrende Rolle zu und sie vermittlen uns nicht das eigentliche Wissen,
+sondern sie nehmen eine beratende Stellung ein und helfen uns vor allem in organisatorischen, bzw. technischen Fragen weiter ("He may invite the learner to participate in his own research"; Illich 1971, S. 43).
+Jedoch stellen sich dennoch weitere Probleme in den Weg:
 Schränkte man unser Projekt allein auf die Ausarbeitung auf Github ein, würde sich unser Kontakt ebenfalls wieder auf eine rein effizienzorientierte Ebene reduzieren ("to reinforce the competitive nature of schools"; Illich 1971, S. 35 ), vor der Illich warnt.
-Die Gefahr, dass die direkte Kommunikation hinter 16 aufgeklappten Laptopbildschirmen zu kurz kommt, ist nicht zu unterschätzen.
 
-
-## Was Habermas zu unserer Zusammenarbeit auf GitHub sagen würde
+## Habermas zu Github
 
 Würde Jürgen Habermas von unserer Zusammenarbeit auf GitHub hören, hätte er wahrscheinlich angesichts der Tatsache, dass er seine Texte bis heute auf einer Schreibmaschine schreibt, einige Bedenken.
 
@@ -84,3 +71,9 @@ Werden dazu noch *labels* vertagged, ist auch der Gültigkeitsbereich klar defin
 
 Was Habermas an unserer Arbeitsform allerdings kritisieren könnte, ist die Instutionalisierung des Arbeitsprozesses.
 Denn GitHub als Institution ersetzt in Teilen den direkten Austausch in intersubjektiven Lebenswelten durch ein systematischen Prozess, den Habermas in der modernen Gesellschaft stark problematisiert.
+
+
+## Fazit
+
+Auch wenn die meisten der von uns behandelten Autoren vor der Zeit des Internet veröffentlicht hatten und ein Vergleich zu Github somit im Großteil der Fälle auf Spekulationen und Vermutungen beruht, lässt sich doch sagen, dass unsere Zusammenarbeit über Github in einigen Bereichen den Idealvorstellungen mehrerer Autoren bereits sehr nahekommt, besonders was die Kommmunikation und die fast uneingeschränkte Freiheit jedes einzelnen angeht, die für eine so bislang unbekannte Qualität der Kooperation und Abstimmung untereinander sorgt.
+Allerdings ist auch Github natürlich nicht nicht das Blaue vom Himmel, so dass bei längerer Arbeit Fehler ans Tageslicht treten, wie zum Beispiel die akute Gefahr, dass durch die Arbeit auf GitHub die persönliche Kommunikation eingeschränkt und im schlimmsten Fall komplett durch die virtuelle ersetzt wird.

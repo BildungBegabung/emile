@@ -16,7 +16,7 @@ Würde dies zutreffen, könnte man Werte wie Sicherheit und Lernerfolg am Umfang
 Den Mythos der messbaren Werte beziehen wir schließlich auch auf unsere "imaginations, and, indeed, man himself" (Illich 1971, S. 19).
 Prozess und Wert beginnen einen allgemein verbindlichen Charakter zu entwickeln, weswegen das Wissen darüber an die nächste Generation weitergeben und deren Lernprozess somit ebenfalls kontrollieren werden.
 Die Schule lehrt: Je mehr Schule, desto mehr Lernerfolg, weshalb wir zur Schule gehen.
-<<<<<<< HEAD
+
 Im Gegensatz dazu schreibt Illich:
 >"Most learning is not the result of instruction: It is rather the result of unhampered participation in a meaningful setting." (p.18)
 Aus dieser Überlegung heraus errichtet er ein neues Konzept des Lernens in einer entschulten Gesellschaft.

@@ -1,10 +1,9 @@
 # Warum Demokratie?
 
 > "Die Demokratie ist die schlechteste aller Staatsformen, ausgenommen aller Anderen"
-> (Winston Churchill)
-<!-- MH: schönes Zitat -->
+> (Winston Churchill
 
-Nach Tilly lässt sich festhalten, dass ein Staat von dem Punkt an existiert, ab dem sich ein Gewaltmonopol einer Guppe auf einem bestimmten gebiet gebildet hat, welches Sicherheit gegen sich selbst, als auch gegen Andere bietet.
+Nach Tilly lässt sich festhalten, dass ein Staat von dem Punkt an existiert, ab dem sich ein Gewaltmonopol einer Guppe auf einem bestimmten Gebiet gebildet hat, welches Sicherheit sowohl gegen sich selbst, als auch gegen Andere bietet.
 Aus dieser Annahme ergiebt sich Folgende Fragestellung:
 Wie lässt sich das menschliche Zusammenleben in einem solchen Staat organisieren?
 Diese Organisation, muss nach Dahl die drei "Dimensionen menschlichen Intresses" bestmöglich umsetzten:
