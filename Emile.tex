@@ -1,22 +1,79 @@
-# Summary
+\documentclass{newlayout}
+%Bitte hier den enstprechenden Ort einsetzen z.B. Braunschweig und die Akademienummer
+\Akademie{Braunschweig}{2014}{2}
 
-* [Einführung](Einführung.md)
-* [Prolog: Rousseau](PrologRousseau.md)
-* [Exposition](Exposition/Exposition.md)
-  * [Tilly](Exposition/Tilly.md)
-  * [Dahl](Exposition/Dahl.md)
-  * [Siebert](Exposition/Siebert.md)
-  * [Benner](Exposition/Benner.md)
-  * [Mead](Exposition/Mead.md)
-  * [Kleinberg Sozialwahltheorie](Exposition/KleinbergSozialwahltheorie.md)
-  * [Kleinberg Netzwerktheorie](Exposition/KleinbergNetzwerktheorie.md)
-  * [Kleinberg Spieltheorie](Exposition/KleinbergSpieltheorie.md)
-  * [Zimpel](Exposition/Zimpel.md)
-* [Epilog: Dewey](EpilogDewey.md)
-* [Projekt](Projekt/Projekt.md)
-  * [Hayek](Projekt/Hayek.md)
-  * [Illich](Projekt/Illich.md)
-  * [Habermas](Projekt/Habermas.md)
-  * [Freinet](Projekt/Freinet.md)
-* [Reflektion Github](ReflektionGithub.md)
-* [Glossar](Glossar.md)
+\usepackage{/dsa-latex/newlayout}
+\usepackage[english,ngerman]{babel}
+\usepackage{misc}
+\usepackage{multicol}
+
+%\usepackage{amsmath}%wird automatisch durch newlayout.cls geladen
+\usepackage{amsfonts}
+
+%%%%%Mathe-Definitionen
+\newtheorem{Def}{Definition}
+\newtheorem{Sat}{Satz}
+\newtheorem{Bew}{Beweis}
+
+%%%%Ende Mathe-Definitionen
+
+\begin{document}
+
+ %   \input{titel}
+ \setcounter{page}{3}
+
+\setcounter{tocdepth}{1}
+ \tableofcontents
+
+   \setcounter{secnumdepth}{1}
+
+
+\setcounter{page}{7}
+\setcounter{chapter}{0}
+
+%Angabe, bis zu welcher Stufe die sections im Text nummeriert werden sollen.
+      \settocdepth{2}
+
+
+
+\course{4}{Schule und Demokratie}%%%
+\begin{coursetitle}
+  \centerline{Schule und Demokratie}
+  \bigskip
+  \Large \centerline{Inklusive Pädagogik und Deliberative Politik}
+  \bigskip
+ \includegraphics[width=.9\columnwidth]{/kurslogo.jpg}
+ \label{fig:meinbild}
+  \bigskip
+\end{coursetitle}
+%\begin{dsafigure}
+%\begin{center}
+%\includegraphics[width=.9\columnwidth]{Titelbild-fehlt.png}
+%\caption{meine Bildunterschrift}
+%label{fig:meinbild}
+%\end{center}
+%\end{dsafigure}
+
+\input{Einführung}
+\input{}
+% * [Prolog: Rousseau](PrologRousseau.md)
+% * [Exposition](Exposition/Exposition.md)
+%   * [Tilly](Exposition/Tilly.md)
+%   * [Dahl](Exposition/Dahl.md)
+%   * [Siebert](Exposition/Siebert.md)
+%   * [Benner](Exposition/Benner.md)
+%   * [Mead](Exposition/Mead.md)
+%   * [Kleinberg Sozialwahltheorie](Exposition/KleinbergSozialwahltheorie.md)
+%   * [Kleinberg Netzwerktheorie](Exposition/KleinbergNetzwerktheorie.md)
+%   * [Kleinberg Spieltheorie](Exposition/KleinbergSpieltheorie.md)
+%   * [Zimpel](Exposition/Zimpel.md)
+% * [Epilog: Dewey](EpilogDewey.md)
+% * [Projekt](Projekt/Projekt.md)
+%   * [Hayek](Projekt/Hayek.md)
+%   * [Illich](Projekt/Illich.md)
+%   * [Habermas](Projekt/Habermas.md)
+%   * [Freinet](Projekt/Freinet.md)
+% * [Reflektion Github](ReflektionGithub.md)
+% * [Glossar](Glossar.md)
+%usw.
+\end{document}
