@@ -5,9 +5,25 @@
 \usepackage[english,ngerman]{babel}
 \usepackage{dsa-latex/misc}
 \usepackage{multicol}
+\usepackage
+	[
+		style=authoryear-comp,
+		backend=biber,
+		maxbibnames=99,
+		%citestyle=authoryear-icomp
+	]
+	{biblatex}
+	\DeclareNameAlias{sortname}{last-first}
+		%makes Lastname, Firstname in the bibliography
+	\renewcommand{\labelnamepunct}{\addcolon\space}
+		%includes colon after year in bibliograpy
+		\renewcommand*{\multinamedelim}{;\space}
+		%changes name delimiter in citations and bibliography to semicolon
 
 %\usepackage{amsmath}%wird automatisch durch newlayout.cls geladen
 \usepackage{amsfonts}
+
+\addbibresource{emile_library.bib}
 
 %%%%%Mathe-Definitionen
 \newtheorem{Def}{Definition}
@@ -68,4 +84,5 @@
 % 	\input{Projekt/Habermas.tex}
 % 	\input{Projekt/Freinet.tex}
 % \input{Reflektion.tex}%Reflektion
+\printbibliography
 \end{document}
