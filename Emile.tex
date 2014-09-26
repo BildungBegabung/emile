@@ -1,10 +1,9 @@
 \documentclass{dsa-latex/newlayout}
 %Bitte hier den enstprechenden Ort einsetzen z.B. Braunschweig und die Akademienummer
-%\Akademie{Braunschweig}{2014}{2}
+\Akademie{Braunschweig}{2014}{2}
 
-\usepackage{dsa-latex/dsafigure}
 \usepackage[english,ngerman]{babel}
-\usepackage{misc}
+\usepackage{dsa-latex/misc}
 \usepackage{multicol}
 
 %\usepackage{amsmath}%wird automatisch durch newlayout.cls geladen
@@ -34,14 +33,14 @@
       \settocdepth{2}
 
 \course{4}{Schule und Demokratie}%%%
-\begin{coursetitle}
-  \centerline{Schule und Demokratie}
-  \bigskip
-  \Large \centerline{Inklusive Pädagogik und Deliberative Politik}
-  \bigskip
- \includegraphics[width=.9\columnwidth]{/kurslogo.jpg}
- \label{fig:meinbild}
-  \bigskip
+ \begin{coursetitle}
+   \centerline{Schule und Demokratie}
+   \bigskip
+   \Large \centerline{Inklusive Pädagogik und Deliberative Politik}
+   \bigskip
+  \includegraphics[width=.9\columnwidth]{img/kurslogo.jpg}
+  \label{fig:meinbild}
+   \bigskip
 \end{coursetitle}
 %\begin{dsafigure}
 %\begin{center}
@@ -51,22 +50,22 @@
 %\end{center}
 %\end{dsafigure}
 
-\input{Einführung}
-\input{Rousseau}%Prolog
-\section{Exposition}
-	\input{Exposition/Tilly.tex}
-	\input{Exposition/Dahl.tex}
-	\input{Exposition/Siebert.tex}
-	\input{Exposition/Benner.tex}
-	\input{Exposition/Mead.tex}
-	\input{Exposition/KleinbergSozialwahltheorie.tex}
-	\input{Exposition/KleinbergNetzwerktheorie.tex}
-	\input{Exposition/KleinbergSpieltheorie.tex}
-\input{Dewey.tex}%Epilog
-\section{Projekt}
-	\input{Projekt/Hayek.tex}
-	\input{Projekt/Illich.tex}
-	\input{Projekt/Habermas.tex}
-	\input{Projekt/Freinet.tex}
-\input{Reflektion.tex}%Reflektion
+\input{Einfuehrung.tex}
+% \input{Rousseau}%Prolog
+% \section{Exposition}
+% 	\input{Exposition/Tilly.tex}
+% 	\input{Exposition/Dahl.tex}
+% 	\input{Exposition/Siebert.tex}
+% 	\input{Exposition/Benner.tex}
+% 	\input{Exposition/Mead.tex}
+% 	\input{Exposition/KleinbergSozialwahltheorie.tex}
+% 	\input{Exposition/KleinbergNetzwerktheorie.tex}
+% 	\input{Exposition/KleinbergSpieltheorie.tex}
+% \input{Dewey.tex}%Epilog
+% \section{Projekt}
+% 	\input{Projekt/Hayek.tex}
+% 	\input{Projekt/Illich.tex}
+% 	\input{Projekt/Habermas.tex}
+% 	\input{Projekt/Freinet.tex}
+% \input{Reflektion.tex}%Reflektion
 \end{document}
