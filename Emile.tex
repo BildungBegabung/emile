@@ -1,8 +1,8 @@
-\documentclass{newlayout}
+\documentclass{dsa-latex/newlayout}
 %Bitte hier den enstprechenden Ort einsetzen z.B. Braunschweig und die Akademienummer
-\Akademie{Braunschweig}{2014}{2}
+%\Akademie{Braunschweig}{2014}{2}
 
-\usepackage{/dsa-latex/newlayout}
+\usepackage{dsa-latex/dsafigure}
 \usepackage[english,ngerman]{babel}
 \usepackage{misc}
 \usepackage{multicol}
@@ -27,14 +27,11 @@
 
    \setcounter{secnumdepth}{1}
 
-
 \setcounter{page}{7}
 \setcounter{chapter}{0}
 
 %Angabe, bis zu welcher Stufe die sections im Text nummeriert werden sollen.
       \settocdepth{2}
-
-
 
 \course{4}{Schule und Demokratie}%%%
 \begin{coursetitle}
@@ -55,25 +52,21 @@
 %\end{dsafigure}
 
 \input{Einführung}
-\input{}
-% * [Prolog: Rousseau](PrologRousseau.md)
-% * [Exposition](Exposition/Exposition.md)
-%   * [Tilly](Exposition/Tilly.md)
-%   * [Dahl](Exposition/Dahl.md)
-%   * [Siebert](Exposition/Siebert.md)
-%   * [Benner](Exposition/Benner.md)
-%   * [Mead](Exposition/Mead.md)
-%   * [Kleinberg Sozialwahltheorie](Exposition/KleinbergSozialwahltheorie.md)
-%   * [Kleinberg Netzwerktheorie](Exposition/KleinbergNetzwerktheorie.md)
-%   * [Kleinberg Spieltheorie](Exposition/KleinbergSpieltheorie.md)
-%   * [Zimpel](Exposition/Zimpel.md)
-% * [Epilog: Dewey](EpilogDewey.md)
-% * [Projekt](Projekt/Projekt.md)
-%   * [Hayek](Projekt/Hayek.md)
-%   * [Illich](Projekt/Illich.md)
-%   * [Habermas](Projekt/Habermas.md)
-%   * [Freinet](Projekt/Freinet.md)
-% * [Reflektion Github](ReflektionGithub.md)
-% * [Glossar](Glossar.md)
-%usw.
+\input{Rousseau}%Prolog
+\section{Exposition}
+	\input{Exposition/Tilly.tex}
+	\input{Exposition/Dahl.tex}
+	\input{Exposition/Siebert.tex}
+	\input{Exposition/Benner.tex}
+	\input{Exposition/Mead.tex}
+	\input{Exposition/KleinbergSozialwahltheorie.tex}
+	\input{Exposition/KleinbergNetzwerktheorie.tex}
+	\input{Exposition/KleinbergSpieltheorie.tex}
+\input{Dewey.tex}%Epilog
+\section{Projekt}
+	\input{Projekt/Hayek.tex}
+	\input{Projekt/Illich.tex}
+	\input{Projekt/Habermas.tex}
+	\input{Projekt/Freinet.tex}
+\input{Reflektion.tex}%Reflektion
 \end{document}
