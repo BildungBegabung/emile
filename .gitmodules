@@ -1,3 +1,4 @@
 [submodule "dsa-latex"]
 	path = dsa-latex
 	url = https://github.com/maxheld83/dsa-latex.git
+	ignore = untracked
