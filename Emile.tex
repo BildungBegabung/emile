@@ -4,6 +4,7 @@
 
 \usepackage[english,ngerman]{babel}
 \usepackage{dsa-latex/misc}
+\usepackage{listings}
 \usepackage{multicol}
 \usepackage
 	[
@@ -21,7 +22,7 @@
 		%changes name delimiter in citations and bibliography to semicolon
 
 \usepackage{epigraph}
-	\setlength{\epigraphwidth}{0.75\columnwidth}
+	\setlength{\epigraphwidth}{0.9\columnwidth}
 	%for nice-looking epigraphs, e.g. at the beginning of chapters etc.
 %\usepackage{amsmath}%wird automatisch durch newlayout.cls geladen
 \usepackage{amsfonts}
@@ -57,7 +58,7 @@
    \bigskip
    \Large \centerline{Inklusive Pädagogik und Deliberative Politik}
    \bigskip
-  \includegraphics[width=.9\columnwidth]{img/kurslogo.jpg}
+  \includegraphics[width=1\textwidth]{img/kurslogo.jpg}
   \label{fig:meinbild}
    \bigskip
 \end{coursetitle}
@@ -69,28 +70,24 @@
 %\end{center}
 %\end{dsafigure}
 
-\section{Einführung}
-	\input{Einfuehrung.tex}
-\section{Prolog}
-	\input{Rousseau.tex}
-\section{Exposition}
-	\input{Exposition/Tilly.tex}
-	\input{Exposition/Dahl.tex}
-	\input{Exposition/Siebert.tex}
-	\input{Exposition/Benner.tex}
-	\input{Exposition/Mead.tex}
-	\input{Exposition/KleinbergSozialwahltheorie.tex}
-	\input{Exposition/KleinbergNetzwerktheorie.tex}
-	\input{Exposition/KleinbergSpieltheorie.tex}
-\section{Epilog}
-	\input{Dewey.tex}
-\section{Projekt}
+\input{Kursbeschreibung.tex}
+\input{Einfuehrung.tex}
+\input{Rousseau.tex}
+% Exposition
+ 	\input{Exposition/Tilly.tex}
+ 	\input{Exposition/Dahl.tex}
+ 	\input{Exposition/Siebert.tex}
+ 	\input{Exposition/Benner.tex}
+ 	\input{Exposition/Mead.tex}
+ 	\input{Exposition/KleinbergSozialwahltheorie.tex}
+ 	\input{Exposition/KleinbergNetzwerktheorie.tex}
+ 	\input{Exposition/KleinbergSpieltheorie.tex}
+\input{Dewey.tex}
+% Projekt
 	\input{Projekt/Hayek.tex}
 	\input{Projekt/Illich.tex}
-	\input{Projekt/Habermas.tex}
-	\input{Projekt/Freinet.tex}
+ 	\input{Projekt/Habermas.tex}
+ 	\input{Projekt/Freinet.tex}
 \input{Reflektion.tex}
-
 \printbibliography
-
 \end{document}
