@@ -1,4 +1,5 @@
 %!TEX root=./Emile.tex
+
 \subsection[Spieltheorie]{Spieltheorie --- Was ist deine Strategie?}
 
 \epigraph{
@@ -7,7 +8,7 @@
 	%MH TODO add correct reference
 }
 
-Die \emph{Spieltheorie} modelliert menschliche Interaktion in Form von Spielen, dessen \emph{Spielausgänge} von den gewählten \emph{Spielstrategien} abhängen und in Form einer Auszahlungsmatrix analysiert und veranschaulicht werden können \parencite[vgl.] 153-274]{Kleinberg-2009-oz}.
+Die \emph{Spieltheorie} modelliert menschliche Interaktion in Form von Spielen, dessen \emph{Spielausgänge} von den gewählten \emph{Spielstrategien} abhängen und in Form einer Auszahlungsmatrix analysiert und veranschaulicht werden können \parencite[vgl.][153-274]{Kleinberg-2009-oz}.
 
 \begin{quote}
 	``Game theory is concerned with situations in which decision-makers interact with one another, and in which the happiness of each participant with the outcome depends not just on his or her own decisions but on the decisions made by everyone.''
@@ -30,10 +31,11 @@ Hier werden die Spielstrategien der Spieler dargestellt und die Summenanzahlen d
 Verdeutlicht wird hier auch die wechselseitige Abhängigkeit beider Spieler: Wenn sich der Spieler (A/Marvin) für eine Spielstrategie entscheidet, so betrifft das auch Spieler (B/Susanna) und den Output beider Spieler.
 
 Zum einem kann es \emph{Nullsummenspiele} geben.
-Dabei haben alle Spielausgänge die gleiche Summen; es gibt lediglich Verteilungseffekte.
+Dabei haben alle Spielausgänge die gleiche Summen.
+Es gibt lediglich Verteilungseffekte.
 Zum anderen kann es \emph{Positivsummenspiele} (wie oben dargestellt) geben.
-In einem Positivsummenspiel haben die Zellen unterschiedliche Summen; unterschiedliche Spielausgänge führen also zu Wohlfahrtsverlusten oder -gewinnen.
-Tatsächliche Kooperation -- also wechselseitig vorteilhafte Zusammenarbeit -- ist also nur bei Positivsummenspiel gegeben ist.
+In einem Positivsummenspiel haben die Zellen unterschiedliche Summen. Unterschiedliche Spielausgänge führen also zu Wohlfahrtsverlusten oder -gewinnen.
+Tatsächliche Kooperation -- also wechselseitig vorteilhafte Zusammenarbeit -- ist also nur bei Positivsummenspiel gegeben.
 Demnach geben Nullsummenspiele keine Aussage über menschliche Kooperation, da die Summenanzahl bei jedem Spielausgang gleich bleibt.
 
 \paragraph{Die Spielstrategien}
@@ -41,7 +43,7 @@ Demnach geben Nullsummenspiele keine Aussage über menschliche Kooperation, da d
 Eine Strategie gilt als \emph{beste Antwort}, wenn sie zu der Strategie eines anderen Spielers am besten passt, d.h. die eigene Auszahlung maximiert.
 Hier sind mehrere beste Antworten möglich, wenn die Auszahlungen bei mehreren ``Antwort-Strategien'' gleich sind \parencite[vgl.][153]{Kleinberg-2009-oz}.
 
-Eine Strategie ist **streng dominant**, wenn der Spieler  stets , unabhängig von den Mitspielern, die beste Auszahlung wählt \parencite[vgl.][164]{Kleinberg-2009-oz}.
+Eine Strategie ist \emph{streng dominant}, wenn der Spieler stets, unabhängig von den Mitspielern, die beste Auszahlung wählt \parencite[vgl.][164]{Kleinberg-2009-oz}.
 
 
 \paragraph{Die Spielausgänge}
@@ -64,16 +66,16 @@ Die letzte Annahme basiert auf der rationalen, indivduellen Nutzenmaximierung \p
 Es ergeben sich auf diese Weise zwei möglich Spielausgänge von Positivsummenspielen:
 
 \begin{enumerate}
-	\item Spiele \emph{totaler Harmonie}: \emph{Zellen} von Nash-Gleichgewicht und Wohlfahrtsoptimum fallen vor allem zusammen. Das Nash-Gleichgewicht liegt im Wohlfahrtsoptimum.
+	\item Spiele \emph{totaler Harmonie}: \emph{Zellen} von Nash-Gleichgewicht und Wohlfahrtsoptimum fallen hier zusammen. Das Nash-Gleichgewicht liegt im Wohlfahrtsoptimum.
 	Beispielhaft ist für diesen Spielausgang ist der Handel.
 	Die Annahme \emph{totaler Harmonie} im Handel würde auch Adam Smith unterstützen:
 
 	\begin{quote}
 		``Wer sein eigenes Interesse verfolgt, befördert das Wohl der Gesamtgesellschaft häufig wirkungsvoller, als wenn er wirklich beabsichtigt, es zu fördern. Ich habe nie erlebt, dass viel Gutes von denen erreicht wurde, die vorgaben, für das öffentliche Wohl zu handeln.'' \emph{Adam Smith ``Wealth of Nations''}
 	\end{quote}
-
+%VK: FIXME Richtigen Literaturverweis einfügen
 	\item Spiele mit \emph{Kooperationsproblemen}: Summenanzahl von Wohlfahrtsoptimum und Nash Gleichgewicht unterscheiden sich.
-	Ein Beispiel wäre das der Nationalen CO2 Emissionen. Entscheidet sich ein Land weniger Umweltschutzmaßnahmen zu treffen so profitiert es davon nur, solange die anderen Ländern nicht die gleiche Strategie wählen.
+	Ein Beispiel wäre das der Nationalen CO2-Emissionen. Entscheidet sich ein Land dafür, weniger Umweltschutzmaßnahmen zu treffen, so profitiert es davon nur, solange die anderen Ländern nicht die gleiche Strategie wählen.
 
 \end{enumerate}
 
@@ -90,7 +92,7 @@ Beide Spielausgänge lassen sich in einem Baumdiagramm darstellen.
 
 \paragraph{Das Gefangenendilemma lösen}
 
-Außer durch den Einfluss eines Gewaltmonopolists oder einer Änderung der Axiome, w.z.B. der Annahme des ``Gemeinwohls'' (vgl. \citeauthor{rousseau-1762}), kann das Gefangenen Dilemma nicht gelöst werden, da alle Spieler nur aus Eigeninteresse spielen/handeln.
+Außer durch den Einfluss eines Gewaltmonopolists oder einer Änderung der Axiome, wie z.B. der Annahme des ``Gemeinwohls'' (vgl. \citeauthor{rousseau-1762}), kann das Gefangenen Dilemma nicht gelöst werden, da alle Spieler nur aus Eigeninteresse handeln.
 Dieses Problem wäre durch Tillys Theorie der \emph{Staatsgenese} gelöst, sie stellt hierzu einen Gewaltmonopolisten bereit (vgl. \citeauthor{Tilly-1985-aa}).
 
 Adam Smith lag somit mit seiner Annahme, dass die \emph{streng dominante} Spielstrategie stets auch am besten zum Allgemeinwohl beiträgt falsch, da man nicht grundsätzlich von Spielen mit \emph{besten Antworten} ausgehen kann und es dementsprechend, wie aufgezeigt, auch zu Kooperationsproblemen in menschlicher Interaktion kommen kann.
