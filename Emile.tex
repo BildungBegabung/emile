@@ -5,6 +5,7 @@
 \usepackage[english,ngerman]{babel}
 \usepackage{dsa-latex/misc}
 \usepackage{listings}
+	%MH: für quellcode (software)
 \usepackage{multicol}
 \usepackage
 	[
@@ -14,20 +15,21 @@
 		%citestyle=authoryear-icomp
 	]
 	{biblatex}
+	%MH: für bibliografie; bibtex ist per einschlägiger Quellen obsolet und nun durch biblatex ersetzt (http://en.wikibooks.org/wiki/LaTeX/Bibliography_Management)
 	\DeclareNameAlias{sortname}{last-first}
 		%makes Lastname, Firstname in the bibliography
 	\renewcommand{\labelnamepunct}{\addcolon\space}
 		%includes colon after year in bibliograpy
 		\renewcommand*{\multinamedelim}{;\space}
 		%changes name delimiter in citations and bibliography to semicolon
+\addbibresource{emile_library.bib}
+	%MH wichtiger bibliografie-befehl für biblatex; funktioniert nicht mit bibtex
 
 \usepackage{epigraph}
 	\setlength{\epigraphwidth}{0.9\columnwidth}
 	%for nice-looking epigraphs, e.g. at the beginning of chapters etc.
 %\usepackage{amsmath}%wird automatisch durch newlayout.cls geladen
 \usepackage{amsfonts}
-
-\addbibresource{emile_library.bib}
 
 %%%%%Mathe-Definitionen
 \newtheorem{Def}{Definition}
@@ -38,27 +40,27 @@
 
 \begin{document}
 
- %   \input{titel}
- \setcounter{page}{3}
+%   \input{titel}
+\setcounter{page}{3}
 
 \setcounter{tocdepth}{1}
- \tableofcontents
+\tableofcontents
 
-   \setcounter{secnumdepth}{1}
+\setcounter{secnumdepth}{1}
 
 \setcounter{page}{7}
 \setcounter{chapter}{0}
 
 %Angabe, bis zu welcher Stufe die sections im Text nummeriert werden sollen.
-      \settocdepth{2}
+     \settocdepth{2}
 
-\course{4}{Schule und Demokratie}%%%
+\course{4}{Schule und Demokratie}
  \begin{coursetitle}
    \centerline{Schule und Demokratie}
    \bigskip
    \Large \centerline{Inklusive Pädagogik und Deliberative Politik}
    \bigskip
-  \includegraphics[width=1\textwidth]{img/kurslogo.jpg}
+  \includegraphics[width=0.9\textwidth]{img/kurslogo.jpg}
   \label{fig:meinbild}
    \bigskip
 \end{coursetitle}
@@ -89,5 +91,6 @@
  	\input{Projekt/Habermas.tex}
  	\input{Projekt/Freinet.tex}
 \input{Reflektion.tex}
+
 \printbibliography
 \end{document}
