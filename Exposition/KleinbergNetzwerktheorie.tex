@@ -17,7 +17,7 @@ Genauso kann man auch Beziehungen in einer Lerngruppe wie einer Schulklasse oder
 \begin{dsafigure}
 	\begin{center}
 	\includegraphics[width=0.9\columnwidth]{img/graph1.png}
-	\caption{Beispiel für die Darstellung eines Graphen \parencite[vgl.]{Kleinberg-2009-oz}}
+	\caption{Beispiel für die Darstellung eines Graphen \parencite[vgl.][]{Kleinberg-2009-oz}}
 	\label{fig:graph1}
 	\end{center}
 \end{dsafigure}
@@ -28,7 +28,7 @@ Das bedeutet, es gibt einzelne Netzwerke, welche nicht über einen Pfad mit jede
 \begin{dsafigure}
 	\begin{center}
 	\includegraphics[width=0.9\columnwidth]{img/Graph-Connected.jpg}
-	\caption{Beispiel für unverbundene Graphen \parencite[vgl.]{Kleinberg-2009-oz}}
+	\caption{Beispiel für unverbundene Graphen \parencite[vgl.][]{Kleinberg-2009-oz}}
 	\label{fig:graph-connected}
 	\end{center}
 \end{dsafigure}
@@ -52,9 +52,9 @@ Dies wird entschieden durch einen \emph{Grenzwert} (Threshold), der angibt, welc
 Dementsprechend findet eine Ausbreitung durch das Netzwerk, eine Kaskade, statt.
 
 Diese wird in einigen Fällen gestoppt, endet also, ohne das gesamte Netzwerk übernommen zu haben.
-Liegt der Grenzwert für eine Neuerung beispielsweise bei $0,4$, müssen also mindestens $2/5$ der Nachbarn von Knoten $X$ diese Neuerung benutzen, damit sie übernommen wird.
+Liegt der Grenzwert für eine Neuerung beispielsweise bei $0.4$, müssen also mindestens $2/5$ der Nachbarn von Knoten $X$ diese Neuerung benutzen, damit sie übernommen wird.
 Wenn $X$ aber vier Nachbarn hat, von denen nur einer die Neuerung hat, ist eine Veränderung für $X$ nicht attraktiv genug.
-Gehen wir aber davon aus, dass alle anderen Nachbarn von \emph{X} nur untereinander verbunden sind und einen eigenen Abschnitt des Netzwerks bilden und somit nur über \emph{X} ein Pfad zu anderen besteht, gibt es keine Möglichkeit für \emph{X}, den Grenzwert zu erreichen, es kommt zum Ausbreitungsstopp ––– die Kaskade \emph{terminiert}.
+Gehen wir aber davon aus, dass alle anderen Nachbarn von $X$ nur untereinander verbunden sind und einen eigenen Abschnitt des Netzwerks bilden und somit nur über $X$ ein Pfad zu anderen besteht, gibt es keine Möglichkeit für $X$, den Grenzwert zu erreichen, es kommt zum Ausbreitungsstopp ––– die Kaskade \emph{terminiert}.
 Diese Abschnitte innerhalb von Netzwerken bezeichnet man als \emph{Cluster}, also Bereiche des Netzwerks mit eng untereinander verbundenen Knoten, die allerdings nur wenige Verbindungen zu Knoten außerhalb des Clusters haben.
 An den Grenzen dieser Cluster terminiert die Kaskade einer Neuerung, da der Treshold für Außenstehende nicht erfüllt werden kann.
 Eine eng verbundene Gruppe innerhalb eines Netzwerks sorgt also für eine \emph{Isolation} einer Neuerung von anderen Teilen des Netzwerks.
